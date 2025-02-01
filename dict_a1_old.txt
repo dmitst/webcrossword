@@ -1,0 +1,747 @@
+abend: вечер
+aber: но
+abfahren: выезжать
+abfahrt: отправление, отъезд
+abfliegen: вылетать(например
+abflug: вылет
+abgeben: отдавать
+abholen: забирать
+absender: отправитель
+ab: от
+achtung: внимание
+achtzehn: восемнадцать
+achtzig: восемьдесят
+acht: восемь
+adresse: адрес
+allein: один/одна
+also: итак
+alter: возраст
+alt: старый
+anbieten: предлагать
+anfangen: начинать
+anfang: начало
+angebot: предложение
+anklicken: кликнуть мышкой (на объект)
+ankommen: прибывать
+ankreuzen: отметить крестиком
+ankunft: прибытие
+anmachen: включать
+anmeldung: регистрация
+anrede: обращение, официальная речь
+anrufbeantworter: автоответчик
+anrufen: звонить кому-либо по телефону
+anruf: телефонный звонок
+ansage: объявление, оповещение о чём-либо
+anschluss: подключение
+ansein: быть включённым  (2 слова)
+antworten: отвечать
+antwort: ответ
+anzeige: объявление (на бумаге), заявление (в полицию)
+an: у
+apartment: апартаменты
+apfel: яблоко
+appetit: аппетит
+april: апрель
+arbeiten: работать
+arbeitslos: безработный
+arbeitsplatz: рабочее место
+arbeit: работа
+arm: рука
+arzt: врач
+auch: также
+aufgabe: задание
+aufhören: прекращать
+aufsein: быть открытым (2 слова) (об окне)
+aufstehen: вставать
+aufzug: лифт
+auf: на
+auge: глаз
+august: август
+ausflug: экскурсия, поездка с целью развлечения
+ausfüllen: заполнять (документ)
+ausgang: выход
+auskunft: выписка, справка
+ausländer: иностранец
+ausländisch: иностранный
+ausland: заграница
+ausmachen: выключать
+aussage: высказывание
+aussehen: выглядеть
+aussein: быть выключенным  (2 слова)
+aussteigen: выходить(из транспорта
+ausweis: документ, удостоверяющий личность(id-карта)
+aus: из
+autobahn: скоростная трасса
+automatisch: автоматически
+automat: автомат(устройство)
+auto: машина
+baby: младенец
+bäckerei: пекарня
+baden: принимать ванну
+bad: ванна
+bahnhof: вокзал
+bahnsteig: железнодорожная платформа
+bahn: железная дорога
+bald: скоро
+balkon: балкон
+banane: банан
+bank: банк, скамья
+bar: наличные
+bauch: живот
+baum: дерево
+beamte: госслужащий
+bedeuten: означать
+beginnen: начинать
+beide: оба/обе
+bein: нога
+beispiel: пример
+bei: при
+bekannte: знакомый
+bekannt: известный
+bekommen: получать
+benutzen: использовать
+beruf: профессия
+besetzt: занято
+besichtigen: посещать(место
+besser: лучше
+bestellen: заказывать
+besuchen: посещать(обычно человека)
+bett: кровать
+bezahlen: оплачивать
+bier: пиво
+bild: картина
+billig: дешёвый
+birne: груша
+bisschen: немного
+bis: до
+bitten: просить
+bitter: горький
+bitte: просьба, пожалуйста!
+blau: синий
+bleiben: оставаться
+bleistift: простой карандаш
+blick: взгляд
+blume: цветок
+bogen: дуга, лук(оружие)
+böse: злой
+brauchen: нуждаться
+braun: коричневый
+breit: широкий
+briefmarke: почтовая марка
+brief: письмо
+bringen: приносить
+brötchen: булочка
+brot: хлеб
+bruder: брат
+buchstabe: буква
+buchstabieren: диктовать по буквам
+buch: книга
+bus: автобус
+butter: сливочное масло
+café: кафе
+cd: компакт-диск
+chef: шеф
+circa: примерно
+computer: компьютер
+dame: дама
+daneben: рядом
+danken: благодарить
+danke: спасибо!
+dank: благодарность
+dann: тогда
+datum: дата, число
+dauern: длиться
+da: там
+denn: потому что
+dezember: декабрь
+dich: тебя
+dienstag: вторник
+dir: тебе
+disco: дискотека
+doktor: доктор(врач, кандидат наук)
+donnerstag: четверг
+doppelzimmer: комната на двоих в отеле
+dorf: деревня
+dort: там
+draußen: снаружи
+dreißig: тридцать
+dreizehn: тринадцать
+drei: три
+drücken: нажимать
+drucken: печатать
+drucker: принтер
+durchsage: объявление(через громкоговоритель, аудио-систему)
+durch: через
+dürfen: мочь
+durst: жажда
+dusche: душ
+du: ты
+ecke: угол
+ehefrau: жена
+ehemann: муж
+eile: спешка
+eilig: спешный
+einfach: простой
+eingang: вход
+einkaufen: делать покупки
+einladen: приглашать
+einladung: приглашение
+einmal: один раз
+einsteigen: входить
+eins: один
+eintritt: вступление (в организацию, партию), вход (на мероприятие)
+einzelzimmer: комната на одного в отеле
+ei: яйцо
+elf: одиннадцать
+eltern: родители
+empfänger: получатель, адресат
+empfehlen: рекомендовать
+enden: заканчивать
+ende: конец
+entschuldigung: извинение
+ergebnis: результат
+erklären: объяснять
+erlauben: разрешать
+erwachsene: взрослый
+erzählen: рассказывать
+er: он
+essen: еда, есть
+es: оно,его(средний род)
+euch: вам(множественное число), вас(множественное число)
+fahren: ехать
+fahrer: водитель
+fahrkarte: проездной билет
+fahrrad: велосипед
+falsch: неправильный
+familienname: фамилия
+familienstand: семейное положение
+familie: семья
+farbe: краска, цвет
+fax: факс
+februar: февраль
+fehlen: отсутствовать
+fehler: ошибка
+feiern: праздновать
+fernsehen: смотреть телевизор
+fertig: готовый
+feuer: огонь
+fieber: жар(температура)
+film: фильм
+finden: находить
+firma: фирма
+fisch: рыба(как вид мяса только в единственном числе)
+flasche: бутылка
+fleisch: мясо
+fliegen: летать
+flughafen: аэропорт
+flugzeug: самолёт
+formular: формуляр
+foto: фото
+fragen: спрашивать
+frage: вопрос
+frau: женщина, госпожа(вежливое обращение)
+freitag: пятница
+freizeit: свободное время
+frei: свободно
+fremd: чужой
+freund: друг
+früher: раньше
+frühling: весна
+frühstücken: завтракать
+frühstück: завтрак
+führung: управление, руководство
+fünfzehn: пятнадцать
+fünfzig: пятьдесят
+fünf: пять
+für: за, для
+fußball: футбол, футбольный мяч
+fuß: стопа
+garten: сад
+gast: гость
+geben: давать
+geboren: рождена
+geburtsjahr: год рождения
+geburtsort: место рождения
+geburtstag: день рождения
+gefallen: нравиться
+gegen: против
+gehen: идти
+gehören: принадлежать
+gelb: жёлтый
+geld: деньги
+gemüse: овощи
+geöffnet: открыто
+gepäck: багаж
+geradeaus: прямо(идти
+gerade: прямо сейчас
+gerne: охотно! с удовольствием!
+geschäft: бизнес, магазин
+geschenk: подарок
+geschlossen: закрыто
+geschwister: братья и сёстры
+gespräch: разговор
+gestern: вчера
+gestorben: умерла
+getränk: напиток
+gewicht: вес
+gewinnen: выигрывать
+glas: стакан, стекло
+glauben: верить
+gleich: одинаковый
+gleis: железнодорожный путь
+glücklich: счастливый
+glückwunsch: пожелание счастья, пожелание к празднику
+glück: счастье
+grad: градус(температура, наклон)
+gramm: грамм
+gratulieren: поздравлять
+grau: серый
+grillen: жарить гриль
+großeltern: бабушки и дедушки
+größe: размер
+großmutter: бабушка
+großvater: дедушка
+groß: большой
+grün: зелёный
+gruppe: группа
+gruß: приветствие
+gültig: действительный
+günstig: выгодный по цене
+gut: хороший
+haar: волос
+haben: иметь
+hähnchen: курятина(сырая или готовая)
+halbpension: полупансион (в отеле)
+halle: зал
+hallo: привет!(повседневное приветствие)
+halten: держать
+haltestelle: остановка общественного транспорта
+handy: мобильный телефон
+hand: ладонь
+hausaufgabe: домашнее задание
+hausfrau: домохозяйка
+hausmann: домохозяин
+haus: дом
+heimat: родина
+heiraten: жениться
+heißen: зваться
+helfen: помогать
+hell: светлый
+herbst: осень
+herd: кухонная плита
+herr: мужчина, господин(вежливое обращение)
+herzlich: сердечно
+heute: сегодня
+hier: здесь
+hilfe: помощь
+hinten: сзади
+hinter: находиться позади(чего-либо)
+hobby: хобби
+hochzeit: свадьба
+hoch: высокий(о неодушевлённых предметах)
+holen: приносить
+hören: слышать
+hotel: отель
+hundert: сто
+hund: собака
+hunger: голод
+ich: я
+ihm: ему
+ihnen: вам(уважительное), им(множественное число)
+ihn: его
+ihr: вы(множественное число), ей
+immer: всегда
+information: информация
+international: интернациональный
+internet: интернет
+in: в
+jacke: куртка
+jahr: год
+januar: январь
+jetzt: теперь
+job: работа(чаще ручной или несложный труд)
+jugendliche: молодой человек, девушка(не зависит от пола)
+juli: июль
+junge: мальчик
+jung: молодой
+juni: июнь
+kaffee: кофе
+kaputt: сломанный
+karte: карта
+kartoffel: картофель
+kasse: касса
+kaufen: покупать
+kennenlernen: знакомиться
+kennen: знать
+kilogramm: килограмм
+kindergarten: детский сад
+kind: ребёнок
+kino: кинотеатр
+kiosk: киоск
+klar: ясно(о погоде или «понятно»)
+klasse: класс
+kleidung: одежда
+klein: маленький
+kochen: готовить
+koffer: чемодан
+kollege: коллега
+kommen: приходить
+können: мочь
+konto: счёт(в банке)
+kopf: голова
+kosten: стоить
+krank: больной
+kreditkarte: кредитная карта
+kriegen: воевать
+kuchen: пирог
+küche: кухня
+kugelschreiber: шариковая ручка
+kühlschrank: холодильник
+kulturell: культурный(связанный в культурой)
+kümmern: заботиться
+kunde: клиент
+kurs: курс(дополнительное образование, направление движения)
+kurz: короткий
+lachen: смеяться
+laden: магазин
+land: страна
+langsam: медленный
+lang: длинный
+laufen: бежать
+laut: громкий
+lebensmittel: продукты питания
+leben: жизнь, жить
+ledig: холостой
+legen: класть
+lehrer: учитель
+leicht: лёгкий
+leise: тихий
+leider: к сожалению
+lernen: учить (что-нибудь)
+lesen: читать
+leute: люди
+licht: свет
+lieben: любить
+lieber: лучше
+lied: песня
+liegen: лежать
+links: слева
+liter: литр
+lkw: грузовик
+lokal: кафе, забегаловка
+lösung: решение, ответ (к задаче)
+lustig: весёлый
+machen: делать
+mädchen: девочка
+mai: май
+männlich: мужественный
+mann: мужчина
+märz: март
+maschine: механизм, станок
+meer: море
+mehr: больше
+mensch: человек
+meter: метр
+mich: меня
+mieten: снимать жильё
+miete: арендная плата
+milch: молоко
+milliarde: миллиард
+million: миллион
+minute: минута
+mir: мне
+mitbringen: приносить с собой
+mitkommen: прийти вместе с кем-либо
+mitmachen: делать что-то вместе с кем-то
+mitnehmen: взять с собой
+mittag: полдень
+mitte: середина
+mittwoch: среда
+möbel: мебель
+möchten: хотеть(вежливая форма)
+mögen: испытывать симпатию
+möglich: возможно
+moment: момент
+monat: месяц
+montag: понедельник
+morgen: завтра, утро
+müde: усталый
+mund: рот
+müssen: быть должным
+mutter: мама
+nachlinks: налево (2 слова)
+nachmittag: вторая половина дня
+nachrechts: направо (2 слова)
+nacht: ночь
+nach: после
+name: имя, название
+nehmen: брать
+neunzehn: девятнадцать
+neunzig: девяносто
+neun: девять
+neu: новый
+nichts: ничего
+nicht: не(частица отрицания)
+nie: никогда
+noch: ещё
+norden: север
+normal: нормальный
+november: ноябрь
+nummer: номер(число)
+nur: только
+oben: наверху
+obst: фрукты
+öffnen: открывать
+oft: часто
+ohne: без
+oktober: октябрь
+öl: масло(растительное, моторное)
+oma: бабушка(разговорное)
+opa: дедушка(разговорное)
+ordnung: порядок
+ort: место, небольшой городок
+osten: восток
+oder: или
+papiere: документы
+papier: бумага, документ
+partner: партнёр
+party: вечеринка
+pass: паспорт
+pause: пауза, перерыв
+pfund: фунт
+plan: план
+platz: место, площадь
+polizei: полиция
+pommesfrites: картошка фри (2 слова)
+postleitzahl: почтовый индекс
+post: почта
+praktikum: практика (после учёбы)
+praxis: врачебный кабинет(личный, для врача-предпринимателя)
+preis: цена
+problem: проблема
+prospekt: проспект(улица, рекламка)
+prozent: процент
+prüfung: экзамен
+pünktlich: вовремя
+quadratmeter: квадратный метр
+radfahren: ехать на велосипеде
+rauchen: курить
+raum: комната, помещение
+rechnung: счёт(квитанция на оплату)
+rechts: справа
+regen: дождь
+regnen: идёт дождь
+reisebüro: бюро путешествий
+reiseführer: гид(человек, книга)
+reisen: путешествовать
+reise: путешествие
+reis: рис
+reparatur: починка, ремонт
+reparieren: чинить
+restaurant: ресторан
+rezeption: рецепция
+richtig: правильный
+riechen: чувствовать запах
+rot: красный
+ruhig: спокойный
+saft: сок
+sagen: сказать
+salat: салат
+salz: соль
+samstag: суббота
+satz: предложение
+schalter: переключатель, окошко (в гос.органах, банке)
+scheinen: светить(о солнце)
+schicken: отправлять
+schild: знак (дорожный), щит, вывеска, табличка
+schinken: ветчина
+schlafen: спать
+schlecht: плохой
+schließen: закрывать
+schlüssel: ключ
+schluss: конец, завершение
+schmecken: чувствовать вкус
+schnell: быстрый
+schön: красивый
+schon: уже
+schrank: шкаф
+schreiben: писать
+schuh: ботинок
+schüler: ученик
+schule: школа
+schwarz: чёрный
+schwer: тяжёлый
+schwester: сестра
+schwimmbad: бассейн
+schwimmen: плавать
+sechs: шесть
+sechzehn: шестнадцать
+sechzig: шестьдесят
+see: озеро
+sehenswürdigkeit: достопримечательность
+sehen: смотреть
+sehr: очень
+sein: быть
+seit: с(даты)
+sekunde: секунда
+selbstständig: самостоятельный
+september: сентябрь
+anmelden: регистрировать ся
+anziehen: надевать
+ausziehen: снимать
+duschen: мыться в душе
+entschuldigen: извиняться
+freuen: радовать ся
+treffen: встречать ся
+vorstellen: представлять ся
+waschen: мыть ся
+sieben: семь
+siebzehn: семнадцать
+siebzig: семьдесят
+sie: вас(уважительное), Вы(уважительное), её, их, она, они
+sitzen: сидеть
+sofa: диван
+sofort: сейчас же
+sohn: сын
+sollen: быть должным
+sommer: лето
+sonne: солнце
+sonntag: воскресенье
+so: так
+spät: поздно
+speisekarte: меню(в кафе, ресторане)
+spielen: играть
+sport: спорт
+sprache: язык(немецкий, английский и т. д.)
+sprechen: говорить
+stadt: город
+stehen: стоять
+stellen: ставить
+stelle: место, позиция, должность
+stock: этаж
+straßenbahn: трамвай
+straße: улица
+student: студент
+studieren: учиться в вузе
+studium: учёба в вузе
+stunde: час, урок
+suchen: искать
+süden: юг
+tag: день
+tanzen: танцевать
+tasche: сумка
+tausend: тысяча
+taxi: такси
+tee: чай
+teil: часть
+telefonieren: говорить по телефону
+telefon: телефон
+termin: запись на время(к врачу, чиновнику)
+test: тест
+teuer: дорогой
+text: текст
+thema: тема
+ticket: билет(проездной, на мероприятие)
+tisch: стол
+tochter: дочь
+toilette: туалет
+tomate: помидор
+tot: мёртвый
+treppe: лестница
+trinken: пить
+tschüss: пока!(неформальное прощание)
+tun: делать, поступать (совершать поступок)
+übernachten: переночевать
+überweisen: переводить(деньги)
+über: о, над, через
+uhr: часы
+umziehen: переезжать
+um: вокруг
+und: и/a
+uns: нам
+unten: внизу
+unterricht: занятие
+unterschreiben: подписывать
+unterschrift: подпись
+unter: под
+urlaub: отпуск
+vater: отец
+verboten: запрещать
+verdienen: зарабатывать
+verein: объединение, общество
+verheiratet: женат
+verkaufen: продавать
+verkäufer: продавец
+vermieten: сдавать
+vermieter: арендодатель
+verstehen: понимать
+verwandte: родственник
+vielleicht: может быть
+viel: много
+vierzehn: четырнадцать
+vierzig: сорок
+vier: четыре
+von: от
+vormittag: первая половина дня
+vorname: имя
+vorsicht: осторожно!
+vorwahl: телефонный код
+vor: перед
+wandern: ходить в поход
+wann: когда?
+warten: ждать
+warum: почему?
+wasser: вода
+was: что?
+wegsein: быть не здесь (2 слова)
+wehtun: делать больно (2 слова)
+weiblich: женственный
+wein: вино
+weiß: белый
+weiter: дальше
+welt: мир
+wenig: мало
+werden: становиться
+wer: кто?
+westen: запад
+wetter: погода
+wichtig: важный
+wiederholen: повторять
+wieviel: как много? (2 слова)
+wie: как?
+willkommen: добро пожаловать!
+wind: ветер
+winter: зима
+wir: мы
+wissen: знать
+wochenende: выходные
+wochentag: день недели
+woche: неделя
+woher: откуда?
+wohin: куда?
+wohnen: жить
+wohnung: квартира
+wollen: хотеть
+wort: слово
+wo: где?
+wunderbar: чудесный
+zahlen: платить
+zehn: десять
+zeitung: газета
+zeit: время
+zentimeter: сантиметр
+zigarette: сигарета
+zimmer: комната(в квартире, отеле)
+zoll: таможня
+zufrieden: довольный
+zug: поезд
+zumbeispiel: например (2 слова)
+zurück: назад
+zurzeit: в этот момент
+zusammen: вместе
+zusein: быть закрытым (2 слова)
+zu: к
+zwanzig: двадцать
+zwei: два
+zwischen: между
+zwölf: двенадцать

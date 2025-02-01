@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crossword Puzzle</title>
+    <!--
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
+    -->
+    <style>
+        .keyboard-popup {
+           background-color: #fff;
+           border: 1px solid #ccc;
+           border-radius: 5px;
+       }
+       @media (min-width: 992px) {
+            .keyboard-popup {
+               padding: 10px;
+               position: absolute;
+               display: none;
+               z-index: 1000;
+               box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            }
+       }
+       @media (max-width: 992px) {
+            .keyboard-popup {
+               display: table;
+            }
+       }
+       .keyboard-popup .row {
+           display: flex;
+           justify-content: center;
+           margin-bottom: 5px;
+       }
+       .keyboard-popup button {
+           margin: 2px;
+           padding: 10px 15px;
+           font-size: 14px;
+           border: 1px solid #ccc;
+           border-radius: 3px;
+           background-color: #f9f9f9;
+           cursor: pointer;
+       }
+       .keyboard-popup button:hover {
+           background-color: #e0e0e0;
+       }
+       body {
+           font-family: Tahoma, sans-serif;
+           display: flex;
+           justify-content: center;
+           align-items: flex-start;
+           background-color: #f9f9f9;
+       }
+       .container {
+           display: flex;
+           flex-direction: column;
+           border: 1px solid #ccc;
+           background-color: #fff;
+       }
+      header {
+           background-color: #4CAF50;
+           color: white;
+           text-align: center;
+           font-size: 14px;
+       }
+       main {
+           flex: 1;
+           display: grid;
+           grid-template-columns: 1fr 1fr;
+       }
+       @media (min-width: 992px) {
+            .container {
+                width: 100%;
+                margin-top: 100px;
+                max-width: 1500px;
+                max-height: 100vh;
+            }
+            header {
+               padding: 10px;
+               font-size: 24px;
+            }
+            main {
+               gap: 20px;
+               padding: 20px;
+            }
+       }
+       .cbtn {
+  //           border: 1px solid #ccc;
+  //          border-radius: 5px;
+       }
+       .crosstile {
+           flex: 1;
+           display: grid;
+           gap: 1px;
+           margin: auto;
+           visibility: hidden;
+       }
+       .crossword {
+           display: grid;
+           gap: 0px;
+           padding: 0px;
+           background-color: #333;
+           justify-content: center;
+           align-content: center;
+           margin: auto;
+           border: 1px solid #ccc;
+       }
+       .cell {
+           background-color: #fff;
+           border: 1px solid #ccc;
+           position: relative;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           text-transform: uppercase;
+       }
+       #currentClue {
+            width: 100%;
+            text-align: center;
+            display:none;
+       }
+       @media (max-width: 992px) {
+            .cell {
+                width: 30px;
+                height: 30px;
+                font-size: 14px;
+            }
+            #currentClue {
+                display:block;
+            }
+       }
+       @media (min-width: 992px) {
+            .cell {
+                width: 40px;
+                height: 40px;
+                font-size: 18px;
+            }
+       }
+       .cell.blank {
+           background-color: #333;
+           border: 1px solid #333;
+       }
+       .cell.hinted {
+           background-color: #f9e79f;
+       }
+       .cell.hintedfocused {
+           background-color: #f5b041;
+       }
+       .cell.guessed {
+           background-color: #abebc6;
+       }
+       .cell.guessedfocused {
+           background-color: #58d68d;
+       }
+       .cell.selected {
+           background-color: #d6eaf8;
+       }
+       .cell.selectedfocused {
+           background-color: #85c1e9;
+       }
+       .cell .index {
+           position: absolute;
+           top: 2px;
+           left: 2px;
+           font-size: 10px;
+           font-weight: bold;
+           color: #000;
+       }
+       .cell.help {
+           background-color: #88F;
+       }
+       .cell.button {
+           background-color: #88F;
+           width: 90px;
+       }
+       .toolbar {
+           display: flex;
+           flex-direction: row-reverse;
+           gap: 2px;
+           margin: 2px;
+       }
+       @media (max-width: 992px) {
+            .toolbar {
+               display: none;
+           }
+       }
+       .clues {
+           background-color: #f9f9f9;
+           padding: 10px;
+           border: 1px solid #ccc;
+           border-radius: 5px;
+           overflow-y: auto;
+           visibility: hidden;
+       }
+       @media (max-width: 992px) {
+            .clues {
+               display: none;
+               left: 0;
+               position: fixed;
+               width: 100%;
+           }
+       }
+       @media (min-width: 992px) {
+            .clues {
+               display: block;
+           }
+       }
+       .clues h2 {
+           text-align: center;
+       }
+       .clues .clues-container {
+           display: flex;
+           justify-content: space-between;
+           gap: 20px;
+       }
+       .clues .clues-panel {
+            flex: 1 1 0;
+            width: 0;
+       }
+       .clues ul {
+           list-style-type: none;
+           padding: 0;
+           flex: 1;
+       }
+       .clues li {
+           margin: 10px 0;
+       }
+       .selected {
+           background-color: #85c1e9;
+       }
+       footer {
+           background-color: #f1f1f1;
+           text-align: center;
+           padding: 10px;
+           border-top: 1px solid #ccc;
+       }
+       .controls {
+           display: flex;
+           flex-wrap: wrap;
+           justify-content: center;
+           align-items: center;
+           gap: 5px;
+       }
+    </style>
+    <script>
+        class CrosswordGenerator {
+            // main function to create a crossword
+            // returns array of words sorted by word index where word is
+            //  {
+            //      index - sequential number of word for clues
+            //      position - position of the word first letter in the crossword
+            //      directionHorizontal
+            //      text - the word itself
+            //  }
+            static generateCrossword(size, dict) {
+                const generator = new CrosswordGenerator(size, dict);
+                return generator.generate();
+            }
+
+            constructor(size, dict) {
+                this.size = size;
+                this.availableCells = [];
+                this.cells = [];
+                this.dict = dict;
+                this.words = [];
+                this.emptyCell = CrosswordGenerator.makeCell(-1);
+                this.emptyCell.disable();
+
+                for (let i = 0; i < size * size; i++) {
+                    this.cells.push(CrosswordGenerator.makeCell(i));
+                }
+            }
+
+            generate() {
+                this.processCell(0);
+                while (this.availableCells.length) {
+                    const i = Math.floor(Math.random() * this.availableCells.length);
+                    const pos = CrosswordGenerator.removeFromArray(this.availableCells, i);
+                    this.processCell(pos);
+                }
+
+                // push the used words back to the end of the dictionary
+                for (let i = 0; i != this.words.length; ++i) {
+                    this.dict.push(this.words[i].text);
+                }
+
+                this.sortWords();
+                return this.words;
+            }
+
+            static makeCell(pos) {
+                return {
+                    value: ' ' ,
+                    position: pos,
+                    horizontalAvailable: true,
+                    verticalAvailable: true,
+
+                    isEmpty() {
+                        return this.value == ' ';
+                    },
+
+                    isAvailable(directionHorizontal) {
+                        return directionHorizontal && this.horizontalAvailable || !directionHorizontal && this.verticalAvailable;
+                    },
+
+                    disable() {
+                        this.horizontalAvailable = false;
+                        this.verticalAvailable = false;
+                    },
+
+                    disableDirection(directionHorizontal) {
+                        if (directionHorizontal) {
+                            this.horizontalAvailable = false;
+                        } else {
+                            this.verticalAvailable = false;
+                        }
+                    }
+                };
+            }
+
+            static removeFromArray(array, pos) {
+                const ret = array[pos];
+                const last = array.pop();
+                if(pos < array.length) {
+                    array[pos] = last;
+                }
+                return ret;
+            }
+
+            processCell(pos) {
+                const cell = this.getCell(pos);
+                if(!cell.horizontalAvailable && !cell.verticalAvailable) {
+                    return;
+                }
+
+                const directionHorizontal = cell.horizontalAvailable;
+                const minPos = this.getFurthestPos(pos, directionHorizontal, -1);
+                const maxPos = this.getFurthestPos(pos, directionHorizontal, 1);
+                const ranges = CrosswordGenerator.getRanges(minPos, maxPos);
+                CrosswordGenerator.shuffle(ranges);
+
+                for (const range of ranges) {
+                    const wordPos = this.advance(pos, range.start, directionHorizontal);
+                    const wordIdx = this.findWord(wordPos, range.len, directionHorizontal);
+                    if (wordIdx != -1) {
+                        this.placeWord(wordPos, directionHorizontal, wordIdx);
+                        return;
+                    }
+                }
+                this.getCell(pos).disableDirection(directionHorizontal);
+            }
+
+            advance(pos, steps, directionHorizontal) {
+                const delta = (directionHorizontal ? 1 : this.size);
+                const minpos = directionHorizontal ? (pos - pos % this.size - 1) : -1;
+                const maxpos = directionHorizontal ? (pos - pos % this.size + this.size) : (this.size * this.size);
+                const newpos = pos + delta * steps;
+                return newpos > minpos && newpos < maxpos ? newpos : -1;
+            }
+
+            getFurthestPos(pos, directionHorizontal, sign) {
+                let relativePos = 0;
+                while (this.getCell(pos).isAvailable(directionHorizontal)) {
+                    pos = this.advance(pos, sign, directionHorizontal);
+                    relativePos += sign;
+                }
+                return relativePos == 0 ? 0 : relativePos - sign;
+            }
+
+            static getRanges(minPos, maxPos) {
+                const ranges = [];
+                for (let i = minPos; i <= 0; ++i) {
+                    for (let j = 0; j <= maxPos; ++j) {
+                        ranges.push({
+                            start: i,
+                            len: j - i + 1
+                        });
+                   }
+                }
+                return ranges;
+            }
+
+            static shuffle(array) {
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]];
+                }
+                return array;
+            }
+
+            findWord(pos, len, directionHorizontal) {
+                for (let i = 0; i != this.dict.length; ++i) {
+                    const word = this.dict[i];
+                    if (word.length == len && this.tryPlaceWord(pos, directionHorizontal, word)) {
+                        return i;
+                    }
+                }
+                return -1;
+            }
+
+            placeWord(pos, directionHorizontal, wordIdx) {
+                const word = this.dict[wordIdx];
+                this.getCell(this.advance(pos, -1, directionHorizontal)).disable();
+                this.getCell(this.advance(pos, word.length, directionHorizontal)).disable();
+
+                for (let i = 0; i != word.length; ++i) {
+                    const curPos = this.advance(pos, i, directionHorizontal);
+                    const cell = this.getCell(curPos);
+                    cell.value = word.charAt(i);
+                    cell.disableDirection(directionHorizontal);
+                    if (cell.isAvailable(true) || cell.isAvailable(false)) {
+                        this.availableCells.push(curPos);
+                    }
+                }
+
+                CrosswordGenerator.removeFromArray(this.dict, wordIdx);
+
+                this.words.push({
+                    index: -1,
+                    position: pos,
+                    isHorizontal: directionHorizontal,
+                    text: word
+                });
+            }
+
+            tryPlaceWord(pos, directionHorizontal, word) {
+                if (this.hasJoint(pos, this.advance(pos, -1, directionHorizontal)) ||
+                    this.hasJoint(this.advance(pos, word.length - 1, directionHorizontal), this.advance(pos, word.length, directionHorizontal))) {
+                    return false;
+                }
+
+                for (let i = 0; i != word.length; ++i) {
+                    const curPos = this.advance(pos, i, directionHorizontal);
+                    const cell = this.getCell(curPos);
+                    if (cell.isEmpty()) {
+                        if(!this.getCell(this.advance(curPos, -1, !directionHorizontal)).isEmpty() ||
+                            !this.getCell(this.advance(curPos, 1, !directionHorizontal)).isEmpty()) {
+                            return false;
+                        }
+                    } else if(cell.value !== word.charAt(i)) {
+                        return false;
+                    }
+                }
+
+                return true;
+            }
+
+            getCell(pos) {
+                return pos >= 0 && pos < this.size * this.size ? this.cells[pos] : this.emptyCell;
+            }
+
+            hasJoint(pos, nextPos) {
+                return this.getCell(pos).isEmpty() && !this.getCell(nextPos).isEmpty();
+            }
+
+            sortWords() {
+                this.words.sort(function(a, b) {return a.position - b.position;});
+                let idx = 0;
+                let last = -1;
+                for(let i = 0; i != this.words.length; ++i) {
+                    const word = this.words[i];
+                    if(word.position == last) {
+                        word.index = idx;
+                    } else {
+                        word.index = ++idx;
+                    }
+                    last = word.position;
+                }
+            }
+        }
+
+       class Crossword {
+            constructor(size) {
+                this.size = size;
+                this.currentPosition = -1;
+                this.currentHorizontal = true;
+                this.lettersToGo = 0;
+                this.clues = new Map(); // clueId : word
+                this.clues = new Map(); // clueId : word
+                this.boxes = [];
+
+                this.generateGrid();
+                this.generateClues(CrosswordGenerator.generateCrossword(size, dict));
+
+                Crossword.addToolbarKeys(this);
+                Crossword.createKeyboardPopup(this);
+                Crossword.setKeyHandler(this);
+            }
+
+            static setKeyHandler(crossword) {
+                document.body.onkeydown = function(event) {
+                    crossword.processKeyPress(event);
+                    return false;
+                };
+            }
+
+            static addToolbarKeys(crossword) {
+                Crossword.addClueIdx('hint', 0).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('', true);
+                    return false;
+                };
+                Crossword.addClueIdx('solve', '=').onclick = function () {
+                    crossword.solveCrossword();
+                    return false;
+                };
+                Crossword.addClueIdx('kbd', '').onclick = function () {
+                    crossword.showKeyboardPopup();
+                    return false;
+                };
+                Crossword.addClueIdx('b1', 1).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('è', false);
+                    return false;
+                };
+                Crossword.addClueIdx('b2', 2).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('ö', false);
+                    return false;
+                };
+                Crossword.addClueIdx('b3', 3).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('ß', false);
+                    return false;
+                };
+                Crossword.addClueIdx('b4', 4).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('ä', false);
+                    return false;
+                };
+                Crossword.addClueIdx('b5', 5).onclick = function () {
+                    crossword.writeLetterAndAdvancePos('ü', false);
+                    return false;
+                };
+            }
+
+            generateGrid() {
+                const grid = document.querySelector('.crossword');
+                grid.innerHTML = '';
+                grid.style.gridTemplateColumns = `repeat(${this.size}, max-content)`;
+                grid.style.gridTemplateRows = 'auto';//`repeat(${this.size}, max-content)`;
+                //grid.style.height = `${this.size * 40}px`;
+
+                for (let i = 0; i < this.size * this.size; i++) {
+                    const cell = document.createElement('div');
+                    cell.id = i;
+                    cell.appendChild(document.createTextNode(' '));
+                    cell.className = 'cell blank';
+                    grid.appendChild(cell);
+
+                    this.boxes.push({
+                        isBlank: true,
+                        isGuessed: false,
+                        isSelected: false,
+                        isHinted: false,
+                        isFocused: false,
+                        value: ' ',
+                        answer: ' ',
+                        horizontalWord: undefined,
+                        verticalWord: undefined,
+                    });
+                }
+            }
+
+            generateClues(words) {
+                document.getElementById('horclues').innerHTML = '';
+                document.getElementById('verclues').innerHTML = '';
+
+                for (let i = 0; i != words.length; i++) {
+                    Crossword.addClue(words[i]);
+                    Crossword.addClueIdx(words[i].position, words[i].index);
+                    this.fillBox(words[i]);
+                }
+                this.focusAndSelect(words[0].position, words[0].isHorizontal);
+                Crossword.fillCurrentClue(words[0]);
+            }
+
+            switchClues(on) {
+                const cross = document.querySelector('.crosstile');
+                const clues = document.querySelector('.clues');
+                if(window.getComputedStyle(cross, null).display == 'none'
+                    || window.getComputedStyle(clues, null).display == 'none') {
+                    if(on) {
+                        cross.style.display = 'none';
+                        clues.style.display = 'block';
+                        clues.style.width = "100%";
+                        clues.style.visibility = 'visible';
+                    } else {
+                        clues.style.display = 'none';
+                        cross.style.display = 'block';
+                        cross.style.visibility = 'visible';
+                    }
+                }
+            }
+
+            static addClue(word) {
+                const li = document.createElement('li');
+                li.id = Crossword.makeClueId(word);
+                const desc = thesaurus.get(word.text);
+                li.innerHTML=`${word.index}. ${desc}`;
+                li.onclick = function () {
+                    crossword.focusAndSelect(word.position, word.isHorizontal);
+                    Crossword.fillCurrentClue(word);
+                    crossword.switchClues(false);
+                    return false;
+                };
+                if(word.isHorizontal) {
+                    document.getElementById('horclues').appendChild(li);
+                } else {
+                    document.getElementById('verclues').appendChild(li);
+                }
+            }
+
+            static fillCurrentClue(word) {
+                const desc = thesaurus.get(word.text);
+                const c = word.isHorizontal ? '→' : '↓';
+                document.getElementById('currentClue').innerText = `  ${word.index}${c} ${desc}`;
+            }
+
+            static addClueIdx(pos, idx) {
+                const cell = document.getElementById(pos);
+                if(cell) {
+                    const index = document.createElement('span');
+                    index.className = 'index';
+                    index.textContent = idx;
+                    cell.appendChild(index);
+                }
+                return cell;
+            }
+
+            fillBox(word) {
+                const crossword = this;
+                for(let i = 0; i != word.text.length; ++i) {
+                    const pos = this.advance(word.position, i, word.isHorizontal);
+                    const box = this.boxes[pos];
+                    if(box.isBlank) {
+                        ++this.lettersToGo;
+                        //document.getElementById('lettersToGo').innerText = this.lettersToGo;
+                    }
+                    box.isBlank = false;
+                    box.answer = word.text[i];
+                    if(word.isHorizontal) {
+                        box.horizontalWord = word;
+                    } else {
+                        box.verticalWord = word;
+                    }
+
+                    const cell = document.getElementById(pos);
+                    if(cell) {
+                        cell.onclick = function () {
+                            crossword.focusAndSelect(pos);
+                            return false;
+                        };
+                        this.drawBox(pos);
+                    }
+                }
+            }
+
+            advance(pos, steps, directionHorizontal) {
+                const delta = (directionHorizontal ? 1 : this.size);
+                const minpos = directionHorizontal ? (pos - pos % this.size - 1) : -1;
+                const maxpos = directionHorizontal ? (pos - pos % this.size + this.size) : (this.size * this.size);
+                const newpos = pos + delta * steps;
+                return newpos > minpos && newpos < maxpos ? newpos : -1;
+            }
+
+            static makeClueId(word) {
+                return word.isHorizontal ? `clue${word.position}H` : `clue${word.position}V`
+            }
+
+            focusAndSelect(pos, hor) {
+                const box = this.boxes[pos];
+                if(!box.isBlank) {
+                    const hadFocus = this.currentPosition == pos;
+                    this.focus(false);
+                    this.selectWord(false);
+                    this.currentPosition = pos;
+                    if(hadFocus) {
+                        this.currentHorizontal = !this.currentHorizontal;
+                    }
+                    if(hor != undefined) {
+                        this.currentHorizontal = hor;
+                    }
+                    this.selectWord(true);
+                    this.focus(true);
+                    this.moveKeyboardPopup();
+                }
+            }
+
+            processCursorKey(code) {
+                switch(code) {
+                 case 'Enter':
+                        this.focusAndSelect(this.currentPosition);
+                        break;
+                 case 'ArrowDown':
+                        this.focusAndSelect(this.currentPosition + this.size);
+                        break;
+                 case 'ArrowUp':
+                        this.focusAndSelect(this.currentPosition - this.size);
+                        break;
+                 case 'ArrowLeft':
+                        if(pos % this.size != 0) {
+                            this.focusAndSelect(this.currentPosition - 1);
+                        }
+                        break;
+                 case 'ArrowRight':
+                        const nextPos = this.currentPosition + 1;
+                        if(nextPos % this.size != 0) {
+                            this.focusAndSelect(nextPos);
+                        }
+                        break;
+                 case 'Backspace':
+                        this.backspace();
+                        break;
+                }
+            }
+
+            writeLetterAndAdvancePos(ch, isHint) {
+               const box = this.boxes[this.currentPosition];
+               if(!box.isGuessed && !box.isHinted) {
+                    if(isHint) {
+                        box.value = box.answer;
+                        box.isHinted = true;
+                        this.reduceGuessed();
+                    } else {
+                        box.value = ch;
+                    }
+                    this.drawBox(this.currentPosition);
+                    if(box.horizontalWord) {
+                        this.checkAndMarkGuessedWord(box.horizontalWord);
+                    }
+                    if(box.verticalWord) {
+                        this.checkAndMarkGuessedWord(box.verticalWord);
+                    }
+                }
+                this.advancePos(1);
+            }
+
+            backspace() {
+               const box = this.boxes[this.currentPosition];
+               if(!box.isGuessed && !box.isHinted) {
+                    box.value = ' ';
+                    this.drawBox(this.currentPosition);
+                }
+                this.advancePos(-1);
+            }
+
+            checkAndMarkGuessedWord(word) {
+                for(let i = 0; i != word.text.length; ++i) {
+                    const pos = this.advance(word.position, i, word.isHorizontal);
+                    const box = this.boxes[pos];
+                    if(box.value != box.answer) {
+                        return;
+                    }
+                }
+
+                for(let i = 0; i != word.text.length; ++i) {
+                    const pos = this.advance(word.position, i, word.isHorizontal);
+                    const box = this.boxes[pos];
+                    if(!box.isGuessed && !box.isHinted) {
+                        this.reduceGuessed();
+                    }
+                    box.isGuessed = !box.isHinted;
+                    this.drawBox(pos);
+                }
+            }
+
+            reduceGuessed() {
+                --this.lettersToGo;
+                //document.getElementById('lettersToGo').innerText = this.lettersToGo;
+            }
+
+            advancePos(delta) {
+                let pos = this.currentPosition;
+                let box;
+                do {
+                    pos = this.advance(pos, delta, this.currentHorizontal);
+                    box = this.boxes[pos];
+                } while(pos != -1 && !box.isBlank && (box.isGuessed || box.isHinted));
+                if(pos != -1 && !box.isBlank) {
+                    this.focusAndSelect(pos);
+                }
+            }
+
+            solveCrossword() {
+                for(let i = 0; i != this.boxes.length; ++i) {
+                    const box = this.boxes[i];
+                    if(!box.isBlank && !box.isGuessed && !box.isHinted) {
+                        box.isHinted = true;
+                        box.value = box.answer;
+                        this.drawBox(i);
+                    }
+                }
+            }
+
+            processSpecialKey(ch) {
+                switch(ch) {
+                case '0':
+                    this.writeLetterAndAdvancePos(ch, true);
+                    break;
+                case '5':
+                    this.writeLetterAndAdvancePos('ü', false);
+                    break;
+                case '4':
+                    this.writeLetterAndAdvancePos('ä', false);
+                    break;
+                case '3':
+                    this.writeLetterAndAdvancePos('ß', false);
+                    break;
+                case '2':
+                    this.writeLetterAndAdvancePos('ö', false);
+                    break;
+                case '1':
+                    this.writeLetterAndAdvancePos('è', false);
+                    break;
+                }
+            }
+
+            processKeyPress(event) {
+                const ch = event.key.toLowerCase();
+                if (!event.ctrlKey && !event.metaKey) {
+                    if(ch.length == 1) {
+                        if(ch >='a' && ch <= 'z') {
+                            this.writeLetterAndAdvancePos(ch, false);
+                        } else if(ch >='0' && ch <= '5') {
+                            this.processSpecialKey(pos, ch);
+                        } else if(ch == '=') {
+                            this.solveCrossword();
+                        }
+                    } else {
+                        this.processCursorKey(event.code)
+                    }
+                }
+            }
+
+            focus(turnOn) {
+                if(this.currentPosition != -1) {
+                    const box = this.boxes[this.currentPosition];
+                    box.isFocused = turnOn;
+                    this.drawBox(this.currentPosition);
+                }
+            }
+
+            selectWord(turnOn) {
+                if(this.currentPosition != -1) {
+                    const word = this.getWord();
+                    if(word) {
+                        for(let i = 0; i != word.text.length; ++i) {
+                            const pos = this.advance(word.position, i, word.isHorizontal);
+                            const box = this.boxes[pos];
+                            box.isSelected = turnOn;
+                            this.drawBox(pos);
+                        }
+                        this.drawActiveClue(Crossword.makeClueId(word), turnOn);
+                        if(turnOn) {
+                            Crossword.fillCurrentClue(word);
+                        } //TODO: should we clean it in else{} ?
+                    }
+                }
+            }
+
+            getWord() {
+                if(this.currentPosition != -1) {
+                    const box = this.boxes[this.currentPosition];
+                    const word = this.currentHorizontal ? (box.horizontalWord ? box.horizontalWord : box.verticalWord) :
+                        (box.verticalWord ? box.verticalWord : box.horizontalWord);
+                    if(word) {
+                        this.currentHorizontal = word.isHorizontal;
+                    }
+                    return word;
+                }
+            }
+            
+            drawBox(pos) {
+                const box = this.boxes[pos];
+                const cell = document.getElementById(pos);
+                if(cell) {
+                    const focus = box.isFocused ? 'focused' : '';
+                    if(box.isBlank) {
+                        cell.className = 'cell blank';
+                    } else if(box.isGuessed) {
+                        cell.className = `cell guessed${focus}`;
+                    } else if(box.isHinted) {
+                        cell.className = `cell hinted${focus}`;
+                    } else if(box.isSelected) {
+                        cell.className = `cell selected${focus}`;
+                    } else {
+                        cell.className = 'cell';
+                    }
+                    Crossword.setCellValue(cell, box.value);
+                }
+            }
+
+            drawActiveClue(clueId, turnOn) {
+                const clue = document.getElementById(clueId);
+                clue.className = turnOn ? 'selected' : '';
+            }
+
+            static getTextNode(node) {
+                const children = node.childNodes;
+                for (let i = 0; i != children.length; i++) {
+                    let item = children[i];
+                    if(item.nodeType == 3) {
+                        return item;
+                    }
+                }
+                return undefined;
+            }
+
+            static setCellValue(cell, ch) {
+                return Crossword.getTextNode(cell).textContent = ch;
+            }
+
+            static createKeyboardPopup(crossword) {
+                let existingPopup = document.querySelector('.keyboard-popup');
+                if (existingPopup) {
+                    existingPopup.remove();
+                }
+
+                const popup = document.createElement('div');
+                popup.className = 'keyboard-popup';
+
+                const layout = [
+                    ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+                    ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'ß'],
+                    ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'è', 'ö', 'ü', 'ä']
+                ];
+
+                layout.forEach(row => {
+                    const rowDiv = document.createElement('div');
+                    rowDiv.className = 'row';
+
+                    row.forEach(key => {
+                        const button = document.createElement('button');
+                        button.textContent = key;
+                        button.onclick = () => crossword.writeLetterAndAdvancePos(key, false);
+                        rowDiv.appendChild(button);
+                    });
+
+                    popup.appendChild(rowDiv);
+                });
+                const lastRow = document.createElement('div');
+                lastRow.className = 'row';
+                const buttonHint = document.createElement('button');
+                buttonHint.textContent = '?';
+                buttonHint.onclick = () => crossword.writeLetterAndAdvancePos('', true);
+                lastRow.appendChild(buttonHint);
+                const buttonSolve = document.createElement('button');
+                buttonSolve.textContent = '≡'
+                buttonSolve.onclick = () => crossword.solveCrossword();
+                lastRow.appendChild(buttonSolve);
+                const buttonClue = document.createElement('button');
+                buttonClue.textContent = '…';
+                buttonClue.onclick = () => crossword.switchClues(true);
+                lastRow.appendChild(buttonClue);
+                const buttonBS = document.createElement('button');
+                buttonBS.textContent = '←';
+                buttonBS.onclick = () => crossword.backspace();
+                lastRow.appendChild(buttonBS);
+                popup.appendChild(lastRow);
+                let el = document.querySelector('.crosstile');
+                el.appendChild(popup);
+                //Ξ
+            }
+
+            showKeyboardPopup() {
+                let popup = document.querySelector('.keyboard-popup');
+                if (popup) {
+                    popup.style.display = popup.style.display == "block" ? "none" : "block";
+                    this.moveKeyboardPopup();
+                }
+            }
+
+            moveKeyboardPopup() {
+                const pad = 5;
+                const popup = document.querySelector('.keyboard-popup');
+                if(!popup || popup.style.display != 'block' || this.currentPosition == -1) {
+                    return;
+                }
+                const popupRect = popup.getBoundingClientRect();
+                const grid = document.querySelector('.crossword');
+                const gridRect = grid.getBoundingClientRect();
+                const cur = document.getElementById(this.currentPosition);
+                const curRect = cur.getBoundingClientRect();
+
+                let x,y;
+                if(this.currentHorizontal) {
+                    // the keyboard should be below or above pos
+                    x = ~~((gridRect.width - popupRect.width) / 2) + gridRect.left;
+                    if(curRect.top - gridRect.top > popupRect.height + pad) {
+                        y = curRect.top - popupRect.height - pad;
+                    } else {
+                        y = curRect.bottom + pad;
+                    }
+                } else {
+                    // the keyboard should be to the right (left) from pos
+                    y = ~~((gridRect.height - popupRect.height) / 2) + gridRect.top;
+                    if(curRect.left - gridRect.left > popupRect.width + pad) {
+                        x = curRect.left - popupRect.width - pad;
+                    } else {
+                        x = curRect.right + pad;
+                    }
+                }
+
+                popup.style.top = `${y}px`;
+                popup.style.left = `${x}px`;
+            }
+
+            buttonPressed(key) {
+                console.log(`Key pressed: ${key}`);
+            }
+        };
+
+        const thesaurus = new Map();
+        let dict;
+
+        function generateCrossword() {
+            document.querySelector('.crosstile').style.visibility = 'visible';
+            document.querySelector('.clues').style.visibility = 'visible';
+
+            const size = parseInt(document.getElementById('gridSize').value);
+            crossword = new Crossword(size, dict);
+       }
+
+        function loadDictionary(event) {
+                const fileName = event.target.files[0];
+                const fr = new FileReader();
+                fr.onload = function () {
+                    parseDictionary(fr.result);
+                }
+                fr.readAsText(fileName);
+        }
+
+        function parseDictionary(text) {
+            thesaurus.clear();
+            const lines = text.split(/\r\n|\n/);
+            for (let i = 0; i != lines.length; i++) {
+                const line = lines[i].split(/\s*:\s*/, 2);
+                const key = line[0].trim();
+                if(line.length == 2) {
+                    const val = line[1].trim();
+                    thesaurus.set(key.toLowerCase(), val);
+                } else if(key.startsWith('#')) {
+                    console.log(`comment: "${key}"`);
+                } else if(key) {
+                    console.log(`error parsing line "${key}"`);
+                }
+            }
+            dict = CrosswordGenerator.shuffle(Array.from(thesaurus.keys()));
+            console.log(`loaded ${thesaurus.size} entries`);
+        }
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <header>
+        Crossword Puzzle
+    </header>
+    <main>
+        <div class="crosstile">
+            <div class="crossword">
+                <!-- Grid will be generated here -->
+            </div>
+            <div class="toolbar" id="toolbar">
+                <div class="cell help" id="b5">Ü</div>
+                <div class="cell help" id="b4">Ä</div>
+                <div class="cell help" id="b3">ẞ</div>
+                <div class="cell help" id="b2">Ö</div>
+                <div class="cell help" id="b1">É</div>
+                <div class="cell help" id="solve"><svg width="24" height="24" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M480 128c0 8.188-3.125 16.38-9.375 22.62l-256 256C208.4 412.9 200.2 416 192 416s-16.38-3.125-22.62-9.375l-128-128C35.13 272.4 32 264.2 32 256c0-18.28 14.95-32 32-32c8.188 0 16.38 3.125 22.62 9.375L192 338.8l233.4-233.4C431.6 99.13 439.8 96 448 96C465.1 96 480 109.7 480 128z"/></svg></div>
+                <div class="cell help" id="hint"><svg width="24" height="24" viewBox="0 0 100.353 100.352" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path d="M69.294,11.442c-6.788-5.594-15.724-7.82-24.512-6.109C32.951,7.636,23.449,17.623,21.675,29.62  c-1.447,9.79,2.031,19.567,9.304,26.155c3.277,2.968,5.254,7.243,5.568,12.039c0.006,0.087,0.023,0.171,0.042,0.254v15.039  c0,0.828,0.671,1.5,1.5,1.5h1.495c0.609,4.359,3.813,7.697,7.672,7.697h6.81c3.859,0,7.062-3.338,7.671-7.697h1.495  c0.828,0,1.5-0.672,1.5-1.5V67.828c0-0.003,0.001-0.006,0.001-0.01c0-4.462,2.026-8.771,5.706-12.133  c6.062-5.538,9.538-13.415,9.538-21.61C79.978,25.287,76.084,17.037,69.294,11.442z M45.357,39.91h-2.305  c-1.271,0-2.305-1.034-2.305-2.305s1.034-2.305,2.305-2.305s2.305,1.034,2.305,2.305V39.91z M55.966,37.605  c0-1.271,1.034-2.305,2.306-2.305c1.271,0,2.305,1.034,2.305,2.305s-1.034,2.305-2.305,2.305h-2.303L55.966,37.605z M55.063,69.211  h6.67v12.396H60.36c-0.003,0-0.006-0.001-0.01-0.001s-0.006,0.001-0.01,0.001H40.982c-0.003,0-0.006-0.001-0.01-0.001  s-0.006,0.001-0.01,0.001H39.59V69.211h14.366 M48.357,66.211V42.91h4.617l0.034,23.301H48.357z M54.066,89.304h-6.81  c-2.238,0-4.117-2.004-4.637-4.697h16.083C58.183,87.3,56.304,89.304,54.066,89.304z M68.416,53.471  c-3.872,3.537-6.164,8.013-6.593,12.74h-5.816L55.974,42.91h2.298c2.925,0,5.305-2.38,5.305-5.305c0-2.925-2.38-5.305-5.305-5.305  c-2.926,0-5.306,2.38-5.306,5.307l0.003,2.303h-4.612v-2.305c0-2.925-2.38-5.305-5.305-5.305c-2.925,0-5.305,2.38-5.305,5.305  c0,2.925,2.38,5.305,5.305,5.305h2.305v23.301h-5.972c-0.636-5.005-2.864-9.465-6.393-12.66c-6.528-5.914-9.65-14.696-8.35-23.493  c1.591-10.76,10.108-19.716,20.712-21.781c7.908-1.538,15.938,0.458,22.03,5.48c6.096,5.023,9.592,12.429,9.592,20.319  C76.978,41.43,73.857,48.5,68.416,53.471z"/></svg></div>
+                <div class="cell help" id="kbd"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g><path d="M0 0h24v24H0z" fill="none"/><path d="M3 17h18v2H3v-2zm0-6h3v3H3v-3zm5 0h3v3H8v-3zM3 5h3v3H3V5zm10 0h3v3h-3V5zm5 0h3v3h-3V5zm-5 6h3v3h-3v-3zm5 0h3v3h-3v-3zM8 5h3v3H8V5z"/></g></svg></div>
+            </div>
+            <div id="currentClue">
+            <!-- here comes the current clue-->
+            </div>
+        </div>
+        <div class="clues">
+            <h2>Clues</h2>
+            <div class="clues-container">
+                <div class="clues-panel">
+                    <h3>Across</h3>
+                    <ul id="horclues">
+                    </ul>
+                </div>
+                <div class="clues-panel">
+                    <h3>Down</h3>
+                    <ul id="verclues">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="controls">
+        <div class="cbtn" onclick="generateCrossword()"><svg width="30" height="30" enable-background="new 0 0 50 50" version="1.1" viewBox="0 0 50 50" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g id="Layer_1"><path d="M48,2H2v46h46V2z M46,13h-9V4h9V13z M26,13V4h9v9H26z M35,15v9h-9v-9H35z M24,13h-9V4h9V13z M24,15v9h-9v-9H24z M13,24H4   v-9h9V24z M13,26v9H4v-9H13z M15,26h9v9h-9V26z M24,37v9h-9v-9H24z M26,37h9v9h-9V37z M26,35v-9h9v9H26z M37,26h9v9h-9V26z M37,24   v-9h9v9H37z M13,4v9H4V4H13z M4,37h9v9H4V37z M37,46v-9h9v9H37z"/></g><g/></svg></div>
+        <input type="range" id="gridSize" min="10" max="20" step="1" />
+        <input type="file" id="dictFile" onchange="loadDictionary(event)">
+    </footer>
+</div>
+</body>
+</html>

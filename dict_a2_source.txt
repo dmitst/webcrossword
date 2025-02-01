@@ -1,0 +1,1291 @@
+В городе
+die Hauptstadt, -¨e
+(столица)
+der Park, -s
+(парк)
+das Zentrum, die Zentren
+(центр)
+die Kirche, -n
+(церковь)
+das Schloss, -¨er
+(замок)
+das Rathaus, -¨er
+(ратуша)
+die Messe, -n
+(выставка-ярмарка)
+der Zoo, -s
+(зоопарк)
+das Kaufhaus, -¨er
+(торговый дом)
+das Einkaufszentrum, -zentren
+(торговый центр)
+der Markt, -¨e
+(рынок)
+der Flohmarkt, -¨e
+(блошиный рынок, барахолка)
+die Reihe, -n
+(ряд)
+die Kette, -n
+(цепь, сеть магазинов)
+Природа и погода
+nass
+(мокрый)
+trocken
+(сухой)
+heiß
+(жарко, горячий)
+warm
+(тепло, тёплый)
+kühl
+(прохладно, прохладный)
+kalt
+(холодно, холодный)
+dunkel
+(тёмный, темно)
+neblig
+(туманно)
+sonnig
+(солнечно)
+windig
+(ветрено)
+der Himmel, —
+(небо)
+das Gewitter, —
+(непогода)
+die Wolke, -n
+(облако)
+bewölkt
+(облачно)
+der Schnee (Sn.)
+(снег)
+schneien
+(идёт снег)
+die Natur, -en
+(природа)
+die Landschaft, -en
+(ландшафт)
+der Berg, -e
+(гора)
+die Insel, -n
+(остров)
+der Fluss, -¨e
+(река)
+der Wald, -¨er
+(лес)
+die Pflanze, -n
+(растение)
+das Blatt, -¨er
+(лист)
+[дерева, травы]
+die Rose, -n
+(роза)
+die Ruhe (Sn.)
+(тишина, покой)
+Животные и птицы
+das Tier, -e
+(животное, зверь)
+der Vogel, -¨
+(птица)
+die Katze, -n
+(кошка)
+das Pferd, -e
+(лошадь)
+das Schwein, -e
+(свинья)
+Движение и транспорт
+der Motor, -e
+(мотор)
+der Wagen, -¨
+(автомобиль)
+der Motorroller, —
+(мотороллер)
+der Führerschein, -e
+(водительское удостоверение)
+parken
+(парковаться)
+die Garage, -n
+(гараж)
+der Unfall, -¨e
+(несчастный случай)
+die Werkstatt, -¨en
+(автосервис)
+der Verkehr, -e
+(транспорт)
+das Verkehrsmittel, —
+(транспортное средство)
+umsteigen
+(пересаживаться, переходить на другую ветку)
+die Verspätung, -en
+(опоздание)
+der Stadtplan, -¨e
+(план города)
+der Fahrplan, -¨e
+(расписание движения)
+die Brücke, -n
+(мост)
+die Ampel, -n
+(светофор)
+Направление и положение
+dorther
+(оттуда)
+dorthin
+(туда)
+heraus
+(наружу)
+herein
+(внутрь)
+vorbei
+(мимо)
+vorwärts
+(прямо)
+vorne
+(впереди)
+außer
+(снаружи)
+außerhalb
+(за пределами)
+drinnen
+(внутри)
+drüben
+(с другой стороны, с той стороны)
+gegenüber
+(напротив)
+nächst-
+(следующий)
+neben
+(рядом)
+nirgends
+(нигде)
+überall
+(повсюду)
+weit
+(далеко)
+das Ziel, -e
+(цель)
+die Nähe (Sn.)
+(близость)
+Раздел Weg- und zurück-
+wegbringen
+(унести)
+wegfahren
+(уехать)
+weggehen
+(уйти)
+weglaufen
+(убежать)
+wegnehmen
+(отнять, забрать)
+wegwerfen
+(выбросить)
+zurückfahren
+(ехать обратно)
+zurückgeben
+(отдать обратно)
+zurückgehen
+(идти обратно)
+zurückkommen
+(вернуться)
+zurücklaufen
+(бежать обратно)
+Время
+damals
+(тогда, в тот раз)
+erst
+(сначала, когда-то)
+früh
+(рано)
+manchmal
+(иногда)
+übermorgen
+(послезавтра)
+vorgestern
+(позавчера)
+vorher
+(перед этим, до этого)
+wieder
+(снова)
+zuerst
+(сначала, для начала)
+zuletzt
+(в завершение)
+Путешествия
+der Tourist, -en
+(турист)
+reservieren
+(резервировать)
+buchen
+(бронировать)
+packen
+(собирать чемоданы)
+einpacken
+(взять с собой)
+[вещь]
+der Rucksack, -¨e
+(рюкзак)
+der Weg, -e
+(путь, дорога)
+unterwegs sein
+(быть в пути)
+der Flug, -¨e
+(полёт)
+das Schiff, -e
+(корабль)
+erreichen
+(достигать)
+verpassen
+(пропустить, упустить)
+[транспорт, событие]
+die Unterkunft, -¨e
+(место для ночлега)
+auspacken
+(распаковывать чемоданы)
+der Strand, -¨e
+(пляж)
+die Jugendherberge, -n
+(хостел для молодёжи)
+verreisen
+(уезжать)
+der Rundgang, -¨e
+(прогулка, экскурсия)
+die Fundsache, -n
+(найденная вещь, которую кто-то потерял)
+Дом, квартира, комнаты
+der Umzug, -¨e
+(переезд)
+umziehen
+(переезжать)
+einziehen
+(заезжать в квартиру/дом)
+das Stockwerk, -e
+(этаж)
+das Erdgeschoss, -e
+(первый этаж)
+das Wohnzimmer, —
+(гостиная)
+das Schlafzimmer, —
+(спальня)
+der Keller, —
+(подвал)
+die Heizung, -en
+(отопление)
+das Fenster, —
+(окно)
+die Lampe, -n
+(лампа)
+der Stuhl, -¨e
+(стул)
+die Tür, -en
+(дверь)
+renovieren
+(делать ремонт)
+der Nachbar, -n
+(сосед)
+Домашнее хозяйство
+der Haushalt, -e
+(домашнее хозяйство)
+das Mittel, —
+(средство)
+die Reinigung, -en
+(уборка, чистка)
+putzen
+(чистить, мыть, убираться)
+aufräumen
+(убираться)
+die Seife, -n
+(мыло)
+die Wäsche, -n
+(бельё)
+das Handtuch, -¨er
+(полотенце)
+der Schirm, -e
+(ширма, заграждение)
+der Kalender, —
+(календарь)
+das Ding, -e
+(вещь, предмет)
+[синоним die Sache]
+die Sache, -n
+(вещь, предмет)
+[синоним das Ding]
+Кухня и приготовление пищи
+das Geschirr, -e
+(посуда)
+der Löffel, —
+(ложка)
+das Messer, —
+(нож)
+die Gabel, -n
+(вилка)
+die Tasse, -n
+(чашка)
+der Teller, —
+(тарелка)
+der Topf, -¨e
+(кастрюля, горшок)
+die Schere, -n
+(ножницы)
+der Müll (Sn.)
+(мусор)
+schneiden
+(резать)
+sich schneiden
+(порезаться)
+backen
+(печь)
+braten
+(жарить)
+Приём пищи, еда, продукты питания
+das Mittagessen, —
+(обед)
+das Rezept, -e
+(рецепт)
+das Gericht, -e
+(суд, блюдо)
+[например, макароны с сыром]
+die Portion, -en
+(порция)
+das Stück, -e
+(штука)
+der Rest, -e
+(остаток, сдача)
+probieren
+(пробовать)
+[еду, напитки]
+frisch
+(свежий)
+süß
+(сладкий)
+sauer
+(кислый)
+scharf
+(острый)
+der Supermarkt, -¨e
+(супермаркет)
+das Mineralwasser, -¨
+(минеральная вода)
+das Rind (Sn.)
+(говядина)
+die Wurst, -¨e
+(колбаса)
+der Käse, —
+(сыр)
+die Bohne, -n
+(бобы)
+die Orange, -n
+(апельсин)
+die Zitrone, -n
+(лимон)
+der Hamburger, —
+(гамбургер)
+die Nudeln (Pl.)
+(лапша)
+die Pizza, -s
+(пицца)
+die Süßigkeit, -en
+(сладость)
+[например, конфеты]
+der Zucker, —
+(сахар)
+das Eis (Sn.)
+(мороженое, лёд)
+die Schokolade, -n
+(шоколад)
+die Torte, -n
+(торт)
+die Suppe, -n
+(суп)
+Глаголы движения, положения, состояния
+sich setzen
+(садиться)
+setzen
+(сажать)
+fallen
+(падать)
+hängen
+(висеть, вешать)
+klappen
+(удаваться)
+passen
+(подходить)
+passieren
+(происходить)
+stattfinden
+(состояться)
+sich beeilen
+(поторапливаться)
+ausgehen
+(выходить в свет)
+bestehen
+(состоять)
+Действие и взаимодействие
+lassen
+(оставлять, позволять)
+stören
+(мешать, беспокоить)
+abschließen
+(заключать)
+aufmachen
+(открывать)
+zumachen
+(закрывать)
+aufpassen
+(следить)
+beenden
+(заканчивать)
+leihen
+(давать в аренду)
+nennen
+(называть)
+teilnehmen
+(принимать участие)
+unternehmen
+(предпринимать что-либо)
+untersuchen
+(исследовать)
+verlieren
+(терять)
+versuchen
+(пробовать, пытаться)
+wählen
+(выбирать)
+wecken
+(будить)
+wehtun
+(делать больно)
+weitermachen
+(продолжать)
+weiterhelfen
+(помочь продвинуться в чем-либо)
+zeigen
+(показывать, указывать)
+austragen
+(разносить)
+[письма, рекламки и т. д.]
+bauen
+(строить)
+herstellen
+(производить)
+liefern
+(доставлять)
+organisieren
+(организовывать)
+schaffen
+(создавать)
+Одежда
+die Mode, -n
+(мода, одежда)
+tragen
+(носить [одежду] , нести [груз])
+das T-Shirt, -s
+(футболка)
+die Bluse, -n
+(блузка)
+das Hemd, -e
+(рубашка)
+das Kleid, -er
+(платье)
+der Pullover, —
+(свитер)
+die Hose, -n
+(брюки)
+die Jeans, —
+(джинсы)
+der Rock, -¨e
+(юбка)
+der Anzug, -¨e
+(костюм)
+[мужской, официальный]
+der Mantel, -¨
+(пальто)
+der Stiefel, —
+(сапоги)
+die Mütze, -n
+(шапка)
+der Ring, -e
+(кольцо)
+Внешность и черты
+die Brille, -n
+(очки)
+blond
+(светловолосый)
+dick
+(толстый)
+dünn
+(худой)
+fett
+(жирный)
+fit sein
+(быть в форме)
+sportlich
+(спортивный)
+stark
+(сильный)
+hässlich
+(уродливый)
+sympathisch
+(симпатичный)
+arm
+(бедный)
+reich
+(богатый)
+blöd
+(тупой)
+dumm
+(глупый)
+intelligent
+(интеллектуальный)
+klug
+(умный)
+faul
+(ленивый)
+fleißig
+(прилежный, старательный)
+freundlich
+(дружелюбный)
+froh
+(радостный)
+nett
+(милый)
+nervös
+(нервный)
+traurig
+(грустный)
+Прилагательные-характеристики
+sauber
+(чистый)
+schmutzig
+(грязный)
+hart
+(жесткий, твёрдый)
+weich
+(мягкий)
+leer
+(пустой)
+voll
+(полный)
+rund
+(круглый)
+bunt
+(цветной)
+tief
+(глубокий)
+wach
+(бодрствующий, неспящий)
+aktiv
+(активный)
+offen
+(открытый)
+echt
+(настоящий, неподдельный)
+eng
+(узкий)
+ganz
+(целый)
+aktuell
+(актуальный)
+modern
+(современный)
+typisch
+(типичный)
+deutlich
+(чёткий)
+direkt
+(прямой, прямолинейный)
+dringend
+(неотложный, срочный)
+gefährlich
+(опасный)
+schädlich
+(вредный)
+schlimm
+(плохой)
+schwierig
+(тяжёлый, трудный)
+streng
+(строгий)
+schwach
+(слабый)
+notwendig
+(необходимый)
+nützlich
+(полезный)
+praktisch
+(практичный)
+plötzlich
+(внезапный)
+privat
+(личный, приватный)
+total
+(полностью, на 100%)
+[разг.]
+unbedingt
+(безусловный)
+vorsichtig
+(осторожный)
+wahr
+(истинный, правдивый)
+verschieden
+(разный)
+Чувства и эмоции
+sich fühlen
+(чувствовать себя)
+sich erinnern
+(вспоминать)
+sich ärgern
+(злиться)
+denken
+(думать)
+hoffen
+(надеяться)
+weinen
+(плакать)
+leidtun
+(вызывать жалость)
+träumen
+(мечтать, видеть сны)
+der Traum, -¨e
+(мечта)
+bequem
+(удобно)
+romantisch
+(романтично)
+aufregend
+(волнительно)
+[позитивно]
+spannend
+(увлекательно)
+langweilig
+(скучно)
+witzig
+(смешно, шутливо)
+fantastisch
+(фантастически)
+komisch
+(забавно, странно)
+furchtbar
+(ужасающе, пугающе)
+schrecklich
+(ужасно, страшно)
+der Stress, -e
+(стресс)
+stressig
+(стрессово)
+die Ahnung, -en
+(предположение)
+die Angst, -¨e
+(страх)
+Lieblings-
+(любимый)
+[предмет, человек и т. д.]
+die Lust, -¨e
+(желание)
+Социальные контакты
+die Person, -en
+(персона)
+der Kontakt, -e
+(контакт)
+der Rentner, —
+(пенсионер)
+der Besuch, -e
+(визит, посещение)
+die Feier, -n
+(праздник)
+[синоним das Fest]
+das Fest, -e
+(праздник)
+[синоним die Feier]
+der Wunsch, -¨e
+(пожелание)
+wünschen
+(желать)
+schenken
+(дарить)
+dabei sein
+(быть, присутствовать при чём-либо)
+verabredet sein
+(договориться встретиться)
+das Paar, -e
+(пара)
+der Ehepartner, —
+(супруг)
+sich verlieben
+(влюбляться)
+chatten
+(чатиться)
+rufen
+(кричать, звать)
+ansehen
+(смотреть, посмотреть)
+zuhören
+(внимательно слушать кого-либо)
+sich unterhalten
+(общаться, беседовать)
+reden
+(разговаривать)
+diskutieren
+(дискутировать)
+mitspielen
+(подыгрывать, играть с кем-либо вместе)
+schimpfen
+(обзывать, ругать)
+sich streiten
+(ругаться)
+lügen
+(лгать)
+die Lüge, -n
+(ложь)
+Хобби и досуг
+das Interesse, -n
+(интерес)
+sich interessieren
+(интересоваться)
+interessant
+(интересно)
+der Spaß (Sn.)
+(удовольствие)
+die Musik, -en
+(музыка)
+das Radio (Sn.)
+(радио)
+die Sendung, -en
+(передача по тв, радио)
+singen
+(петь)
+die Gitarre, -n
+(гитара)
+das Klavier, -e
+(пианино)
+die Zeitschrift, -en
+(журнал)
+das Rätsel, —
+(загадка)
+der Krimi, -s
+(детектив)
+[жанр]
+der Comic, -s
+(комикс)
+die Kamera, -s
+(камера)
+der Fotoapparat, -e
+(фотоаппарат)
+fotografieren
+(фотографировать)
+zeichnen
+(рисовать [карандашом], чертить)
+malen
+(рисовать красками)
+basteln
+(мастерить)
+sammeln
+(собирать, коллекционировать)
+spazieren gehen
+(идти гулять)
+der Spaziergang, -¨e
+(прогулка)
+das Zelt, -e
+(палатка)
+das Spiel, -e
+(игра)
+der Witz, -e
+(шутка)
+der Zirkus, -se
+(цирк)
+der Club, -s
+(клуб)
+Культура
+die Kultur, -en
+(культура)
+die Kunst, -¨e
+(искусство)
+die Veranstaltung, -en
+(представление)
+die Ausstellung, -en
+(выставка)
+das Festival, -s
+(фестиваль)
+das Museum, die Museen
+(музей)
+das Theater, —
+(театр)
+der Titel, —
+(название, заголовок)
+Звёзды и фанаты
+das Plakat, -e
+(плакат)
+das Poster, —
+(постер)
+beliebt
+(пользующийся популярностью)
+berühmt
+(известный)
+der Fan, -s
+(фанат)
+der Star, -s
+(звезда)
+die Tour, -en
+(тур)
+[концертный]
+das Konzert, -e
+(концерт)
+Здоровье и медицина
+das Krankenhaus, -häuser
+(больница)
+die Krankenkasse, -n
+(медицинская страховка, больничная касса в германии)
+die Krankheit, -en
+(болезнь)
+die Gesundheit (Sn.)
+(здоровье)
+gesund
+(здоровый)
+schwanger
+(беременна)
+erkältet sein
+(быть простуженным)
+husten
+(кашлять)
+die Grippe, -n
+(грипп)
+der Schmerz, -en
+(боль)
+die Sprechstunde, -n
+(консультация врача)
+die Apotheke, -n
+(аптека)
+das Medikament, -e
+(медикамент)
+die Tablette, -n
+(таблетка)
+sich ausruhen
+(отдыхать)
+sterben
+(умирать)
+Тело и уход за собой
+das Gesicht, -er
+(лицо)
+das Ohr, -en
+(ухо)
+der Zahn, -¨e
+(зуб)
+der Hals, -¨e
+(шея, горло)
+der Körper, —
+(тело)
+der Rücken, —
+(спина)
+der Magen, —
+(желудок)
+der Fuß̈, -¨e
+(стопа)
+die Creme, -s
+(крем)
+die Kosmetik (Sn.)
+(косметика)
+das Parfüm, -s
+(парфюм)
+Спорт
+trainieren
+(тренироваться)
+das Training, -s
+(тренировка)
+die Mannschaft, -en
+(команда)
+der Sportplatz, -¨e
+(спортплощадка)
+joggen
+(бегать трусцой)
+reiten
+(ездить верхом)
+der Ball, -¨e
+(мяч)
+der Basketball (Sn.)
+(баскетбол)
+der Volleyball (Sn.)
+(волейбол)
+das Tennis (Sn.)
+(теннис)
+der Ski, -er
+(лыжи)
+sich verletzen
+(получить травму)
+Информация
+planen
+(планировать)
+prüfen
+(проверять)
+rechnen
+(считать)
+austauschen
+(обмениваться)
+vergleichen
+(сравнивать)
+sich merken
+(запоминать)
+[Dat.]
+notieren
+(записывать)
+teilen
+(делить, делиться)
+vergessen
+(забывать)
+sich informieren
+(узнать о чём-либо)
+berichten
+(докладывать)
+beantworten
+(отвечать)
+beschreiben
+(описывать)
+die Nachricht, -en
+(сообщение)
+der Artikel, —
+(статья)
+[в печатном издании, онлайн]
+die Geschichte, -n
+(история)
+die Notiz, -en
+(заметка)
+der Zettel, —
+(записка)
+Мнение
+meinen
+(считать, иметь мнение)
+die Meinung, -en
+(мнение)
+die Idee, -n
+(идея)
+das Gegenteil, -e
+(противоположность, антоним)
+der Unterschied, -e
+(разница, отличие)
+pro
+(«за»)
+contra
+(«против»)
+begründen
+(обосновывать)
+dafür sein
+(быть «за»)
+dagegen sein
+(быть «против»)
+einverstanden sein
+(быть согласным)
+egal
+(всё равно, безразлично)
+wegen
+(из-за)
+Учёба
+die Ausbildung, -en
+(среднее-профессиональное образование)
+die Universität, -en
+(университет)
+das Stipendium, die Stipendien
+(стипендия)
+das Fach, -¨er
+(учебный предмет)
+die Tafel, -n
+(доска)
+das Heft, -e
+(тетрадь)
+der Stift, -e
+(карандаш)
+die Kenntnisse, -n
+(знания)
+üben
+(делать упражнения)
+schriftlich
+(письменно)
+übersetzen
+(переводить)
+die Übersetzung, -en
+(перевод)
+aussprechen
+(произносить, говорить)
+das Quiz, —
+(опросник, квиз)
+die Note, -n
+(оценка)
+die Bibliothek, -en
+(библиотека)
+die Cafeteria, die Cafeterien
+(кафетерий)
+die Ferien (Pl.)
+(каникулы)
+das Zeugnis, -se
+(свидетельство, диплом)
+Работа
+kündigen
+(увольняться)
+freiwillig
+(по желанию)
+die Bewerbung, -en
+(резюме)
+sich bewerben
+(отправлять резюме)
+die Erfahrung, -en
+(опыт)
+das Interview, -s
+(собеседование, интервью)
+der Wettbewerb, -e
+(конкурс, конкуренция)
+der Vertrag, -¨e
+(договор)
+der Mitarbeiter, —
+(работник, сотрудник)
+der Babysitter, —
+(няня)
+die Baustelle, -n
+(стройка)
+das Instrument, -e
+(инструмент)
+das Büro, -s
+(офис)
+das Team, -s
+(команда)
+das Produkt, -e
+(продукт)
+das Projekt, -e
+(проект)
+die Qualität, -en
+(качество)
+der Service, -s
+(сервис)
+der Tipp, -s
+(совет)
+der Workshop, -s
+(мастерская, воркшоп)
+der Feierabend, -e
+(конец рабочего дня)
+der Feiertag, -e
+(выходной, праздник)
+Финансы и почта
+kostenlos
+(бесплатно)
+preiswert
+(недорого)
+sparen
+(экономить)
+ausgeben
+(тратить)
+der Kredit, -e
+(кредит)
+das Taschengeld, -er
+(карманные деньги)
+die Geldbörse, -n
+(кошелёк)
+die Ermäßigung, -en
+(скидка)
+das Paket, -e
+(посылка)
+die Postkarte, -n
+(открытка)
+Государственные органы
+die Situation, -en
+(ситуация)
+sich kümmern
+(заботиться)
+sich bedanken
+(благодарить)
+sich beschweren
+(жаловаться)
+beraten
+(консультировать)
+raten
+(советовать, угадывать)
+vereinbaren
+(согласовать [время], договориться)
+verschieben
+(передвинуть)
+ändern
+(изменить)
+bestätigen
+(подтвердить)
+vorbereiten
+(подготовить)
+wechseln
+(сменить, заменить)
+kontrollieren
+(контролировать)
+fertig sein
+(быть готовым)
+gültig sein
+(быть действительным)
+eintragen
+(записать, внести)
+die Erlaubnis, -se
+(разрешение)
+erlaubt sein
+(быть разрешённым)
+verbieten
+(запретить)
+Компьютер и техника
+der Apparat, -e
+(аппарат)
+das Gerät, -e
+(прибор, инструмент)
+der Fernseher, —
+(телевизор)
+der Laptop, -s
+(ноутбук)
+das Tablet, -s
+(планшет)
+das Mobiltelefon, -e
+(мобильный телефон)
+das E-Book, -s
+(электронная книга)
+der Blog, -s
+(блог)
+die Website, -s
+(сайт в интернете)
+die Webseite, -n
+(страница в интернете)
+die Homepage, -s
+(домашняя страница)
+das Programm, -e
+(программа)
+die Mailbox, -en
+(электронный почтовый ящик)
+die E-Mail, -s
+(электронная почта, письмо)
+das Passwort, -¨er
+(пароль)
+der Link, -s
+(ссылка)
+die Datei, -en
+(файл)
+online
+(онлайн)
+surfen
+(серфить в интернете)
+herunterladen
+(скачивать)
+speichern
+(сохранять)
+Количество
+das Mal, -e
+(раз)
+die Menge, -n
+(количество)
+die Zahl, -en
+(число)
+wie viele
+(сколько)
+ein paar
+(несколько)
+wenige
+(некоторые, мало кто/что)
+wenigstens
+(как минимум, по крайней мере)
+meistens
+(в большинстве случаев, в основном)
+mindestens
+(минимум, по меньшей мере)
+Местоимения
+selbst
+(самостоятельно)
+jeder
+(каждый)
+jemand
+(кто-то)
+man
+(некто)
+[неопределённо-личное местоимение]
+manche
+(некоторые)
+niemand
+(никто)
+welche
+(которые, некоторые)
+etwas
+(что-либо, что-нибудь)
+kein
+(никто, ничто)
+[отрицательное местоимение]
+Наречия
+gern
+(охотно, с удовольствием)
+genau
+(точно!)
+sicher
+(точно!)
+[с уверенностью]
+natürlich
+(естественно! конечно!)
+wahrscheinlich
+(возможно)
+hoffentlich
+(надеюсь)
+wirklich
+(действительно)
+toll
+(класс!)
+schade
+(жаль)
+fast
+(почти)
+endlich
+(наконец-то!)
+genug
+(достаточно)
+eigentlich
+(в действительности)
+sogar
+(даже)
+sonst
+(в противном случае)
+außerdem
+(кроме того)
+deshalb
+(поэтому)
+doch
+(всё же, всё-таки)
+anders
+(иначе)
+besonders
+(особенно)
+Омонимы
+die Band, -s
+(музыкальная группа)
+das Band, -¨er
+(лента)
+der Band, -¨e
+(том)
+[книга]
+das Gehalt, -¨er
+(зарплата)
+der Gehalt, -e
+(содержимое)
+die See, -n
+(море)
+der See, -n
+(озеро)
+Союзы
+dass
+(что)
+weil
+(потому что)
+wenn
+(если)
+als
+(когда, как)
+Устойчивые выражения
+auf jeden Fall
+(в любом случае)
+auf keinen Fall
+(ни в коем случае)
+der Bescheid, -e
+(решение)
+den Bescheid bekommen
+(узнать о решении)
+den Bescheid geben/sagen
+(дать знать о чём-либо)
+recht haben
+(быть правым)
+der Vorschlag, -¨e
+(предложение)
+einen Vorschlag haben
+(иметь предложение)
+einen Vorschlag machen
+(сделать предложение)
+[не руки и сердца]
+

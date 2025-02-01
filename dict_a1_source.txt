@@ -1,0 +1,1651 @@
+Местоимения, именительный падеж, Nominativ
+ich
+(я)
+wir
+(мы)
+du
+(ты)
+ihr
+(вы)
+[множественное число]
+er
+(он)
+sie
+(они)
+[множественное число]
+sie
+(она)
+Sie
+(Вы)
+[уважительное]
+es
+(оно)
+Местоимения, дательный падеж, Dativ
+mir
+(мне)
+uns
+(нам)
+dir
+(тебе)
+euch
+(вам)
+[множественное число]
+ihm
+(ему)
+[мужской род]
+ihnen
+(им)
+[множественное число]
+ihr
+(ей)
+Ihnen
+(Вам)
+[уважительное]
+ihm
+(ему)
+[средний род]
+Местоимения, винительный падеж, Akkusativ
+mich
+(меня)
+uns
+(нам)
+dich
+(тебя)
+euch
+(вас)
+[множественное число]
+ihn
+(его)
+[мужской род]
+sie
+(их)
+[множественное число]
+sie
+(её)
+Sie
+(Вас)
+[уважительное]
+es
+(его)
+[средний род]
+Приветствия, прощания, восклицания
+Hallo!
+(Привет!)
+[повседневное приветствие]
+Vorsicht!
+(Осторожно!)
+Willkommen!
+(Добро пожаловать!)
+Gerne!
+(Охотно! С удовольствием!)
+Bitte!
+(Пожалуйста!)
+Tschüss!
+(Пока!)
+[неформальное прощание]
+Danke!
+(Спасибо!)
+Auf Wiederhören!
+(Услышимся!)
+Achtung!
+(Внимание!)
+Auf Wiedersehen!
+(До встречи!)
+Время #1
+die Zeit, -en
+(время)
+die Sekunde, -n
+(секунда)
+das Datum, die Daten
+(дата, число)
+der Moment, -e
+(момент)
+das Jahr, -e
+(год)
+der Morgen, —
+(утро)
+der Monat, -e
+(месяц)
+der Vormittag, -e
+(первая половина дня)
+die Woche, -n
+(неделя)
+der Mittag, -e
+(полдень)
+der Tag, -e
+(день)
+der Nachmittag, -e
+(вторая половина дня)
+die Stunde, -n
+(час, урок)
+der Abend, -e
+(вечер)
+die Minute, -n
+(минута)
+die Nacht, -¨e
+(ночь)
+Время #2
+anfangen
+(начинать, начинаться)
+sofort
+(сейчас же)
+dauern
+(длиться)
+heute
+(сегодня)
+enden
+(заканчивать, оканчиваться)
+gerade
+(прямо сейчас, только что)
+nie
+(никогда)
+zurzeit
+(в этот момент, прямо сейчас)
+einmal
+(один раз, однажды)
+jetzt
+(теперь, сейчас)
+oft
+(часто)
+schon
+(уже)
+immer
+(всегда)
+seit
+(с)
+[даты, времени]
+früher
+(раньше)
+spät
+(поздно)
+gestern
+(вчера)
+morgen
+(завтра)
+bald
+(скоро)
+Дни недели
+der Wochentag, -e
+(день недели)
+der Freitag, -e
+(пятница)
+der Montag, -e
+(понедельник)
+das Wochenende, -n
+(выходные)
+der Dienstag, -e
+(вторник)
+der Samstag, -e
+(суббота)
+der Mittwoch, -e
+(среда)
+der Sonntag, -e
+(воскресенье)
+der Donnerstag, -e
+(четверг)
+Времена года и месяца
+der Frühling, -e
+(весна)
+der Mai, -e
+(май)
+der Sommer, —
+(лето)
+der Juni, -s
+(июнь)
+der Herbst, -e
+(осень)
+der Juli, -s
+(июль)
+der Winter, —
+(зима)
+der August, -e
+(август)
+der Januar, -e
+(январь)
+der September, —
+(сентябрь)
+der Februar, -e
+(февраль)
+der Oktober, —
+(октябрь)
+der März, -e
+(март)
+der November, —
+(ноябрь)
+der April, -e
+(апрель)
+der Dezember, —
+(декабрь)
+Цифры и числа
+eins
+(один)
+siebzehn
+(семнадцать)
+zwei
+(два)
+achtzehn
+(восемнадцать)
+drei
+(три)
+neunzehn
+(девятнадцать)
+vier
+(четыре)
+zwanzig
+(двадцать)
+fünf
+(пять)
+dreißig
+(тридцать)
+sechs
+(шесть)
+vierzig
+(сорок)
+sieben
+(семь)
+fünfzig
+(пятьдесят)
+acht
+(восемь)
+sechzig
+(шестьдесят)
+neun
+(девять)
+siebzig
+(семьдесят)
+zehn
+(десять)
+achtzig
+(восемьдесят)
+elf
+(одиннадцать)
+neunzig
+(девяносто)
+zwölf
+(двенадцать)
+hundert
+(сто)
+dreizehn
+(тринадцать)
+tausend
+(тысяча)
+vierzehn
+(четырнадцать)
+die Million, -en
+(миллион)
+fünfzehn
+(пятнадцать)
+die Milliarde, -n
+(миллиард)
+sechzehn
+(шестнадцать)
+Меры длины и веса
+der Meter, —
+(метр)
+der Liter, —
+(литр)
+der Zentimeter, —
+(сантиметр)
+das Gramm, -e
+(грамм)
+der Quadratmeter, —
+(квадратный метр)
+das Kilogramm, -e
+(килограмм)
+das Prozent, -e
+(процент)
+das Pfund, -e
+(фунт)
+Количество
+circa
+(примерно, приблизительно)
+mehr
+(больше)
+bisschen
+(немного)
+viel
+(много)
+wenig
+(мало)
+Цвета
+schwarz
+(чёрный)
+grün
+(зелёный)
+weiß
+(белый)
+rot
+(красный)
+grau
+(серый)
+gelb
+(жёлтый)
+blau
+(синий)
+braun
+(коричневый)
+Вопросительные слова
+wer
+(кто?)
+warum
+(почему?)
+was
+(что?)
+woher
+(откуда?)
+wo
+(где?)
+wohin
+(куда?)
+wie
+(как?)
+wie viel
+(как много?)
+wann
+(когда?)
+was für ein/eine/einen
+(что за? какой?)
+География, направления, стороны света
+die Welt, -en
+(мир)
+der Teil, -e
+(часть)
+das Land, -¨er
+(страна)
+geradeaus
+(прямо)
+[идти, ехать]
+die Stadt, -¨e
+(город)
+zurück
+(назад, обратно)
+das Dorf, -¨er
+(деревня)
+nach links
+(налево)
+die Straße, -n
+(улица)
+nach rechts
+(направо)
+der Platz, -¨e
+(место, площадь)
+der Norden (Sn.)
+(север)
+der Ort, -e
+(место, небольшой городок)
+der Süden (Sn.)
+(юг)
+der Anfang, -¨e
+(начало)
+der Westen (Sn.)
+(запад)
+die Mitte, -n
+(середина)
+der Osten (Sn.)
+(восток)
+das Ende, -n
+(конец)
+Положение
+hier
+(здесь, тут)
+rechts
+(справа)
+da
+(там, тут)
+oben
+(наверху)
+dort
+(там)
+unten
+(внизу)
+daneben
+(рядом)
+unter
+(под)
+draußen
+(снаружи, на улице)
+hinten
+(сзади)
+links
+(слева)
+hinter
+(находиться позади)
+[чего-либо]
+Состояния
+weg sein
+(быть не здесь, отсутствовать, уйти)
+auf sein
+(быть открытым)
+[об окне, двери, магазине]
+zu sein
+(быть закрытым)
+aus sein
+(быть выключенным, не работать [о технике])
+an sein
+(быть включённым, работать
+[о технике])
+Модальные и базовые глаголы
+haben
+(иметь)
+müssen
+(быть должным, обязанным)
+sein
+(быть)
+sollen
+(быть должным, иметь приказ)
+werden
+(становиться)
+heißen
+(зваться, называться)
+können
+(мочь, уметь)
+brauchen
+(нуждаться)
+wollen
+(хотеть)
+bekommen
+(получать)
+möchten
+(хотеть)
+[вежливая форма]
+kriegen
+(воевать, получать [разг.])
+dürfen
+(мочь, иметь право, разрешение)
+gehören
+(принадлежать)
+Глаголы движения, положения, состояния
+schlafen
+(спать)
+laufen
+(бежать)
+stehen
+(стоять)
+fahren
+(ехать)
+aufstehen
+(вставать)
+fliegen
+(летать)
+liegen
+(лежать)
+kommen
+(приходить)
+sitzen
+(сидеть)
+tanzen
+(танцевать)
+gehen
+(идти)
+spielen
+(играть)
+Прилагательные-характеристики
+alt
+(старый)
+klein
+(маленький, низкий [о людях])
+neu
+(новый, новенький)
+groß
+(большой, высокий [о людях])
+jung
+(молодой)
+schön
+(красивый)
+gut
+(хороший)
+kurz
+(короткий)
+schlecht
+(плохой)
+lang
+(длинный)
+normal
+(нормальный)
+hoch
+(высокий)
+[о неодушевлённых предметах]
+Предлоги, союзы и т. д.
+aber
+(но)
+vor
+(перед)
+oder
+(или)
+zwischen
+(между)
+und
+(и, а)
+über
+(о, над)
+ab
+(от, начиная с)
+um
+(вокруг)
+an
+(у)
+ohne
+(без)
+aus
+(из)
+durch
+(через, сквозь)
+in
+(в)
+nach
+(после)
+auf
+(на)
+zu
+(к)
+von
+(от)
+auch
+(также, тоже)
+bis
+(до)
+dann
+(тогда)
+für
+(за, для)
+denn
+(потому что)
+gegen
+(против)
+noch
+(ещё)
+bei
+(при, у)
+Другое
+sehr
+(очень)
+vielleicht
+(может быть)
+also
+(итак)
+möglich
+(возможно, реально, осуществимо)
+so
+(так)
+nur
+(только)
+lieber
+(лучше, охотнее)
+wunderbar
+(чудесный, чудный)
+besser
+(лучше)
+nicht
+(не)
+[частица отрицания]
+weiter
+(дальше, продолжай)
+nichts
+(ничего, ничто)
+leider
+(к сожалению)
+Природа и погода
+das Wetter, —
+(погода)
+der Regen, —
+(дождь)
+der Grad, -e
+(градус)
+[температура, наклон]
+der See, -n
+(озеро)
+klar
+(ясно)
+[о погоде или «понятно»]
+das Meer, -e
+(море)
+die Sonne, -n
+(солнце)
+das Feuer, —
+(огонь)
+scheinen
+(светить)
+[о Солнце]
+der Baum, -¨e
+(дерево)
+der Wind, -e
+(ветер)
+die Blume, -n
+(цветок)
+regnen
+(идёт дождь)
+Люди
+das Kind, -er
+(ребёнок)
+männlich
+(мужественный, мужской)
+der Junge, -n
+(мальчик)
+die Frau, -en
+(женщина, госпожа)
+[вежливое обращение]
+das Mädchen, —
+(девочка)
+die Dame, -n
+(дама)
+der Jugendliche, -n
+(молодой человек, девушка)
+[не зависит от пола]
+weiblich
+(женственный, женский)
+der Erwachsene, -n
+(взрослый)
+der Mensch, -en
+(человек)
+der Herr, -en
+(мужчина, господин)
+[вежливое обращение]
+die Leute (Pl.)
+(люди)
+der Mann, -¨er
+(мужчина)
+international
+(интернациональный)
+Социальные контакты
+der Gruß, -¨e
+(приветствие)
+bitten
+(просить)
+(sich) vorstellen
+(представлять(ся))
+die Bitte, -n
+(просьба)
+sagen
+(сказать, говорить)
+danken
+(благодарить)
+sprechen
+(говорить, беседовать)
+der Dank (Sn.)
+(благодарность)
+fragen
+(спрашивать)
+(sich) entschuldigen
+(извинять(ся))
+die Frage, -n
+(вопрос)
+die Entschuldigung, -en
+(извинение)
+antworten
+(отвечать)
+helfen
+(помогать)
+die Antwort, -en
+(ответ)
+die Hilfe, -n
+(помощь)
+erzählen
+(рассказывать)
+Телефонный разговор
+das Telefon, -e
+(телефон)
+telefonieren
+(говорить по телефону)
+das Handy, -s
+(мобильный телефон)
+wiederholen
+(повторять)
+anrufen
+(звонить кому-либо по телефону)
+verstehen
+(понимать)
+der Anruf, -e
+(телефонный звонок)
+buchstabieren
+(диктовать по буквам)
+der Anrufbeantworter, —
+(автоответчик)
+Чувства и эмоции
+hören
+(слышать)
+glauben
+(верить, считать)
+[иметь мнение]
+sehen
+(смотреть, видеть)
+lustig
+(весёлый)
+schmecken
+(чувствовать вкус, быть на вкус)
+zufrieden
+(довольный)
+riechen
+(чувствовать запах, пахнуть)
+ruhig
+(спокойный)
+(sich) freuen
+(радовать(ся))
+böse
+(злой)
+lachen
+(смеяться)
+müde
+(усталый)
+gefallen
+(нравиться)
+glücklich
+(счастливый)
+mögen
+(испытывать симпатию, любить)
+[неодушевлённые вещи]
+das Glück
+(счастье)
+lieben
+(любить)
+Семья и домашние животные
+heiraten
+(жениться, выходить замуж)
+die Tochter, -¨
+(дочь)
+sich kümmern
+(заботиться, позаботиться)
+der Bruder, -¨
+(брат)
+die Familie, -n
+(семья)
+die Schwester, -n
+(сестра)
+die Ehefrau, -en
+(жена)
+der Verwandte, -en
+(родственник)
+der Ehemann, -¨er
+(Муж)
+die Geschwister (Pl.)
+(братья и сёстры)
+der Partner, —
+(Партнёр)
+die Großeltern (Pl.)
+(бабушки и дедушки)
+die Mutter, -¨er
+(мама)
+die Großmutter, -¨
+(бабушка)
+der Vater, -¨er
+(отец)
+der Großvater, -¨
+(дедушка)
+die Eltern (Pl.)
+(родители)
+die Oma, -s
+(бабушка)
+[разговорное]
+das Baby, -s
+(младенец)
+der Opa, -s
+(дедушка)
+[разговорное]
+der Sohn, -¨e
+(сын)
+der Hund, -e
+(собака)
+Друзья и знакомые
+fremd
+(чужой)
+beide
+(оба/обе)
+kennen
+(знать, быть знакомым)
+(sich) treffen
+(встречать(ся))
+kennenlernen
+(знакомиться)
+warten
+(ждать)
+bekannt
+(известный)
+besuchen
+(посещать)
+[обычно человека]
+der Bekannte, -n
+(знакомый)
+bleiben
+(оставаться)
+der Freund, -e
+(друг)
+übernachten
+(переночевать)
+gleich
+(одинаковый, похожий)
+mitbringen
+(приносить с собой)
+allein
+(один/одна, в одиночку)
+mitkommen
+(прийти вместе с кем-либо)
+zusammen
+(вместе)
+mitmachen
+(делать что-то вместе с кем-то)
+Праздники
+die Party, -s
+(вечеринка)
+mitnehmen
+(взять с собой)
+die Disco, -s
+(дискотека)
+gratulieren
+(поздравлять)
+die Hochzeit, -en
+(свадьба)
+der Glückwunsch, -¨e
+(пожелание счастья, пожелание к празднику)
+die Einladung, -en
+(приглашение)
+herzlich
+(сердечно, от всего сердца)
+einladen
+(приглашать)
+feiern
+(праздновать)
+der Gast, -¨e
+(гость)
+grillen
+(жарить гриль)
+das Geschenk, -e
+(подарок)
+Приём пищи
+der Hunger (Sn.)
+(голод)
+trinken
+(пить)
+der Durst (Sn.)
+(жажда)
+bitter
+(горький)
+der Appetit (Sn.)
+(аппетит)
+frühstücken
+(завтракать)
+kochen
+(готовить, варить)
+das Frühstück, -e
+(завтрак)
+essen
+(есть, кушать)
+das Glas, -¨er
+(стакан, стекло)
+das Essen, —
+(еда)
+die Flasche, -n
+(бутылка)
+Рестораны и кафе
+die Bäckerei, -en
+(пекарня)
+das Restaurant, -s
+(ресторан)
+das Café, -s
+(кафе)
+die Speisekarte, -n
+(меню)
+[в кафе, ресторане]
+das Lokal, -e
+(кафе, забегаловка)
+Продукты питания
+das Lebensmittel, —
+(продукты питания)
+die Butter (Sn.)
+(сливочное масло)
+der Fisch, -e
+(рыба)
+[как вид мяса только в единственном числе]
+das Ei, -er
+(яйцо)
+das Fleisch (Sn.)
+(мясо)
+das Brot, -e
+(хлеб)
+das Hähnchen, —
+(курица)
+[сырая или готовая]
+das Brötchen, —
+(булочка)
+der Schinken, —
+(ветчина)
+der Kuchen, —
+(пирог)
+das Öl, -e
+(масло)
+[растительное, моторное]
+die Pommes frites (Pl.)
+(картошка фри)
+das Salz, -e
+(соль)
+der Reis, -e
+(рис)
+Фрукты и овощи
+das Obst (Sn.)
+(фрукты)
+das Gemüse, —
+(овощи)
+der Apfel, -¨
+(яблоко)
+die Kartoffel, -n
+(картофель)
+die Banane, -n
+(банан)
+der Salat, -e
+(салат)
+die Birne, -n
+(груша)
+die Tomate, -n
+(помидор)
+Напитки
+das Getränk, -e
+(напиток)
+der Saft, -¨e
+(сок)
+der Tee, -s
+(чай)
+das Wasser, -¨
+(вода)
+der Kaffee, -s
+(кофе)
+das Bier, -e
+(пиво)
+die Milch, -en
+(молоко)
+der Wein, -e
+(вино)
+Аренда жилья
+die Anzeige, -n
+(объявление [на бумаге], заявление [в полицию])
+mieten
+(снимать жильё)
+wohnen
+(жить)
+die Miete, -n
+(арендная плата)
+die Wohnung, -en
+(квартира)
+vermieten
+(сдавать)
+das Apartment, -s
+(апартаменты)
+der Vermieter, —
+(арендодатель)
+das Haus, die Häuser
+(дом)
+umziehen
+(переезжать)
+Дом, квартира, комнаты
+der Eingang, -¨e
+(вход)
+die Dusche, -n
+(душ)
+der Ausgang, -¨e
+(выход)
+der Balkon, -e
+(балкон)
+die Halle, -n
+(зал)
+die Küche, -n
+(кухня)
+der Stock, -¨e
+(этаж)
+die Toilette, -n
+(туалет)
+der Aufzug, -¨e
+(лифт)
+hell
+(светлый, светло)
+die Treppe, -n
+(лестница)
+breit
+(широкий, широко)
+die Ecke, -n
+(угол)
+kaputt
+(сломанный)
+der Raum, -¨e
+(комната, помещение)
+reparieren
+(чинить)
+das Zimmer, —
+(комната)
+[в квартире, отеле]
+die Reparatur, -en
+(починка, ремонт)
+die Farbe, -n
+(краска, цвет)
+der Anschluss, -¨e
+(подключение)
+das Bad, -¨er
+(ванна)
+Мебель и интерьер
+die Möbel (Pl.)
+(мебель)
+der Schlüssel, —
+(ключ)
+das Bett, -en
+(кровать)
+der Schrank, -¨e
+(шкаф)
+das Sofa, -s
+(диван)
+der Kühlschrank, -¨e
+(холодильник)
+der Tisch, -e
+(стол)
+der Herd, -e
+(кухонная плита)
+das Bild, -er
+(картина)
+das Licht, -er
+(свет)
+die Uhr, -en
+(часы)
+Действие и взаимодействие
+machen
+(делать)
+öffnen
+(открывать)
+ausmachen
+(выключать)
+schließen
+(закрывать)
+anmachen
+(включать)
+bringen
+(приносить, перемещать)
+tun
+(поступать, делать)
+holen
+(приносить, доставать)
+suchen
+(искать)
+geben
+(давать)
+finden
+(находить)
+stellen
+(ставить)
+nehmen
+(брать)
+legen
+(класть)
+halten
+(держать)
+beginnen
+(начинать)
+benutzen
+(использовать, применять)
+aufhören
+(прекращать)
+Хобби и привычки
+das Hobby, -s
+(хобби)
+das Kino, -s
+(кинотеатр)
+die Freizeit (Sn.)(свободное время)	wandern
+(ходить в поход, гулять в лесу)
+lesen
+(читать)
+der Garten, -¨
+(сад)
+das Buch, -¨er
+(книга)
+kulturell
+(культурный)
+[связанный в культурой]
+die Zeitung, -en
+(газета)
+das Lied, -er
+(песня)
+fernsehen
+(смотреть телевизор)
+rauchen
+(курить)
+der Film, -e
+(фильм)
+die Zigarette, -n
+(сигарета)
+Спорт
+der Sport, -e
+(спорт)
+schwimmen
+(плавать)
+der Verein, -e
+(объединение, общество)
+das Schwimmbad, -¨er
+(бассейн)
+der Fußball, -¨e
+(футбол [Sn.], футбольный мяч)
+gewinnen
+(выигрывать)
+der Bogen, —
+(дуга, лук)
+[оружие]
+Покупки и одежда
+der Laden, -¨
+(магазин)
+günstig
+(выгодный по цене, недорогой)
+das Geschäft, -e
+(бизнес, магазин)
+billig
+(дешёвый, дешево)
+der Kiosk, -e
+(киоск)
+teuer
+(дорогой)
+geöffnet
+(открыто, открытый)
+bestellen
+(заказывать)
+geschlossen
+(закрыто, закрытый)
+die Kasse, -n
+(касса)
+anbieten
+(предлагать)
+zahlen
+(платить)
+das Angebot, -e
+(предложение)
+bezahlen
+(оплачивать)
+der Prospekt, -e
+(проспект)
+[улица, рекламка]
+die Tasche, -n
+(сумка)
+kaufen
+(покупать)
+empfehlen
+(рекомендовать)
+einkaufen
+(делать покупки)
+die Größe, -n
+(размер)
+verkaufen
+(продавать)
+die Jacke, -n
+(куртка)
+der Verkäufer, —
+(продавец)
+die Kleidung, -en
+(одежда)
+kosten
+(стоить)
+der Schuh, -e
+(ботинок)
+der Preis, -e
+(цена)
+Путешествия
+die Heimat, -en
+(родина)
+der Ausländer, —
+(иностранец)
+reisen
+(путешествовать)
+ausländisch
+(иностранный)
+die Reise, -n
+(путешествие)
+das Hotel, -s
+(отель)
+das Reisebüro, -s
+(бюро путешествий)
+die Rezeption, -en
+(рецепция)
+der Reiseführer, —
+(гид)
+[человек, книга]
+das Doppelzimmer, —
+(комната на двоих в отеле)
+der Koffer, —
+(чемодан)
+das Einzelzimmer
+(комната на одного в отеле)
+das Gepäck (Sn.)
+(багаж)
+die Halbpension (Sn.)
+(полупансион)
+[в отеле, санатории]
+abfahren
+(выезжать, отъезжать, отправляться)
+die Karte, -n
+(карта)
+die Abfahrt, -en
+(отправление, отъезд)
+der Ausflug, -¨e
+(экскурсия, поездка с целью развлечения)
+abfliegen
+(вылетать)
+[например, на самолёте]
+der Plan, -¨e
+(план)
+der Abflug, -¨e
+(вылет)
+eilig
+(спешный, спешно)
+ankommen
+(прибывать, приезжать)
+die Eile (Sn.)
+(спешка)
+die Ankunft, -¨e
+(прибытие)
+die Sehenswürdigkeit, -en
+(достопримечательность)
+das Ausland (Sn.)
+(заграница)
+besichtigen
+(посещать)
+[место, достопримечательность]
+Транспорт и техника
+das Auto, -s
+(машина)
+das Fahrrad, -¨er
+(велосипед)
+die Autobahn, -en
+(скоростная трасса)
+Rad fahren
+(ехать на велосипеде)
+das Taxi, -s
+(такси)
+der Lkw, -s
+(грузовик)
+der Fahrer, —
+(водитель)
+die Fahrkarte, -n
+(проездной билет)
+der Bus, -¨e
+(автобус)
+das Ticket, -s
+(билет)
+[проездной, на мероприятие]
+die Haltestelle, -n
+(остановка общественного транспорта)
+einsteigen
+(входить, садиться)
+[в транспорт]
+die Bahn, -en
+(железная дорога)
+aussteigen
+(выходить)
+[из транспорта, «игры»]
+die S-Bahn, -en
+(пригородная электричка в германии)
+frei
+(свободно, свободный)
+die Straßenbahn, -en
+(трамвай)
+besetzt
+(занято)
+der Zug, -¨e
+(поезд)
+langsam
+(медленный)
+der Bahnhof, -¨e
+(вокзал)
+schnell
+(быстрый)
+der Bahnsteig, -e
+(железнодорожная платформа)
+der Automat, -e
+(автомат)
+[устройство]
+das Gleis, -e
+(железнодорожный путь)
+automatisch
+(автоматически)
+das Flugzeug, -e
+(самолёт)
+die Maschine, -n
+(механизм, станок)
+der Flughafen, -¨
+(аэропорт)
+das Schild, -er
+(знак [дорожный], щит, вывеска, табличка)
+Тело, уход за собой и медицина
+der Kopf, -¨e
+(голова)
+aussehen
+(выглядеть)
+der Arm, -e
+(рука)
+(sich) anziehen
+(одевать(ся))
+die Hand, -¨e
+(ладонь)
+(sich) ausziehen
+(раздевать(ся))
+das Bein, -e
+(нога)
+baden
+(принимать ванну, купаться)
+der Fuß, -¨e
+(стопа)
+(sich) duschen
+(мыть(ся) в душе)
+der Bauch, -¨e
+(живот)
+(sich) waschen
+(мыть(ся))
+das Haar, -¨e
+(волос)
+krank
+(больной)
+der Mund, -¨er
+(рот)
+weh tun
+(делать больно)
+das Auge, -n
+(глаз)
+das Fieber, —
+(жар)
+[температура]
+der Blick, -e
+(взгляд)
+der Arzt, -¨e
+(врач)
+das Gewicht, -e
+(вес)
+der Doktor, -en
+(доктор)
+[врач, кандидат наук]
+Жизнь и смерть
+geboren
+(рожден(а))
+gestorben
+(умер(ла))
+leben
+(жить)
+tot
+(мёртвый)
+das Leben, —
+(жизнь)
+Учёба
+der Kindergarten, -¨
+(детский сад)
+die Hausaufgabe, -n
+(домашнее задание)
+laut
+(громкий, громко)
+der Test, -e
+(тест)
+leise
+(тихий, тихо)
+die Prüfung, -en
+(экзамен)
+lernen
+(учить [что-нибудь], учиться)
+der Bleistift, -e
+(простой карандаш)
+die Schule, -n
+(школа)
+der Kugelschreiber, —
+(шариковая ручка)
+die Klasse, -n
+(класс)
+das Papier, -e
+(бумага, документ)
+der Schüler, —
+(ученик)
+schreiben
+(писать)
+der Lehrer, —
+(учитель)
+wissen
+(знать)
+studieren
+(учиться в вузе)
+leicht
+(лёгкий, легко)
+das Studium, die Studien
+(учёба в вузе)
+einfach
+(простой, просто)
+die Gruppe, -n
+(группа)
+schwer
+(тяжёлый, тяжело)
+der Student, -en
+(студент)
+die Lösung, -en
+(решение, ответ [к задаче])
+der Unterricht, -e
+(занятие)
+fertig
+(готовый, готово)
+die Pause, -n
+(пауза, перерыв)
+das Ergebnis, -se
+(результат)
+das Thema, die Themen
+(тема)
+richtig
+(правильный, правильно)
+die Information, -en
+(информация)
+falsch
+(неправильный, неправильно)
+das Beispiel, -e
+(пример)
+der Fehler, —
+(ошибка)
+zum Beispiel
+(например)
+fehlen
+(отсутствовать)
+erklären
+(объяснять)
+das Praktikum, die Praktika
+(практика [после учёбы])
+die Aufgabe, -n
+(задание)
+der Kurs, -e
+(курс)
+[дополнительное образование, направление движения]
+Языки
+der Buchstabe, -n
+(буква)
+die Sprache, -n
+(язык)
+[немецкий, английский и т. д.]
+das Wort, -¨er
+(слово)
+die Aussage, -n
+(высказывание)
+der Satz, -¨e
+(предложение)
+bedeuten
+(означать, значить)
+der Text, -e
+(текст)
+Работа и профессия
+der Beruf, -e
+(профессия)
+der Chef, -s
+(шеф)
+arbeiten
+(работать)
+der Kollege, -n
+(коллега)
+die Arbeit, -en
+(работа)
+der Kunde, -n
+(клиент)
+der Job, -s
+(работа)
+[чаще ручной или несложный труд]
+die Anrede, -n
+(обращение, официальная речь)
+arbeitslos
+(безработный)
+die Ansage, -n
+(объявление, оповещение о чём-либо)
+die Firma, die Firmen
+(фирма)
+die Durchsage, -n
+(объявление)
+[через громкоговоритель, аудио-систему]
+selbstständig
+(самостоятельный, самозанятый)
+das Gespräch, -e
+(разговор)
+die Praxis, die Praxen
+(врачебный кабинет)
+[личный, для врача-предпринимателя]
+das Problem, -e
+(проблема)
+die Hausfrau, -en
+(домохозяйка)
+wichtig
+(важный)
+der Hausmann, -¨er
+(домохозяин)
+der Schluss, -¨e
+(конец, завершение)
+der Arbeitsplatz, -¨e
+(рабочее место)
+der Urlaub, -e
+(отпуск)
+die Stelle, -n
+(место, позиция, должность)
+verdienen
+(зарабатывать)
+die Führung, -en
+(управление, руководство)
+Компьютерная техника
+der Computer, -s
+(компьютер)
+drucken
+(печатать)
+das Internet (Sn.)
+(интернет)
+drücken
+(нажимать)
+das Fax, -e
+(факс)
+anklicken
+(кликнуть мышкой)
+[на объект, ссылку]
+der Drucker, —
+(принтер)
+die CD, -s
+(компакт-диск)
+Государственные органы
+der Eintritt, -e
+(вступление [в организацию, партию], вход [на мероприятие])
+der Zoll, -¨e
+(таможня)
+der Termin, -e
+(запись на время)
+[к врачу, чиновнику]
+die Polizei, -en
+(полиция)
+der Schalter, —
+(переключатель, окошко [в гос.органах, банке])
+der Ausweis, -e
+(документ, удостоверяющий личность)
+[id-карта]
+pünktlich
+(вовремя)
+der Pass, -¨e
+(паспорт)
+die Nummer, -n
+(номер)
+[число]
+die Papiere (Pl.)
+(документы)
+(sich) anmelden
+(зарегистрировать(ся), записать(ся))
+gültig
+(действительный, актуальный)
+die Anmeldung, -en
+(регистрация)
+die Ordnung, -en
+(порядок)
+die Auskunft, -¨e
+(выписка, справка)
+erlauben
+(разрешать)
+das Foto, -s
+(фото)
+verboten
+(запрещать, запрещено)
+der Beamte, -n
+(госслужащий)
+Анкеты и формуляры
+das Formular, -e
+(формуляр)
+der Geburtsort, -e
+(место рождения)
+ausfüllen
+(заполнять)
+[документ, анкету]
+das Alter, —
+(возраст)
+ankreuzen
+(отметить крестиком)
+der Familienstand, -¨e
+(семейное положение)
+der Name, -n
+(имя, название)
+ledig
+(холостой)
+der Vorname, -n
+(имя)
+verheiratet
+(женат, замужем)
+der Familienname, -n
+(фамилия)
+unterschreiben
+(подписывать)
+das Geburtsjahr, -e
+(год рождения)
+die Unterschrift, -en
+(подпись)
+der Geburtstag
+(день рождения)
+Финансы
+die Bank, -¨e
+(скамья)
+das Konto, die Konten
+(счёт)
+[в банке]
+die Bank, -en
+(банк)
+die Kreditkarte, -n
+(кредитная карта)
+das Geld, -er
+(деньги)
+die Rechnung, -en
+(счёт)
+[квитанция на оплату]
+bar
+(наличные)
+überweisen
+(переводить)
+[деньги, пациента от врача к врачу]
+Почта
+die Post, -en
+(почта)
+die Postleitzahl, -en
+(почтовый индекс)
+der Brief, -e
+(письмо)
+abgeben
+(отдавать)
+die Briefmarke, -n
+(почтовая марка)
+schicken
+(отправлять, посылать)
+der Absender, —
+(отправитель)
+abholen
+(забирать)
+der Empfänger, —
+(получатель, адресат)
+die Vorwahl, -en
+(телефонный код)
+die Adresse, -n
+(адрес)
+
