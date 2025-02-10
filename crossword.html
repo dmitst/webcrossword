@@ -280,14 +280,9 @@
                     this.processCell(pos);
                 }
 
-                // push the used words back to the end of the dictionary
-                for (let i = 0; i != this.words.length; ++i) {
-                    this.dict.push(this.words[i].text);
-                }
-
                 this.sortWords();
                 return this.words;
-            }
+           }
 
             static makeCell(pos) {
                 return {
@@ -339,7 +334,7 @@
                 const maxPos = this.getFurthestPos(pos, directionHorizontal, 1);
                 const ranges = CrosswordGenerator.getRanges(minPos, maxPos);
                 CrosswordGenerator.shuffle(ranges);
-
+                CrosswordGenerator.alignRanges(ranges);
                 for (const range of ranges) {
                     const wordPos = this.advance(pos, range.start, directionHorizontal);
                     const wordIdx = this.findWord(wordPos, range.len, directionHorizontal);
@@ -349,6 +344,17 @@
                     }
                 }
                 this.getCell(pos).disableDirection(directionHorizontal);
+            }
+
+            static alignRanges(ranges) {
+                if(ranges.length > 1) {
+                    let pos = ranges.length - 1;
+                    for (let i = ranges.length - 2; i >= 0; --i) {
+                        if(ranges[i].len < 4) {
+                            CrosswordGenerator.swap(ranges, i, pos--);
+                        }
+                    }
+                }
             }
 
             advance(pos, steps, directionHorizontal) {
@@ -381,10 +387,14 @@
                 return ranges;
             }
 
+            static swap(array, i, j) {
+                    [array[i], array[j]] = [array[j], array[i]];
+            }
+
             static shuffle(array) {
                 for (let i = array.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
-                    [array[i], array[j]] = [array[j], array[i]];
+                    CrosswordGenerator.swap(array, i, j);
                 }
                 return array;
             }
@@ -471,7 +481,7 @@
         }
 
        class Crossword {
-            constructor(size) {
+            constructor(size, dict, getback) {
                 this.size = size;
                 this.currentPosition = -1;
                 this.currentHorizontal = true;
@@ -481,8 +491,16 @@
                 this.boxes = [];
 
                 this.generateGrid();
-                this.generateClues(CrosswordGenerator.generateCrossword(size, dict));
+                const words = CrosswordGenerator.generateCrossword(size, dict);
+                this.generateClues(words);
 
+                // push the used words back to the end of the dictionary
+                if(getback) {
+                    for (let i = 0; i != words.length; ++i) {
+                        dict.push(words[i].text);
+                    }
+                }
+ 
                 Crossword.addToolbarKeys(this);
                 Crossword.createKeyboardPopup(this);
                 Crossword.setKeyHandler(this);
@@ -666,6 +684,9 @@
 
             focusAndSelect(pos, hor) {
                 const box = this.boxes[pos];
+                if (box == undefined) {
+                    console.log(`No box at pos ${pos}`);//FIXME
+                }
                 if(!box.isBlank) {
                     const hadFocus = this.currentPosition == pos;
                     this.focus(false);
@@ -695,7 +716,7 @@
                         this.focusAndSelect(this.currentPosition - this.size);
                         break;
                  case 'ArrowLeft':
-                        if(pos % this.size != 0) {
+                        if(this.currentPosition % this.size != 0) {
                             this.focusAndSelect(this.currentPosition - 1);
                         }
                         break;
@@ -819,7 +840,7 @@
                         if(ch >='a' && ch <= 'z') {
                             this.writeLetterAndAdvancePos(ch, false);
                         } else if(ch >='0' && ch <= '5') {
-                            this.processSpecialKey(pos, ch);
+                            this.processSpecialKey(ch);
                         } else if(ch == '=') {
                             this.solveCrossword();
                         }
@@ -1015,7 +1036,8 @@
             document.querySelector('.clues').style.visibility = 'visible';
 
             const size = parseInt(document.getElementById('gridSize').value);
-            crossword = new Crossword(size, dict);
+            const getback = document.getElementById('getback').checked;
+            crossword = new Crossword(size, dict, getback);
        }
 
         function loadDictionary(event) {
@@ -1091,6 +1113,7 @@
     <footer class="controls">
         <div class="cbtn" onclick="generateCrossword()"><svg width="30" height="30" enable-background="new 0 0 50 50" version="1.1" viewBox="0 0 50 50" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g id="Layer_1"><path d="M48,2H2v46h46V2z M46,13h-9V4h9V13z M26,13V4h9v9H26z M35,15v9h-9v-9H35z M24,13h-9V4h9V13z M24,15v9h-9v-9H24z M13,24H4   v-9h9V24z M13,26v9H4v-9H13z M15,26h9v9h-9V26z M24,37v9h-9v-9H24z M26,37h9v9h-9V37z M26,35v-9h9v9H26z M37,26h9v9h-9V26z M37,24   v-9h9v9H37z M13,4v9H4V4H13z M4,37h9v9H4V37z M37,46v-9h9v9H37z"/></g><g/></svg></div>
         <input type="range" id="gridSize" min="10" max="20" step="1" />
+        <input type="checkbox" id="getback">
         <input type="file" id="dictFile" onchange="loadDictionary(event)">
     </footer>
 </div>
