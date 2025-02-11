@@ -964,7 +964,7 @@ wählen: выбирать
 wecken: будить
 wehtun: делать больно
 weitermachen: продолжать
-weiterhelfen: помочь продвинуться в чем-либо
+weiterhelfen: помочь еще в чем-либо
 zeigen: показывать, указывать
 austragen: разносить [письма, рекламки и т. д.]
 bauen: строить
@@ -1141,7 +1141,7 @@ poster: постер
 beliebt: пользующийся популярностью
 berühmt: известный
 fan: фанат
-star: звезда
+star: звезда(знаменитость), скворец
 tour: тур [концертный]
 #Здоровье и медицина
 konzert: концерт
@@ -1256,7 +1256,7 @@ produkt: продукт
 projekt: проект
 qualität: качество
 service: сервис
-tipp: совет
+tipp: совет, намек, подсказка
 workshop: мастерская, воркшоп
 feierabend: конец рабочего дня
 #Финансы и почта
@@ -1282,10 +1282,7 @@ verschieben: передвинуть
 bestätigen: подтвердить
 wechseln: [за]менять
 kontrollieren: контролировать
-fertigsein: быть готовым (2 слова)
-gültigsein: быть действительным (2 слова)
 eintragen: записать, внести
-erlaubtsein: быть разрешённым (2 слова)
 #Компьютер и техника
 verbieten: запретить
 apparat: аппарат
@@ -2166,6 +2163,7 @@ zahnbürste: зубная щётка
 besonder: особенный
 bart: борода
 blass: бледный
+bleich: бледный, обесцвеченый
 schlank: худой, стройный
 schmal: узкий, тонкий
 kräftig: сильный; крепкий [например, о кофе]
@@ -2567,7 +2565,7 @@ arbeitslosigkeit: безработица
 statistik: статистика
 statistisch: статистический
 #Бизнес
-reduzieren: сокращать, редуцировать
+reduzieren: сокращать
 gründen: основывать
 produzieren: производить
 firma: фирма, компания
@@ -2650,7 +2648,7 @@ etwa: примерно
 zusätzlich: дополнительно
 standpunkt: точка зрения; позиция, положение
 erzählung: рассказ
-bekanntgeben: объявлять, ankündigen
+bekanntgeben: объявлять 
 bescheidsagen: дать знать
 akzeptieren: принимать, соглашаться
 darstellen: изображать, представлять(из себя, собой), играть роль, запечетлевать, выражать
@@ -2826,8 +2824,8 @@ eigen: собственный; собственный
 einzel: розничный, единственный; розничный, единственный
 gesamt: вместе, в сумме, общий; вместе, в сумме, общий
 groß: большой, высокий [о людях], оптовый, старший
-miss: приставка, выражающая неудачу; приставка, выражающая неудачу
-sonder: специальный, особенный; специальный, особенный
+miss: приставка, выражающая неудачу
+sonder: специальный, особенный
 weise: способ, образ, мудрец, окончание, выражающее способ, манеру исполнения
 #Приставка ab-
 abhängen: зависеть; «зависать», «тусить» [разг.]
@@ -3321,3 +3319,173 @@ sicht: вид, точка зрения
 vielmehr: скорее(в большей степени), вернее, напротив/наоборот
 bewertung:оценка, рейтинг, отзыв
 berücksichtigen: учитывать, принимать во внимание
+verstopfen: закупоривать/закупорка, засорять/засор, затыкать, закладывать/заложенность(об ушах, носе)
+hinfliegen
+
+Gedanken
+
+Sinn
+
+zerfliegen
+
+Die Zeiger
+
+wirbeln 
+
+ein Rädchen
+
+Uhrwerk
+
+führen
+
+rückdatieren
+
+Die Kompassnadel
+
+rotieren
+
+ausschlägen 
+
+NB: finde kein zurück
+
+anhalten
+
+der Nebel 
+
+dringen
+
+sanft
+
+Rollen
+
+Der Fixstern
+
+verschlingen
+
+vergehen
+
+gleichen
+
+ankommen
+
+
+
+Der Löffel spoon
+
+Die Gabel fork
+
+Das Messer knife
+
+Die Serviette
+
+nicht wahr - does it/ doesn't it
+
+die erde - the earth
+
+das kochfeld - the stove
+
+hab nie geho:rt
+
+wie bitte?
+
+der Zentner —  50 kilo
+
+wie du willst - comme vous voulez
+
+
+Schnaphen (Jäger)
+
+Bei dem - beim
+
+Gerade  - just
+
+
+weniger
+
+Mancher
+
+Einigerl
+
+Viele
+
+
+Wenig
+
+Ein bisschen 
+
+Etwas
+
+Viel
+
+
+Freut mich
+
+Begrüßen
+
+vorstellen
+
+Teilnehmer
+
+Wohnort
+
+gut/besser/am besten - better than
+Möglich/Nicht möglich - possible /impossible
+Tauschangebot - exchange offer
+Eigentumswohnungen - Condos
+
+Mietwohnungen - rental appartments
+
+Wohnfläche - living space
+
+Zimmer - room
+
+Verfügbar ab - available from
+
+Einfamilienhaus freistehend - whole house
+
+Doppelhaushälfte - half of the whole house (?)
+
+Reihenhaus - townhouse
+
+Mehrfamilienhaus - appartment house
+
+
+Anbieter - provider (Privat or Gewerblich - agency or company)
+
+Balkon
+
+Terrasse
+
+Badewanne - bathtub
+
+Stufenloser Zugang - Stepless access
+
+Aufzug - elevator
+
+Keller - basement, cellar
+
+Kleinanzeigen - Classifieds
+
+Immobilien - property
+Neubau - new building
+häufiger / weniger 
+Das Ergebnis - the total Score, result
+
+Der Wettbewerb - a competition
+
+Der Bescheid - Info, message, explanation 
+
+Mitmachen - to participate 
+
+Abgemeldet sein - to be registered
+
+Nennen - to name, call, mention
+
+Das Geheimnis - a secret
+
+Die Spitze - the top
+
+Spitze (adj) - cool 
+
+Kassenbeleg = Beleg = Kassenbon = Quittung = Kassenzettel
+
