@@ -501,6 +501,8 @@
                     }
                 }
  
+                document.getElementById("leftwords").innerHTML = `${dict.length} words left`;
+
                 Crossword.addToolbarKeys(this);
                 Crossword.createKeyboardPopup(this);
                 Crossword.setKeyHandler(this);
@@ -1065,7 +1067,7 @@
                 }
             }
             dict = CrosswordGenerator.shuffle(Array.from(thesaurus.keys()));
-            console.log(`loaded ${thesaurus.size} entries`);
+            document.getElementById("leftwords").innerHTML = `${thesaurus.size} words left`;
         }
 
     </script>
@@ -1114,7 +1116,13 @@
         <div class="cbtn" onclick="generateCrossword()"><svg width="30" height="30" enable-background="new 0 0 50 50" version="1.1" viewBox="0 0 50 50" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g id="Layer_1"><path d="M48,2H2v46h46V2z M46,13h-9V4h9V13z M26,13V4h9v9H26z M35,15v9h-9v-9H35z M24,13h-9V4h9V13z M24,15v9h-9v-9H24z M13,24H4   v-9h9V24z M13,26v9H4v-9H13z M15,26h9v9h-9V26z M24,37v9h-9v-9H24z M26,37h9v9h-9V37z M26,35v-9h9v9H26z M37,26h9v9h-9V26z M37,24   v-9h9v9H37z M13,4v9H4V4H13z M4,37h9v9H4V37z M37,46v-9h9v9H37z"/></g><g/></svg></div>
         <input type="range" id="gridSize" min="10" max="20" step="1" />
         <input type="checkbox" id="getback">
+        <label for="getback"><svg width="30" height="30" viewBox="0 0 16 16" style="fill:none;stroke:gray" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.68623 0H10.3138L12.178 3.27835L13.9282 2.26789L14.4282 3.13392L13.3301 7.232L9.23203 6.13392L8.73203 5.26789L10.4459 4.27837L9.15033 2L6.84966 2L6.29552 2.97447L4.56343 1.97445L5.68623 0Z" fill="#000000"/>
+<path d="M13.1649 9.05964L13.7039 10.0076L12.6055 12H9.99998L9.99998 9.99995H8.99998L5.99998 12.9999L8.99998 15.9999H9.99998L9.99998 14H13.7868L15.996 9.99242L14.8969 8.05962L13.1649 9.05964Z" fill="#000000"/>
+<path d="M3.39445 12H4.49998V14H2.21325L0.00390625 9.99242L1.8446 6.75554L0.0717772 5.732L0.571776 4.86598L4.66986 3.7679L5.76793 7.86598L5.26793 8.732L3.57669 7.75556L2.29605 10.0076L3.39445 12Z" fill="#000000"/>
+</svg></label>
         <input type="file" id="dictFile" onchange="loadDictionary(event)">
+        <p id="leftwords">0 words left</p>
     </footer>
 </div>
 </body>
