@@ -1059,7 +1059,7 @@
                 const key = line[0].trim();
                 if(key.startsWith('#')) {
                     console.log(`comment: "${lines[i]}"`);
-                else if(line.length == 2) {
+                } else if(line.length == 2) {
                     const val = line[1].trim();
                     thesaurus.set(key.toLowerCase(), val);
                 } else if(key) {
