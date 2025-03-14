@@ -1057,11 +1057,11 @@
             for (let i = 0; i != lines.length; i++) {
                 const line = lines[i].split(/\s*:\s*/, 2);
                 const key = line[0].trim();
-                if(line.length == 2) {
+                if(key.startsWith('#')) {
+                    console.log(`comment: "${lines[i]}"`);
+                else if(line.length == 2) {
                     const val = line[1].trim();
                     thesaurus.set(key.toLowerCase(), val);
-                } else if(key.startsWith('#')) {
-                    console.log(`comment: "${key}"`);
                 } else if(key) {
                     console.log(`error parsing line "${key}"`);
                 }
