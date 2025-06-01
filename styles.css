@@ -216,13 +216,13 @@ main {
 .menu {
     display: grid; 
     grid-template-columns: 1fr, 1fr; 
-    gap: 10px; 
-    margin-top: 40px; 
+    gap: 4px; 
+    margin-top: 4px; 
 }
 
 .menu > div { 
     background: #fff; 
-    padding: 10px; 
+    padding: 4px; 
     border: none 
 }
 

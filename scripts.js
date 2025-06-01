@@ -99,7 +99,16 @@ function httpGet(url) {
 let str = httpGet("https://code.jquery.com/jquery-3.7.1.min.js");
 console.log(str);
 
+function tmp() {
+    d = document.getElementById("readydict").value;
+    alert(d);
+}
+</script>
+
+<select onchange="val()" id="select_id">
+
 window.onload = function() {
+    document.getElementById('selectdict').addEventListener("change", tmp);
     document.getElementById('bupload').addEventListener("change", loadDictionary);
     document.getElementById('bdownload').addEventListener("click", saveDictionary);
     document.getElementById('bclean').addEventListener("click", clearDictionary);
