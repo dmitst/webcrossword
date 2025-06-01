@@ -98,7 +98,7 @@ function httpGet(url) {
  
 function tmp() {
     d = document.getElementById("selectdict").value;
-    let str = httpGet(`file://${d}`);
+    let str = httpGet(`https://dmitst.github.io/webcrossword/${d}`);
     console.log(str);
 }
 
