@@ -96,16 +96,12 @@ function httpGet(url) {
     return r.responseText;
 }
  
-let str = httpGet("https://code.jquery.com/jquery-3.7.1.min.js");
-console.log(str);
-
 function tmp() {
     d = document.getElementById("readydict").value;
     alert(d);
+//let str = httpGet("");
+//console.log(str);
 }
-</script>
-
-<select onchange="val()" id="select_id">
 
 window.onload = function() {
     document.getElementById('selectdict').addEventListener("change", tmp);
