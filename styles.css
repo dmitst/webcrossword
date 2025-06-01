@@ -48,6 +48,23 @@ body {
     background-color: #f9f9f9;
 }
 
+.crossonly {}
+
+.cardsonly {}
+
+.card { 
+    background: white; 
+    padding: 40px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+    margin-bottom: 20px; 
+}
+
+.cardtext { 
+    font-size: 24px; 
+    font-weight: bold; 
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -92,6 +109,14 @@ main {
 
 .btn:active {
     transform: scale(0.7); 
+}
+
+.cardstile {
+    flex: 1;
+    display: grid;
+    gap: 1px;
+    margin: auto;
+    display: none;
 }
 
 .crosstile {
@@ -206,6 +231,14 @@ main {
     gap: 2px;
     margin: 2px;
 }
+
+.toolbar2 {
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    margin: 2px;
+}
+
 
 @media (max-width: 992px) {
     .toolbar {
