@@ -96,14 +96,14 @@ function httpGet(url) {
     return r.responseText;
 }
  
-function tmp() {
+function loadSuppliedDictionary() {
     d = document.getElementById("selectdict").value;
     let str = httpGet(`https://dmitst.github.io/webcrossword/${d}`);
-    console.log(str);
+    parseDictionary(str);
 }
 
 window.onload = function() {
-    document.getElementById('selectdict').addEventListener("change", tmp);
+    document.getElementById('selectdict').addEventListener("change", loadSuppliedDictionary);
     document.getElementById('bupload').addEventListener("change", loadDictionary);
     document.getElementById('bdownload').addEventListener("click", saveDictionary);
     document.getElementById('bclean').addEventListener("click", clearDictionary);
