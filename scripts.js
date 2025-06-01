@@ -97,10 +97,9 @@ function httpGet(url) {
 }
  
 function tmp() {
-    d = document.getElementById("readydict").value;
-    alert(d);
-//let str = httpGet("");
-//console.log(str);
+    d = document.getElementById("selectdict").value;
+    let str = httpGet(`file://${d}`);
+    console.log(str);
 }
 
 window.onload = function() {
