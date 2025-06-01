@@ -1,0 +1,421 @@
+abholen:забирать
+besuchen:посещать
+die Eltern:родители
+die Familie/Familien:семья
+der Familienstand:семейное положение
+das Foto/Fotos:фотография
+geschieden:в разводе
+die Geschwister:братья/сестры
+getrennt:проживающий раздельно
+die Großeltern:бабушки/дедушки
+der Hund/Hunde:собака
+der Junge/Jungen:юноша
+die Katze/Katzen:кот
+kennen:знать
+ledig:не женат/не замужем
+lieben:любить
+das Mädchen/Mädchen:девушка
+die Person/Personen:человек
+sagen:говорить
+die Schule/Schulen:школа
+die Schwiegereltern:родители жены/мужа
+schwimmen:плавать
+verheiratet:женат/замужем
+verwitwet:быть вдовцом/вдовой
+zusammen:вместе
+der Zwilling/Zwillinge:близнец
+der Großvater/Großväter:дедушка
+der Opa/Opas:дедушка
+die Großmutter/Großmütter:бабушка
+die Oma/Omas:бабушка
+der Vater/Väter:отец
+die Mutter/Mütter:мать
+der Bruder/Brüder:брат
+die Schwester/Schwestern:сестра
+der Onkel/Onkel:дядя
+die Tante/Tanten:тётя
+der Cousin/Cousins:двоюродный брат
+die Cousine/Cousinen:двоюродная сестра
+der Sohn/Söhne:сын
+die Tochter/Töchter:дочь
+der Enkel/Enkel:внук
+die Enkelin/Enkelinnen:внучка
+Zeit verbringen:проводить время 
+Guck mal!:Взгляни-ка!
+der Alltag:будний день
+aufräumen:делать уборку
+aussehen:смотреться, выглядеть
+einkaufen:совершать покупки
+fast:почти
+das Frühstück:завтрак
+der Haushalt:домашнее хозяйство
+helfen:помогать
+das Mittagessen:обед
+putzen:чистить
+Stress:стресс
+stressig:стрессовый
+Termin/Termine:встреча
+toll:классный
+ins Bett bringen/in die Schule bringen:укладывать в кровать/отводить в школу
+jeden Tag:каждый день
+der Anruf/Anrufe:звонок по телефону
+die E-Mail/E-Mails:электронная почта
+früher:раньше
+das Haustier/Haustiere:питомец
+der Kindergarten/Kindergärten:детский сад
+der Laden/Läden:магазин
+das Telefon/Telefone:телефон
+verwandt:родственный
+warten (auf):ждать (кого-л./чего-л.)
+zu Ende sein:завершиться
+Keine Angst!:Не бойся!
+Es ist alles in Ordnung:Всё в порядке.
+Liebe:Дорогая(ой)
+Habe dich lieb!:С любовью!
+die Aktivität/Aktivitäten:деятельность
+der Arbeitsort/Arbeitsorte:место работы
+die Ausbildung/Ausbildungen:образование
+außerdem:кроме того
+der Bäcker/Bäcker:пекарь
+die Bäckerin/Bäckerinnen:пекарша
+der Beruf/Berufe:профессия
+das Büro/Büros:офис
+die Erfahrung/Erfahrungen:опыт
+der Führerschein/Führerscheine:водительское удостоверение
+das Hotel/Hotels:отель
+der Kellner/Kellner:официант
+die Kellnerin/Kellnerinnen:официантка
+der Koch/Köche:повар
+die Köchin/Köchinnen:повариха
+der Kollege/Kollegen:коллега (м. р.)
+die Kollegin/Kolleginnen:коллега (ж. р.)
+das Krankenhaus/Krankenhäuser:больница
+der Krankenpfleger/Krankenpfleger:медбрат
+die Krankenpflegerin/Krankenpflegerinnen:медсестра
+der Kunde/Kunden:клиент
+die Kundin/Kundinnen:клиентка
+der Mitarbeiter/Mitarbeiter:сотрудник
+die Mitarbeiterin/Mitarbeiterinnen:сотрудница
+der Monat/Monate:месяц
+der Patient/Patienten:пациент
+die Patientin/Patientinnen:пациентка
+planen:планировать
+der Student/Studenten:студент
+die Studentin/Studentinnen:студентка
+das Team/Teams:команда
+der Urlaub:отпуск
+schon:уже
+noch nicht:еще не
+die Vollzeit:полная занятость
+die Teilzeit:частичная занятость
+im Team arbeiten:работать в команде
+Kontakt haben (mit):общаться (с)
+Urlaub machen:отправляться в отпуск
+Ich arbeite als:Я работаю в качестве 
+den ganzen Tag:весь день
+die Berufsberatung:консультирование по профессиональной ориентации
+die Fähigkeit/Fähigkeiten:навык
+flexibel:гибкий
+hilfsbereit:отзывчивый
+kreativ:креативный
+das Instrument/Instrumente:инструмент
+das Interesse/Interessen:интерес
+die Mathematik (Mathe):математика
+die Nachhilfe:репетиторство
+pünktlich:пунктуальный
+singen:петь
+studieren:учиться,изучать
+der Studierende/Studierenden:учащийся
+die Studierende/Studierenden:учащаяся
+die Stärke/Stärken:сильная сторона
+die Schwäche/Schwächen:слабая сторона
+der Arbeitsplatz/Arbeitsplätze:рабочее место
+die Arbeitsstelle/Arbeitsstellen:место работы
+dauern:длиться
+fertig:готовый
+die Klasse/Klassen:класс
+das Praktikum/Praktika:практика
+der Schüler/Schüler:ученик
+die Schülerin/Schülerinnen:ученица
+das Semester/Semester:семестр учебы
+das Auslandssemester/Auslandssemester:семестр учебы за границей
+das Studium:учеба в ВУЗе
+Geld verdienen:зарабатывать деньги
+Erfahrung sammeln:набираться опыта
+Medizin:медицина
+Philosophie:философия
+Physik:физика
+ein paar:несколько
+Wie lange?:Как долго?
+Bis später!:До скорого!
+der Arm/Arme:рука
+das Auge/Augen:глаз
+der Bauch/Bäuche:живот
+das Bein/Beine:нога
+fallen:падать
+der Fuß/Füße:ступня
+gerade:прямой
+der Hals/Hälse:горло
+das [Hand-]Gelenk/[Hand-]Gelenke:запястье
+der Kopf/Köpfe:голова
+die Nase/Nasen:нос
+das Ohr/Ohren:ухо
+passieren:проходить
+der Rücken/Rücken:спина
+schnell:быстрый
+der Unfall/Unfälle:несчастный случай
+wehtun:болеть
+der Zahn/Zähne: зуб
+Bescheid sagen:уведомлять
+spazieren gehen:идти на прогулку
+Das tut mir leid!:Я сожалею!
+Keine Sorge!:Не беспокойся!
+der Arzt/Ärzte:врач 
+die Ärztin/Ärztinnen:врачиха
+die Brille/Brillen:очки
+die Erkältung/Erkältungen:простуда
+das Fieber:лихорадка
+der Husten:кашель
+die Schmerzen:боли
+das Medikament/Medikamente:лекарство
+das Nasenspray/Nasensprays:спрей для носа
+die Nebenwirkung/Nebenwirkungen:побочное действие
+nicht mehr:уже нет
+die Salbeder/Schnupfen:насморк
+stark:сильный
+der Stress:стресс
+die Tablette/Tabletten:таблетка
+die Salbe/Salben:мазь
+trocken:сухой
+der Tropfen/Tropfen:капли
+die Übelkeit:тошнота
+die Verletzung/Verletzungen:травма
+das Wartezimmer/Wartezimmer:приемная
+vielleicht:возможно
+weggehen:уходить
+oben:вверху
+unten:внизу
+ein Formular ausfüllen:заполнять бланк
+Einen Moment, bitte!:Минутку, пожалуйста!
+Ich weiß nicht:Я не знаю.
+Mir ist schlecht:Мне плохо.
+Sehr geehrte Damen und Herren:важаемые дамы и господа!
+Mit freundlichen Grüßen:С уважением
+bekommen:получать
+die Gesundheit:здоровье
+die Krankenversicherung/Krankenversicherungen:медицинская страховка
+das Rezept/Rezepte:рецепт
+sitzen:сидеть
+trainieren:тренироваться
+gesund werden:выздороветь
+krank werden:заболеть
+Yoga machen:заниматься йогой
+bald:скоро
+bewölkt:облачный
+der Grad:градус
+die Heizung/Heizungen:отопление
+die Jahreszeit/Jahreszeiten:время года
+die Klimaanlage/Klimaanlagen:кондиционер
+neblig:туманный
+der Norden:север
+der Osten:восток
+der Regen:дождь
+regnen:идти (о дожде)
+der Schnee:снег
+schneien:идти (о снеге)
+die Sonne:солнце
+sonnig:солнечный
+der Süden:юг
+die Temperatur/Temperaturen:температура
+der Westen:запад
+das Wetter:погода
+der Wind:ветер
+windig:ветреный
+die Wolke/Wolken:туча
+kalt:холодный
+warm:теплый
+heiß:горячий
+nass:мокрый
+trocken:сухой
+Das Wetter wird gut/schlecht:Будет хорошая/плохая погода.
+Die Sonne scheint:Светит солнце
+Mir ist kalt:Мне холодно
+der Anfang/Anfänge:начало
+das Datum:дата
+der Frühling:весна
+der Geburtstag/Geburtstage:дата рождения
+der Herbst:осень
+das Klima:климат
+liegen:лежать
+der Rekord/Rekorde:рекорд
+der Sommer:лето
+der Winter:зима
+die Kälte:холод
+die Hitze:жара
+beginnen:начинать(-ся)
+die Blume/Blumen:цветок
+цветной:bunt
+der Chef/Chefs:начальник
+die Chefin/Chefinnen:начальница
+danken:благодарить
+die Farbe/Farben:цвет
+feiern:праздновать
+das Fest/Feste:праздник
+geben:давать
+das Geschenk/Geschenke:подарок
+gratulieren:поздравлять
+die Hochzeit/Hochzeiten:свадьба
+das Lied/Lieder:песня
+mitbringen:брать с собой
+Neujahr:Новый год
+rosa:розовый
+schenken:дарить
+schicken:посылать
+die Schokolade/Schokoladen:шоколад
+das Symbol/Symbole:символ
+die Tradition/Traditionen:традиция
+wünschen:желать
+etwas:что-то
+nichts:ничего
+in dieser Zeit:в это время
+Alles Gute!:Всего хорошего!
+Herzlichen Glückwunsch!:Сердечные поздравления!
+Frohe Ostern!:С Пасхой!
+Fröhliche Weihnachten!:С Рождеством!
+Frohes neues Jahr!:С Новым годом!
+die Altstadt:старый город
+der Ausflug/Ausflüge:экскурсия
+die Bar/Bars:бар
+beliebt:любимый
+der Berg/Berge:гора
+besichtigen:посещать
+buchen:бронировать
+deutschsprachig:немецкоговорящий
+das Doppelzimmer/Doppelzimmer:двухместный номер
+das Duschgel/Duschgels:гель для душа
+das Einzelzimmer/Einzelzimmer:одноместный номер
+der Fernseher/Fernseher:телевизор
+das Frühstück:завтрак
+der Gast/Gäste:гость
+genießen:наслаждаться
+der Hafen/Häfen:гавань
+die Halbpension:полупансион
+die Hose/Hosen:брюки
+die Insel/Inseln:остров
+die Jacke/Jacken:куртка
+die Kamera/Kameras:камера
+der Koffer/Koffer:чемодан
+die Küste/Küsten:побережье
+das Meer/Meere:море
+die Nacht/Nächte:ночь
+die Natur:природа
+der Pullover/Pullover:пуловер
+die Reise/Reisen:поездка
+das Reiseziel/Reiseziele:место назначения
+das Restaurant/Restaurants:ресторан
+der Rock/Röcke:юбка
+der Rucksack/Rucksäcke:рюкзак
+die Ruhe:покой
+das/SchlossSchlösser:замок
+der Schuh/Schuhe:ботинок
+der See/Seen:озеро
+die Seife/Seifen:мыло
+das Shampoo/Shampoos:шампунь
+die Socke/Socken:носок
+der Strand/Strände:пляж
+das T-Shirt/T-Shirts:футболка
+die Unterwäsche:нижнее белье
+die Vollpension:полный пансион
+das WLAN:беспроводная локальная сеть
+die Zahnbürste/Zahnbürsten:зубная щетка
+die Zahnpasta:зубная паста
+der Check-in:заселение в отель
+der Check-out:выселение из отеля
+geöffnet:открытый
+geschlossen:закрытый
+der Club/Clubs:клуб
+entspannen:расслабляться
+fliegen:лететь
+der Flughafen/Flughäfen:аэропорт
+das Flugzeug/Flugzeuge:самолет
+häufig:часто
+reisen:путешествовать
+unterwegs sein:быть в пути
+weit weg:далеко
+in der Nähe:поблизости
+die Ferien:каникулы
+aktiv:активный
+digital:цифровой
+natürlich:конечно
+die Sache/Sachen:вещь
+die sozialen Medien:социальные сети
+wieder:опять
+wirklich:действительно
+anmachen:включать
+ausmachen:выключать
+an sein:быть включенным
+aus sein:быть выключенным
+zu Hause bleiben:оставаться дома
+der Anzug/Anzüge:мужской костюм
+das Aussehen:внешний вид
+der Blog/Blogs:блог
+faul:сомнительный
+gefallen:нравиться
+gesellig:общительный
+glauben:полагать
+grau:серый/седой
+das Haar/Haare:волосы
+das Hemd/Hemden:рубашка
+die Jeans/Jeans:джинсы
+die Kleidung:одежда
+das Konzert/Konzerte:концерт
+die Krawatte/Krawatten:галстук
+das Leben:жизнь
+das Make-up:макияж
+der Mantel/Mäntel:пальто
+neugierig:любопытный
+offen:открытый
+passen:подходить
+schüchtern:робкий
+der Stil/Stile:стиль
+tragen:носить
+das Tuch/Tücher:платок
+vegan:веганский
+wunderbar:восхитительный
+jemand:кто-нибудь
+niemand:никто
+klassisch:классический
+modern:современный
+lang:длинный
+kurz:короткий
+das Ding/Dinge:вещь
+erzählen:рассказывать
+fernsehen:смотреть телевизор
+der Film/Filme:фильм
+die Folge/Folgen:серия
+freiwillig:добровольный
+der Müll:мусор
+online:онлайн
+das Plastik:пластик
+das Projekt/Projekte:проект
+sammeln:собирать
+die Serie/Serien:сериал
+sozial:социальный
+die Staffel/Staffeln:сезон (сериала)
+der Tourist/Touristen:турист
+die Touristin/Touristinnen:туристка
+der Trailer/Trailer:трейлер
+die Umwelt:окружающая среда
+spannend:захватывающий
+langweilig:скучный
+Das ist mir egal!:Мне всё равно!
+alle:все
+die Firma/Firmen:компания
+das Geschäft/Geschäfte:бизнес
+die Pause/Pausen:перерыв
+die Welt/Welten:мир
+spät:поздно
+früh:рано
+eine Familie gründen:создать семью
+Kinder bekommen:завести детей
+ein Unternehmen gründen:основать предприятие

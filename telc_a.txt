@@ -1,0 +1,875 @@
+auch:тоже
+bitte:пожалуйста
+Deutsch:немецкий
+Deutschland:Германия
+Englisch:английский
+Französisch:французский
+Frau:госпожа
+gut:хороший
+heißen:звать по имени
+Herr:господин
+lernen:учить(-ся)
+names:имя, фамилия
+drucken:печатать
+Schweiz:Швейцария
+sein:быть
+sprechen:говорить
+und:и
+wohnen:жить
+Wer:Кто?
+Wie:Как?
+Wo:Где?
+Woher:Откуда
+Hallo:Здравствуйте
+Hi:Привет
+Tschüss:Пока
+Danke:Спасибо
+hier:здесь
+jetzt:сейчас
+Land:страна
+Nachname:фамилия
+Sprache:язык
+Vorname:имя
+Wohnort:место жительства
+aber:но
+Adresse:адрес
+Alter:возраст
+buchstabieren:произносить по буквам
+Familienname:фамилия
+Hausnummer: номер дома
+Jahr:год
+oder:или
+Österreich:Австрия
+Postleitzahl:почтовый индекс
+Stadt:город
+Straße:улица
+Telefonnummer:номер телефона
+Muttersprache:родной язык
+Buch:книга
+Computer:компьютер
+Dialog:диалог
+Handy:мобильный телефон
+hören:слушать
+Kurs:курс
+Kursleiter:преподаватель курса
+Kursleiterin:преподавательница курса
+Text:текст
+lesen:читать
+sagen:говорить
+schreiben:писать
+verstehen:понимать
+wiederholen:повторять
+Wort:слово
+Frage:вопрос
+Antwort:ответ
+fragen:спрашивать
+antworten:отвечать
+öffnen:открывать
+schließen:закрывать
+ja:да
+nein:нет
+richtig:правильно
+falsch:неправильно
+Was:Что?
+Entschuldigung:Извините
+Fenster:окно
+finden:находить
+Flasche:бутылка
+Heft:тетрадь
+Internet:интернет
+Kuli:ручка
+Kursraum:аудитория
+Kursteilnehmer:слушатель курса
+Kursteilnehmerin:слушательница курса
+Lampe:лампа
+Laptop:ноутбук
+Lehrer:учитель
+Lehrerin:учительница
+Sprachschule:языковая школа
+Stift:карандаш
+Stuhl:стул
+super:супер
+Tablet:планшет
+Tafel:доска
+Tasse:чашка
+Tisch:стол
+Tür:дверь
+Vokabelheft:тетрадь-словарь
+Whiteboard:белая доска
+groß:большой
+klein:маленький
+App:приложение
+Artikel:артикль
+Beispiel:пример
+Fehler:ошибка
+Grammatik:грамматика
+haben:иметь
+Karteikarte:карточка
+Lernpartner:сокурсник
+Lernpartnerin:сокурсница
+Problem:проблема
+Regel:правило
+Satz:предложение
+Tipp:совет
+Verb:глагол
+Wortschatz:лексика
+einfach:простой
+schwierig:сложный
+fahren:ехать, водить
+Freizeit:свободное время
+Freund:друг
+Freundin:подруга
+gehen:идти
+heute:сегодня
+Hobby:хобби
+laufen:бежать
+Leute:люди 
+manchmal:иногда
+Musik:музыка
+neu:новый
+oft:часто
+Radio:радио
+schlafen:спать
+sehen:смотреть
+spielen:играть
+Sport:спорт
+tanzen:танцевать
+draußen:на улице
+drinnen:в помещении
+interessant:интересный
+langweilig:скучный
+immer:всегда
+nie:никогда
+Fußball:футбол
+Gitarre:гитара
+Abend:вечер
+Abendessen:ужин
+abends:по вечерам
+Arbeit:работа
+arbeiten:работать
+aufstehen:вставать
+aufwachen:просыпаться
+danach:после этого
+dann:потом
+duschen:принимать душ
+essen:принимать пищу
+frühstücken:завтракать
+Universität:университет
+wandern:ходить в поход
+Wann:Когда?
+ausgehen:выходить
+Geld:деньги
+Kind:ребенок
+klettern:заниматься скалолазанием
+Mensch:человек
+Stunde:час
+mitkommen:сопровождать
+wichtig:важный
+Woche:неделя
+Wochenende:выходные
+Zeit:время
+Freizeit:свободное время
+backen:печь
+brauchen:нуждаться
+Brokkoli:брокколи
+denken:думать
+Fisch:рыба
+Fleisch:мясо
+frisch:свежий
+Gemüse:овощи
+Getränk:напиток
+Glas:стакан
+heute:сегодня
+Honig:мёд
+Kaffee:кофе
+Kartoffel:картофель
+kochen:готовить еду
+lecker:вкусный
+mögen:любить
+Möhre:морковь
+nicht:не
+Nudeln:макароны
+Öl:масло растительное
+Paprika:паприка
+Pfanne:сковорода
+Pfeffer:перец
+Pilz:гриб
+Pizza:пицца
+Reis:рис
+Saft:сок
+Salat:салат
+Salz:соль
+schneiden:резать
+sehr:очень
+Soße:соус
+Suppe:суп
+süß:сладкий
+Tee:чай
+Tomate:помидор
+trinken:пить
+Wasser:вода
+Zwiebel:лук
+gesund:полезный для здоровья
+ungesund:вредный для здоровья
+Ei:яйцо
+Einkauf:покупка
+Einladung:приглашение
+Joghurt:йогурт
+Milch:молоко
+morgen:завтра
+Torte:торт
+vegetarisch:вегетарианский
+Wein:вино
+Zucker:сахар
+mit:с
+ohne:без
+Apfel:яблоко
+Banane:банан
+bezahlen:платить
+Brot:хлеб
+Butter:масло сливочное
+Gurke:огурец
+Käse:сыр
+kaufen:покупать
+kosten:стоить
+Lebensmittel:продукт питания
+Mehl:мука
+Obst:фрукты
+okay:хорошо
+Orange:апельсин
+Packung:упаковка
+Supermarkt:супермаркет
+Auto:автомобиль
+Bus:автобус
+Fahrrad:велосипед
+Haltestelle:остановка
+Kino:кинотеатр
+klicken:щелкать
+Minute:минута
+nachts:ночью
+nehmen:брать
+nur:только
+Motorrad:мотоцикл
+Station:станция
+S-Bahn:городская электричка
+Straßenbahn:трамвай
+suchen:искать
+Ticket:билет
+U-Bahn:метро
+Verkehrmittel:транспортное средство
+Weg:путь
+Zug:поезд
+Eingang:вход
+Ausgang:выход
+Ampel:светофор
+aussteigen:выходить из транспортного средства
+Bahnhof:вокзал
+CaféCafés:кафе
+dort:там
+Drogerie:магазин косметики и хозтоваров
+Fahrplan:расписание
+Fluss:поток
+geradeaus:прямо
+Hauptbahnhof:главный вокзал
+Kreuzung:перекресток
+Linie:линия
+Museum:музей
+Park:парк
+Richtung:направление
+Stadtrundfahrt:экскурсия по городу на транспортном средстве
+abfahren:отбывать
+ankommen:прибывать
+Abfahrt:отбытие
+Ankunft:прибытие
+links:налево
+rechts:направо
+Apotheke:аптека
+Bahnsteig:железнодорожная платформа
+gleich:скоро
+Gleis: путь(рельс)
+stehen:стоять
+einsteigen:заходить в транспортное средство
+Bäckerei:пекарня
+Kiosk:киоск
+Ticketautomat:автомат по продаже билетов
+Treffpunkt:место встречи
+umsteigen:пересаживаться на другое транспортное средство
+allein:самостоятельно
+Aufzug:лифт
+Bad:ванна (ванная комната)
+Badezimmer:ванная
+Balkon:балкон
+Dorf:деревня
+Erdgeschoss:первый этаж
+Etage:этаж
+Flur:коридор
+Garten:сад
+Haus:дом
+Keller:подвал
+leider:к сожалению
+Küche:кухня
+Miete:аренда
+Platz:место
+Quadratmeter:квадратный метр
+Schlafzimmer:спальня
+Stock:этаж
+Terrasse:терраса
+Wohnung:квартира
+Wohnzimmer:гостиная
+Zentrum:центр
+Zimmer:комната
+gemütlich:уютный
+ungemütlich:неуютный
+hell:светлый
+dunkel:темный
+laut:шумный
+ruhig:тихий
+modern:современный
+altmodisch:старомодный
+schön:красивый
+hässlich:некрасивый
+teuer:дорогой
+günstig:дешевый
+warm:теплый
+kalt:холодный
+Anzeige:объявление
+frei:бесплатный, свободный
+Mieter:арендатор
+Mieterin:арендательница
+Nachbar:сосед
+Nachbarin:соседка
+Nebenkosten:коммунальные платежи
+nett:приятный
+Obergeschoss:верхний этаж
+Paar:пара
+Preis:цена
+Vermieter:арендодатель
+Vermieterin:арендодательница
+Wohngemeinschaft:совместное проживание (коливинг)
+jung:молодой
+alt:старый
+Warmmiete:арендная плата, включая коммунальные платежи
+Kaltmiete:арендная плата, не включая коммунальные платежи
+anrufen:звонить
+Bett:кровать
+Kühlschrank:холодильник
+mieten:арендовать
+Möbel:мебель
+Prozent:процент(%)
+Regal:полка
+Schrank:шкаф
+Sessel:кресло
+Sofa:диван
+stellen:ставить
+Teppich:ковер
+Treppe:лестница
+umziehen:переезжать
+Umzug:переезд
+Waschmaschine:стиральная машина
+Wohin:Куда?
+aufmachen:открывать
+zumachen:закрывать
+abholen:забирать
+besuchen:посещать
+Eltern:родители
+Familie:семья
+Familienstand:семейное положение
+Foto:фотография
+geschieden:в разводе
+Geschwister:братья/сестры
+getrennt:проживающий раздельно
+Großeltern:бабушки/дедушки
+Hund:собака
+Junge:юноша
+Katze:кот
+kennen:знать
+ledig:не женат/не замужем
+lieben:любить
+Mädchen:девушка
+Person:человек
+sagen:говорить
+Schule:школа
+Schwiegereltern:родители жены/мужа
+schwimmen:плавать
+verheiratet:женат/замужем
+verwitwet:быть вдовцом/вдовой
+zusammen:вместе
+Zwilling:близнец
+Großvater:дедушка
+Opa:дедушка
+Großmutter:бабушка
+Oma:бабушка
+Vater:отец
+Mutter:мать
+Bruder:брат
+Schwester:сестра
+Onkel:дядя
+Tante:тётя
+Cousin:двоюродный брат
+Cousine:двоюродная сестра
+Sohn:сын
+Tochter:дочь
+Enkel:внук
+Enkelin:внучка
+Alltag:будний день
+aufräumen:делать уборку
+aussehen:смотреться, выглядеть
+einkaufen:совершать покупки
+fast:почти
+Frühstück:завтрак
+Haushalt:домашнее хозяйство
+helfen:помогать
+Mittagessen:обед
+putzen:чистить
+Stress:стресс
+stressig:стрессовый
+Termin:встреча
+toll:классный
+Anruf:звонок по телефону
+E-Mail:электронная почта
+früher:раньше
+Haustier:питомец
+Kindergarten:детский сад
+Laden:магазин
+Telefon:телефон
+verwandt:родственный
+warten:ждать
+bewahren:сохранять
+bewegen:двигать
+Bildschirm:монитор
+Brand:пожар
+Brandbekämpfung:борьба с пожаром
+Brandfall:пожар
+Brandmelder:датчик обнаружения возгорания
+Brandschutz:противопожарная защита
+brennen:гореть
+Buchhaltung:бухгалтерия
+danken:благодарить
+deutlich:явно
+echt:настоящий
+Einweisung:инструктаж
+Elektrik:электрика
+Entwurf:проект
+erlauben:разрешать
+erwarten:ожидать
+erwischen:поймать
+Feuerlöscher:огнетушитель
+Flamme:огонь
+folgen:следовать
+gefährden:подвергать опасности
+gestalten:оформлять
+gesund:здоровый
+Grafik:графика
+Grafiker:художник-график
+Hektik:спешка
+heraussuchen:подыскивать
+hinfahren:поехать туда
+höflich:вежливый
+Internetzugang:доступ в интернет
+Kabelsalat:сплетение проводов
+kennzeichnen:помечать
+Kerze:свеча
+Konto:счет
+Kontoverbindung:реквизиты счета
+kopieren:копировать
+Kraft:сила
+Kundenbetreuung:обслуживание клиентов
+Laptop:ноутбук
+Marketing:маркетинг
+Mehrfachsteckdose:многоместная розетка
+mitschreiben:записывать
+Nachbereitung:анализ результатов урока
+nennen:называть
+Personalabteilung:отдел кадров
+Personalbüro:помещение отдела кадров
+Personalleiter:начальник отдела кадров
+Protokoll:протокол
+Ratschlag:совет
+reagieren:реагировать
+Regel:правило
+Rettungswagen:машина скорой помощи
+Rückfrage:встречный вопрос
+Sekretariat:секретариат
+Sicherheit:безопасность
+Steckdose:розетка
+Steuer:налог
+Teelicht:чайная свеча
+überlasten:перегружать
+unbürokratisch:без лишнего бюрократизма
+unterstützen:поддерживать
+verabschieden:прощаться (с кем-то)
+verbessern:улучшать
+verboten:запрещенный
+Verhalten:поведение
+verlegen:класть не на свое место
+vermeiden:избегать
+Vermeidung:избегание
+Versicherung:страховка
+Vertrieb:сбыт
+verwenden:использовать
+vorbeikommen:проходить мимо
+vorbereiten:подготавливать
+Vorschrift:предписание
+Werbeflyer:рекламная листовка
+Werbeagentur:рекламное агентство
+Werbetexter:составитель рекламных текстов
+aggressiv:агрессивный
+anders:по-другому
+Angst:страх
+aufhören:прекратить
+aufpassen:следить
+ausreichend:достаточно
+befriedigend:удовлетворительно
+Begrüßung:приветствие
+beraten:консультировать
+Bericht:доклад
+Berufskolleg:профессиональный колледж
+Berufswunsch:профессиональное устремление
+Biologie:биология
+Bundesland:федеральная земля
+Chemie:химия
+damals:в те времена
+selbe:та же самая
+Diplom:диплом
+Elternabend:родительское собрание
+Elternsprechtag:день консультаций с родителями
+Englischlehrer:учитель английского языка
+Erdkunde:география
+etwa:примерно
+Fach:предмет
+Fachhochschule:высшая профессиональная школа
+Fachhochschulreife:специализированное среднее образование
+Fluss:река
+formell:формальный
+Fotograf:фотограф
+freiwillig:добровольно
+Gesamtschule:единая школа
+Geschichte:история
+Gipsbein:нога в гипсе
+Glück:счастье
+Gymnasium:гимназия
+Halbjahr:полугодие
+Hauptschule:основная школа
+hinfallen:упасть
+Integrationsverein:общество по интеграции
+Jugendliche:подростки
+Junge:мальчик
+Kindertagesstätte:детский сад
+Klasse:класс
+Klassenarbeit:классная работа
+Klassenlehrer:классный руководитель
+Knöchel:лодыжка
+Korb:корзина
+Kunst:искусство
+Lieblingsfach:любимый предмет
+lösen:решать
+Lust:желание
+Mädchen:девочка
+mangelhaft:неудовлетворительно
+Mathearbeit:работа по математике
+Meinung:мнение
+Nachhilfe:занятия с репетитором
+normal:нормальный
+Note:оценка
+Oberschule:средняя школа
+olympisch:олимпийский
+Pflicht:обязанность
+Physik:физика
+Pilot:пилот
+Planung:планирование
+Realschule:реальная школа
+Rede:речь
+Religion:религия
+Schaubild:графическое изображение
+schrecklich:ужасный
+Schulform:школьная форма
+Schulleiter:школьный директор
+Schulpflicht:обязательное школьное обучение
+Schulsystem:школьная система
+selbst:самостоятельно
+Sozialpädagoge:социальный педагог
+Sportunterricht:физкультура
+streng:строгий
+Tagesordnung:распорядок дня
+Teenager:подросток
+teilnehmen:принимать участие
+Tier:животное
+Tierpfleger:смотритель в зоопарке
+träumen:мечтать
+traurig:грустный
+turnen:заниматься гимнастикой
+umknicken:подвернуть
+unfair:несправедливый
+ungenügend:недостаточно
+Uniform:униформа
+unten:внизу
+Unterschied:разница
+Variante:вариант
+Vergangenheit:прошлое
+Vokabeltest:тест словарного запаса
+Vortrag:доклад
+werfen:бросать
+Akupunktur:иглоукалывание
+Alternative:альтернатива
+anerkannt:признанный
+Anweisung:указание
+Auflistung:перечисление
+Behandlung:лечение
+belegen:подтверждать
+Bescheinigung:свидетельство
+Boden:пол
+dagegen:против
+damit:для того чтобы
+Eiswürfel:кубик льда
+empfindlich:чувствительный
+engagieren:связывать обязательством
+entspannen:расслабляться
+Entspannung:расслабление
+erfahren:узнать
+erstatten:возместить
+fit:хорошо тренированный
+gesamt:итого
+gesundheitlich:в отношении здоровья
+Gymnastik:гимнастика
+Handgelenk:кисть руки
+Hausmittel:домашнее средство
+Haut:кожа
+hiermit:настоящим (документом)
+hierzu:к этому
+hochlegen:положить наверх
+holen:приносить
+klagen:жаловаться
+kommunizieren:общаться
+kompliziert:сложный
+Kostenerstattung:возмещение расходов
+Kostenübernahme:принятие на себя расходов
+kühlen:охлаждать
+leihen:одалживать
+manche:некоторые
+Massage:массаж
+massieren:массировать
+Meditation:медитация
+Muskel:мускул
+Nebenwirkung:побочное действие
+Pilates:пилатес
+Rat:совет
+reizen:раздражать
+Rückenmuskulatur:мускулатура спины
+schlafengehen:идти спать
+Schmerztablette:обезболивающая таблетка
+Schwellung:опухание
+selber:сам
+speziell:специальный
+Sportart:вид спорта
+Sportverein:спортивное общество
+ständig:постоянно
+stärken:укреплять
+Tanzkurs:курс танцев
+Teilnahme:участие
+Teilnahmebescheinigung:свидетельство об участии
+telefonisch:телефонный
+Therapie:терапия
+Trainer:тренер
+treiben:заниматься
+Tüte:пакет
+Übelkeit:тошнота
+übersenden:пересылать
+überweisen:перенаправлять
+übrigens:кстати
+Verabschiedung:прощание
+vermitteln:посредничать
+verschreiben:выписывать (рецепт)
+Versicherungsnehmer:застрахованное лицо
+Versicherungstarif:страховой тариф
+Verspannung:напряжение
+vorschlagen:предлагать
+während:во время
+Wärmflasche:грелка
+weggehen:уходить
+zwischendurch:между делом
+abheben:взлетать
+Aktivität:активность
+anfordern:затребовать
+Armut:бедность
+aufheben:прекращать
+ausdrucken:распечатать
+Bankkarte:банковская карта
+Bankkaufmann:банковский служащий
+Bankkauffrau:банковская служащая
+Bankleitzahl:код банка
+Bankschalter:касса в банке
+bar:наличный
+Bargeld:наличные деньги
+bargeldlos:безналичный
+Basis:основа
+begleichen:оплатить
+berechnen:рассчитать
+Bestellnummer:номер заказа
+Bestellung:заказ
+BIC:банковский идентификационный код
+Blick:взгляд
+Broschüre:брошюра
+drücken:нажимать
+eigen:собственный
+Eingabe:ввод данных
+eingeben:вводить данные
+einzahlen:вносить деньги
+erledigen:выполнять
+eröffnen:открывать
+Filiale:филиал
+folgend:указанный ниже
+formulieren:формулировать
+Gebühr:сбор
+Geldautomat:банкомат
+Geldbörse:кошелек
+Geldstück:монета
+genießen:наслаждаться
+gewinnen:выигрывать
+Girocard:дебетовая карта
+Girokonto:дебетовый счет
+Hufeisen:подкова
+IBAN:идентификационный банковский код IBAN
+indirekt:косвенный
+Innenstadt:городской центр
+jederzeit:в любое время
+Kleeblatt:лист клевера
+Kleingeld:мелочь
+Kontoauszug:выписка по счету
+Kontoinhaber:владелец счета
+Kontonummer:номер счета
+Kontostand:состояние счета
+kontrollieren:проверять
+Kreditinstitut:кредитный институт
+Kreditkarte:кредитная карта
+Kundennummer:клиентский номер
+Kundenreferenz:справочный номер клиента
+Laden:магазин
+Leistung:услуга
+Menge:количество
+mobil:мобильный
+monatlich:месячный
+Münze:монета
+niemand:никто
+Nulltarif:нулевой тариф
+nutzen:использовать
+Online-Banking:онлайн-банкинг
+Pfennig:пфенниг
+PIN:персональный идентификационный номер
+Quatsch:чепуха
+Rechnung:счет
+Rechnungsbetrag:сумма по счету-фактуре
+Rechnungsnummer:номер счета-фактуры
+reich:богатый
+Reichtum:богатство
+Respekt:уважение
+Schein:купюра
+schieben:перемещать
+schlachten:резать скот
+Schornsteinfeger:трубочист
+Sparkonto:накопительный счет
+Sparschwein:копилка
+spätestens:не позднее чем
+stecken:вставлять
+stoßen:толкать
+TAN:номер трансакции
+Taste:кнопка
+Täter:преступник
+Überfall:нападение
+Überwachungskamera:камера наблюдения
+überfallen:нападать
+Überweisung:денежный перевод
+Überweisungsformular:бланк денежного перевода
+Versuch:попытка
+Verwendungszweck:назначение
+Vorteil:преимущество
+weglaufen:убегать
+Zahlungsempfänger:получатель/получательница платежа
+Zeitungsartikel:газетная статья
+Zeuge:свидетель
+zurückgeben:возвращать
+abschalten:выключать
+Appetit:аппетит
+ärgern:злить
+asiatisch:азиатский
+Ausflug:экскурсия
+ausgezeichnet:превосходный
+Ausgleich:компенсация
+außer:кроме
+Aussicht:перспектива
+Babysitter:приходящий нянь
+Band:лента
+Basketball:баскетбол
+basteln:мастерить
+Besteck:столовые приборы
+Chor:хор
+daheim:дома
+Daumen:большой палец
+Einlass:пропуск
+entlang:вдоль
+Event:событие
+Feuerzeug:зажигалка
+Freizeit:досуг
+Freizeitaktivität:активное проведение досуга
+Freizeitangebot:предложение по организации досуга
+Freizeitvergnügen:удовольствие от свободного времени
+Gabel:вилка
+Gastronomie:заведение общественного питания
+Gedicht:стихотворение
+Gegensatz:противоположность
+Geiger:скрипач
+gemischt:смешанный
+Geschirr:посуда
+Grill:гриль
+Grillkohle:уголь для гриля
+Grillplatz:место для гриля
+Grillsoße:соус для гриля
+Grillzange:щипцы для гриля
+herrlich:великолепный
+herum:вокруг
+interessieren:интересоваться
+Interviewpartner:интервьюируемый
+irgendwo:где-то
+jährlich:ежегодно
+jeweils:в каждом случае
+knackig:соблазнительный
+konzentrieren:концентрироваться
+Kumpel:приятель
+Leidenschaft:страсть
+Löffel:ложка
+malen:рисовать
+meist:чаще всего
+Messer:нож
+mitfahren:ехать вместе с кем-то
+nähen:шить
+normalerweise:обычно
+Open-Air-Konzert:концерт под открытым небом
+Poetry-Slam:поэтический слэм
+Regie:постановка
+Saal:зал
+Schach:шахматы
+Schnupperkurs:ознакомительный курс
+Schüssel:ключ
+segeln:идти под парусом
+Sieg:победа
+Spielfeld:игровое поле
+Sportergebnis:спортивный результат
+Sportplatz:спортивная площадка
+Stoff:материал
+surfen:заниматься серфингом
+Tango:танго
+Tänzer:танцор
+Tischdecke:скатерть
+Tischdekoration:украшение стола
+trotzdem:несмотря на это
+umfangreich:обширный
+Umfrage:опрос
+Umkleide:кабина для переодевания
+unterhalten:развлекать
+veranstalten:устраивать
+Veranstaltungshinweis:информация о мероприятии
+verbringen:проводить (время)
+Verpackung:упаковка
+verteilen:распределять
+Volleyballspiel:волейбольная игра
+Vorlesung:лекция
+wundervoll:замечательный

@@ -1,0 +1,565 @@
+die Accessoires:аксессуары
+anhaben:носить одежду
+die Apfelschorle:яблочный сок с минеральной водой
+die Aubergine/Auberginen:баклажан
+die Ausrüstung:оснащение
+der Babyartikel/Babyartikel:товары для малышей
+die Badesachen:одежда для купания
+der Bart/Bärte:борода
+die Bekleidung:одежда
+bestimmt:определенно
+blond:белокурый
+braten:жарить
+bummeln:гулять
+bunt:пестрый
+das Camping:отдых в палатке
+der Champignon/Champignons:шампиньон
+die Currywurst:жареная сосиска с соусом карри
+die Dame/Damen:дама
+darin:в этом
+dick:толстый
+der Dieb:вор
+das Ding/Dinge:вещь
+der Duft:аромат
+dünn:худой
+das Duschgel:гель для душа
+egal:все равно
+das Ehepaar:супружеская пара
+einfarbig:однотонный
+die Elektronik:электроника
+der Fahrradhelm:велосипедный шлем
+fantastisch:фантастический
+das Fast Food:фаст-фуд
+die Flipflops:шлепанцы
+frittieren:жарить во фритюре
+die Gemüselasagne:овощная лазанья
+gepunktet:в горошек
+das Gericht:блюдо
+gestreift:полосатый
+glatt:гладкий
+die Glatze:лысина
+das Gold:золото
+griechisch:греческий
+die Gulaschsuppe:суп-гуляш
+der Gürtel:пояс
+die Haarpflege:уход за волосами
+das Hauptgericht:основное блюдо
+die Hautpflege:уход за кожей
+hübsch:симпатичный
+die Kamera:фотоаппарат
+kariert:клетчатый
+das Kompliment/Komplimente:комплимент
+der Kopfhörer:наушники
+die Kosmetiktasche:косметичка
+die Krawatte:галстук
+das Küchengerät/Küchengeräte:кухонный прибор
+laufen:бегать
+die Lieblingsfarbe:любимый цвет
+lockig:кудрявый
+das Make-up:макияж
+die Maus:мышь
+das Mineralwasser:минеральная вода
+das Modegeschäft:магазин модной одежды
+der Modeschmuck:бижутерия
+nachher:потом
+die Naturkosmetik:косметика на натуральной основе
+das Navigationsgerät(Navi):навигационный прибор
+der Ofen:духовка
+der Ohrring/Ohrringe:сережка
+die Parfümerie:парфюмерный магазин
+die Pfanne:сковорода
+plötzlich:внезапно
+der Polizist:полицейский
+der Schafskäse:овечий сыр
+scharf:острый
+schauen:смотреть
+das Schaufenster:витрина
+schick:шикарный
+schlank:худой
+der Schmuck:украшение
+das Schnäppchen:выгодная покупка
+das Schnitzel:шницель
+der Schnurrbart:усы
+der Schrei:крик
+die Schuhgröße:размер обуви
+die Shorts:шорты
+das Silber:серебряный
+der Snack/Snacks:закуска
+die Spielwaren:игрушки
+das Steak:стейк
+stehlen:красть
+der Stiefel/Stiefel:сапоги
+die Süßigkeiten:сладости
+das Tattoo/Tattoos:татуировка
+der Toaster:тостер
+ungarisch:венгерский
+die Unterwäsche:нижнее белье
+das Vanilleeis:ванильное мороженое
+der Vegetarier:вегетарианец
+vegetarisch:вегетарианский
+wandern:ходить в поход
+der Wanderschuh/Wanderschuhe:туристские ботинки
+der Wecker:будильник
+wirklich:действительно
+wunderbar:чудесно
+zubereiten:готовить
+die Zucchini:кабачки
+absetzen:снимать
+die Abteilung/Abteilungen:отдел
+angeben:указывать
+der Anruf/Anrufe:звонок
+der Anrufer:звонящий
+der Arbeitgeber:работодатель
+der Arbeitsauftrag/Arbeitsaufträge:рабочее задание
+der Arbeitsbeginn:начало работы
+der Arbeitsschutz:охрана труда
+der Arbeitsvertrag/Arbeitsverträge:трудовой договор
+der Aufzug:лифт
+der Außendienst:выездная работа
+ausmachen:выключать
+der Beauftragte:уполномоченный
+bereit:готов
+bereitstellen:предоставлять
+besprechen:обсуждать
+die Besprechung:совещание
+betätigen:приводить в действие
+betreffen:касаться (кого-либо)
+bewahren:сохранять
+bewegen:двигать
+der Bildschirm:монитор
+der Brand:пожар
+die Brandbekämpfung:борьба с пожаром
+der Brandfall:пожар
+der Brandmelder:датчик обнаружения возгорания
+der Brandschutz:противопожарная защита
+brennen:гореть
+die Buchhaltung:бухгалтерия
+danken:благодарить
+deutlich:явно
+echt:настоящий
+die Einweisung:инструктаж
+die Elektrik:электрика
+der Entwurf/Entwürfe:проект
+erlauben:разрешать
+erwarten:ожидать
+erwischen:поймать
+der Feuerlöscher:огнетушитель
+die Flamme/Flammen:огонь
+folgen:следовать
+gefährden:подвергать опасности
+gestalten:оформлять
+gesund:здоровый
+die Grafik/Grafiken:графика
+der Grafiker:художник-график
+die Hektik:спешка
+heraussuchen:подыскивать
+hinfahren:поехать туда
+höflich:вежливый
+der Internetzugang:доступ в интернет
+der Kabelsalat:сплетение проводов
+kennzeichnen:помечать
+die Kerze/Kerzen:свеча
+das Konto/Konten:счет
+die Kontoverbindung:реквизиты счета
+kopieren:копировать
+die Kraft/Kräfte:сила
+die Kundenbetreuung:обслуживание клиентов
+der Laptop:ноутбук
+das Marketing:маркетинг
+die Mehrfachsteckdose:многоместная розетка
+mitschreiben:записывать
+die Nachbereitung:анализ результатов урока
+nennen:называть
+die Personalabteilung:отдел кадров
+das Personalbüro:помещение отдела кадров
+der Personalleiter:начальник отдела кадров
+das Protokoll:протокол
+der Ratschlag/Ratschläge:совет
+reagieren:реагировать
+die Regel/Regeln:правило
+der Rettungswagen:машина скорой помощи
+die Rückfrage:встречный вопрос
+das Sekretariat:секретариат
+die Sicherheit:безопасность
+die Steckdose:розетка
+die Steuer:налог
+das Teelicht/Teelichter:чайная свеча
+überlasten:перегружать
+unbürokratisch:без лишнего бюрократизма
+unterstützen:поддерживать
+verabschieden:прощаться (с кем-то)
+verbessern:улучшать
+verboten:запрещенный
+das Verhalten:поведение
+verlegen:класть не на свое место
+vermeiden:избегать
+die Vermeidung:избегание
+die Versicherung/Versicherungen:страховка
+der Vertrieb:сбыт
+verwenden:использовать
+vorbeikommen:проходить мимо
+vorbereiten:подготавливать
+die Vorschrift:предписание
+der Werbeflyer:рекламная листовка
+die Werbeagentur:рекламное агентство
+der Werbetexter:составитель рекламных текстов
+aggressiv:агрессивный
+anders:по-другому
+die Angst/Ängste:страх
+aufhören:прекратить
+aufpassen:следить
+ausreichend:достаточно
+befriedigend:удовлетворительно
+die Begrüßung/Begrüßungen:приветствие
+beraten:консультировать
+der Bericht/Berichte:доклад
+das Berufskolleg:профессиональный колледж
+der Berufswunsch:профессиональное устремление
+die Biologie:биология
+das Bundesland:федеральная земля
+die Chemie:химия
+damals:в те времена
+dieselbe:та же самая
+das Diplom:диплом
+der Elternabend:родительское собрание
+der Elternsprechtag:день консультаций с родителями
+der Englischlehrer:учитель английского языка
+die Erdkunde:география
+etwa:примерно
+das Fach/Fächer:предмет
+die Fachhochschule:высшая профессиональная школа
+die Fachhochschulreife:специализированное среднее образование
+der Fluss/Flüsse:река
+formell:формальный
+der Fotograf:фотограф
+freiwillig:добровольно
+die Gesamtschule:единая школа
+die Geschichte:история
+das Gipsbein:нога в гипсе
+das Glück:счастье
+das Gymnasium:гимназия
+das Halbjahr:полугодие
+die Hauptschule:основная школа
+hinfallen:упасть
+der Integrationsverein:общество по интеграции
+der Jugendliche/Jugendlichen:подростки
+der Junge:мальчик
+die Kindertagesstätte(Kita)/Kindertagesstätten (Kitas):детский сад
+die Klasse:класс
+die Klassenarbeit:классная работа
+der Klassenlehrer:классный руководитель
+der Knöchel:лодыжка
+der Korb:корзина
+die Kunst:искусство
+das Lieblingsfach/Lieblingsfächer:любимый предмет
+lösen:решать
+die Lust:желание
+das Mädchen/Mädchen:девочка
+mangelhaft:неудовлетворительно
+die Mathearbeit:работа по математике
+die Meinung/Meinungen:мнение
+die Nachhilfe:занятия с репетитором
+normal:нормальный
+die Note/Noten:оценка
+die Oberschule:средняя школа
+olympisch:олимпийский
+die Pflicht:обязанность
+die Physik:физика
+der Pilot:пилот
+die Planung:планирование
+die Realschule:реальная школа
+die Rede:речь
+die Religion:религия
+das Schaubild:графическое изображение
+schrecklich:ужасный
+die Schulform:школьная форма
+der Schulleiter:школьный директор
+die Schulpflicht:обязательное школьное обучение
+das Schulsystem:школьная система
+selbst:самостоятельно
+der Sozialpädagoge:социальный педагог
+der Sportunterricht:физкультура
+streng:строгий
+die Tagesordnung:распорядок дня
+der Teenager/Teenager:подросток
+teilnehmen:принимать участие
+das Tier/Tiere:животное
+der Tierpfleger:смотритель в зоопарке
+träumen:мечтать
+traurig:грустный
+turnen:заниматься гимнастикой
+umknicken:подвернуть
+unfair:несправедливый
+ungenügend:недостаточно
+die Uniform:униформа
+unten:внизу
+der Unterschied/Unterschiede:разница
+die Variante/Varianten:вариант
+die Vergangenheit:прошлое
+der Vokabeltest/Vokabeltests:тест словарного запаса
+der Vortrag:доклад
+werfen:бросать
+die Akupunktur:иглоукалывание
+die Alternative:альтернатива
+anerkannt:признанный
+die Anweisung/Anweisungen:указание
+die Auflistung:перечисление
+die Behandlung/Behandlungen:лечение
+belegen:подтверждать
+die Bescheinigung/Bescheinigungen:свидетельство
+der Boden/Böden:пол
+dagegen:против
+damit:для того чтобы
+der Eiswürfel/Eiswürfel:кубик льда
+empfindlich:чувствительный
+engagieren:связывать обязательством
+entspannen:расслабляться
+die Entspannung:расслабление
+erfahren:узнать
+erstatten:возместить
+fit:хорошо тренированный
+gesamt:итого
+gesundheitlich:в отношении здоровья
+die Gymnastik:гимнастика
+das Handgelenk:кисть руки
+das Hausmittel/Hausmittel:домашнее средство
+die Haut:кожа
+hiermit:настоящим (документом)
+hierzu:к этому
+hochlegen:положить наверх
+holen:приносить
+klagen:жаловаться
+kommunizieren:общаться
+kompliziert:сложный
+die Kostenerstattung:возмещение расходов
+die Kostenübernahme:принятие на себя расходов
+kühlen:охлаждать
+leihen:одалживать
+manche:некоторые
+die Massage:массаж
+massieren:массировать
+die Meditation:медитация
+der Muskel/Muskeln:мускул
+die Nebenwirkung/Nebenwirkungen:побочное действие
+das Pilates:пилатес
+der Rat:совет
+reizen:раздражать
+die Rückenmuskulatur:мускулатура спины
+schlafengehen:идти спать
+die Schmerztablette:обезболивающая таблетка
+die Schwellung:опухание
+selber:сам
+speziell:специальный
+die Sportart:вид спорта
+der Sportverein:спортивное общество
+ständig:постоянно
+stärken:укреплять
+der Tanzkurs:курс танцев
+die Teilnahme:участие
+die Teilnahmebescheinigung:свидетельство об участии
+telefonisch:телефонный
+die Therapie:терапия
+der Trainer:тренер
+treiben:заниматься
+die Tüte:пакет
+die Übelkeit:тошнота
+übersenden:пересылать
+überweisen:перенаправлять
+übrigens:кстати
+die Verabschiedung:прощание
+vermitteln:посредничать
+verschreiben:выписывать (рецепт)
+der Versicherungsnehmer:застрахованное лицо
+der Versicherungstarif:страховой тариф
+die Verspannung/Verspannungen:напряжение
+vorschlagen:предлагать
+während:во время
+die Wärmflasche:грелка
+weggehen:уходить
+zwischendurch:между делом
+abheben:взлетать
+die Aktivität/Aktivitäten:активность
+anfordern:затребовать
+die Armut:бедность
+aufheben:прекращать
+ausdrucken:распечатать
+die Bankkarte:банковская карта
+der Bankkaufmann:банковский служащий
+die Bankkauffrau:банковская служащая
+die Bankleitzahl:код банка
+der Bankschalter:касса в банке
+bar:наличный
+das Bargeld:наличные деньги
+bargeldlos:безналичный
+die Basis:основа
+begleichen:оплатить
+berechnen:рассчитать
+die Bestellnummer:номер заказа
+die Bestellung:заказ
+der BIC:банковский идентификационный код
+der Blick:взгляд
+die Broschüre:брошюра
+drücken:нажимать
+eigen:собственный
+die Eingabe/Eingaben:ввод данных
+eingeben:вводить данные
+einzahlen:вносить деньги
+erledigen:выполнять
+eröffnen:открывать
+die Filiale:филиал
+folgend:указанный ниже
+formulieren:формулировать
+die Gebühr/Gebühren:сбор
+der Geldautomat:банкомат
+die Geldbörse:кошелек
+das Geldstück/Geldstücke:монета
+genießen:наслаждаться
+gewinnen:выигрывать
+die Girocard:дебетовая карта
+das Girokonto:дебетовый счет
+das Hufeisen:подкова
+die IBAN:идентификационный банковский код IBAN
+indirekt:косвенный
+die Innenstadt:городской центр
+jederzeit:в любое время
+das Kleeblatt:лист клевера
+das Kleingeld:мелочь
+der Kontoauszug/Kontoauszüge:выписка по счету
+der Kontoinhaber:владелец счета
+die Kontonummer/Kontonummern:номер счета
+der Kontostand:состояние счета
+kontrollieren:проверять
+das Kreditinstitut/Kreditinstitute:кредитный институт
+die Kreditkarte/Kreditkarten:кредитная карта
+die Kundennummer/Kundennummern:клиентский номер
+die Kundenreferenz:справочный номер клиента
+der Laden/Läden:магазин
+die Leistung/Leistungen:услуга
+die Menge:количество
+mobil:мобильный
+monatlich:месячный
+die Münze/Münzen:монета
+niemand:никто
+der Nulltarif:нулевой тариф
+nutzen:использовать
+das Online-Banking:онлайн-банкинг
+der Pfennig/Pfennige:пфенниг
+der PIN:персональный идентификационный номер
+der Quatsch:чепуха
+die Rechnung:счет
+der Rechnungsbetrag:сумма по счету-фактуре
+die Rechnungsnummer:номер счета-фактуры
+reich:богатый
+der Reichtum:богатство
+der Respekt:уважение
+der Schein/Scheine:купюра
+schieben:перемещать
+schlachten:резать скот
+der Schornsteinfeger:трубочист
+das Sparkonto/Sparkonten:накопительный счет
+das Sparschwein/Sparschweine:копилка
+spätestens:не позднее чем
+stecken:вставлять
+stoßen:толкать
+die TAN:номер трансакции
+die Taste/Tasten:кнопка
+der Täter:преступник
+der Überfall/Überfälle:нападение
+die Überwachungskamera/Überwachungskameras:камера наблюдения
+überfallen:нападать
+die Überweisung/Überweisungen:денежный перевод
+das Überweisungsformular:бланк денежного перевода
+der Versuch/Versuche:попытка
+der Verwendungszweck/Verwendungszwecke:назначение
+der Vorteil/Vorteile:преимущество
+weglaufen:убегать
+der Zahlungsempfänger:получатель/получательница платежа
+der Zeitungsartikel/Zeitungsartikel:газетная статья
+der Zeuge:свидетель
+zurückgeben:возвращать
+abschalten:выключать
+der Appetit:аппетит
+ärgern:злить
+asiatisch:азиатский
+der Ausflug/Ausflüge:экскурсия
+ausgezeichnet:превосходный
+der Ausgleich:компенсация
+außer:кроме
+die Aussicht:перспектива
+der Babysitter:приходящий нянь
+die Band:лента
+das Basketball:баскетбол
+basteln:мастерить
+das Besteck:столовые приборы
+der Chor:хор
+daheim:дома
+der Daumen:большой палец
+der Einlass:пропуск
+entlang:вдоль
+das Event:событие
+das Feuerzeug:зажигалка
+die Freizeit:досуг
+die Freizeitaktivität/Freizeitaktivitäten:активное проведение досуга
+das Freizeitangebot/Freizeitangebote:предложение по организации досуга
+das Freizeitvergnügen:удовольствие от свободного времени
+die Gabel/Gabeln:вилка
+die Gastronomie:заведение общественного питания
+das Gedicht/Gedichte:стихотворение
+der Gegensatz:противоположность
+der Geiger:скрипач
+gemischt:смешанный
+das Geschirr:посуда
+der Grill:гриль
+die Grillkohle:уголь для гриля
+der Grillplatz/Grillplätze:место для гриля
+die Grillsoße:соус для гриля
+die Grillzange:щипцы для гриля
+herrlich:великолепный
+herum:вокруг
+interessieren:интересоваться
+der Interviewpartner:интервьюируемый
+irgendwo:где-то
+jährlich:ежегодно
+jeweils:в каждом случае
+knackig:соблазнительный
+konzentrieren:концентрироваться
+der Kumpel:приятель
+die Leidenschaft:страсть
+der Löffel/Löffel:ложка
+malen:рисовать
+meist:чаще всего
+das Messer/Messer:нож
+mitfahren:ехать вместе с кем-то
+nähen:шить
+normalerweise:обычно
+das Open-Air-Konzert:концерт под открытым небом
+der Poetry-Slam:поэтический слэм
+die Regie:постановка
+der Saal/Säle:зал
+das Schach:шахматы
+der Schnupperkurs:ознакомительный курс
+die Schüssel:ключ
+segeln:идти под парусом
+der Sieg:победа
+das Spielfeld:игровое поле
+das Sportergebnis/Sportergebnisse:спортивный результат
+der Sportplatz:спортивная площадка
+der Stoff:материал
+surfen:заниматься серфингом
+der Tango:танго
+der Tänzer:танцор
+die Tischdecke:скатерть
+die Tischdekoration:украшение стола
+trotzdem:несмотря на это
+umfangreich:обширный
+die Umfrage:опрос
+die Umkleide:кабина для переодевания
+unterhalten:развлекать
+veranstalten:устраивать
+der Veranstaltungshinweis/Veranstaltungshinweise:информация о мероприятии
+verbringen:проводить (время)
+die Verpackung/Verpackungen:упаковка
+verteilen:распределять
+das Volleyballspiel:волейбольная игра
+die Vorlesung/Vorlesungen:лекция
+wundervoll:замечательный

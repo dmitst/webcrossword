@@ -1,0 +1,478 @@
+die Abendkasse:касса для продажи билетов перед началом вечерних спектаклей
+abholen:забирать
+aktuell:актуальный
+alle:все
+anklicken:щелкнуть мышью (на ч-л)
+die App:приложение
+aussuchen:выбрать
+der Benutzername:имя пользователя
+bestellen:заказать
+chatten:общаться в чате
+die Datei/Dateien:файл
+dich:тебя
+diskutieren:обсуждать
+drucken:распечатать
+der Eintritt:вход
+empfehlen:рекомендовать
+die Empfehlung/Empfehlungen:рекомендация
+flirten:флиртовать
+der Flohmarkt/Flohmärkte:блошиный рынок
+das Forum:форум
+funktionieren:функционировать
+gebraucht:подержанный
+googeln:искать в интернете
+herausfinden:обнаруживать
+herunterladen:загрузить с сервера
+hochladen:загрузить на сервер
+informieren:информировать
+international:интернациональный
+das Internet:интернет
+das Kennwort/Kennwörter:пароль
+die Kinokarte:билет в кино
+klicken:щелкнуть мышью
+der Kommentar/Kommentare:комментарий
+kostenlos:бесплатно
+das Kulturcafé:кафе с эстрадным представлением
+der Leser:чтец
+löschen:удалять
+mailen:отправлять по электронной почте
+mich:меня
+mitkommen:сопровождать
+mitmachen:принимать участие
+nachschauen:смотреть вслед
+der Neffe:племянник
+nervös:нервный
+der Newsletter:новостная рассылка
+oben:вверху
+die Politik:политика
+prima:отлично
+das Programm/Programme:программа
+die Radtour/Radtouren:поездка на велосипеде
+der Regen:дождь
+der Regenschirm:зонт
+die Reihenfolge:последовательность
+reservieren:бронировать
+die Reservierung:бронь
+die Rolle/Rollen:роль
+sinken:опускаться
+das Smartphone:смартфон
+speichern:сохранить
+das Spielzeug:игрушка
+starten:начинать
+die Startseite:начальная страница
+steigen:подниматься
+das Straßenfest:уличный праздник
+das Symbol/Symbole:символ
+tauschen:менять
+die Temperatur/Temperaturen:температура
+das Theater:театр
+der Treffpunkt:место встречи
+unternehmen:предпринимать
+die Verabredung/Verabredungen:договоренность
+die Veranstaltung/Veranstaltungen:мероприятие
+der Veranstaltungstipp/Veranstaltungstipps:рекомендованное мероприятие
+der Vorschlag/Vorschläge:предложение
+die Welt:мир
+die Wettervorhersage:прогноз погоды
+die Wirtschaft:экономика
+das Würstchen:сосиски
+zeitweise:время от времени
+zuhören:слушать
+zuschauen:смотреть
+abfahren:отправляться
+die Abfahrt/Abfahrten:отправление
+ankommen:прибывать
+die Ankunft/Ankünfte:прибытие
+der Anschluss:стыковка
+der Anschlusszug/Anschlusszüge:поезд для пересадки
+ausblenden:скрыть
+ausfallen:отменяться
+aussteigen:выходить
+das Autofahren:ехать на машине
+der Automat:автомат
+das Bahnfahren:ехать на поезде
+der Bahnsteig:платформа
+bitten(um):попросить(о)
+buchen:бронировать
+die Dauer:продолжительность
+defekt:сломанный
+deshalb:поэтому
+drüben:там
+die Einfahrt/Einfahrten:въезд
+einsteigen:садиться (в транспорт)
+erhalten:получить
+erreichen:добраться
+der Fahrkartenschalter:касса по продаже билетов
+der Fahrplan/Fahrpläne: расписание движения
+der Fernbus:автобус дальнего следования
+fliegen:лететь
+das Flugzeug/Flugzeuge:самолет
+der Grund:причина
+der Halt:остановка
+hin:туда
+die Hinfahrt/Hinfahrten:поездка туда
+der Mitarbeiter:сотрудник
+mitnehmen:брать с собой
+nah:близко
+nämlich:именно
+die Nummer:номер
+die Option:вариант
+passieren:проезжать мимо
+das Pech:неудача
+planmäßig:по расписанию
+preiswert:недорогой
+die Reisemöglichkeit/Reisemöglichkeiten:возможный маршрут
+das Reiseziel:цель путешествия
+die Richtung/Richtungen:направление
+die Rückfahrt/Rückfahrten:обратная поездка
+der Schaffner:проводник
+das Schild/Schilder:табличка
+schwarzfahren:ехать без билета
+schwierig:сложно
+der Senior:пенсионер
+der Serviceschalter:окошко по обслуживанию
+sondern:но, а скорее
+sparen:экономить
+die Station:станция
+die Störung/Störungen:помеха
+die Strafe/Strafen:штраф
+die Strecke/Strecken:расстояние
+umdrehen:поворачиваться
+umsteigen:пересаживаться
+die Umwelt:окружающая среда
+unterwegs:в пути
+die Verbindung/Verbindungen:связь
+verehrt:уважаемый 
+verpassen:пропустить
+verschlafen:проспать
+verspätet:запоздалый
+die Verspätung/Verspätungen:опоздание
+die Vorsicht:осторожность
+wenig:немного
+wohl:пожалуй
+die Zeitschrift/Zeitschriften:журнал
+der Zoo:зоопарк
+ablesen:считывать
+die Ablesung:считывание
+abstellen:отставить
+afrikanisch:африканский
+das Altglas:стеклянная тара
+aufschließen:отпирать
+ausführen:выполнять
+ausgeben:выдавать
+ausziehen:снимать
+beachten:обращать внимание
+bedeuten:означать
+der Beinbruch:перелом ноги
+berufstätig:работающий
+die Beschwerde/Beschwerden:жалоба
+besichtigen:осматривать
+der Bezirk:район
+der Biomüll:органические отходы
+die Biotonne:бак для органических отходов
+das Brett:доска
+der Briefkasten/Briefkästen:почтовый ящик
+dass:что
+die Ecke:угол
+die Einbauküche:встроенная кухня
+einrichten:обставлять мебелью
+die Einweihungsparty:новоселье
+die Einwurfzeit/Einwurfzeiten:время работы
+einziehen:въезжать
+der Einzug:въезд
+entsorgen:утилизировать
+erfolgen:происходить
+der Fahrradständer:стойка для велосипедов
+die Fernwärme:центральное отопление
+das Gas:газ
+Gassi gehen:выгуливать собаку
+gehören:принадлежать
+gesondert:раздельный
+der Glascontainer:бак для сбора стеклотары
+der Hausbewohner:жилец дома
+der Hausmeister:управдом
+die Hausordnung:правила внутреннего распорядка
+die Hausregel/Hausregeln:правила проживания в доме
+die Hausreinigung:уборка дома
+die Hausverwaltung:управление дома
+herzlich:сердечно
+hoch:высоко
+der Hof:двор
+hoffen:надеяться
+jemand:кто-то
+der Kellerzugang:доступ в подвал
+der Kinderwagen:детская коляска
+die Kleinmöbel:малогабаритная мебель
+die Kommode:комод
+kündigen:расторгать договор, увольняться
+legen:класть
+leidtun:вызывать сочувствие
+der Lieferant:поставщик
+liefern:поставлять
+der Makler:маклер
+der Mieter:съемщик
+der Mitbewohner:сожитель
+die Mitteilung:сообщение
+die Müllabfuhr:вывоз мусора
+die Nachbarschaft:микрорайон
+die Nachricht:новость
+der Nachtisch:десерт
+die Nähe:близость
+ordnungsgerecht:в соответствии с порядком
+privat:частный
+reichlich:обильный
+der Restmüll:остаточные отходы
+schließlich:в конце концов
+schonen:беречь
+setzen:садить
+sogar:даже
+sorgen:беспокоиться
+sorgfältig:тщательно
+der Spaziergang:прогулка
+der Spiegel:зеркало
+der Stellplatz/Stellplätze:место для парковки
+die Tiefgarage:подземный гараж
+die Tonne:бак
+trennen:разделять
+die Treppe:лестница
+das Treppenhaus:лестничная клетка
+übernehmen:брать на себя
+umziehen:переезжать
+der Umzug:переезд
+der Umzugskarton/Umzugskartons:коробка для упаковки вещей во время переезда
+die Vase/Vasen:ваза
+der Verbraucherzähler:счетчик потребления
+vereinbaren:договариваться
+der Vermieter:арендодатель
+vermieten:сдавать в аренду
+vorhanden:в наличии
+wegen:из-за
+weil:потому что
+weiterhin:далее
+die Wohngemeinschaft:группа совместно проживающих в одной квартире людей
+die Wohnungsbesichtigung:просмотр квартиры
+der Wunsch/Wünsche:желание
+der Zähler:счетчик
+der Zugang/Zugänge:доступ
+zuletzt:в последнюю очередь
+zuzüglich:плюс
+abgeben:отдавать
+ablehnen:отклонять
+abmelden:снимать с учета
+die Abmeldung:снятие с учета
+ähnlich:похожий
+das Amt:ведомство
+das Amtsdeutsch:канцелярский немецкий язык
+ändern:вносить изменения
+der Angehörige/Angehörigen:родственник
+ankreuzen:поставить крестик
+die Anschrift:адрес
+der Antrag/Anträge:заявка
+der Antragsteller:заявитель
+die Arbeitsagentur:агентство по трудоустройству
+die Arbeitserlaubnis:разрешение на работу
+das Arbeitslosengeld:пособие по безработице
+der Arbeitsplatz/Arbeitsplätze:рабочее место
+die Arbeitsvermittlung:посредничество в трудоустройстве
+der Aufenthalt:пребывание
+die Aufenthaltserlaubnis:разрешение на пребывание
+aufrufen:вызывать
+der Ausbildungsplatz:место обучения
+das Ausländeramt:ведомство по делам иностранцев
+die Ausländerbehörde:отдел виз и регистраций иностранных граждан
+der Ausweis:удостоверение личности
+beantragen:подавать заявление
+bearbeiten:обрабатывать
+die Behörde:учреждение
+die Berufsberatung:консультация по выбору профессии
+das Berufsinformationszentrum:центр информации по выбору профессии
+der Cousin:двоюродный брат
+die Cousine:двоюродная сестра
+dabei:при этом
+das Dokument:документ
+der Ehepartner:супруг
+die Eheschließung/Eheschließungen:бракосочетание
+das Einwohnermeldeamt:отдел регистрации по месту жительства
+der Enkel:внук
+die Enkelin:внучка
+das Enkelkind/Enkelkinder:внук/внучка
+entschuldigen:извинять
+das Familienbuch:семейная книжка
+die Familienkasse:ведомство по финансовой поддержке семей
+das Familienmitglied/Familienmitglieder:член семьи
+fehlen:отсутствовать
+das Finanzamt:налогово-финансовое ведомство
+die Geburt/Geburten:рождение
+das Geburtsdatum/Geburtsdaten:дата рождения
+das Geburtsland:страна рождения
+der Geburtsname:фамилия при рождении
+der Geburtsort:место рождения
+die Geburtsurkunde:свидетельство о рождении
+genehmigen:разрешать
+das Geschlecht/Geschlechter:пол
+herein:сюда
+hingehen:идти туда
+die Integration:интеграция
+der Integrationskurs:интеграционный курс
+das Kindergeld:детское пособие
+der Lebenspartner:спутник жизни
+der Lichtbildausweis:удостоверение личности с фотографией
+losfahren:трогаться с места
+männlich:мужской
+die Nichte/Nichten:племянница
+notieren:записывать
+der Personalausweis:удостоверение личности
+der Reisepass/Reisepässe: заграничный паспорт
+die Schwiegereltern:родители мужа (жены)
+die Staatsangehörigkeit:гражданство
+das Team:команда
+der Teil:часть
+die Unterlagen:документы
+unterschreiben:подписывать
+die Urkunde/Urkunden:свидетельство
+vollständig:полный
+die Webseite/Webseiten:веб-сайт
+weiblich:женский
+wiederholen:повторять
+die Zulassungsstelle:орган регистрации транспортных средств
+zuständig:компетентный
+das Abitur(Abi):аттестат зрелости
+ablegen:сдавать
+abschließen:оканчивать
+der Abschluss/Abschlüsse:окончание
+anbieten:предлагать
+der Anfänger:новичок
+die Architektur:архитектура
+das Ausland:заграница
+der Autounfall/Autounfälle:автомобильная авария
+beenden:закончить
+die Beratung:консультация
+der Bereich:сфера
+die Berufsausbildung:профессиональное обучение
+die Berufsschule:школа профессионального обучения
+besonders:особенно
+der Bildungsweg:образовательный путь
+die Büroorganisation:офисная организация
+das Chaos:хаос
+die Decke:потолок
+das Ende:конец
+die Energie:энергия
+enthalten:содержать в себе
+entscheiden:решать
+erforderlich:требуемый
+die Fitness:фитнес
+fliehen:спасаться бегством
+fortgeschritten:продвинутый
+der Frisör:парикмахер
+genial:гениальный
+hoffentlich:надеюсь
+jobben:подрабатывать
+die Kategorie/Kategorien:категория
+kaufmännisch:коммерческий
+die Kenntnisse:знания
+die Kommunikation:коммуникация
+kompakt:компактный
+kürzen:сокращать
+die Kursgebühr:оплата за курс
+das Kurzprogramm:короткая программа
+der Lebensweg/Lebenswege:жизненный путь
+die Lehre:учеба
+das Lehrmaterial:учебный материал
+das Material:материал
+miserabel:ужасный
+mittlere:средний
+das Prost:Ваше здоровье!
+die Prüfung:экзамен
+das Prüfungstraining:подготовка к экзамену
+der Realschulabschluss:аттестат об окончании реального училища
+reisen:путешествовать
+rhythmisch:ритмический
+schaffen:создавать
+die Schulzeit:школьное время
+seit:с
+das Semester/Semester:семестр
+separat:отдельный
+die Situation/Situationen:ситуация
+städtisch:городской
+die Terminplanung:планирование встреч
+der Test/Tests:тест
+das Thema/Themen:тема
+die Theorie:теория
+trainieren:тренироваться
+das Training:тренировка
+der Trick/Tricks:уловка
+die Überraschung/Überraschungen:сюрприз
+die Überschrift/Überschriften:заголовок
+umschreiben:переписать
+verlieben:влюбиться
+verlieren:потерять
+die Vorbereitung:подготовка
+die Vorkenntnisse:предварительные знания
+das Vorstellungsgespräch:собеседование
+die Weiterbildung/Weiterbildungen:повышение квалификации
+das Yoga:йога
+das Zeitmanagement:организация времени
+das Zertifikat:сертификат
+das Zeugnis:аттестат
+zufrieden:довольный
+der Ansprechpartner:контактное лицо
+der Aushilfsjob:временная работа
+aussehen:выглядеть
+der Auszubildende(Azubi)/Auszubildende:ученик(-ца)
+der Bäckereifachverkäufer:специалист по продажам хлебобулочных изделий
+bedanken:благодарить
+bedienen:обслуживать
+beeilen:торопиться
+begründen:обосновывать
+das Beratungsgespräch:консультативная беседа
+das Berufsfeld/Berufsfelder:профессиональное поле
+der Bewerber:соискатель на должность
+bieten:просить
+eindecken:покрывать
+genug:достаточно
+Grundschule:начальная школа
+handwerklich:ремесленный
+das Holz:дерево
+der Informatiker:программист
+die Kneipe:пивная
+kostenfrei:бесплатно
+die Küchenhilfe:помощник на кухне
+die Laufbahn:карьера
+der Lebenslauf/Lebensläufe:биография
+lückenlos:без пробелов
+melden:сообщать
+die Mittelschule:средняя школа
+der Modedesigner:дизайнер моды
+das Muster:образец
+nötig:нужный
+ob:ли
+persönlich:лично
+professionell:профессионально
+die Reinigungsarbeiten:работы по уборке
+die Rente/Renten:пенсия
+der Restaurantfachmann:официант
+die Restaurantfachfrau:официантка
+spezial:специальный
+statt:вместо
+die Stelle:должность
+das Stellenangebot:предложение работы
+die Stellensuche:поиск работы
+die Struktur:структура
+sympathisch:симпатичный
+die Teilzeit:неполная ставка
+die Teilzeitstelle:должность с неполной ставкой
+tippen:набирать текст
+der Tippfehler:опечатка
+der Tischler:столяр
+üben:упражняться
+die Übersiedlung:переселение
+unprofessionell:непрофессиональный
+unsympathisch:несимпатичный
+unzufrieden:недовольный
+verrückt:сумасшедший
+das Volleyball:волейбол
+die Vollzeit:полная ставка
+die Vollzeitstelle:должность с полной ставкой
+die Voraussetzung/Voraussetzungen:предварительное требование
+die Vorlage/Vorlagen:предъявление
+zuverlässig:надежный

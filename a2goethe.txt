@@ -1,0 +1,1023 @@
+=01	Legend:
+=02	( " ) - разрывной глагол
+=03	( 1 ) - только ед.ч.
+=04	( * ) - только мн.ч
+=05	( - ) - так же во мн.ч.
+=06	( @ ) - слабый глагол
+=07	a + # - das Adjektiv
+=08	d + # - das Adverb oder das Konnektor
+=10	s + # - das Substantiv
+=11	v + # - das Verb
+=12	p + # - die Pra^position
+=13	a, o, u and s + ^ - замена умляутов
+=14	/корень производного слова/
+
+a#aktiv:активный 
+a#aktuell:актуальный, современный, модный, явный 
+a#allein:одинокий 
+a#alt:старый 
+a#ander:другой 
+a#arbeitslos:безработный 
+a#arm:бедный 
+a#aufregend:волнующий,волнительный,захватывающий 
+v#austauschen //tauschen/:
+a#automatisch:автоматический 
+a#bekannt:
+a#beliebt:
+a#bequem:
+a#beru^hmt:
+a#besetzt:
+a#billig:
+a#bitter:
+a#blo^d:
+a#blond:
+a#bo^se:
+s#Box(-en) die:
+a#bunt:
+a#deutlich:
+a#dick:
+a#du^nn:
+a#dumm:
+a#dunkel:
+a#echt:
+a#eigen:
+a#einfach:
+a#einig:
+a#einverstanden:
+a#eng:
+a#erka^ltet:
+a#erlaubt:
+a#falsch:
+a#fantastisch:
+a#faul:
+a#fertig:
+a#fett:
+a#fit:
+a#fleis^ig:
+a#frei:
+a#fremd:
+a#freundlich:
+a#frisch:
+a#froh:
+a#fru^h:
+a#furchtbar:
+a#ganz:
+a#gefa^hrlich:
+a#gehert:
+a#gesund:
+a#glu^cklich:
+a#gros^:
+a#gu^ltig:
+a#gu^nstig:
+a#gut (besser/am besten):
+a#ha^sslich:
+a#hart:
+a#heis^:
+a#hell:
+a#hoch:
+a#intelligent:
+a#interessant:
+a#international:
+d#(et)was:
+d#aber:нo 
+d#alle:все
+d#alles:всё 
+d#also:итак 
+d#anders:иной, иначе 
+d#auch:тоже, также 
+d#aus^er:кроме 
+d#aus^erdem:кроме/сверх/помимо того 
+d#aus^erhalb:вовне, за пределами 
+d#bald:скоро 
+d#bar:наличными 
+d#beide:
+d#besonders:
+d#bewo^lkt:
+d#bisschen:
+d#bitte:
+d#da:
+d#dabei:
+d#dafu^r:
+d#dagegen:
+d#damals:
+d#daneben:
+d#danke:
+d#dann:
+d#darauf:
+d#daru^ber:
+d#dass:
+d#denn:
+d#deshalb:
+d#direkt:
+d#doch:
+d#dort:
+d#draus^en:
+d#drinnen:
+d#dru^ben:
+d#durch:
+d#echt:
+d#egal:
+d#eigentlich:
+d#eilig, hast du es eilig? (Вы спешите?):
+d#einfach:
+d#einmal:
+d#einzel:
+d#endlich:
+d#erst:
+d#fast:
+d#freiwillig:
+d#fu^r:
+d#gegen:
+d#gegenu^ber:
+d#genau, genauo so ... wie:
+d#genug:
+d#gerade:
+d#geradeaus:
+d#gern / lieber / am liebsten:
+d#gestern:
+d#gleich:
+d#herzlich:
+d#heute:
+d#hier:
+d#hoffentlich:
+d#immer:
+d#auf jeden/keinen Fall:
+d#einverstanden:
+d#hallo:
+d#pass auf!:
+p#Ab:начиная с, прочь 
+p#als:чем (при сравнении), в качестве 
+p#an:в, за, к, на, около 
+p#auf:на 
+p#aus:из
+p#bei:
+p#bis:
+p#dorthin:
+p#her:
+p#heraus, raus:
+p#herein, rein:
+p#hin:
+p#hinten, hinter:
+p#in:
+s#(E-)Mail(-s) die:
+s#Achtung (1) die:внимание, уважение 
+s#Adresse(-n) die:адрес 
+s#Ahnung(-en) die:понятие, подозрение, предчуствие 
+s#Alter (-) das:возраст 
+s#Ampel(-n) die:светофор 
+s#Anfang(-e) der:начало 
+s#Angebot(-e) das:предложение, оферта, ассортимент 
+s#Angst(-e) die:страх 
+s#Ankunft(-e) die:прибытие 
+s#Anmeldung(-en) die:заявление,прописка, запись 
+s#Anruf(-e) der:телефонный звонок
+s#Anrufbeantworter (1) der:автоответчик 
+s#Anschluss(-e) der:пересадка, подключение 
+s#Antwort(-en) die:ответ 
+s#Anzeige(-n) die:объявление 
+s#Anzug(-e) der:костюм 
+s#Apfel (Äpfel) der:яблоко 
+s#Apotheke(-n) die:аптека 
+s#Apparat(-e) der:аппарат 
+s#Arbeit(-en) die:работа 
+s#Arm(-e) der:рука (от кисти до плеча) 
+s#Artikel(-) der:артикль, статья 
+s#Aufzug(-e) der:лифт 
+s#Auge(-n) das:глаз 
+s#Ausbildung(-en) die:обучение, подготовка 
+s#Ausflug(-e) der:вылазка, экскурсия 
+s#Ausgang(-e) der:выход 
+s#Auskunft(-e) die:информация, сведения 
+s#Ausland (1) das:заграница 
+s#Ausstellung(-en) die:выставка 
+s#Ausweis(-e) der:документ 
+s#Auto(-s) das:автомобиль 
+s#Autobahn(-en) die:шоссе 
+s#Automat(-en) der:автомат 
+s#Ba^ckerei(-en) die:булочная 
+s#Baby(-s) das:ребенок 
+s#Babysitter(-) der:нянька
+s#Bad(-er) / das Badezimmer das:ванна(я) 
+s#Badewanne die:ванна (чугунная) 
+s#Bahn(-en) die:поезд(жд) 
+s#Bahnsteig(-e) der:перрон 
+s#Balkon(-e) der:балкон 
+s#Ball(-e) der:
+s#Banane(-n) die:
+s#Band(-s) die:
+s#Bank(-e) die:скамья 
+s#Bank(-en) die:банк 
+s#Basketball(-e) der:
+s#Bauch(-e) der:
+s#Baum(Ba^ume) der:
+s#Baustelle(-n) die:
+s#Bein(-e) das:
+s#Berg(-e) der:
+s#Beruf(-e) der:
+s#Bescheid(-e) der:
+s#Besuch(-e) der:
+s#Bett(-en) das:
+s#Bewerbung(-en) die:
+s#Bibliothek(-en) die:
+s#Bier(-e) das:
+s#Bild(-er) das:
+s#Birne(-n) die:
+s#Bitte(-n) die:
+s#Blatt(Bla^tter) das:
+s#Bleistift(-e) der:
+s#Blume(-n) die:
+s#Bluse(-n) die:
+s#Bohne(-n) die:
+s#Brief(-e) der:
+s#BriefMarke(-n) die:
+s#Brille(-n) die:
+s#Bro^tchen(-) das:
+s#Brot(-e) das:
+s#Bru^cke(-n) die:
+s#Bu^ro(-s) das:
+s#Buch(Bu^cher) das:
+s#Buchstabe(-n) der:
+s#Bus(-se) der:
+s#Butter (1) die:
+s#Cafeteria(-s) die:
+s#Café(-s) das:
+s#Chef(-s) / Chefin(-nen) der die:
+s#Club/Klub (-s) der:
+s#Computer(-) der:
+s#Creme(-s/-n) die:
+s#Dame(-n) die:
+s#Dank(1) der:
+s#Datei(-en) die:
+s#Datum(Daten) das:
+s#Ding(-e) das:
+s#Disco(-s) die:
+s#Doppelzimmer das:
+s#Dorf(-er) das:
+s#Drucker(-) der:
+s#Durst(1) der:
+s#Dusche(-n) die:
+s#E-Book(-s) das:
+s#Ehefrau(-en) die:
+s#Ehemann(-er) der:
+s#Ehepartner(-) der:
+s#Ei(-er) das:
+s#Eingang(-e) der:
+s#Einkaufszentrum(-zentren) das:
+s#Einladung(-en) die:
+s#Eintritt(-e) der:
+s#Eis(1) das:
+s#Empfa^nger(-) der:
+s#Ende(-n) das:
+s#Entschuldigung(-en) die:
+s#Erdgeschoss(-e) EG das:
+s#Erfahrung(-en) die:
+s#Erlaubnis(1) die:
+s#Erma^s^igung die:
+s#Erwachsene(-n) der:
+s#Essen (-) das:
+s#Fach(Fa^cher) das:
+s#Fahrkarte(-n) die:
+s#Fahrplan(Fahrpla^ne) der:
+s#Fahrrad (Fahrra^der) das:
+s#Familie(-n) die:
+s#Familienname(-n) der:
+s#Fan(-s) der:
+s#Farbe(-n) die:
+s#Fehler(-) der:
+s#Feier(-n) Fierabend, Fiertag... die:
+s#Feisch(1) das:
+s#Fenster(-) das:
+s#Ferien (Plural) die:
+s#Fernseher(-) der:
+s#Fest (wir feiern ein Fest) das:
+s#Festival(-s) das:
+s#Fieber(1) das:
+s#Film(-e) der:
+s#Firma(-en) die:
+s#Fisch(-e) der:
+s#Flasche(-n) die:
+s#Flohmarkt(ma^rkte) der:
+s#Flug(Flu^ge) der:
+s#Flughafen(-ha^fen) der:
+s#Flugzeug(-e) das:
+s#Fluss(Flu^sse) der:
+s#Formular(-e) der:
+s#Foto(-s) das:
+s#Fotoapparat(-e) der:
+s#Frage(-n) die:
+s#Frau(-en) die:
+s#Freizeit(1) die:
+s#Freund(-e) der:
+s#Freundin(-nen) die:
+s#Fru^hstu^ck(1) das:
+s#Fu^hrerschein(-e) der:
+s#Fu^hrung(-en) die:
+s#Fundsache(-n) die:
+s#Fus^(Fu^s^e) der:
+s#Fus^ball(Fus^ba^lle) der:
+s#Gabel(-n) die:
+s#Garage(-n) die:
+s#Garten(Ga^rten) der:
+s#Gast(Ga^ste) der:
+s#Geburtsjahr(-e) das:
+s#Geburtstag(-e) der:
+s#Gegenteil(-e) das:
+s#Gehalt(Geha^lter) das:
+s#Geld(1) das:
+s#Geldbo^rse(-n) die:
+s#Gemu^se(1) das:
+s#Gepa^ck(1) das:
+s#Gera^t(-e) das:
+s#Gerburtsort(-e) der:
+s#Gericht(-e) das:
+s#Geschirr(1) das:
+s#Gesha^ft(-e) das:
+s#Geshenk(-e) das:
+s#Gesicht(-er) das:
+s#Gespra^ch(-e) das:
+s#Gesundheit(1) die:
+s#Getra^nk(-e) das:
+s#Gewitter(-) das:
+s#Gitarre(-n) die:
+s#Glas(Gla^ser) das:
+s#Gleis(-e) das:
+s#Glu^ck(1) das:
+s#Glu^ckwunsch(Glu^ckwu^nsche) der:
+s#Grippe(1) die:
+s#Gro^s^e(-n) die:
+s#Gruppe(-n) die:
+s#Grus^(Gru^s^e) der:
+s#Ha^hnchen(-) das:
+s#Haar(-e) das:
+s#Halle(-n)  die:
+s#Hals(Ha^lse) der:
+s#Haltestelle(-n) die:
+s#Hamburger(-) der:
+s#Hand(Ha^nde) die:
+s#Handtuch(Handtu^cher) das:
+s#Handy(-s) das:
+s#Hauptstadt (-sta^dte) die:
+s#Haus(Ha^use) das:
+s#Haushalt(-e) der:
+s#Heft(-e) das:
+s#Heimat(1) die:
+s#Heiyung(-en) die:
+s#Hemd(-en) das:
+s#Herd(-e) der:
+s#Herr(-en) der:
+s#Hilfe(1) die:
+s#Himmel(1) der:
+s#Hobby(-s) das:
+s#Hochzeit(-en) die:
+s#Homepage(-s) die:
+s#Hose(-n) die:
+s#Hotel(s) das:
+s#Hund(-e) der:
+s#Hunger(1) der:
+s#Idee(-n) die:
+s#Information(-en) die:
+s#Insel(-n) die:
+s#Instrument(-e) das:
+s#Interesse(-n) das:
+s#Internet(1) das:
+s#Sporthalle(-n) die:
+s#Wolke(-n) die:
+s#der/Bekannte(-n) die:
+s#der/Blog(-s) das:
+s#der/Comic(-s) das:
+s#отправление:Abfahrt(-en) die
+v#a^ndern (@):изменять ч-л 
+v#a^rgern (@) [sich]:злить, злиться 
+v#abfahren:
+v#abfliegen:
+v#abgeben:отдавать 
+v#abholen:заезжать, заходить за к-л, забирать 
+v#abshlies^en:запирать на ключ 
+v#anbieten:предлагать, угощать 
+v#anfangen:начинать 
+v#ankommen:прибывать 
+v#anmachen:включать (делать) 
+v#anmelden:заявлять,докладывать, прописывать,регистрировать,записываться
+v#ansehen [sich]:просматривать 
+v#antworten (@):отвечать 
+v#arbeiten (@):работать
+v#aufho^ren [mit]:кончать, оканчивать 
+v#aufmachen:открывать, раскрывать, вешать 
+v#aufpassen [auf]:следить,наблюдать,заботиться 
+v#aufra^umen:наводить порядок,убираться 
+v#aufstehen:вставать 
+v#ausfu^llen:заполнять 
+v#ausgeben:раздавать,тратить 
+v#ausgehen:выходить наружу 
+v#ausmachen:выключать (делать) 
+v#auspacken:распаковывать 
+v#ausruhen [sich]:отдыхать 
+v#aussehen:выглядеть 
+v#aussprechen:произносить,высказывать,выражать 
+v#aussteigen:выходить 
+v#austragen:вы(раз)гружать,выпускать,вы(раз)носить
+v#backen , ba^ck(-st,-t), gebacken:печь 
+v#baden (@):принимать ванну 
+v#basteln (@):
+v#bauen (@):
+v#beantworten:
+v#bedanken [sich]:
+v#bedeuten:
+v#beeilen [sich]:
+v#beenden:
+v#beginnen (begonnen):
+v#begru^nden:
+v#bekommen:
+v#benutzen:
+v#beraten:
+v#berichten:
+v#beschreiben:
+v#beschweren [sich]:
+v#besichtingen (@):
+v#besta^tigen (@):
+v#bestehen:
+v#bestellen:
+v#besuchen:
+v#bewerben [sich]:
+v#bezahlen:
+v#bitten (gebeten):
+v#blieben (sein geblieben):
+v#braten (bra^t(-st,-t), gebraten):
+v#brauchen (@):
+v#bringen (gebracht):
+v#buchen (@):
+v#buchstabieren (buchstabiert):
+v#chatten (@):
+v#danken, (@):
+v#dauern (@):
+v#denken (gedacht):
+v#deuten <A2+>:
+v#diskutierem, discutiert:
+v#dru^cken (@):
+v#drucken (@):
+v#du^rfen, darf(-st,-t) gedurft:
+v#duschen [sich] (@):
+v#einkaufen ("):
+v#einladen ("):
+v#einpacken ("):
+v#einsteigen ("):
+v#eintragen [sich] ("):
+v#einziehen ("):
+v#empfehlen ("):
+v#enden (@):
+v#entschuldigen [sich] (entschuldigt):
+v#erka^lten [sich]:
+v#erkla^ren:
+v#erlauben (erlaubt):
+v#erreichen:
+v#errinern [sich] (erinnert):
+v#erza^hlen:
+v#essen (gegessen):
+v#fahren (gefahren):
+v#fallen (gefallen):
+v#fehlen (@):
+v#feiern (@):
+v#fernsehen ("):
+v#finden (gefunden):
+v#fliegen (gefloggen):
+v#fotografieren (fotografiert):
+v#fragen (@):
+v#freuen [sich] (@):
+v#fru^hstu^cken (@):
+v#fu^hlen [sich] (@):
+v#geben (gib-st,-t, gegeben):
+v#gefallen:
+v#gehen [sein gegangen]:
+v#geho^ren:
+v#gewinnen (gewonnen):
+v#glauben (@):
+v#gratulieren (gratuliert):
+v#grillen (@):
+v#gru^nden <A2+>:
+v#ha^ngen (gehangen/geha^ngt):
+v#haben (gehabt):
+v#halten, ha^l(-st,-t), gehalten:
+s#Haustier /Tier/:
+v#heiraten (@):
+v#heis^en (geheis^en):
+v#helfen (hilf-st,-t, geholfen):
+v#herstellen ("):
+v#herunterladen ("):
+v#ho^ren (@):
+v#hoffen (@):
+v#holen (@):
+v#husten (@):
+v#informieren (informiert):
+v#interessieren [sich] (interessiert):
+s#Interview(-s) das:
+d#ja:
+s#Jacke(-n) die:
+s#Jeans(*) die:
+a#jeder:
+d#jemand:
+d#jetzt:
+s#Job(-s) der:
+v#joggen (@) ist/hat:
+s#Jugendherberge(-n) die:
+s#Jugendliche(-n) der/die:
+a#jung:
+s#Junge(-n) der:
+s#Kaffee(-s) der:
+s#Kalender(-) der:
+a#kalt:
+a#kaputt:
+s#Kamera(-s) die:
+s#Karte(-n) die:
+s#Kartoffel(-n) die:
+s#Ka^se (1) der:
+s#Kasse(-n) die:
+s$Katze(-n) die:
+v#kaufen (@):
+s#Kaufhaus: 
+d#kein(-e):
+s#Keller(-) der:
+v#kennen (gekannt):
+v#kennenlernen ("):
+s#Kentnisse (*) die:
+s#Kette(-n) die:
+s#Kind(-er) das:
+s#KinderGarten der:
+s#Kino(-s) das:
+s#Kiosk(-e) der:
+s#Kirche(-n) die:
+v#klappen (@):
+d#klar:
+s#Klavier(-e) das:
+s#Kleid(-er) das:
+s#Kleidung(1) die:
+a#klein:
+a#klug:
+v#kochen (@);
+s#Koffer(-) der:
+s#Kollege(-n) der:
+s#Kollegin (-en) die:
+a#komisch:
+v#kommen (ist gekommen):
+v#ko^nnen (kann/-st/t, gekonnt):
+s#Kontakt(-e) der:
+s#Konto(-en) das:
+v#kontrollieren (kontrolliert):
+s#Konzert(-e) das:
+s#Kopf(Ko^pfe) der:
+s#Ko^rper(-) der:
+s#Kosmetik(1) die:
+v#kosten (@):
+a#kostenlos:
+a#krank:
+s#Krankenhaus:
+s#Krankenkasse:
+s#Krankheit(-en) die:
+s#Kredit(-e) der:
+s#Kreuzung(-en) die
+v#Kriegen(@):
+s#Krimi(-s) der:
+s#Ku^che(-n) die:
+s#Kuchen(-) der:
+a#ku^hl:
+s#Ku^hlschrank:
+s#Kultur(-en) die:
+v#ku^mmern [sich] (@):
+s#Kunde(-n) der:
+s#Kundin(-en) die:
+v#ku^ndigen (@):
+s#Kunst(Ku^nste) die:
+s#Kurs(-e) der:
+a#kurz:
+v#lachen (@):
+s#Laden (-) der:
+s#Lampe(-n) die:
+s#Land(La^nder) das:
+s#Landschaft(-en) die:
+a#lang:
+a#lange:
+a#langsam:
+a#langweilig:
+s#Laptop(-s) der/das
+v#lassen (la^sst, gelassen):
+v#laufen (l^auft, gelaufen):
+a#laut:
+v#leben(@):
+s#Leben(-) das:
+s#Lebensmittel(*) die:
+a#leer:
+v#legen (@):
+a#leicht:
+d#leider:
+v#leichen (geleichen):
+a#leise:
+v@lernen(@):
+v#lesen (gelesen):
+a#letzt:
+s#Leute (*) die:
+s#Licht(-er) das:
+a#lieb:
+v#lieben (@):
+s#Lieblings-*:
+s#Lied(-er) das:
+v#liefern (@):
+v#liegen (hat/ist gelegen, lagen)
+s#Link(-s) der:
+a#links
+s#Lo^ffel(-) der:
+s#Lokal(-e) das:
+a#lokal:
+s#Lu^ge(-n) die:
+v#lu^gen (gelogen, logen)
+s#Lust(1) die
+a#lustig:
+v#machen (@):
+s#Ma^dchen(-) das:
+s#Magen (Ma^gen) der:
+s#Mailbox:
+d#mal:
+s#Mal(-e) das:
+v#malen(@):
+d#man:
+a#manch:
+d#manchmal
+s#Mann(Ma^nner) der:
+a#ma^nnlich:
+s#Mannschaft:
+s#Mantel(-) der:
+s#Markt(Ma^rkte) der:
+s#Maschine(-n) die:
+s#Mekikament(-e) das:
+s#Meer(-e) das:
+d#mehr:
+v#meinen (@):
+s#Meinung(-en) die:
+d#meist-:
+d#meistens:
+s#Menge(-n) die:
+s#Mensch(-en) der:
+v#merken (@) :
+s#Messe(-n) die:
+s#Messer (-) das:
+s#Miete (-n) die:
+v#mieten (@):
+s#Milch(1) die:
+d#mindestens:
+s#Mineralwasser:
+v#mitbringen:
+v#mitcommen:
+v#mitmachen:
+v#mitnehmen:
+v#mitspielen:
+s#Mitarbeiter:
+s#Mittagessen (-):
+s#Mitte(-n) die: Mitte August, etw steht in die Mitte
+s#Mittel(-) das
+s#Mo^bel (*) die:
+s#Mobiltelefon:
+s#Mode(-n) die:
+a#modern:
+v#mo^gen (mag/-st-t,mo^gt, mochten,gemocht):
+a#mo^glich:
+s#Moment(-e) der:
+d#morgen:завтра
+s#Morgen der/das:утро(der), завтрашний день(das)
+s#Motor(-en) der:
+s#Motoroller(-) der
+a#mu^de:
+s#Mu^ll(1) der:
+s#Mund(Mu^nder) der:
+s#Museum(Museen) das:
+s#Musik(1) die:
+v#mu^ssen (gemusst/mu^ssen):
+s#Mu^tze(-n) die:
+d#nach:
+s#Nachbar(n) der:
+s#Nachbarin(-nen) die:
+s#Nachricht(-en) die:
+a#na^chste:
+s#Na^he(1) die:
+s#Name(-n) der:
+a#nass:
+s#Natur(1) die:
+d#natu^rlich:
+d#neben:
+d#nebenan:
+a#neblich
+v#nehmen (nimmst/-t, genommen, nammen):
+d#nein:
+v#nennen, (genannt):
+a#nervo^s:
+a#nett:
+a#neu:
+d#nicht:
+d#nichts:
+d#nie:
+d#niemand:
+d#nirgends:
+d#noch:
+a#normal:
+s#Note(-n) die:
+v#notieren (notiert):
+s#Notiz(-en) die:
+d#notwendig:нужный, необходимый
+s#Nudel(-n) die:
+s#Nummer (-n) die:
+d#nur:
+a#nu^tzlich:
+d#oben:
+s#Obst(1) das:
+d#oder:
+d#offen:
+v#o^ffnen (@):
+d#oft:
+d#ohne:
+s#Ohr(-en) das:
+s#O^l(-e) das:
+d#online:
+s#Orange(-n) die:
+s@Ordnung(-en) die:
+v#organisieren (organisiert):
+s#Ort(-e) der:
+s#Paar(-e) das:
+v#packen (@):
+s#Paket(-e) das:
+s#Papier(-e) das:
+s#Parfu^m(-s) das:
+s#Park(-s) der:
+v#parken (@):
+s#Partner(-) der:
+s#Partnerin(-nen) die:
+s#Party(-s) die:
+s#Pass(Pa^sse) der:
+v#passen (@):
+v#passieren (ist passiert):
+s#Passwort /Wort/:
+s#Pause(-n) die:
+s#Person(-en) die:
+s#Pferd(-e) das:
+s#Pflanze(-n) die:
+s#Pizza(-s/-en) die:
+s#Plakat(-e) das:
+s#Plan(Pla^ne) der:
+v#planen (@):
+s#Platz(Pla^tze) der:
+d#plo^tzlich:
+s#Polizei(1)
+s#Pommes(*) die:
+s#Portion(-en) die:
+s#Post(1) die:
+s#Poster(-) das:
+s#Postkarte /Karte/:
+s#Postleitzahl /Zahl/:
+s#Praktikum(-a) das:
+a#praktisch:
+s#Praxis(-en) die:
+s#Preis(-e) der:
+a#preiswert:
+d#pro:
+v#probieren (probiert):
+s#Problem(-e) das:
+s#Produkt(-e) das:
+s#Programm(-e) das:
+s#Projekt(-e) das:
+s#Prospekt(-e) der:
+v#pru^fen (@)
+s#Pru^fung(-en) die:
+s#Pullover(-) der:
+a#pu^nktlich:
+v#putzen(@):
+s#Qualita^t(-en):die
+s#Quiz(1) das:
+s#Radio(-s) das:
+v#raten (ra^t,geraten):
+s#Rathaus /haus/:
+s#Ra^tsel(-) das:
+v#rauchen(@):
+s#Raum(Rau^me) der:
+v#rechnen (@):
+s#Rechnung(-en) die:
+d#rechts:
+v#reden (@):
+s#Regen(1) der:
+a#reich:
+s#Reifen(-) der:
+s#Reihe(-n) die:
+s#Reinigung(-en) die:
+s#Reis(1) der:
+s#Reise(-n) die:
+s#Reisebu^ro /bu^ro/:
+s#Reisefu^hrer /fu^hrer/:
+v#reisen (@):
+v#reiten (ist geritten):
+v#renoviren (renoviert):
+s#Rentner(-) der:
+s#Rentnerin(-nen) die:
+s#Reparatur(-en) die:
+v#reparieren (repariert):
+v#reservieren: (reserviert):
+s#Rest(-e) der:
+s#Restaurant(-s) das:
+s#Rezept(-e) das:
+s#Rezeption(-en) die:
+a#richting:
+v#riechen (gerochen)
+s#Rind(-e) das:
+s#Ring(-e) der:
+s#Rock(Ro^cke) der:
+a#romantisch:
+s#Rose(-n) die:
+s#Ru^cken(-) der:
+s#Rucksack /Sack/:
+v#rufen (gerufen):
+s#Ruhe(1) die:
+a#ruhig:
+a#rund:
+s#Rundgang /Gang/:
+s#Sache(-n) die:
+s#Saft(Sa^fte) der:
+v#sagen (@):
+s#Salat(-e) der:
+s#Salz(-e) das:
+v#sammeln(@):
+s#Satz(Sa^tze) der:
+a#sauber:
+a#sauer:
+d#schade:
+a#scha^dlich:
+v#schaffen(@):
+s#Schalter(-) der:
+a#scharf:
+v#scheinen (gescheinen):
+v#schenken (@):
+s#Schere (-n) die:
+v#schicken (@):
+s#Schiff(-e) das:
+s#Schild(-er) das:
+v#schimpfen (@):
+s#Schirm(-e) der:
+v#schlafen (geschlafen):
+s#Schlafzimmer /Zimmer/:
+a#schlecht:
+v#schlies^en (geschlossen):
+a#schlimm:
+s#Schloss(Schlo^sser) das:
+s#Schluss(Schlu^sse) der:
+s#Schlu^ssel(-) der
+v#schmecken (@):
+s#Schmerz(-en) der:
+a#schmutzig:
+s#Schnee(1) der:
+v#schneiden(geschnitten) [sich]:
+v#schneien (@):
+a#schnell:
+s#Schokolade(1) die:
+d#schon:
+a#scho^n:
+s#Schrank(Schra^nke) der:
+a#schrecklich:
+v#schreiben (geschrieben):
+a#schriftlich:
+s#Schuh(-e) der:
+s#Schule(-n) die:
+s#Schu^ler(-) der:
+s#Schu^lerin(-nen) die:
+a#schwach:
+d#schwanger:
+s#Schwein(-e) das:
+a#schwer:
+a#schwierig:
+s#Schwimmbad /bad/:
+v#schwimmen (ist geschwommen):
+s#See(-n) der:
+s#See(1) die:
+v#sehen (gesehen):
+s#Sehenswu^rdichkeit /wu^rdichkeit/:
+d#sehr
+s#Seife(-n) die:
+v#sein (ist gewesen):
+d#an sein:
+d#aus sein:
+d#auf sein:
+d#weg sein:
+d#zu sein:
+p#seit:
+s#Seite(-n) die:
+d#selbst:
+s#Sendung(-en) die:
+s#Service(1) der
+v#setzen(@) [sich]:
+d#sicher:
+v#singen (gesungen):
+s#Situation(-en) die:
+v#sitzen (gesessen):
+s#Ski(-er) der:
+d#so
+v#Sofa (-s) das:
+d#sofort:
+d#sogar:
+v#sollen (sollten):
+s#Sonne (-n) die:
+a#sonnig:
+d#sonst:
+a#spannend:
+v#sparen (@):
+s#Spas^ (1) der:
+a#spa^t:
+v#spazieren (spaziert):
+v#speichern (@):
+s#Speisekarte /karte/:
+s#Spiel(-e) (das):
+v#spielen (@):
+s#Sport (1) der:
+a#sportlich:
+s#Sportplatz /Platz/:
+s#Sprache(-n) die:
+v#sprechen (gesprochen):
+s#Sprechstunde /Stunde/:
+s#Stadt (Sta^dte) die:
+s#Stadtpan /Plan/:
+s#Star(s) der:
+a#stark:
+d#statt:
+v#stattfinden (") /finden/:
+v#stehen (sein/haben getstanden):
+s#Stelle(-n) die:
+v#stellen (@) :
+v#sterben (sein gerstorben):
+s#Stiefel(-) der:
+s#Stift(-e) der:
+s#Stipendium(-en) das:
+s#Stock (Sto^cke) der:
+s#Stockwerk /Werk/:
+v#sto^ren (@):
+s#Strand (Stra^nde) der:
+s#Stras^e (-n) die:
+s#Stras^enbahn /Bahn/:
+v#streiten (gestritten) [sich]:
+a#streng:
+s#Stress (1) der:
+a#stressig:
+s#Stu^ck(-e) das:
+s#Student(-en) der:
+s#Studentin(-nen) die:
+v#studieren (studiert):
+s#Studium(1) das:
+s#Stuhl (Stu^hle) der:
+v#suchen (@):
+d#super:
+s#Supermarkt /Markt/:
+s#Supper(-n) die:
+v#surfen (@) ist:
+a#Sus^:
+s#Sus^igkeiten (plural) die:
+a#sympathisch:
+s#Tablet(-s) das:
+s#Tablette(-n) die:
+s#Tafel(-n) die:
+v#tanzen (@):
+s#Tasche(-n) die:
+s#Taschengeld /Geld/:
+s#Tasse(-n) die:
+v#tauschen(@):
+s#Taxi(-s) das:
+s#Team(-s) das:
+s#Tee(-s) das:
+v#teilen (@):
+v#teilnehmen /nehmen/:
+s#Telefon(-e) das:
+v#telefonieren (telefoniert):
+s#Teller(-) der:
+s#Tennis(1) das:
+s#Termin(-e) der:
+a#teuer:
+s#Text(-e) der:
+s#Theater(-) das:
+s#Thema(-en) das:
+s#Ticker(-s) das:
+a#tief:
+s#Tier(-e) das:
+s#Tipp(-s) das:
+s#Tisch(-e) der:
+s#Titel(-) der:
+s#Toilette(-n) die:
+a#toll:
+s#Tomate(-n) die:
+s#Topf(To^pfe) der:
+s#Torte(-n) die:
+a#tot:
+a#total:
+s#Tour(-en) die:
+s#Tourist(-en) der:
+s#Touristin(-nen) die:
+v#tragen (getragen):
+v#trainieren (trainiert):
+s#Training(-s) das:
+s#Traum (Tra^ume) der:
+v#tra^umen (@):
+a#traurig:
+v#treffen [sich] (getroffen):
+s#Treppe(-n) die:
+v#trinken (getrunken):
+
+s#...-schaft(-en) die:
+v#tun (tue,tust,tut, getan,taten):

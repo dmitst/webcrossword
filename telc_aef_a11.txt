@@ -1,0 +1,411 @@
+auch:тоже
+bitte:пожалуйста
+Deutsch:немецкий
+Deutschland:Германия
+Englisch:английский
+Französisch:французский
+Frau:госпожа
+gut:хороший
+heißen:звать по имени
+Herr:господин
+kommen aus: происходить из
+lernen:учить(-ся)
+Names:имя, фамилия
+drucken:печатать
+Schweiz:Швейцария
+sein:быть
+sprechen:говорить
+und:и
+wohnen:жить
+Wer?:Кто?
+Wie?:Как?
+Wo?:Где?
+Woher:Откуда
+Guten Morgen:доброе утро
+Guten Tag:Добрый день
+Hallo:Здравствуйте
+Hi:Привет
+Tschüss:Пока
+Bis bald:До скорого
+Danke:Спасибо
+Mein Name ist: Меня зовут 
+Wie geht es dir/Ihnen:Как у тебя/у вас дела?
+Mir geht es (sehr) guts:У меня все (очень) хорошо.
+Welche Sprachen sprechen Sie:На каких языках вы говорите?
+Ich spreche ein bisschen Deutsch:Я немного говорю по-немецки.
+hier:здесь
+jetzt:сейчас
+das Land/Länder:страна
+der Nachname / Nachnamen:фамилия
+die Sprache/Sprachen:язык
+der Vorname/Vornamen:имя
+der Wohnort:место жительства
+Das ist / sind: Это 
+Auf Wiedersehen:До свидания
+aber:но
+die Adresse:адрес
+das Alter:возраст
+buchstabieren:произносить по буквам
+der Familienname/Familiennamen:фамилия
+die Hausnummer: номер дома
+das Jahr/Jahre:год
+oder:или
+Österreich:Австрия
+die Postleitzahl (PLZ):почтовый индекс
+die Stadt:город
+die Straße:улица
+die Telefonnummer:номер телефона
+die Muttersprache:родной язык
+ich bin ... Jahre alt:Мне ... года/лет.
+Ich lebe in:Я живу в
+Auf Wiederhören:Услышимся
+Ist das richtig?:Правильно?
+Vielen Dank:Большое спасибо
+das Buch/Bücher:книга
+der Computer/Computer:компьютер
+der Dialog/Dialoge:диалог
+das Handy/Handys:мобильный телефон
+hören:слушать
+der Kurs/Kurse:курс
+der Kursleiter/Kursleiter:преподаватель курса
+die Kursleiterin/Kursleiterinnen:преподавательница курса
+der Text/Texte:текст
+lesen:читать
+sagen:говорить
+schreiben:писать
+verstehen:понимать
+wiederholen:повторять
+das Wort/Wörter:слово
+die Frage/Fragen:вопрос
+die Antwort/Antworten:ответ
+fragen:спрашивать
+antworten:отвечать
+öffnen:открывать
+schließen:закрывать
+ja:да
+nein:нет
+richtig:правильно
+falsch:неправильно
+Was?:Что?
+Entschuldigung:Извините
+Alles klar:Всё ясно
+das Fenster/Fenster:окно
+finden:находить
+die Flasche/Flaschen:бутылка
+das Heft/Hefte:тетрадь
+das Internet:интернет
+der Kuli/Kulis:ручка
+der Kursraum/Kursräume:аудитория
+der Kursteilnehmer/Kursteilnehmer:слушатель курса
+die Kursteilnehmerin/Kursteilnehmerinnen:слушательница курса
+die Lampe/Lampen:лампа
+der Laptop/Laptops:ноутбук
+der Lehrer/Lehrer:учитель
+die Lehrerin/Lehrerinnen:учительница
+die Sprachschule/Sprachschulen:языковая школа
+der Stift/Stifte:карандаш
+der Stuhl/Stühle:стул
+super:супер
+das Tablet/Tablets:планшет
+die Tafel/Tafeln:доска
+die Tasse/Tassen:чашка
+der Tisch/Tische:стол
+die Tür/Türen:дверь
+das Vokabelheft/Vokabelhefte:тетрадь-словарь
+das Whiteboard/Whiteboards:белая доска
+groß:большой
+klein:маленький
+Es gibt:здесь есть 
+die App/Apps:приложение
+der Artikel/Artikel:артикль
+das Beispiel/Beispiele:пример
+der Fehler/Fehler:ошибка
+die Grammatik:грамматика
+haben:иметь
+die Karteikarte/Karteikarten:карточка
+der Lernpartner/Lernpartner:сокурсник
+die Lernpartnerin/Lernpartnerinnen:сокурсница
+das Problem/Probleme:проблема
+die Regel/Regeln:правило
+der Satz/Sätze:предложение
+der Tipp/Tipps:совет
+das Verb/Verben:глагол
+der Wortschatz:лексика
+einfach:простой
+schwierig:сложный
+Fehler machen:допустить ошибку
+Hausaufgaben machen:делать домашнее задание
+Das hilft mir:Это полезно для меня
+Viel Spaß:Всего хорошего
+fahren:ехать, водить
+die Freizeit:свободное время
+der Freund/Freunde:друг
+die Freundin/Freundinnen:подруга
+gehen:идти
+heute:сегодня
+das Hobby/Hobbys:хобби
+laufen:бежать
+die Leute:люди 
+manchmal:иногда
+die Musik:музыка
+neu:новый
+oft:часто
+das Radio/Radios: радио
+schlafen:спать
+sehen:смотреть
+spielen:играть
+der Sport:спорт
+tanzen:танцевать
+draußen:на улице
+drinnen:в помещении
+interessant:интересный
+langweilig:скучный
+immer:всегда
+nie:никогда
+Freunde treffen:встречаться с друзьями
+Fußball/Basketball spielen:играть в футбол/баскетбол
+Gitarre/Klavier/ein Instrument spielen:играть на гитаре/фортепиано/инструменте
+ins Theater/ins Museum/auf ein Konzert gehen:ходить в театр/музей/на концерт
+Motorrad fahren:кататься на мотоцикле
+Sport machen:заниматься спортом
+der Abend:вечер
+das Abendessen:ужин
+abends:по вечерам
+die Arbeit:работа
+arbeiten:работать
+aufstehen:вставать
+aufwachen:просыпаться
+danach:после этого
+dann:потом
+duschen:принимать душ
+essen:принимать пищу
+frühstücken:завтракать
+die Universität/Universitäten:университет
+wandern:ходить в поход
+Abend essen:ужинать
+schlafen gehen:ложиться спать
+zur Arbeit gehen:идти на работу
+Um wie viel Uhr?:Во сколько?
+Wann?:Когда?
+ausgehen:выходить
+das Geld:деньги
+das Kind/Kinder:ребенок
+klettern:заниматься скалолазанием
+der Mensch/Menschen:человек
+die Stunde/Stunden:час
+mitkommen: сопровождать
+wichtig:важный
+die Woche/Wochen:неделя
+das Wochenende/Wochenenden:выходные
+die Zeit:время
+pro Woche:в неделю
+die Freizeit: свободное время
+backen:печь
+brauchen:нуждаться
+Brokkoli:брокколи
+denken:думать
+der Fisch:рыба
+das Fleisch:мясо
+frisch:свежий
+das Gemüse:овощи
+das Getränk/Getränke:напиток
+das Glas/Gläser:стакан
+heute:сегодня
+der Honig:мёд
+der Kaffee:кофе
+die Kartoffel/Kartoffeln:картофель
+kochen:готовить еду
+lecker:вкусный
+mögen:любить
+die Möhre/Möhren:морковь
+nicht:не
+die Nudeln:макароны
+das Öl:масло растительное
+die Paprika:паприка
+die Pfanne/Pfannen:сковорода
+der Pfeffer:перец
+der Pilz/Pilze:гриб
+die Pizza/Pizzas/Pizzen:пицца
+der Reis:рис
+der Saft/Safte:сок
+der Salat/Salate:салат
+das Salz:соль
+schneiden:резать
+sehr:очень
+die Soße/Soßen:соус
+die Suppe/Suppen:суп
+süß:сладкий
+der Tee:чай
+die Tomate/Tomaten:помидор
+trinken:пить
+das Wasser:вода
+die Zwiebel/Zwiebeln:лук
+gesund:полезный для здоровья
+ungesund:вредный для здоровья
+das Ei/Eier:яйцо
+der Einkauf/Einkäufe:покупка
+die Einladung/Einladungen:приглашение
+der Joghurt/Joghurts:йогурт
+die Milch:молоко
+morgen:завтра
+die Torte/Torten:торт
+vegetarisch:вегетарианский
+der Wein/Weine:вино
+der Zucker:сахар
+mit:с
+ohne:без
+Liebe Grüße/Viele Grüße:С наилучшими пожеланиями/Всего хорошего
+der Apfel/Äpfel:яблоко
+die Banane/Bananen:банан
+bezahlen:платить
+das Brot/Brotes:хлеб
+die Butter:масло сливочное
+die Gurke/Gurken:огурец
+der Käse:сыр
+kaufen:покупать
+kosten:стоить
+das Lebensmittel/Lebensmittel:продукт питания
+das Mehl:мука
+das Obst:фрукты
+okay:хорошо
+die Orange/Orangen:апельсин
+die Packung/Packungen:упаковка
+der Supermarkt/Supermärkte:супермаркет
+das Auto/Autos:автомобиль
+der Bus/Busse:автобус
+das Fahrrad/Fahrräder:велосипед
+die Haltestelle/Haltestellen:остановка
+das Kino/Kinos:кинотеатр
+klicken:щелкать
+die Minute/Minuten:минута
+nachts:ночью
+nehmen:брать
+nur:только
+das Motorrad/Motorräder:мотоцикл
+die Station/Stationen:станция
+die S-Bahn/S-Bahnen:городская электричка
+die Straßenbahn/Straßenbahnen:трамвай
+suchen:искать
+das Ticket/Tickets:билет
+die U-Bahn/U-Bahnen:метро
+das Verkehrmittel/Verkehrsmittel:транспортное средство
+der Weg/Wege:путь
+der Zug/Züge:поезд
+der Eingang/Eingänge:вход
+der Ausgang/Ausgänge:выход
+zu Fuß gehen:идти пешком
+Ich hole dich abs:Я за тобой заеду
+die Ampel/Ampeln:светофор
+aussteigen:выходить из транспортного средства
+der Bahnhof/Bahnhöfe:вокзал
+das CaféCafés:кафе
+dort:там
+die Drogerie/Drogerien:магазин косметики и хозтоваров
+der Fahrplan/Fahrpläne:расписание
+der Fluss/Flüsse:поток
+geradeaus:прямо
+der Hauptbahnhof:главный вокзал
+die Kreuzung/Kreuzungen:перекресток
+die Linie/Linien:линия
+das Museum/Museen:музей
+der Park/Parks:парк
+die Richtung/Richtungen:направление
+die Stadtrundfahrt/Stadtrundfahrten:экскурсия по городу на транспортном средстве
+abfahren:отбывать
+ankommen:прибывать
+die Abfahrt:отбытие
+die Ankunft:прибытие
+links:налево
+rechts:направо
+Kannst du mir etwas empfehlen?:Можешь мне подсказать?
+Sieh dir ... an:Посети ...
+die Apotheke/Apotheken:аптека
+der Bahnsteig/Bahnsteige:железнодорожная платформа
+gleich:скоро
+das Gleis/Gleise: путь(рельс)
+stehen:стоять
+einsteigen:заходить в транспортное средство
+die Bäckerei/Bäckereien:пекарня
+der Kiosk/Kioske:киоск
+der Ticketautomat/Ticketautomaten:автомат по продаже билетов
+der Treffpunkt/Treffpunkte:место встречи
+umsteigen:пересаживаться на другое транспортное средство
+das nächste Mal:в следующий раз
+Ich bin gleich da:Скоро буду
+allein:самостоятельно
+der Aufzug/Aufzüge:лифт
+das Bad/Bäder(das Badezimmer):ванна (ванная комната)
+das Badezimmer/Badezimmer:ванная
+der Balkon/Balkone:балкон
+das Dorf/Dörfer:деревня
+das Erdgeschoss(EG)/Erdgeschosse:первый этаж
+die Etage/Etagen:этаж
+der Flur/Flure:коридор
+der Garten/Gärten:сад
+das Haus/Häuser:дом
+der Keller/Keller:подвал
+leider:к сожалению
+die Küche/Küchen:кухня
+die Miete/Mieten:аренда
+der Platz:место
+der Quadratmeter(m2,qm)/Quadratmeter:квадратный метр, (м2/кв.м)
+das Schlafzimmer/Schlafzimmer:спальня
+der Stock:этаж
+die Terrasse/Terrassen:терраса
+die Wohnung/Wohnungen:квартира
+das Wohnzimmer/Wohnzimmer:гостиная
+das Zentrum:центр
+das Zimmer/Zimmer:комната
+gemütlich:уютный
+ungemütlich:неуютный
+hell:светлый
+dunkel:темный
+laut:шумный
+ruhig:тихий
+modern:современный
+altmodisch:старомодный
+schön:красивый
+hässlich:некрасивый
+teuer:дорогой
+günstig:дешевый
+warm:теплый
+kalt:холодный
+in der Nähe:поблизости
+zur Miete wohnen:арендовать жилье
+die Anzeige/Anzeigen:объявление
+frei:бесплатный, свободный
+der Mieter/Mieter:арендатор
+die Mieterin/Mieterinnen:арендательница
+der Nachbar/Nachbarn:сосед
+die Nachbarin/Nachbarinnen:соседка
+die Nebenkosten(NK):коммунальные платежи
+nett:приятный
+das Obergeschoss(OG)/Obergeschosse:верхний этаж
+das Paar/Paare:пара
+der Preis/Preise:цена
+der Vermieter/Vermieter:арендодатель
+die Vermieterin/Vermieterinnen:арендодательница
+die Wohngemeinschaft(WG)/Wohngemeinschaften:совместное проживание (коливинг)
+jung:молодой
+alt:старый
+die Warmmiete:арендная плата, включая коммунальные платежи
+die Kaltmiete:арендная плата, не включая коммунальные платежи
+anrufen:звонить
+das Bett/Betten:кровать
+der Kühlschrank/Kühlschränke:холодильник
+mieten:арендовать
+die Möbel:мебель
+das Prozent(%)/Prozente:процент(%)
+das Regal/Regale:полка
+der Schrank/Schränke:шкаф
+der Sessel/Sessel:кресло
+das Sofa/Sofas:диван
+stellen:ставить
+der Teppich/Teppiche:ковер
+die Treppe/Treppen:лестница
+umziehen:переезжать
+der Umzug/Umzüge:переезд
+die Waschmaschine/Waschmaschinen:стиральная машина
+Wohin?:Куда?
+aufmachen:открывать
+zumachen:закрывать

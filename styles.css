@@ -1,0 +1,295 @@
+.keyboard-popup {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+@media (min-width: 992px) {
+    .keyboard-popup {
+        padding: 10px;
+        position: absolute;
+        display: none;
+        z-index: 1000;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+}
+
+@media (max-width: 992px) {
+    .keyboard-popup {
+        display: table;
+    }
+}
+
+.keyboard-popup .row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.keyboard-popup button {
+    margin: 2px;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+.keyboard-popup button:hover {
+    background-color: #e0e0e0;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #f9f9f9;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 100%;
+        margin-top: 100px;
+        max-width: 1500px;
+        max-height: 100vh;
+    }
+
+    header {
+        padding: 10px;
+        font-size: 24px;
+    }
+
+    main {
+        gap: 20px;
+        padding: 20px;
+    }
+}
+
+.btn {
+}
+
+.btn:active {
+    transform: scale(0.7); 
+}
+
+.crosstile {
+    flex: 1;
+    display: grid;
+    gap: 1px;
+    margin: auto;
+    display: none;
+}
+
+.crossword {
+    display: grid;
+    gap: 0px;
+    padding: 0px;
+    background-color: #333;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    border: 1px solid #ccc;
+}
+
+.cell {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+#currentClue {
+    width: 100%;
+    text-align: center;
+    display:none;
+}
+
+@media (max-width: 992px) {
+    .cell {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+
+    #currentClue {
+        display:block;
+    }
+}
+
+@media (min-width: 992px) {
+    .cell {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+}
+
+.cell.blank {
+    background-color: #333;
+    border: 1px solid #333;
+}
+
+.cell.hinted {
+    background-color: #f9e79f;
+}
+
+.cell.hintedfocused {
+    background-color: #f5b041;
+}
+
+.cell.guessed {
+    background-color: #abebc6;
+}
+
+.cell.guessedfocused {
+    background-color: #58d68d;
+}
+
+.cell.selected {
+    background-color: #d6eaf8;
+}
+
+.cell.selectedfocused {
+    background-color: #85c1e9;
+}
+
+.cell .index {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #000;
+}
+
+.cell.space {
+    border:none;
+}
+
+.cell.help {
+    background-color: #88F;
+}
+
+.cell.button {
+    background-color: #88F;
+    width: 90px;
+}
+
+.toolbar {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 2px;
+    margin: 2px;
+}
+
+@media (max-width: 992px) {
+    .toolbar {
+        display: none;
+    }
+}
+
+.menu {
+    display: grid; 
+    grid-template-columns: 1fr, 1fr; 
+    gap: 10px; 
+    margin-top: 40px; 
+}
+
+.menu > div { 
+    background: #fff; 
+    padding: 10px; 
+    border: none 
+}
+
+.clues {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow-y: auto;
+    visibility: hidden;
+}
+
+@media (max-width: 992px) {
+    .clues {
+        display: none;
+        left: 0;
+        position: fixed;
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .clues {
+        display: block;
+    }
+}
+
+.clues h2 {
+    text-align: center;
+}
+
+.clues .clues-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.clues .clues-panel {
+    flex: 1 1 0;
+    width: 0;
+}
+
+.clues ul {
+    list-style-type: none;
+    padding: 0;
+    flex: 1;
+}
+
+.clues li {
+    margin: 10px 0;
+}
+
+.selected {
+    background-color: #85c1e9;
+}
+
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}

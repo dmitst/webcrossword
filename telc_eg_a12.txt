@@ -1,0 +1,532 @@
+die Ampel/Ampeln:светофор
+die Ankunftszeit:время прибытия
+die Ansage/Ansagen:объявление
+die Apotheke/Apotheken:аптека
+der Arzt/Ärzte:врач
+die Ärztin/Ärztinnen:врачиха
+die Auskunft:информация
+außerdem:кроме того
+außerplanmäßig:внеплановый
+das Auto/Autos:машина
+die Bahn:поезд
+der Bahnhof/Bahnhöfe:вокзал
+der Ball/Bälle:мяч
+die Bank:банк
+bezahlen:платить
+die Bibliothek:библиотека
+das Bürgerbüro:центр обслуживания населения
+der Bus/Busse:автобус
+die Bushaltestelle/Bushaltestellen:автобусная остановка
+das Café/Cafés:кафе
+dafür:для этого
+dritte:третья
+die Durchsage:сообщение (по радио)
+einfach:просто
+die Einzelfahrkarte:разовый проездной билет
+erste:первая
+der(die) Erwachsene/Erwachsenen: взрослый(ая)
+fahren:ехать
+der Fahrgast/Fahrgäste:пассажир
+die Fahrkarte:билет
+das Fahrrad/Fahrräder:велосипед
+fallen:падать
+fast:почти
+der Flughafen/Flughäfen:аэропорт
+das Gebäude/Gebäude:здание
+das Gleis/Gleise:путь(рельсы)
+geben:давать
+gegenüber:напротив
+geradeaus:прямо
+gültig:действительный
+halten:останавливаться
+die Haltestelle/Haltestellen: остановка
+der Hauptbahnhof:центральный вокзал
+hinter:за
+das Hotel/Hotels:отель
+der Informationsschalter:справочная
+der Intercity(IC):поезд-экспресс
+das Jobcenter:центр занятости
+das Kino/Kinos:кино
+die Kirche:церковь
+das Krankenhaus/Krankenhäuser:больница
+die Krankenkasse:касса медицинского страхования
+die Kreuzung:перекресток
+die Kurzstrecke:короткая дистанция
+die Linie:линия
+links:слева
+die Lösung/Lösungen:решение
+der Meter/Meter:метр
+der Metzger:мясник
+die Minute/Minuten:минута
+die Mobilität:мобильность
+das Motorrad/Motorräder:мотоцикл
+nachfragen:переспрашивать
+nächster, nächste, nächstes:следующий, следующая, следующее
+nichts:ничто
+öffentlich:общественный
+die Orientierung:ориентация
+der Park/Parks:парк
+die Parkgebühr/Parkgebühren:плата за парковку
+der Parkplatz/Parkplätze:парковка
+die Polizei:полиция
+die Position:позиция
+die Post:почта
+praktisch:практичный
+rechts:справа
+das Rathaus:ратуша
+die Regionalbahn:пригородный поезд
+das Restaurant/Restaurants:ресторан
+die Ruhe:покой
+der Schienenersatzverkehr:перевозка нерельсовым способом
+das Schwimmbad/Schwimmbäder:бассейн
+selten:редко
+sowieso:в любом случае
+später:позже
+der Stadtplan/Stadtpläne:карта города
+der Stadtwald:лесопарк
+steigen:подниматься
+die Straßenbahn/Straßenbahnen:трамвай
+die Tageskarte:однодневный проездной
+das Taxi/Taxis:такси
+überall:везде
+umsteigen:пересаживаться
+ungefähr:приблизительно
+unter:под
+die Verfügung:распоряжение
+das Verkehrsmittel/Verkehrsmittel:транспортное средство
+verstanden:понятно
+verzögern:задерживать
+die Volkshochschule(VHS):(вечерние) общеобразовательные курсы
+voll:полный
+vorbei:мимо
+vorne:спереди
+warten:ждать
+wohin:куда
+wollen:хотеть
+der Zug/Züge:поезд
+der Weg:путь
+der WochenMarkt:еженедельный рынок
+der Winter:зима
+zweimal:два раза
+zweite:вторая
+zwischen:между
+anfangen:начинать
+der Arbeitstag/Arbeitstage:рабочий день
+die Ausbildung/Ausbildungen:образование
+ausfüllen:заполнить
+die Aushilfe/Aushilfen:временная работа
+der Automechaniker:автомеханик
+die Automechanikerin:женщина-автомеханик
+backen:выпекать
+der Bäcker:пекарь
+die Bäckerin:пекарьша
+bald:скоро
+berichten:сообщать
+der Beruf/Berufe:профессия
+beruflich:профессиональный
+die Bürokauffrau:офисная работница
+der Bürokaufmann:офисный работник
+der Chef/Chefs:начальник
+die Chefin/Chefinnen:начальница
+das Computerprogramm/Computerprogramme:компьютерная программа
+das Computersystem/Computersysteme:компьютерная система
+dauern:длиться
+dreimal:три раза
+der Fahrer/Fahrer:водитель
+der Feierabend:свободное время после работы
+flexibel:гибкий
+fotografieren:фотографировать
+freundlich:дружелюбный
+der Führerschein:водительские права
+der Fußballspieler:футболист
+die Gitarre/Gitarren:гитара
+halbtags:по полдня
+die Hausfrau/Hausfrauen:домохозяйка
+der Hausmann/Hausmänner:домохозяин
+der Hund/Hunde:собака
+installieren:устанавливать
+die Kantine/Kantinen:столовая
+kaputt:сломанный
+die Kasse/Kassen:касса
+der Kassierer:кассир
+die Kassiererin/Kassiererinnen:кассирша
+die Kauffrau:женщина-делопроизводитель
+der Kellner/Kellner:официант
+die Kellnerin/Kellnerinnen:официантка
+klingeln:звонить
+der Koch/Köche:повар
+die Köchin/Köchinnen:повариха
+der Kollege/Kollegen:коллега
+die Kollegin/Kolleginnen:женщина-коллега
+das Konzert/Konzerte:концерт
+korrigieren:исправлять
+das Kraftfahrzeug(KFZ):автомобиль
+der Krankenpfleger/Krankenpfleger:санитар
+die Krankenschwester/Krankenschwestern:медсестра
+kreativ:творческий
+langweilig:скучный
+die Leute:люди
+die Mathematik:математика
+der Mechaniker/Mechaniker:механик
+der Mensch/Menschen:человек
+das Mittagessen:обед
+der Moment/Momente:момент
+der Musiklehrer:учитель музыки
+die Musiklehrerin:учительница музыки
+der Nachtdienst:ночное дежурство
+organisieren:организовывать
+der Pizzafahrer:доставщик пиццы
+die Pizzeria:пиццерия
+die Pflege:уход
+prüfen:проверять
+pünktlich:пунктуальный
+das Radio/Radios:радио
+rechnen: считать
+der Rentner/Rentner:пенсионер
+die Reparatur:ремонт
+reparieren:ремонтировать
+der Reporter:репортер
+der Roman/Romane:роман
+schlimm:плохой
+der Schüler/Schüler:школьник
+die Schülerin/Schülerinnen:школьница
+servieren:подавать на стол
+der Stress:стресс
+der Student/Studenten:студент
+die Studentin/Studentinnen:студентка
+studieren:учиться в университете
+der Taxifahrer:таксист
+die Taxifahrerin:женщина-таксист
+der Techniker:технический специалист
+das Telefonder/Traumberuf:профессия мечты
+treffen:встречать
+die Universität/Universitäten:университет
+Telefone:телефон
+unterrichten:преподавать
+vielleicht:может быть
+wählen:выбирать
+die Werkstatt:мастерская
+Auf Wiederhören!:до следующего раза!
+zuerst:сначала
+das Altenpflegeheim:дом престарелых
+anbei:в приложении
+die Anrede:обращение
+der Arm/Arme:рука
+atmen:дышать
+das Auge/Augen:глаз
+der Bauch:живот
+das Bein/Beine:нога
+die Bauchschmerzen:боли в животе
+der Bescheid:сообщение
+die Besserung:улучшение здоровья
+der Betreff:тема
+bevor:до
+bleiben:оставаться
+der Brief/Briefe:письмо
+der Briefteil/Briefteile:часть письма
+die Brust:грудь
+danach:после этого
+das Datum:дата
+dürfen:иметь разрешение
+der Ellbogen/Ellenbogen:локоть
+der Empfänger/Empfänger:получатель
+das Entschuldigungsschreiben:извинительное письмо
+erkälten:простудиться
+die Erkältung:простуда
+euer, eure:ваш, ваша
+das Fieber:жар
+der Finger/Finger:палец
+freundlich:дружелюбный
+geehrter, geehrte:уважаемый, уважаемая
+das Gesicht:лицо
+die Gesundheit:здоровье
+die Gesundheitskart:eмедицинская карта
+die Grippe:грипп
+die Gruppe/Gruppen:группа
+das Haar/Haare:волосы
+der Hals:шея
+der Hals-Nasen-Ohren-Arzt(HNO):отоларинголог(ЛОР)
+das Halsweh:боль в горле
+die Hand/Hände:рука
+der Hausarzt/Hausärzte:терапевт
+heiß:горячий
+der Husten:кашель
+die Hustensaft:сироп от кашля
+das Knie/Knie:колено
+der Kopf/Köpfe:голова
+die Kopfschmerzen:головная боль
+der Körper/Körper:тело
+der Körperteil/Körperteile:часть тела
+krank:больной
+die Krankheit:болезнь
+die Krankmeldung:сообщение о заболевании
+der März:март
+das Medikament/Medikamente:медикамент
+der Mund:рот
+der Nacken:затылок
+die Nase:нос
+die Notfallsprechstunde:экстренные приемные часы
+das Ohr/Ohren:ухо
+der Orthopäde:ортопед
+der Patient/Patienten:пациент
+die Patientin/Patientinnen:пациентка
+per:по
+das Pflaster/Pflaster:пластырь
+das Praktikum/Praktika:практика
+die Praktikumsbetreuerin:куратор по практике
+die Praxis/Praxen:врачебная практика
+die Praxisgemeinschaft:общая врачебная практика
+rauchen:курить
+regelmäßig:регулярный
+das Rezept/Rezepte:рецепт
+der Rücken:спина
+rot:красный
+rund:круглый
+die Salbe/Salben:мазь
+der Schmerz/Schmerzen:боль
+der Schnupfen:насморк
+die Schulter/Schultern:плечо
+schicken:отправлять
+schwanger:беременная
+sein, seine:его
+die Sprechstunde:приемные часы
+die Sprechstundenhilfe:ассистент врача
+das Sprechzimmer:врачебный кабинет
+stark:сильный
+die Stirn:лоб
+die Tablette/Tabletten:таблетка
+der Termin/Termine:прием
+der Tropfen/Tropfen:капля
+die Unterschrift:подпись
+die Untersuchung:обследование
+der Verband:перевязка
+verschieden:разный
+die Vorsorge:профилактика
+das Wartezimmer:комната ожидания
+der Wechsel:замена
+wechseln:менять
+wehtun:причинять боль
+wieder:снова
+wiederkommen:приходить снова
+der Zahn/Zähne:зуб
+der Zeh/Zehen:пальцы на ногах
+zurzeit:в настоящее время
+aufwachsen:вырастать
+beantworten:отвечать
+der Besuch:визит
+die Bewegung/Bewegungen:движение
+bilden:формировать
+die Blume/Blumen:цветок
+der Dienst:служба
+extra:дополнительно
+das Ferienhaus/Ferienhäuser:загородный дом
+der Hausflur:домашний коридор
+früher:раньше
+geboren sein:быть рожденным
+gerade:прямо
+gucken:смотреть
+heiraten:жениться/выходить замуж
+das Hobby/Hobbys:хобби
+der Ingenieur:инженер
+die Insel/Inseln:остров
+die Inselrundfahrt:обзорная экскурсия по острову
+kennen:знать
+der Koffer/Koffer:чемодан
+letzte:последний
+das Meer:море
+der Mond:луна
+der Nachbar/Nachbarn:сосед
+die Nachbarin/Nachbarinnen:соседка
+die Natur:природа
+packen:упаковывать
+die Postkarte/Postkarten:открытка
+die Reise/Reisen:путешествие
+das Schiff/Schiffe:корабль
+der Seehund/Seehunde:тюлень
+der Ski:лыжи
+der Strand/Strände:пляж
+die Suppe/Suppen:суп
+stressig:вызывающий стресс
+das Studium:обучение в университете
+stundenlang:часами
+süß:сладкий
+das Tennis:теннис
+der Tourist/Touristen:турист
+der Urlaub:отпуск
+unregelmäßig:нерегулярный
+verdienen:заработать
+warten:ждать
+das Wetter:погода
+anziehen:надевать
+der Anzug/Anzüge:костюм
+beige:бежевый
+bequem:удобный
+besser:лучше
+besten (am besten):лучше всего
+bestimmt:определенно
+blau:синий
+blöd:глупый
+die Bluse/Blusen:блузка
+braun:коричневый
+bringen:приносить
+denken:думать
+der Einkaufsbummel:поход за покупками
+eng:тесный
+euch:вам
+die Farbe/Farben:цвет
+furchtbar:ужасный
+gefallen:нравиться
+gegenseitig:обоюдно
+gelb:желтый
+genauso:именно так
+glauben:верить
+grau:серый
+günstig:благоприятный
+das Hemd/Hemden:рубашка
+die Hose/Hosen:брюки
+ihm:ему
+die Jacke/Jacken:куртка
+die Jeans/Jeans:джинсы
+der Jogginganzug:спортивный костюм
+der Kassenbon:чек
+das Kaufhaus/Kaufhäuser:универмаг
+die Klamotten:шмотки
+klasse:класс
+das Kleid/Kleider:платье
+die Kleidung/Kleidung:одежда
+das Kleidungsstück/Kleidungsstücke:предмет одежды
+lila:фиолетовый
+der Mantel/Mäntel:пальто
+meisten(am meisten):больше всего
+die Mode:мода
+das Modell:модель
+die Mütze:шапка
+online:онлайн
+die Ordnung:порядок
+das Paar/Paare:пара
+positiv:позитивный
+probieren:пробовать
+passen:подходить
+der Prospekt/Prospekte:проспект
+der Pullover:свитер
+raten:советовать
+der Rock:юбка
+der Schal:шарф
+der Schuh/Schuhe:ботинок
+schwarz:черный
+sicher:наверняка
+die Socke/Socken:носок
+der Sportschuh:спортивная обувь
+die Strickjacke:кардиган
+der Strumpf/Strümpfe:чулок
+tragen:носить
+das T-Shirt/T-Shirts:футболка
+typisch:типичный
+überhaupt:вообще
+umtauschen:поменять
+uns:нам
+vergessen:забыть
+der Wintermantel:зимнее пальто
+zurück:назад
+die Achtung:внимание
+der April:апрель
+aufräumen:убирать
+aufregen:волновать
+der August:август
+bauen:строить
+der Baum/Bäume:дерево
+besuchen:посещать
+bewölkt:облачный
+die Braut/Bräute:невеста
+der Dank:спасибо
+darüber:об этом
+die Deutschlandkarte:карта Германии
+der Dezember:декабрь
+eben:именно
+einladen:приглашать
+der Einladung:приглашение
+einverstanden:согласен
+das Eis:лед/мороженое
+der Februar:февраль
+die Feier:праздник
+feiern:праздновать
+das Feiern:празднование
+das Fest/Feste:праздник
+freuen:радовать
+froh:радостный
+der Frühling:весна
+fühlen:чувствовать
+die Gartenparty/Gartenpartys:вечеринка в саду
+der Geburtstag:день рождения
+die Geburtstagstorte:именинный пирог
+das Geschenk/Geschenke:подарок
+glücklich:счастливый
+der Glückstag:счастливый день
+der Grad:градус
+hageln:идет град
+der Handschuh/Handschuhe:перчатка
+der Hase:заяц
+der Herbst:осень
+die Himmelsrichtung/Himmelsrichtungen:направление по компасу
+die Hochzeit/Hochzeiten:свадьба
+die Hochzeitsfeier:свадебный праздник
+die Jahreszahl:указание года
+die Jahreszeit/Jahreszeiten:время года
+der Januar:январь
+der Juli:июль
+der Kalender/Kalender:календарь
+lieben:любить
+der Luftballon/Luftballons:воздушный шар
+lustig:смешной
+der Mai:май
+die Mama:мама
+minus:минус
+mitbringen:приносить с собой
+nass:мокрый
+nebelig:туманный
+der Norden:север
+der November:ноябрь
+nun:теперь
+der Oktober:октябрь
+das Oktoberfest:праздник пива
+die Oma:бабушка
+der Osten:восток
+das Osterei/Ostereier:пасхальное яйцо
+das Osterfest:праздник Пасхи
+der Osterhase:пасхальный заяц
+das Ostern:Пасха
+der Papa:папа
+reden:говорить
+regnen:идет дождь
+samstags:по субботам
+Schatz:сокровище
+scheinen:светить
+schenken:дарить
+schlecht:плохо
+der Schnee:снег
+der Schneemann:снеговик
+schneien:идет снег
+der Schokoladenkuchen:шоколадный пирог
+der Sekt:шампанское
+der September:сентябрь
+der Sommer:лето
+sonnig:солнечный
+die Spezialität/Spezialitäten:деликатес
+stellen:ставить
+der Süden:юг
+tanzen:танцевать
+der Teller/Teller:тарелка
+die Torte/Torten:торт
+trocken:сухой
+unglücklich:несчастный
+der Unglückstag:неудачный день
+warm:теплый
+das Weihnachten:Рождество
+der Weihnachtsbaum/Weihnachtsbäume:рождественская елка
+die Weihnachtsfeier:рождественский праздник
+das Weihnachtsgeschenk:рождественский подарок
+der Weihnachtsmann:дед Мороз
+das Westdeutschland:Западная Германия
+der Westen:запад
+der Wetterbericht:прогноз погоды
+wieso:почему

@@ -1,0 +1,376 @@
+ängstlich:боязливый
+sich ärgern über:злиться на кого-л.
+das Bild/Bilder:изображение
+dankbar:благодарный
+sich freuen über:радоваться чему-л.
+das Glück:счастье
+glücklich:счастливый
+sich interessieren für:интересоваться чем-л.
+leidtun:сожалеть
+die Liebe:любовь
+traurig:печальный
+überrascht:удивлённый
+die Überraschung/Überraschungen:удивлёние
+das Unglück:несчастье
+verliebt:влюблённый
+die Vorsicht:осторожность
+sich wundern über:удивляться
+wütend:сердитый
+zufrieden:довольный
+möglich:возможный
+unmöglich:невозможный
+schnell:быстрый
+langsam:медленный
+sich gut/schlecht fühlen:чувствовать себя хорошо/плохо
+Das ist sehr schade:Очень жаль
+andere:другой
+echt:настоящий
+sich erholen von:отдыхать от
+die Freude:радость
+fröhlich:весёлый
+sich konzentrieren auf:концентрироваться на чем-л.
+lächeln:улыбаться
+lachen:смеяться
+lustig:весёлый
+normal:нормальный
+verrückt:сумасшедший
+witzig:забавный
+aggressiv:агрессивный
+die Dankbarkeit:благодарность
+enttäuscht von:разочарованный
+das Gefühl/Gefühle:чувство
+genervt von:раздраженный
+geschockt von:шокированный
+gestresst von:измотанный чем-л.
+die Gewalt:насилие
+interessiert an:заинтересованный в чем-л.
+der Konflikt/Konflikte:конфликт
+sich melden bei:связываться с кем-л.
+negativ:отрицательный
+sauer auf:злиться на что-л./кого-л.
+der Streit:ссора
+das Training/Trainings:тренинг
+sich verabreden mit:договариваться с кем-л
+die Wut:гнев
+die Zufriedenheit:удовлетворенность
+(sich) anziehen:одевать(-ся)
+baden:купаться
+benutzen:пользоваться/использовать
+die Bürste/Bürsten:щётка
+die Creme/Cremes:крем
+die Dose/Dosen:банка
+(sich) eincremen:наносить крем
+gefährlich:опасный
+das Gesicht/Gesichter:лицо
+die Haut:кожа
+das Holz:дерево
+herstellen:изготавливать
+die Idee/Ideen:идея
+der Kamm/Kämme:расческа
+(sich) kämmen:расчесывать(-ся)
+die Körperpflege:личная гигиена
+die Kosmetik:косметика
+das Make-up:макияж
+nachhaltig:устойчивый
+der Nagel/Nägel:ноготь
+das Parfüm/Parfüms:парфюм
+praktisch:практичный
+das Produkt/Produkte:продукт
+produzieren:производить
+(sich) rasieren:брить(-ся)
+(sich) schminken:наносить макияж
+der Topf/Töpfe:кастрюля
+die/Umwelt:окружающая среда
+verpackt:упакованный
+die Verpackung/Verpackungen:упаковка
+(sich) waschen:мыть(-ся)
+wiederverwenden:повторно использовать
+flüssig:жидкий
+fest:твёрдый
+die Haare schneiden:подстригать волосы
+(sich) die Zähne putzen:чистить зубы
+der Körper/Körper:тело
+der Humor:юмор
+die Schönheit:красота
+sich wohlfühlen:чувствовать себя комфортно
+dick:толстый
+dünn:худой
+glücklich:счастливый
+unglücklich:несчастный
+positiv:положительный
+negativ:отрицательный
+gute/schlechte Laune haben:иметь хорошее / плохое настроение
+ein eigenes Geschäft eröffnen:открывать собственный бизнес
+eine eigene Praxis gründen:открывать собственную практику
+beraten:советовать
+der Friseur/Friseure:парикмахер
+die Friseurin/Friseurinnen:парикмахер (женщина)
+die Mode:мода
+meistens:обычно
+operieren:оперировать
+(sich) pflegen:заботиться
+reinigen:очищать
+der Alkohol:алкоголь
+die Anfrage/Anfragen:запрос
+das Angebot/Angebote:предложение
+das Baby/Babys:младенец
+das Besteck:столовые приборы
+die/Bohne/Bohnen:боб
+das Büfett/Büfetts:шведский стол
+das Catering:кейтеринг
+das Dessert/Desserts:десерт
+die Gabel/Gabeln:вилка
+das Gericht/Gerichte:блюдо
+gern(e):c удовольствием
+gemeinsam:вместе
+das Geschirr:посуда
+das Hähnchen/Hähnchen:курица
+das Hauptgericht/Hauptgerichte:основное блюдо
+heiraten:вступать в брак
+der Jugendliche/Jugendlichen:юноша
+die (Kaffee-)Maschine/(Kaffee-)Maschinen:(кофе)машина
+der Karneval:карнавал
+kennenlernen:знакомиться
+der Löffel/Löffel:ложка
+das Messer/Messer:нож
+die Party/Partys:вечеринка
+das Rindfleisch:говядина
+die Scheidung/Scheidungen:развод
+das Schweinefleisch:свинина
+der Trend/Trends:тенденция
+die Trennung/Trennungen:расставание
+typisch:типичный
+der Veganer/Veganer:веган
+die Veganerin/Veganerinnen:веганка
+der Vegetarier/Vegetarier:вегетарианец
+die Vegetarierin/Vegetarierinnen:вегетарианка
+sich verlieben:влюбиться
+die Vorspeise/Vorspeisen:закуска
+bestellen:заказывать
+das Bier/Biere:пиво
+die Birne/Birnen:груша
+die Bratwurst/Bratwürste:колбаса
+gebraten:жареный
+gegrillt:поджаренный на гриле
+möglich:возможный
+der Schinken/Schinken:ветчина
+die Speisekarte/Speisekarten:меню
+Hunger/Durst haben:испытывать голод/жажду
+sich beschweren:жаловаться
+die Feier/Feiern:праздник
+kaputtgehen:ломаться
+der Leiter/Leiter:руководитель
+die Leiterin/Leiterinnen:руководительница
+die Meinung/Meinungen:мнение
+der Musiker/Musiker:музыкант
+die Musikerin/Musikerinnen:музыкантша
+normalerweise:как правило
+die Panne/Pannen:поломка
+scharf:острый
+schieflaufen:не удаваться
+schrecklich:ужасный
+der Teller/Teller:тарелка
+verschieden:разный
+weinen:плакать
+die Wurst/Würste:колбаса
+freundlich:дружелюбный
+unfreundlich:недружелюбный
+anmelden:зарегистрироваться/войти в систему
+aufregend:захватывающий
+die Band/Bands:музыкальная группа
+beide:оба,обе
+das Einkaufszentrum/Einkaufszentren:торговый центр
+der Eintritt:вход
+der Flohmarkt/Flohmärkte:блошиный рынок
+die Geschichte/Geschichten:история
+die Komödie/Komödien:комедия
+der Krimi/Krimis:детектив
+der Kuchen/Kuchen:пирог
+romantisch:романтичный
+das Schwimmbad/Schwimmbäder:бассейн
+die(Sport-)Halle/(Sport-)Hallen:(спортивный) зал
+der Sportplatz/Sportplätze:спортивная площадка
+stattfinden:происходить
+unternehmen:предпринимать
+die Veranstaltung/Veranstaltungen:мероприятие
+vergessen:забывать
+der Vorschlag/Vorschläge:предложение
+die Vorstellung/Vorstellungen:представление
+der Wald/Wälder:лес
+der Zoo/Zoos:зоопарк
+vorher:прежде
+gratis:даром 
+kostenlos:бесплатно
+genau ...Minuten/Stunden:ровно ...минут(-а, -ы)/час(-а, -ов)
+Lust haben auf:иметь желание
+Einverstanden!:Ладно!
+Prima!:Отлично!
+Das hört sich interessant an:Интересно
+Das klingt gut:Звучит хорошо
+Ich kann erst um sieben:Я смогу только в семь.
+absagen:отменять
+ausprobieren:пробовать
+berühmt:знаменитый
+erklären:объяснять
+fantastisch:фантастический
+fotografieren:фотографировать
+gewinnen:выигрывать
+holen:забирать
+das Kaufhaus/Kaufhäuser:универмаг
+das Kostüm/Kostüme:костюм
+die Messe/Messen:ярмарка
+der Roman/Romane:роман
+teilnehmen an:принимать участие в чем-л.
+verbringen:проводить
+der Wettbewerb/Wettbewerbe:соревнование
+Es hat gut geklappt: Все получилось хорошо
+der Ball/Bälle:мяч
+beenden:завершать
+der Bekannte/Bekannten:знакомый
+die Bekannte/Bekannten:знакомая
+der Besuch/Besuche:визит
+eigentlich:действительно
+das Festival/Festivals:фестиваль
+gestern:вчера
+das Klavier/Klaviere:фортепьяно
+die Kreditkarte/Kreditkarten:кредитная карта
+malen:рисовать, красить
+die Mitternacht:полночь
+das Picknick/Picknicks:пикник
+der Plan/Pläne:план
+der Schauspieler/Schauspieler:актер
+die Schauspielerin/Schauspielerinnen:актриса
+üben:тренировать, практиковаться
+die Verabredung/Verabredungen:договоренность о встрече
+vorgestern:позавчера
+einen Spaziergang machen:прогуливаться
+das Abitur:экзамены на аттестат зрелости
+der Arbeitstag/Arbeitstage:рабочий день
+die Aufgabe/Aufgaben:задание
+der Bachelor:бакалавр
+beruflich:профессиональный
+sich bewerben:устраиваться на работу
+entwickeln:развивать
+der Ingenieur/Ingenieure:инженер
+die Ingenieurin/Ingenieurinnen:инженерша
+der Job/Jobs:работа
+der Journalist/Journalisten:журналист
+die Journalistin/Journalistinnen:журналистка
+die Karriere/Karrieren:карьера
+der Lebenslauf/Lebensläufe:резюме
+mindestens:как минимум
+die Note/Noten:банкнота, заметка, оценка
+die Stellenanzeige/Stellenanzeigen:объявление о вакансии
+das Video/Videos:видео
+eine Bewerbungsmappe mit Anschreiben und Lebenslauf:резюме с сопроводительным письмом и автобиографией
+die Kontaktdaten angeben:предоставить контактные данные
+die Abteilung/Abteilungen:отдел
+anfangen:начинать
+arbeitslos:безработный
+empfehlen:рекомендовать
+kündigen:увольнять(-ся)
+meinen:полагать
+passend:подходящий
+nervös:нервный
+die Notiz/Notizen:примечание
+reden:беседовать
+total:всеобщий
+das Ziel/Ziele:цель
+zusammenarbeiten:сотрудничать
+sich duzen:обращаться на «ты»
+sich siezen:обращаться на «вы»
+per Post/E-Mail:по почте / электронной почте
+der Angestellte/Angestellten:сотрудник
+die Angestellte/Angestellten:сотрудница
+die Arbeitszeit/Arbeitszeiten:рабочее время
+bedeuten:означать
+besprechen:обсуждать
+die Bewerbung/Bewerbungen:заявление (о приеме на работу, о зачислении)
+einladen:приглашать
+der Erfolg/Erfolge:успех
+die Fortbildung/Fortbildungen:дальнейшее обучение
+das Gehalt/Gehälter:заработная плата
+das Gespräch/Gespräche:беседа
+das Homeoffice:домашний офис
+die Kommunikation:коммуникация
+der Manager/Manager:менеджер
+die Managerin/Managerinnen:менеджерша
+motiviert:мотивированный
+der Selbstständige/Selbständigen:самозанятый
+die Selbstständige/Selbständigen:самозанятая
+der Teamleiter/Teamleiter:руководитель коллектива
+die Teamleiterin/Teamleiterinnen:руководительница коллектива
+die Überstunde/Überstunden:сверхурочное время
+die Umschulung/Umschulungen:переподготовка
+die Weiterbildung/Weiterbildungen:повышение квалификации
+sympathisch:симпатичный
+unsympathisch:несимпатичный
+zufrieden:довольный
+unzufrieden:недовольный
+(in) Teilzeit/Vollzeit arbeiten:работать неполный/полный день
+sich selbstständig machen:открывать свое дело
+Ich bin meine eigene Chefin/ mein eigener Chef:Я сам себе начальник/босс
+der (Personal-)Ausweis/(Personal-)Ausweise:удостоверение личности
+das Amt/Ämter:офис
+die Bank/Banken:банк
+beantragen:подать заявку
+beantworten:отвечать
+die Behörde/Behörden:государственное учреждение
+definitiv:определительный
+furchtbar:ужасный
+der Handwerker/Handwerker:мастер
+die Handwerkerin/Handwerkerinnen:мастер (женщина)
+der Kalender/Kalender:календарь
+das Meeting/Meetings:совещание
+notieren:записывать, делать заметки
+der (Reise-)Pass/(Reise-)Pässe:(заграничный) паспорт
+die Reparatur/Reparaturen:ремонт
+schließlich:наконец
+schlimm:плохой
+tagsüber:за день
+voll:полный
+vorbereiten:готовиться
+zuerst:сначала
+müde:уставший
+wach:бодрый
+die ganze Zeit/den ganzen Tag/die ganze Nacht:все время / целый день / всю ночь
+gut/schlecht gelaunt sein:быть в хорошем / плохом настроении
+höflich:вежливый
+unhöflich:грубый
+Das stresst mich!:Это меня напрягает!
+anbieten:предлагать
+anschließend:впоследствии
+erledigen:выполнять
+die (Gäste-)Liste/(Gäste-)Listen:список (гостей)
+die Kantine/Kantinen:столовая
+sich kümmern um:заботиться о ком-л.
+mithelfen:помогать
+nennen:называть
+organisieren:организовать
+der Partner/Partner:партнер
+die Partnerin/Partnerinnen:партнер (женщина)
+die Präsentation/Präsentationen:презентация
+präsentieren:представлять
+das Programm/Programme:программа
+der Punkt/Punkte:пункт
+das Quiz/Quiz:викторина
+spätestens:самое позднее
+das Spiel/Spiele:игра
+die Süßigkeit/Süßigkeiten:сладость
+verschicken:отправлять
+verteilen:раздавать
+bestätigen:подтверждать
+die Bestätigung/Bestätigungen:подтверждение
+dringend:срочно, срочный
+das Festnetz:стационарный или домашний телефон
+der Internetanschluss/Internetanschlüsse:доступ в интернет
+die Kopie/Kopien:копия
+der Router/Router:роутер
+der Techniker/Techniker:техник
+die Technikerin/Technikerinnen:техник (женщина)
+die Uhrzeit/Uhrzeiten:время
+unterschreiben:подписать
+verschieben:отложить
+der Vertrag/Verträge:контракт, договор
+einen Termin verschieben:перенести визит
+Auf Wiederhören!:До свидания!
