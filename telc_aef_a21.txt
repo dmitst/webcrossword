@@ -1,5 +1,5 @@
 ängstlich:боязливый
-sich ärgern über:злиться на кого-л.
+@sich ärgern über:злиться на кого-л.
 das Bild/Bilder:изображение
 dankbar:благодарный
 sich freuen über:радоваться чему-л.

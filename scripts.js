@@ -65,7 +65,8 @@ function isGameFlashcards() {
 }
 
 function showSize() {
-    document.getElementById("sizecol").innerHTML = isGameFlashcards() ? `${deck.length}/${flashcards.size}` : `${dict.length}/${thesaurus.size}`;
+    document.getElementById("sizecol").innerHTML = isGameFlashcards() ? `${deck.length}/${flashcards.size}` 
+        : `${dict.length}/${thesaurus.size}`;
 }
 
 function showMenu() {
@@ -87,6 +88,11 @@ function loadDictionary(e) {
     }
 }
 
+//Flashcards format is 
+//Noun: [der|die|das] noun/plural:translation
+//Verb: verb/other forms for stark verbs:translation 
+//Expression: @expression:translation
+//Comment: #comment
 function parseDictionary(text) {
     const lines = text.split(/\r\n|\n/);
     for (let i = 0; i != lines.length; i++) {
@@ -121,17 +127,20 @@ function addFlashcard(key, val) {
     flashcards.set(key, val); // we prefer to override value from the new dictionary
 }
 
-const pattern = /(?:der |die |das )?\s*([^/]*)/;
+const pattern = /(?:der |die |das )?\s*([^\/ ]+)/;
 function addThesaurus(key, val) {
-//  flashcards format is [der|die|das] noun/plural : value
     if(key.startsWith('@')) {
         console.log(`skipping expression <${key}>`);
     } else {
         const k = key.toLowerCase().match(pattern);
-        if(!thesaurus.has(k)) {
-            dict.push(k)
+        if(k) {
+            if(!thesaurus.has(k[1])) {
+                dict.push(k[])
+            }
+            thesaurus.set(k[1], val); // we prefer to override value from the new dictionary
+        } else {
+            console.log(`skipping broken expression <${key}>`);
         }
-        thesaurus.set(k, val); // we prefer to override value from the new dictionary
     }
 }
 
