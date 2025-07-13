@@ -135,7 +135,7 @@ function addThesaurus(key, val) {
         const k = key.toLowerCase().match(pattern);
         if(k) {
             if(!thesaurus.has(k[1])) {
-                dict.push(k[])
+                dict.push(k[1])
             }
             thesaurus.set(k[1], val); // we prefer to override value from the new dictionary
         } else {
