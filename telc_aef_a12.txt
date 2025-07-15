@@ -40,8 +40,8 @@ der Sohn/Söhne:сын
 die Tochter/Töchter:дочь
 der Enkel/Enkel:внук
 die Enkelin/Enkelinnen:внучка
-Zeit verbringen:проводить время 
-Guck mal!:Взгляни-ка!
+@zeit verbringen:проводить время 
+@guck mal!:Взгляни-ка!
 der Alltag:будний день
 aufräumen:делать уборку
 aussehen:смотреться, выглядеть
@@ -52,12 +52,13 @@ der Haushalt:домашнее хозяйство
 helfen:помогать
 das Mittagessen:обед
 putzen:чистить
-Stress:стресс
+der Stress:стресс
 stressig:стрессовый
-Termin/Termine:встреча
+der Termin/Termine:встреча
 toll:классный
-ins Bett bringen/in die Schule bringen:укладывать в кровать/отводить в школу
-jeden Tag:каждый день
+@ins Bett bringen:укладывать в кровать
+@in die Schule bringen:отводить в школу
+@jeden Tag:каждый день
 der Anruf/Anrufe:звонок по телефону
 die E-Mail/E-Mails:электронная почта
 früher:раньше
@@ -67,11 +68,11 @@ der Laden/Läden:магазин
 das Telefon/Telefone:телефон
 verwandt:родственный
 warten (auf):ждать (кого-л./чего-л.)
-zu Ende sein:завершиться
-Keine Angst!:Не бойся!
-Es ist alles in Ordnung:Всё в порядке.
-Liebe:Дорогая(ой)
-Habe dich lieb!:С любовью!
+@zu Ende sein:завершиться
+@keine Angst!:Не бойся!
+@es ist alles in Ordnung:Всё в порядке.
+liebe:дорогая(ой)
+@habe dich lieb!:С любовью!
 die Aktivität/Aktivitäten:деятельность
 der Arbeitsort/Arbeitsorte:место работы
 die Ausbildung/Ausbildungen:образование
@@ -108,11 +109,11 @@ schon:уже
 noch nicht:еще не
 die Vollzeit:полная занятость
 die Teilzeit:частичная занятость
-im Team arbeiten:работать в команде
-Kontakt haben (mit):общаться (с)
-Urlaub machen:отправляться в отпуск
-Ich arbeite als:Я работаю в качестве 
-den ganzen Tag:весь день
+@im Team arbeiten:работать в команде
+@kontakt haben (mit):общаться (с)
+@urlaub machen:отправляться в отпуск
+@ich arbeite als:Я работаю в качестве 
+@den ganzen Tag:весь день
 die Berufsberatung:консультирование по профессиональной ориентации
 die Fähigkeit/Fähigkeiten:навык
 flexibel:гибкий
@@ -140,14 +141,14 @@ die Schülerin/Schülerinnen:ученица
 das Semester/Semester:семестр учебы
 das Auslandssemester/Auslandssemester:семестр учебы за границей
 das Studium:учеба в ВУЗе
-Geld verdienen:зарабатывать деньги
-Erfahrung sammeln:набираться опыта
-Medizin:медицина
-Philosophie:философия
-Physik:физика
-ein paar:несколько
-Wie lange?:Как долго?
-Bis später!:До скорого!
+@geld verdienen:зарабатывать деньги
+@erfahrung sammeln:набираться опыта
+die Medizin:медицина
+die Philosophie:философия
+die Physik:физика
+@ein paar:несколько
+@wie lange?:Как долго?
+@bis später!:До скорого!
 der Arm/Arme:рука
 das Auge/Augen:глаз
 der Bauch/Bäuche:живот
@@ -156,7 +157,7 @@ fallen:падать
 der Fuß/Füße:ступня
 gerade:прямой
 der Hals/Hälse:горло
-das [Hand-]Gelenk/[Hand-]Gelenke:запястье
+das Gelenk/Gelenke:запястье
 der Kopf/Köpfe:голова
 die Nase/Nasen:нос
 das Ohr/Ohren:ухо
@@ -166,10 +167,10 @@ schnell:быстрый
 der Unfall/Unfälle:несчастный случай
 wehtun:болеть
 der Zahn/Zähne: зуб
-Bescheid sagen:уведомлять
+@bescheid sagen:уведомлять
 spazieren gehen:идти на прогулку
-Das tut mir leid!:Я сожалею!
-Keine Sorge!:Не беспокойся!
+@das tut mir leid!:Я сожалею!
+@keine Sorge!:Не беспокойся!
 der Arzt/Ärzte:врач 
 die Ärztin/Ärztinnen:врачиха
 die Brille/Brillen:очки
@@ -195,21 +196,21 @@ vielleicht:возможно
 weggehen:уходить
 oben:вверху
 unten:внизу
-ein Formular ausfüllen:заполнять бланк
-Einen Moment, bitte!:Минутку, пожалуйста!
-Ich weiß nicht:Я не знаю.
-Mir ist schlecht:Мне плохо.
-Sehr geehrte Damen und Herren:важаемые дамы и господа!
-Mit freundlichen Grüßen:С уважением
+@ein Formular ausfüllen:заполнять бланк
+@einen Moment, bitte!:минутку, пожалуйста!
+@ich weiß nicht:я не знаю.
+@mir ist schlecht:мне плохо.
+@sehr geehrte Damen und Herren:уважаемые дамы и господа!
+@mit freundlichen Grüßen:с уважением
 bekommen:получать
 die Gesundheit:здоровье
 die Krankenversicherung/Krankenversicherungen:медицинская страховка
 das Rezept/Rezepte:рецепт
 sitzen:сидеть
 trainieren:тренироваться
-gesund werden:выздороветь
-krank werden:заболеть
-Yoga machen:заниматься йогой
+@gesund werden:выздороветь
+@krank werden:заболеть
+@Yoga machen:заниматься йогой
 bald:скоро
 bewölkt:облачный
 der Grad:градус
@@ -237,9 +238,9 @@ warm:теплый
 heiß:горячий
 nass:мокрый
 trocken:сухой
-Das Wetter wird gut/schlecht:Будет хорошая/плохая погода.
-Die Sonne scheint:Светит солнце
-Mir ist kalt:Мне холодно
+@das Wetter wird gut/schlecht:будет хорошая/плохая погода.
+@die Sonne scheint:светит солнце
+@mir ist kalt:мне холодно
 der Anfang/Anfänge:начало
 das Datum:дата
 der Frühling:весна
@@ -267,7 +268,7 @@ gratulieren:поздравлять
 die Hochzeit/Hochzeiten:свадьба
 das Lied/Lieder:песня
 mitbringen:брать с собой
-Neujahr:Новый год
+das Neujahr:Новый год
 rosa:розовый
 schenken:дарить
 schicken:посылать
@@ -277,12 +278,12 @@ die Tradition/Traditionen:традиция
 wünschen:желать
 etwas:что-то
 nichts:ничего
-in dieser Zeit:в это время
-Alles Gute!:Всего хорошего!
-Herzlichen Glückwunsch!:Сердечные поздравления!
-Frohe Ostern!:С Пасхой!
-Fröhliche Weihnachten!:С Рождеством!
-Frohes neues Jahr!:С Новым годом!
+@in dieser Zeit:в это время
+@alles Gute!:всего хорошего!
+@herzlichen Glückwunsch!:сердечные поздравления!
+@frohe Ostern!:с Пасхой!
+@fröhliche Weihnachten!:с Рождеством!
+@Frohes neues Jahr!:с Новым годом!
 die Altstadt:старый город
 der Ausflug/Ausflüge:экскурсия
 die Bar/Bars:бар
@@ -316,7 +317,7 @@ das Restaurant/Restaurants:ресторан
 der Rock/Röcke:юбка
 der Rucksack/Rucksäcke:рюкзак
 die Ruhe:покой
-das/SchlossSchlösser:замок
+das Schloss/Schlösser:замок
 der Schuh/Schuhe:ботинок
 der See/Seen:озеро
 die Seife/Seifen:мыло
@@ -341,14 +342,14 @@ das Flugzeug/Flugzeuge:самолет
 häufig:часто
 reisen:путешествовать
 unterwegs sein:быть в пути
-weit weg:далеко
-in der Nähe:поблизости
+@weit weg:далеко
+@in der Nähe:поблизости
 die Ferien:каникулы
 aktiv:активный
 digital:цифровой
 natürlich:конечно
 die Sache/Sachen:вещь
-die sozialen Medien:социальные сети
+@die sozialen Medien:социальные сети
 wieder:опять
 wirklich:действительно
 anmachen:включать
@@ -408,7 +409,7 @@ der Trailer/Trailer:трейлер
 die Umwelt:окружающая среда
 spannend:захватывающий
 langweilig:скучный
-Das ist mir egal!:Мне всё равно!
+@das ist mir egal!:Мне всё равно!
 alle:все
 die Firma/Firmen:компания
 das Geschäft/Geschäfte:бизнес
@@ -416,6 +417,6 @@ die Pause/Pausen:перерыв
 die Welt/Welten:мир
 spät:поздно
 früh:рано
-eine Familie gründen:создать семью
-Kinder bekommen:завести детей
-ein Unternehmen gründen:основать предприятие
+@eine Familie gründen:создать семью
+@Kinder bekommen:завести детей
+@ein Unternehmen gründen:основать предприятие

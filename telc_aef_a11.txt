@@ -1,38 +1,38 @@
 auch:тоже
 bitte:пожалуйста
-Deutsch:немецкий
-Deutschland:Германия
-Englisch:английский
-Französisch:французский
-Frau:госпожа
+deutsch:немецкий
+das Deutschland:Германия
+englisch:английский
+französisch:французский
+die Frau:госпожа
 gut:хороший
 heißen:звать по имени
-Herr:господин
+der Herr:господин
 kommen aus: происходить из
 lernen:учить(-ся)
-Names:имя, фамилия
+der Name:имя, фамилия
 drucken:печатать
-Schweiz:Швейцария
+die Schweiz:Швейцария
 sein:быть
 sprechen:говорить
 und:и
 wohnen:жить
-Wer?:Кто?
-Wie?:Как?
-Wo?:Где?
-Woher:Откуда
-Guten Morgen:доброе утро
-Guten Tag:Добрый день
-Hallo:Здравствуйте
-Hi:Привет
-Tschüss:Пока
-Bis bald:До скорого
-Danke:Спасибо
-Mein Name ist: Меня зовут 
-Wie geht es dir/Ihnen:Как у тебя/у вас дела?
-Mir geht es (sehr) guts:У меня все (очень) хорошо.
-Welche Sprachen sprechen Sie:На каких языках вы говорите?
-Ich spreche ein bisschen Deutsch:Я немного говорю по-немецки.
+wer:кто?
+wie:как?
+wo:где?
+woher:откуда
+@guten Morgen:доброе утро
+@guten Tag:добрый день
+hallo:здравствуйте
+hi:привет
+tschüss:пока
+@bis bald:до скорого
+danke:спасибо
+@mein Name ist: меня зовут 
+@wie geht es dir/Ihnen:как у тебя/у вас дела?
+@mir geht es (sehr) guts:у меня все (очень) хорошо.
+@welche Sprachen sprechen Sie:на каких языках вы говорите?
+@ich spreche ein bisschen Deutsch:я немного говорю по-немецки.
 hier:здесь
 jetzt:сейчас
 das Land/Länder:страна
@@ -40,8 +40,8 @@ der Nachname / Nachnamen:фамилия
 die Sprache/Sprachen:язык
 der Vorname/Vornamen:имя
 der Wohnort:место жительства
-Das ist / sind: Это 
-Auf Wiedersehen:До свидания
+das ist / sind: это 
+auf Wiedersehen:До свидания
 aber:но
 die Adresse:адрес
 das Alter:возраст
@@ -50,17 +50,17 @@ der Familienname/Familiennamen:фамилия
 die Hausnummer: номер дома
 das Jahr/Jahre:год
 oder:или
-Österreich:Австрия
+das Österreich:Австрия
 die Postleitzahl (PLZ):почтовый индекс
 die Stadt:город
 die Straße:улица
 die Telefonnummer:номер телефона
 die Muttersprache:родной язык
-ich bin ... Jahre alt:Мне ... года/лет.
-Ich lebe in:Я живу в
-Auf Wiederhören:Услышимся
-Ist das richtig?:Правильно?
-Vielen Dank:Большое спасибо
+@ich bin ... Jahre alt:мне ... года/лет.
+@ich lebe in:я живу в
+@auf Wiederhören:услышимся
+@ist das richtig?:Правильно?
+@vielen Dank:Большое спасибо
 das Buch/Bücher:книга
 der Computer/Computer:компьютер
 der Dialog/Dialoge:диалог
@@ -86,9 +86,9 @@ ja:да
 nein:нет
 richtig:правильно
 falsch:неправильно
-Was?:Что?
-Entschuldigung:Извините
-Alles klar:Всё ясно
+was:Что?
+entschuldigung:Извините
+@alles klar:Всё ясно
 das Fenster/Fenster:окно
 finden:находить
 die Flasche/Flaschen:бутылка
@@ -115,7 +115,7 @@ das Vokabelheft/Vokabelhefte:тетрадь-словарь
 das Whiteboard/Whiteboards:белая доска
 groß:большой
 klein:маленький
-Es gibt:здесь есть 
+@es gibt:здесь есть 
 die App/Apps:приложение
 der Artikel/Artikel:артикль
 das Beispiel/Beispiele:пример
@@ -133,10 +133,10 @@ das Verb/Verben:глагол
 der Wortschatz:лексика
 einfach:простой
 schwierig:сложный
-Fehler machen:допустить ошибку
-Hausaufgaben machen:делать домашнее задание
-Das hilft mir:Это полезно для меня
-Viel Spaß:Всего хорошего
+@fehler machen:допустить ошибку
+@hausaufgaben machen:делать домашнее задание
+@das hilft mir:Это полезно для меня
+@viel Spaß:Всего хорошего
 fahren:ехать, водить
 die Freizeit:свободное время
 der Freund/Freunde:друг
@@ -162,12 +162,12 @@ interessant:интересный
 langweilig:скучный
 immer:всегда
 nie:никогда
-Freunde treffen:встречаться с друзьями
-Fußball/Basketball spielen:играть в футбол/баскетбол
-Gitarre/Klavier/ein Instrument spielen:играть на гитаре/фортепиано/инструменте
-ins Theater/ins Museum/auf ein Konzert gehen:ходить в театр/музей/на концерт
-Motorrad fahren:кататься на мотоцикле
-Sport machen:заниматься спортом
+@freunde treffen:встречаться с друзьями
+@fußball/Basketball spielen:играть в футбол/баскетбол
+@gitarre/Klavier/ein Instrument spielen:играть на гитаре/фортепиано/инструменте
+@ins Theater/ins Museum/auf ein Konzert gehen:ходить в театр/музей/на концерт
+@motorrad fahren:кататься на мотоцикле
+@sport machen:заниматься спортом
 der Abend:вечер
 das Abendessen:ужин
 abends:по вечерам
@@ -182,11 +182,11 @@ essen:принимать пищу
 frühstücken:завтракать
 die Universität/Universitäten:университет
 wandern:ходить в поход
-Abend essen:ужинать
-schlafen gehen:ложиться спать
-zur Arbeit gehen:идти на работу
-Um wie viel Uhr?:Во сколько?
-Wann?:Когда?
+@abend essen:ужинать
+@schlafen gehen:ложиться спать
+@zur Arbeit gehen:идти на работу
+@um wie viel Uhr?:Во сколько?
+wann:Когда?
 ausgehen:выходить
 das Geld:деньги
 das Kind/Kinder:ребенок
@@ -202,7 +202,7 @@ pro Woche:в неделю
 die Freizeit: свободное время
 backen:печь
 brauchen:нуждаться
-Brokkoli:брокколи
+der Brokkoli:брокколи
 denken:думать
 der Fisch:рыба
 das Fleisch:мясо
@@ -254,7 +254,7 @@ der Wein/Weine:вино
 der Zucker:сахар
 mit:с
 ohne:без
-Liebe Grüße/Viele Grüße:С наилучшими пожеланиями/Всего хорошего
+@liebe Grüße/Viele Grüße:С наилучшими пожеланиями/Всего хорошего
 der Apfel/Äpfel:яблоко
 die Banane/Bananen:банан
 bezahlen:платить
@@ -293,12 +293,12 @@ der Weg/Wege:путь
 der Zug/Züge:поезд
 der Eingang/Eingänge:вход
 der Ausgang/Ausgänge:выход
-zu Fuß gehen:идти пешком
-Ich hole dich abs:Я за тобой заеду
+@zu Fuß gehen:идти пешком
+@ich hole dich abs:Я за тобой заеду
 die Ampel/Ampeln:светофор
 aussteigen:выходить из транспортного средства
 der Bahnhof/Bahnhöfe:вокзал
-das CaféCafés:кафе
+das Café/Cafés:кафе
 dort:там
 die Drogerie/Drogerien:магазин косметики и хозтоваров
 der Fahrplan/Fahrpläne:расписание
@@ -317,8 +317,8 @@ die Abfahrt:отбытие
 die Ankunft:прибытие
 links:налево
 rechts:направо
-Kannst du mir etwas empfehlen?:Можешь мне подсказать?
-Sieh dir ... an:Посети ...
+@kannst du mir etwas empfehlen?:Можешь мне подсказать?
+@sieh dir ... an:Посети ...
 die Apotheke/Apotheken:аптека
 der Bahnsteig/Bahnsteige:железнодорожная платформа
 gleich:скоро
@@ -331,7 +331,7 @@ der Ticketautomat/Ticketautomaten:автомат по продаже билет�
 der Treffpunkt/Treffpunkte:место встречи
 umsteigen:пересаживаться на другое транспортное средство
 das nächste Mal:в следующий раз
-Ich bin gleich da:Скоро буду
+@ich bin gleich da:Скоро буду
 allein:самостоятельно
 der Aufzug/Aufzüge:лифт
 das Bad/Bäder(das Badezimmer):ванна (ванная комната)
@@ -370,8 +370,8 @@ teuer:дорогой
 günstig:дешевый
 warm:теплый
 kalt:холодный
-in der Nähe:поблизости
-zur Miete wohnen:арендовать жилье
+@in der Nähe:поблизости
+@zur Miete wohnen:арендовать жилье
 die Anzeige/Anzeigen:объявление
 frei:бесплатный, свободный
 der Mieter/Mieter:арендатор
@@ -406,6 +406,6 @@ die Treppe/Treppen:лестница
 umziehen:переезжать
 der Umzug/Umzüge:переезд
 die Waschmaschine/Waschmaschinen:стиральная машина
-Wohin?:Куда?
+wohin:Куда?
 aufmachen:открывать
 zumachen:закрывать
