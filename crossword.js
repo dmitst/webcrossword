@@ -20,7 +20,7 @@ class Crossword {
         }
 
         document.getElementById("leftwords").innerHTML = `${dict.length} words left`;
-
+        document.getElementById("backclue").onclick = () => this.switchClues(false);
         Crossword.addToolbarKeys(this);
         Crossword.createKeyboardPopup(this);
         Crossword.setKeyHandler(this);
@@ -455,41 +455,57 @@ class Crossword {
             ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'è', 'ö', 'ü', 'ä']
         ];
 
-            layout.forEach(row => {
-                    const rowDiv = document.createElement('div');
-                    rowDiv.className = 'row';
+        layout.forEach(row => {
+           const rowDiv = document.createElement('div');
+           rowDiv.className = 'row';
 
-                    row.forEach(key => {
-                            const button = document.createElement('button');
-                            button.textContent = key;
-                            button.onclick = () => crossword.writeLetterAndAdvancePos(key, false);
-                            rowDiv.appendChild(button);
-                            });
+           row.forEach(key => {
+               const button = document.createElement('button');
+               button.textContent = key;
+               button.onclick = () => crossword.writeLetterAndAdvancePos(key, false);
+               rowDiv.appendChild(button);
+           });
 
-                    popup.appendChild(rowDiv);
-                    });
-            const lastRow = document.createElement('div');
-            lastRow.className = 'row';
-            const buttonHint = document.createElement('button');
-            buttonHint.textContent = '?';
-            buttonHint.onclick = () => crossword.writeLetterAndAdvancePos('', true);
-            lastRow.appendChild(buttonHint);
-            const buttonSolve = document.createElement('button');
-            buttonSolve.textContent = '≡'
-                buttonSolve.onclick = () => crossword.solveCrossword();
-            lastRow.appendChild(buttonSolve);
-            const buttonClue = document.createElement('button');
-            buttonClue.textContent = '…';
-            buttonClue.onclick = () => crossword.switchClues(true);
-            lastRow.appendChild(buttonClue);
-            const buttonBS = document.createElement('button');
-            buttonBS.textContent = '←';
-            buttonBS.onclick = () => crossword.backspace();
-            lastRow.appendChild(buttonBS);
-            popup.appendChild(lastRow);
-            let el = document.querySelector('.crosstile');
-            el.appendChild(popup);
-            //Ξ
+           popup.appendChild(rowDiv);
+          });
+
+          const lastRow = document.createElement('div');
+          lastRow.className = 'row';
+
+          const buttonMenu = document.createElement('button');
+          buttonMenu.textContent = '≡';
+          buttonMenu.onclick = () => showMenu();
+          lastRow.appendChild(buttonMenu);
+
+          const buttonNew = document.createElement('button');
+          buttonNew.textContent = '▦';// ⊞
+          buttonNew.onclick = () => generateCrossword();
+          lastRow.appendChild(buttonNew);
+
+          const buttonHint = document.createElement('button');
+          buttonHint.textContent = '?';
+          buttonHint.onclick = () => crossword.writeLetterAndAdvancePos('', true);
+          lastRow.appendChild(buttonHint);
+
+          const buttonSolve = document.createElement('button');
+          buttonSolve.textContent = '✓';
+          buttonSolve.onclick = () => crossword.solveCrossword();
+          lastRow.appendChild(buttonSolve);
+
+          const buttonClue = document.createElement('button');
+          buttonClue.textContent = '…';
+          buttonClue.onclick = () => crossword.switchClues(true);
+          lastRow.appendChild(buttonClue);
+
+          const buttonBS = document.createElement('button');
+          buttonBS.textContent = '←';
+          buttonBS.onclick = () => crossword.backspace();
+          lastRow.appendChild(buttonBS);
+
+          popup.appendChild(lastRow);
+          let el = document.querySelector('.crosstile');
+          el.appendChild(popup);
+          //Ξ
     }
 
     showKeyboardPopup() {
