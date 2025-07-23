@@ -244,7 +244,7 @@ hinfallen:упасть
 der Integrationsverein:общество по интеграции
 der Jugendliche/Jugendlichen:подростки
 der Junge:мальчик
-die Kindertagesstätte(Kita)/Kindertagesstätten (Kitas):детский сад
+die Kindertagesstätte (Kita)/Kindertagesstätten (Kitas):детский сад
 die Klasse:класс
 die Klassenarbeit:классная работа
 der Klassenlehrer:классный руководитель
@@ -442,7 +442,7 @@ die Münze/Münzen:монета
 niemand:никто
 der Nulltarif:нулевой тариф
 nutzen:использовать
-das Online-Banking:онлайн-банкинг
+das Onlinebanking:онлайн-банкинг
 der Pfennig/Pfennige:пфенниг
 der PIN:персональный идентификационный номер
 der Quatsch:чепуха
@@ -532,8 +532,6 @@ das Messer/Messer:нож
 mitfahren:ехать вместе с кем-то
 nähen:шить
 normalerweise:обычно
-das Open-Air-Konzert:концерт под открытым небом
-der Poetry-Slam:поэтический слэм
 die Regie:постановка
 der Saal/Säle:зал
 das Schach:шахматы

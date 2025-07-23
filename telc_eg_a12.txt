@@ -24,7 +24,8 @@ die Durchsage:сообщение (по радио)
 einfach:просто
 die Einzelfahrkarte:разовый проездной билет
 erste:первая
-der(die) Erwachsene/Erwachsenen: взрослый(ая)
+der Erwachsene/Erwachsenen: взрослый
+die Erwachsene/Erwachsenen: взрослая
 fahren:ехать
 der Fahrgast/Fahrgäste:пассажир
 die Fahrkarte:билет
@@ -61,7 +62,7 @@ die Minute/Minuten:минута
 die Mobilität:мобильность
 das Motorrad/Motorräder:мотоцикл
 nachfragen:переспрашивать
-nächster, nächste, nächstes:следующий, следующая, следующее
+nächste:следующая
 nichts:ничто
 öffentlich:общественный
 die Orientierung:ориентация
@@ -206,7 +207,7 @@ unterrichten:преподавать
 vielleicht:может быть
 wählen:выбирать
 die Werkstatt:мастерская
-Auf Wiederhören!:до следующего раза!
+@auf Wiederhören!:до следующего раза!
 zuerst:сначала
 das Altenpflegeheim:дом престарелых
 anbei:в приложении
@@ -237,7 +238,7 @@ euer, eure:ваш, ваша
 das Fieber:жар
 der Finger/Finger:палец
 freundlich:дружелюбный
-geehrter, geehrte:уважаемый, уважаемая
+geehrte:уважаемая
 das Gesicht:лицо
 die Gesundheit:здоровье
 die Gesundheitskart:eмедицинская карта
@@ -245,7 +246,7 @@ die Grippe:грипп
 die Gruppe/Gruppen:группа
 das Haar/Haare:волосы
 der Hals:шея
-der Hals-Nasen-Ohren-Arzt(HNO):отоларинголог(ЛОР)
+@der Hals-Nasen-Ohren-Arzt(HNO):отоларинголог(ЛОР)
 das Halsweh:боль в горле
 die Hand/Hände:рука
 der Hausarzt/Hausärzte:терапевт
@@ -362,7 +363,7 @@ der Anzug/Anzüge:костюм
 beige:бежевый
 bequem:удобный
 besser:лучше
-besten (am besten):лучше всего
+@am besten:лучше всего
 bestimmt:определенно
 blau:синий
 blöd:глупый
@@ -397,7 +398,7 @@ die Kleidung/Kleidung:одежда
 das Kleidungsstück/Kleidungsstücke:предмет одежды
 lila:фиолетовый
 der Mantel/Mäntel:пальто
-meisten(am meisten):больше всего
+@am meisten:больше всего
 die Mode:мода
 das Modell:модель
 die Mütze:шапка
@@ -420,7 +421,7 @@ der Sportschuh:спортивная обувь
 die Strickjacke:кардиган
 der Strumpf/Strümpfe:чулок
 tragen:носить
-das T-Shirt/T-Shirts:футболка
+das Tshirt/Tshirts:футболка
 typisch:типичный
 überhaupt:вообще
 umtauschen:поменять

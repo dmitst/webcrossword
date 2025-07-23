@@ -9,14 +9,10 @@ bisschen:немного
 bitte:пожалуйста
 danke:спасибо
 dann:тогда
-das:определенный артикль среднего рода
-der:определенный артикль мужского рода
 das Deutsch:немецкий
 der Dialog/Dialoge:диалог
-die:определенный артикль женского рода
 dir:тебе
 du:ты
-ein, eine:один, одна
 die Entschuldigung:извинение
 er:он
 es:оно
@@ -25,7 +21,7 @@ die Frage/Fragen:вопрос
 fragen:спрашивать
 die Frau/Frauen:госпожа
 ganz:совсем
-es geht:это возможно, подходит
+@es geht:это возможно, подходит
 gehen:идти
 die Grammatik:грамматика
 gut:хороший
@@ -68,12 +64,12 @@ die Sprache/Sprachen:язык
 sprechen:говорить
 supergut:отлично
 der Tag/Tage:день
-Tschüss:пока
+tschüss:пока
 und:и
 was:что
 welche:какая
 wer:кто
-Auf Wiedersehen:До свидания
+@auf Wiedersehen:до свидания
 wie:как
 wissen:знать
 wo:где
@@ -103,7 +99,6 @@ die Handynummer/Handynummern:номер мобильного телефона
 die Hausnummer/Hausnummern:номер дома
 das Heimatland/Heimatländer:родная страна
 hier:здесь
-Ihr, Ihre:Ваш, Ваша
 in:в
 die Information/Informationen:информация
 das Jahr/Jahre:год
@@ -114,7 +109,7 @@ der Kindergarten/Kindergärten:детский сад
 der Kontakt/Kontakte:контакт
 leben:жить
 ledig:неженатый/не замужем
-die E-Mail/E-Mails:электронная почта
+die Email/Emails:электронная почта
 möchten:желать
 die Mutter/Mütter:мать
 der Nachname/Nachnamen:фамилия
@@ -133,8 +128,9 @@ die Tochter/Töchter:дочь
 der Vater/Väter:отец
 verheiratet:в браке
 verwitwet:вдовец/вдова
-viel, viele:много, многие
-welcher, welche, welches:какой, какая, какое
+viel:много
+viele:многие
+welche:какая
 willkommen:добро пожаловать
 wir:мы
 wohnen:проживать
@@ -189,7 +185,7 @@ der Lehrer/Lehrer:учитель
 die Lehrerin/Lehrerinnen:учительница
 lernen:учить
 lesen:читать
-liebe, lieber:дорогой/дорогая
+liebe:дорогая
 die Liste/Listen:список
 machen:делать
 mir:мне
@@ -225,7 +221,7 @@ der Tisch/Tische:стол
 die Tür:дверь
 übermorgen:послезавтра
 die Übung/Übungen:упражнение
-das Übungsbuch:книга с упражнениями
+das Übungsbuch/Übungsbücher:книга с упражнениями
 verstehen:понимать
 vorgestern:позавчера
 die Wand:стена
@@ -253,10 +249,10 @@ brauchen:нуждаться
 das Brot/Brote:хлеб
 das Brötchen/Brötchen:булочка
 der Cent/Cent:цент
-die Cola/Cola, Colas:кола
+die Cola/Colas:кола
 der Couscous:кускус
 denn:так как
-diese, dieser, dieses:эта, этот, это
+diese:эта
 die Dose/Dosen:банка
 durch:через
 das Ei/Eier:яйцо

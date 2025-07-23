@@ -92,7 +92,7 @@ das Autofahren:ехать на машине
 der Automat:автомат
 das Bahnfahren:ехать на поезде
 der Bahnsteig:платформа
-bitten(um):попросить(о)
+bitten (um):попросить (о)
 buchen:бронировать
 die Dauer:продолжительность
 defekt:сломанный
@@ -418,7 +418,7 @@ zufrieden:довольный
 der Ansprechpartner:контактное лицо
 der Aushilfsjob:временная работа
 aussehen:выглядеть
-der Auszubildende(Azubi)/Auszubildende:ученик(-ца)
+der Auszubildende (Azubi)/Auszubildende:ученик(-ца)
 der Bäckereifachverkäufer:специалист по продажам хлебобулочных изделий
 bedanken:благодарить
 bedienen:обслуживать

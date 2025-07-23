@@ -5,9 +5,9 @@ direkt:прямой
 die Ecke/Ecken:угол
 der Einzug:въезд
 die Garage/Garagen:гараж
-das (Haus-)Tier/(Haus-)Tiere:домашнее животное
+das Haustier/Haustiere:домашнее животное
 das Inserat/Inserate:объявление
-der Mietvertrag/Mietverträge:догово́ р о на́ йме
+der Mietvertrag/Mietverträge:догово́р о на́йме
 der Mitbewohner/Mitbewohner:сосед по комнате или квартире
 die Mitbewohnerin/Mitbewohnerinnen:соседка по комнате или квартире
 möbliert:меблированный
@@ -29,7 +29,7 @@ die Wäsche:белье
 die Zimmerlautstärke:умеренная громкость
 einziehen:вселяться
 ausziehen:выселяться
-Ich lebe in einer Ein-Zimmer-/Drei-Zimmer-Wohnung:Я живу в однокомнатной / трехкомнатной квартире.
+@Ich lebe in einer Ein-Zimmer-/Drei-Zimmer-Wohnung:Я живу в однокомнатной / трехкомнатной квартире.
 der Betreff Betreffe:тема сообщения
 das Dokument Dokumente:документ
 formell:формальный
@@ -42,7 +42,7 @@ einpacken:упаковывать
 auspacken:распаковывать
 teilweise:частично
 ganz:совсем
-auf der rechten/linken Seite:с правой/левой стороны
+@auf der rechten/linken Seite:с правой/левой стороны
 durchschnittlich:в среднем
 das Gerät/Geräte:прибор
 informieren:информировать
@@ -56,7 +56,7 @@ technisch:технический
 das Thema/Themen:тема
 das Treppenhaus/Treppenhäuser:лестничная клетка
 den Müll trennen:разделять мусор
-Meiner Meinung nach:По-моему
+@meiner Meinung nach:по-моему
 die Aussprache:произношение
 aussprechen:произносить
 der Bildschirm/Bildschirme:экран
@@ -74,7 +74,7 @@ hoffentlich:надеяться, что
 das Interview/Interviews:интервью
 das Mobiltelefon/Mobiltelefone:мобильный телефон
 die Kindheit:детство
-das (Online-)Wörterbuch/(Online-)Wörterbücher:(онлайн-)словарь
+das Wörterbuch/Wörterbücher:словарь
 der PC/PCs: ПК
 die Physik:физика
 schaffen:справляться
@@ -92,16 +92,16 @@ die Videokonferenz/Videokonferenzen:видеоконференция
 vorlesen:читать вслух
 die Webseite/Webseiten:веб-сайт
 das Zeugnis/Zeugnisse:свидетельство
-eine Prüfung bestehen:выдержать экзамен
+@eine Prüfung bestehen:выдержать экзамен
 anders:по-другому
-(sich) ändern:изменяться
+ändern:изменять(-ся)
 bauen:строить
 einzeln:отдельно
 das Kabel/Kabel:кабель
 klingeln:звонить
 schimpfen:ругаться
-sich erinnern:вспоминать
-(sich) streiten:ссориться
+erinnern (sich):вспоминать
+streiten (sich):ссориться
 die Zahl/Zahlen:число
 zuhören:слушать
 ausschalten:выключать
@@ -118,12 +118,12 @@ das Passwort/Passwörter:пароль
 starten:начинать
 verbieten:запрещать
 verzichten:отказываться
-dafür sein:выступать за что-л.
-dagegen sein:быть против
-ein Recht haben auf:иметь право на что-л
-Vokabeln lernen:учить слова
+@dafür sein:выступать за что-л.
+@dagegen sein:быть против
+@ein Recht haben auf:иметь право на что-л
+@vokabeln lernen:учить слова
 die Aufenthaltserlaubnis:разрешение на временное пребывание
-die (Bank-)Karte/(Bank-)Karten:(банковская) карта
+die Karte/Karten:карта
 der Bankkaufmann/Bankkaufmänner:сотрудник банка
 die Bankkauffrau/Bankkauffrauen:сотрудница банка
 das Bargeld:наличные
@@ -131,8 +131,8 @@ benötigen:нуждаться
 der Beratungstermin/Beratungstermine:консультация
 der Betrag/Beträge:сумма
 die Filiale/Filialen:филиал
-der (Geld-)Automat/(Geld-)Automaten:банкомат
-der (Geld-)Schein/(Geld-)Scheine:банкнота
+der Geldautomat/Geldautomaten:банкомат
+der Geldschein (schein)/Geldscheine:банкнота
 die Kontrolle/Kontrollen:контроль
 kontrollieren:контролировать
 die Münze/Münzen:монета
@@ -143,12 +143,12 @@ das Sparbuch/Sparbücher:сберегательная книжка
 überweisen:переводить (деньги)
 die Überweisung/Überweisungen:перевод (денег)
 wechseln:менять
-Geld ausgeben:тратить деньги
-Geld sparen:экономить деньги
-Geld abheben:снимать деньги
-ein Konto eröffnen:открывать счёт
-Geld einzahlen:внести деньги на счёт
-einen Kredit aufnehmen:брать кредит
+@Geld ausgeben:тратить деньги
+@Geld sparen:экономить деньги
+@Geld abheben:снимать деньги
+@ein Konto eröffnen:открывать счёт
+@Geld einzahlen:внести деньги на счёт
+@einen Kredit aufnehmen:брать кредит
 die persönlichen Daten:персональные данные
 das Abonnement (Abo)/ Abonnements (Abos):абонемент
 die Ausgabe/Ausgaben:выдача
@@ -162,7 +162,9 @@ die Vorsorge:предусмотрительность
 die Zukunft:будущее
 der Vorteil/Vorteile:преимущество
 der Nachteil/Nachteile:недостаток
-täglich/monatlich/jährlich:ежедневно/ежемесячно/ежегодно
+täglich:ежедневно
+monatlich:ежемесячно
+jährlich:ежегодно
 der Anbieter/Anbieter:поставщик
 der Arbeitgeber/Arbeitgeber:работодатель
 der Bürger/Bürger:гражданин
@@ -171,10 +173,10 @@ gesetzlich: обязательное (по закону)
 die Arbeitslosenversicherung:страхование на случай потери работы
 die Pflegeversicherung:на случай потребности в постороннем уходе 
 die Rentenversicherung:обязательное пенсионное страхование 
-Unfallversicherung: страхование от несчастных случаев на производстве и профессиональных заболеваний
-die gesetzliche/private Krankenversicherung/-en:обязательное/частное медицинское страхование
+die Unfallversicherung: страхование от несчастных случаев на производстве и профессиональных заболеваний
+@die gesetzliche/private Krankenversicherung/-en:обязательное/частное медицинское страхование
 kaputtmachen:ломать
-die Krankenkasse Krankenkassen:больничная касса
+die Krankenkasse/Krankenkassen:больничная касса
 das Mitglied/Mitglieder:участник
 regelmäßig:регулярно
 die Sozialversicherung:социальное страхование
@@ -184,9 +186,9 @@ versehentlich:ненамеренно
 die Versicherung/Versicherungen:страхование
 wählen:выбирать 
 zahlen:платить
-die Kosten übernehmen:брать на себя расходы
-(kranken-)versichert sein:застрахован (на случай болезни)
-einen Schaden verursachen:наносить ущерб
+@die Kosten übernehmen:брать на себя расходы
+@(kranken-)versichert sein:застрахован (на случай болезни)
+@einen Schaden verursachen:наносить ущерб
 die Abgase:выхлопные газы
 die Absicht/Absichten:намерение
 außerhalb:снаружи
@@ -204,7 +206,7 @@ der Grund/Gründe:основание
 halten:держать, думать, считать
 die Klinik/Kliniken:клиника
 nutzen:использовать
-der öffentliche [Nah]verkehr:общественный транспорт
+@der öffentliche [Nah]verkehr:общественный транспорт
 reduzieren:уменьшить
 der Reifen/Reifen:шина
 das Schiff/Schiffe:корабль
@@ -214,8 +216,8 @@ das Taxi/Taxis:такси
 transportieren:перевозить
 umweltfreundlich:экологически чистый
 der Wagen/Wagen:автомобиль
-die Werkstatt Werkstätten:мастерская
-den Bus/Flug/Zug verpassen:опоздать на автобус/рейс/поезд
+die Werkstatt/Werkstätten:мастерская
+@den Bus/Flug/Zug verpassen:опоздать на автобус/рейс/поезд
 alternativ:альтернативный
 abbiegen:сворачивать
 besetzt:занятый
@@ -226,24 +228,24 @@ der Verkehr:трафик
 die Verspätung/Verspätungen:опоздание
 wahrscheinlich:наверное
 weiterfahren:продолжать ехать
-den Flug/das Ziel/den Zug erreichen:успеть на рейс / в пункт назначения / на поезд
-Das stimmt!:Верно!
+@den Flug/das Ziel/den Zug erreichen:успеть на рейс / в пункт назначения / на поезд
+@das stimmt!:верно!
 der Anschluss(-zug)/ Anschlüsse, Anschlusszüge:пересадка (на другой поезд)
 ärgerlich:сердитый
 die Auskunft/Auskünfte:справка
 das Bewerbungsgespräch/Bewerbungsgespräche:собеседование
 erfolgreich:успешный
 die Fahrt/Fahrten:поездка
-der (Fahrrad-)Helm/(Fahrrad-)Helme:(велосипедный) шлем
-die (Gurt-, Helm-)Pflicht:обязательность использования (ремней безопасности, шлема)
+der Helm/Helme:шлем
+die Gurtpflicht:обязательность использования ремней безопасности
 der Motor/Motoren:мотор
 nun:теперь
-der (Sicherheits-)Gurt/(Sicherheits-)Gurte:ремень безопасности
+der Sicherheitsgurt/Sicherheitsgurte:ремень безопасности
 die Verbindung/Verbindungen:связь
 das Verkehrszeichen/Verkehrszeichen:дорожный знак
-gültig sein:быть действительным
-Achtung!:Внимание!
-Gibt es keine andere Möglichkeit?:Неужели нет другого выхода?
+@gültig sein:быть действительным
+achtung:внимание!
+@gibt es keine andere Möglichkeit?:Неужели нет другого выхода?
 atmen:дышать
 sich ausruhen:отдыхать
 beruhigen:успокаивать
@@ -255,7 +257,7 @@ das Gift/Gifte:яд
 der Hausarzt/Hausärzte:домашний врач
 die Hausärztin/Hausärztinnen:домашнияя врачиха
 die Information/Informationen:информация
-der (kinder-)ärztliche Notdienst:станция экстренной (педиатрической) медицинской помощи
+@der (kinder-)ärztliche Notdienst:станция экстренной (педиатрической) медицинской помощи
 die Notaufnahme/Notaufnahmen:отделение скорой помощи
 der Notfall/Notfälle:неотложный случай
 der Notruf/Notrufe:экстренный вызов
@@ -263,14 +265,14 @@ der Physiotherapeut/Physiotherapeuten:физиотерапевт
 die Physiotherapeutin/Physiotherapeutinnen:физиотерапевтка
 plötzlich:внезапно
 die Polizei:полиция
-die (Arzt-)Praxis/(Arzt-)Praxen:частная (врачебная) практика
+die Praxis/Praxen:частная (врачебная) практика
 der Rettungswagen/Rettungswagen:машина скорой помощи
 schwanger:беременная
 schwindelig:испытывающий головокружение
-die Sprechstunde Sprechstunden:приемные часы
+die Sprechstunde/Sprechstunden:приемные часы
 untersuchen:обследовать
-sich den Arm/das Bein brechen:сломать руку/ногу
-an einer Krankheit leiden:страдать какой-л. болезнью
+@sich den Arm/das Bein brechen:сломать руку/ногу
+@an einer Krankheit leiden:страдать какой-л. болезнью
 den Rettungsdienst/die Polizei rufen:вызывать службу спасения / полицию
 die Allergie/Allergien:аллергия
 der Ausschlag/Ausschläge:сыпь
@@ -282,11 +284,11 @@ das Immunsystem:иммунная система
 der Kinderarzt/Kinderärzte:педиатр
 die Kinderärztin/Kinderärztinnen:педиатр (женщина)
 jucken:чесаться
-das (Schmerz-)Mittel/(Schmerz-)Mittel:обезболивающее средство
+das Schmerzmittel/Schmerzmittel:обезболивающее средство
 die Schwangerschaft/Schwangerschaften:беременность
-ein Mittel/Medikament verschreiben:назначать лечебное средство / лекарственный препарат
+@ein Mittel/Medikament verschreiben:назначать лечебное средство / лекарственный препарат
 belasten:нагружать, переносить нагрузку
-(sich) bewegen:передвигать(-ся)
+bewegen:передвигать(-ся)
 die Hüfte/Hüften:бедро
 das Knie/Knie:колено
 der Knochen/Knochen:кость
@@ -301,11 +303,11 @@ das Schmerzmittel/Schmerzmittel:обезболивающее средство
 der Schock/Schocks:шок
 die Schulter/Schultern:плечо
 das Übergewicht:избыточный вес
-(sich) verletzen:поранить(-ся)
+verletzen:поранить(-ся)
 vermeiden:избегать
 das Vitamin/Vitamine:витамин
-sich gesund ernähren:правильно питаться
-sich gewöhnen an:привыкать
+@sich gesund ernähren:правильно питаться
+@sich gewöhnen an:привыкать
 das Ausland:заграница
 die Ausstattung/Ausstattungen:оснащение
 außergewöhnlich:необычный
@@ -315,7 +317,7 @@ die Bettwäsche:постельное белье
 die Dusche/Duschen:душ
 entdecken:обнаруживать
 die Erholung:отдых
-Europa:Европа
+das Europa:Европа
 europäisch:европейский
 fit:в хорошей форме
 die Führung/Führungen:руководство
@@ -336,15 +338,15 @@ die Tour/Touren:тур
 übernachten:ночевать
 die Unterkunft/Unterkünfte:проживание
 unvergesslich:незабываемый
-sich verlaufen:заблудиться
+verlaufen (sich):заблудиться
 verreisen:путешествовать
-die Wanderung Wanderungen:прогулка
+die Wanderung/Wanderungen:прогулка
 wild:дикий
 das Zelt/Zelte:палатка
 kühl:прохладный 
 kalt:холодный
-die Umgebung eine Stadt:окрестности города
-eine Region erkunden:исследовать окрестности/город/ регион
+@die Umgebung eine Stadt:окрестности города
+@eine Region erkunden:исследовать окрестности/город/ регион
 der Einwohner/Einwohner:житель
 die Einwohnerin/Einwohnerinnen:жительница
 das Feld/Felder:поле
@@ -359,8 +361,10 @@ der Ort/Orte:место
 die Pflanze/Pflanzen:растение
 die Wiese/Wiesen:луг
 vor Ort:на месте
-vormittags/nachmittags/abends:утром/днём/вечером
-das Abenteuer Abenteuer:приключение
+vormittags:утром
+nachmittags:днём
+abends:вечером
+das Abenteuer/Abenteuer:приключение
 anschauen:посмотреть
 einheimisch:местный
 das Erlebnis/Erlebnisse:опыт
@@ -373,4 +377,4 @@ die Österreicherin/Österreicherinnen:австрийка
 österreichisch:австрийский
 die Qualität/Qualitäten:качество
 die Sehenswürdigkeit/Sehenswürdigkeiten:достопримечательность
-der Stadtplan Stadtpläne:план города
+der Stadtplan/Stadtpläne:план города
