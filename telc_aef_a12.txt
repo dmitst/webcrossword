@@ -60,7 +60,7 @@ toll:классный
 @in die Schule bringen:отводить в школу
 @jeden Tag:каждый день
 der Anruf/Anrufe:звонок по телефону
-die E-Mail/E-Mails:электронная почта
+@die E-Mail/E-Mails:электронная почта
 früher:раньше
 das Haustier/Haustiere:питомец
 der Kindergarten/Kindergärten:детский сад
@@ -324,14 +324,14 @@ die Seife/Seifen:мыло
 das Shampoo/Shampoos:шампунь
 die Socke/Socken:носок
 der Strand/Strände:пляж
-das T-Shirt/T-Shirts:футболка
+@das T-Shirt/T-Shirts:футболка
 die Unterwäsche:нижнее белье
 die Vollpension:полный пансион
 das WLAN:беспроводная локальная сеть
 die Zahnbürste/Zahnbürsten:зубная щетка
 die Zahnpasta:зубная паста
-der Check-in:заселение в отель
-der Check-out:выселение из отеля
+@der Check-in:заселение в отель
+@der Check-out:выселение из отеля
 geöffnet:открытый
 geschlossen:закрытый
 der Club/Clubs:клуб
@@ -372,7 +372,7 @@ die Kleidung:одежда
 das Konzert/Konzerte:концерт
 die Krawatte/Krawatten:галстук
 das Leben:жизнь
-das Make-up:макияж
+@das Make-up:макияж
 der Mantel/Mäntel:пальто
 neugierig:любопытный
 offen:открытый

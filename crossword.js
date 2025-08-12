@@ -450,9 +450,10 @@ class Crossword {
         popup.className = 'keyboard-popup';
 
         const layout = [
-            ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
-            ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'ß'],
-            ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'è', 'ö', 'ü', 'ä']
+            ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o'],
+            ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
+            ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'p'],
+            [ 'è', 'ö', 'ü', 'ä', 'ß']
         ];
 
         layout.forEach(row => {

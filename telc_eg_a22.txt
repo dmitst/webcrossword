@@ -56,7 +56,7 @@ das Küchengerät/Küchengeräte:кухонный прибор
 laufen:бегать
 die Lieblingsfarbe:любимый цвет
 lockig:кудрявый
-das Make-up:макияж
+@das Make-up:макияж
 die Maus:мышь
 das Mineralwasser:минеральная вода
 das Modegeschäft:магазин модной одежды

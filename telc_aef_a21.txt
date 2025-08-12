@@ -70,7 +70,7 @@ der Kamm/Kämme:расческа
 kämmen:расчесывать(-ся)
 die Körperpflege:личная гигиена
 die Kosmetik:косметика
-das Make-up:макияж
+@das Make-up:макияж
 nachhaltig:устойчивый
 der Nagel/Nägel:ноготь
 das Parfüm/Parfüms:парфюм
@@ -128,7 +128,8 @@ das Hähnchen/Hähnchen:курица
 das Hauptgericht/Hauptgerichte:основное блюдо
 heiraten:вступать в брак
 der Jugendliche/Jugendlichen:юноша
-die (Kaffee-)Maschine/(Kaffee-)Maschinen:(кофе)машина
+die Kaffeemaschine/Kaffeemaschinen:(кофе)машина
+die Maschine/Maschinen:(кофе)машина
 der Karneval:карнавал
 kennenlernen:знакомиться
 der Löffel/Löffel:ложка
@@ -310,7 +311,8 @@ unzufrieden:недовольный
 @(in) Teilzeit/Vollzeit arbeiten:работать неполный/полный день
 @sich selbstständig machen:открывать свое дело
 @ich bin meine eigene Chefin/ mein eigener Chef:я сам себе начальник/босс
-der (Personal-)Ausweis/(Personal-)Ausweise:удостоверение личности
+der Personalausweis/Personalausweise:удостоверение личности
+der Ausweis/Ausweise:удостоверение личности
 das Amt/Ämter:офис
 die Bank/Banken:банк
 beantragen:подать заявку

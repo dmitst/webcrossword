@@ -283,11 +283,11 @@ nehmen:брать
 nur:только
 das Motorrad/Motorräder:мотоцикл
 die Station/Stationen:станция
-die S-Bahn/S-Bahnen:городская электричка
+@die S-Bahn/S-Bahnen:городская электричка
 die Straßenbahn/Straßenbahnen:трамвай
 suchen:искать
 das Ticket/Tickets:билет
-die U-Bahn/U-Bahnen:метро
+@die U-Bahn/U-Bahnen:метро
 das Verkehrmittel/Verkehrsmittel:транспортное средство
 der Weg/Wege:путь
 der Zug/Züge:поезд

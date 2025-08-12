@@ -63,7 +63,7 @@ der Bildschirm/Bildschirme:экран
 der Brief/Briefe:письмо
 chatten:общаться в чате
 die Datei/Dateien:файл
-das E-Book/E-Books:электронная книга
+@das E-Book/E-Books:электронная книга
 das Fach/Fächer:область, предмет
 das Festnetztelefon/Festnetztelefone:стационарный телефон
 die Fremdsprache/Fremdsprachen:иностранный язык
@@ -196,7 +196,7 @@ die Autobahn/Autobahnen:автотрасса
 die Bahn/Bahnen:железная дорога
 die Baustelle/Baustellen:строительная площадка
 das Benzin:бензин
-das E-Bike/E-Bikes:электровелосипед
+@das E-Bike/E-Bikes:электровелосипед
 enden:заканчивать
 entfernt:далеко, удаленный
 die Fähre/Fähren:паром
@@ -230,7 +230,8 @@ wahrscheinlich:наверное
 weiterfahren:продолжать ехать
 @den Flug/das Ziel/den Zug erreichen:успеть на рейс / в пункт назначения / на поезд
 @das stimmt!:верно!
-der Anschluss(-zug)/ Anschlüsse, Anschlusszüge:пересадка (на другой поезд)
+der Anschlusszug/Anschlusszüge:пересадка (на другой поезд)
+der Anschluss/Anschlüsse:пересадка (на другой поезд)
 ärgerlich:сердитый
 die Auskunft/Auskünfte:справка
 das Bewerbungsgespräch/Bewerbungsgespräche:собеседование

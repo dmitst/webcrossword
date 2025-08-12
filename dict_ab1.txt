@@ -1,3 +1,12 @@
+der Rahm: сливки
+der Tritt/Tritte: походка, ступенька, удар ногой, шаг, пинок, след
+das Kraftwerk/Kraftwerke: электростанция
+die Kost: еда, питание, пища
+die Grafik/Grafiken: графика
+der Schnitt/Schnitte: сечение, крой, стрижка
+der Schritt/Schritte: шаг
+der Lauf/Läufe:тi,бег, процесс, ход (событий), течение, русло реки
+der Ablauf/Abläufe:течение,ход (событий), отправление
 die Abfuhr/Abfuhren: отгрузка,вывоз, отповедь
 der Beutel/Beutel:кошелек, пакет, хозяйственная сумка
 der Eimer/Eimer:ведро
@@ -751,7 +760,7 @@ die Vorwahl/Vorwahlen: телефонный префикс (код горожа 
 die Adresse/Adressen: адрес
 #В городе
 die Hauptstadt/Hauptstädte: столица
-der Park/Parks: парк
+der Park/Parks,Parke: парк
 das Zentrum/Zentren: центр
 die Kirche/Kirchen: церковь
 das Schloss/Schlösser: замок
@@ -900,11 +909,11 @@ das Mittel/Mittel: средство, средний
 die Reinigung/Reinigungen: уборка, чистка
 putzen: чистить, мыть, убираться
 aufräumen: убираться
-die Seife: мыло
+die Seife/Seifen: мыло
 die Wäsche/Wäschen: бельё
 das Handtuch/Handtücher: полотенце
-der Schirm/Schirme: ширма, заграждение
-der Kalender: календарь
+der Schirm/Schirme: зонт, экран, ширма, заграждение, козырек кепки
+der Kalender/Kalender: календарь
 das Ding/Dinge: вещь, предмет
 die Sache/Sachen: вещь, предмет
 #Кухня и приготовление пищи
@@ -1816,27 +1825,29 @@ zurechtkommen: разобраться [например, найти самому
 verbessern: исправлять, улучшать, налаживать, с sich - улучшаться
 zwingen: вынуждать, принуждать
 #Транспорт
-mobilität: мобильность, транспорт
-transport: транспорт
+die Mobilität/Mobilitäten: мобильность, транспорт
+der Transport/Transporte: транспорт
 transportieren: транспортировать
-strecke: расстояние, маршрут
-station: станция
-halt: остановка, стоянка, привал, опора, стой!
-kabine: кабина
+die Strecke/Strecken: дистанция, отрезок пути, маршрут
+die Station/Stationen: станция
+der Halt/Halte: остановка, стоянка, привал, опора, стой!
+die Kabine/Kabinen: кабина
+der Sitz/Sitze: место [для сидения или проживания], кресло в машине/транспорте
 #Вождение
-sitz: место [для сидения], кресло в машине/транспорте
-kraftfahrzeug: автомобиль, машина
-fahrzeug: транспортное средство
-rad: колесо, велосипед
-motorrad: мотоцикл
-reifen: шина, резина для колеса
-laster: грузовик
-kennzeichen: номерной знак
-führerschein: водительское удостоверение
+das Kraftfahrzeug (Kfz)/Kraftfahrzeuge: автомобиль, машина
+das Fahrzeug/Fahrzeuge: транспортное средство
+das Rad/Räder: колесо, велосипед
+das Motorrad/Motorräder: мотоцикл
+das Fahrrad/Fahrräder:велосипед
+der Reifen/Reifen: шина, резина для колеса
+der Laster/Laster: грузовик
+der Lastkraftwagen (Lkw)/Lastkraftwagen: фура
+das Kennzeichen/Kennzeichen: номерной знак
+der Führerschein/Führerscheine: водительское удостоверение
 tanken: заправляться
-tankstelle: заправочная станция
-diesel: дизель
-benzin: бензин
+die Tankstelle/Tankstellen: заправочная станция
+der Diesel/Diesel: дизель(авто, мотор, топливо)
+das Benzin/Benzine: бензин
 losfahren: отправляться в путь
 starten: стартовать
 rückwärts: задом, задним ходом
@@ -1850,318 +1861,319 @@ stoppen: останавливать
 nähern: с sich - приближаться, сближаться 
 hupen: сигналить
 stoßen: толкать, упираться, ударять(по мячу), с sich - сталкиваться, ударяться 
-geschwindigkeit: скорость
-tempo: темп, скорость
-zeichen: знак
-geschwindigkeitsbeschränkung: ограничение скорости
-verkehrszeichen: дорожный знак
-schild: знак [дорожный], щит, вывеска, табличка
-passagier: пассажир
-verkehrsschild: дорожный знак
-radfahrer: велосипедист
-fußgänger: пешеход
-gehsteig: тротуар, дорожка для пешеходов
-fußgängerzone: пешеходная зона
-einbahnstraße: улица с односторонним движением
-fahrbahn: дорога для автомобилей
-einfahrt: въезд для транспорта (в гараж, во двор, на стоянку)
-kurve: кривая, изгиб дороги
-auffahrt: съезд (на автобан)
-ausfahrt: съезд (с автобана)
-distanz: дистанция
-stau: пробка (на дороге)
+die Geschwindigkeit/Geschwindigkeiten: скорость
+das Tempo/Tempi(Tempos): темп, скорость
+das Zeichen/Zeichen: знак
+die Geschwindigkeitsbeschränkung/Geschwindigkeitsbeschränkungen: ограничение скорости
+das Verkehrszeichen/Verkehrszeichen: дорожный знак
+das Schild/Schilder: знак [дорожный], щит, вывеска, табличка
+der Passagier/Passagiere: пассажир
+das Verkehrsschild/Verkehrsschilder: дорожный знак
+der Radfahrer/Radfahrer: велосипедист
+der Fußgänger/Fußgänger: пешеход
+der Gehsteig/Gehsteige: тротуар, дорожка для пешеходов
+die Fußgängerzone/Fußgängerzonen: пешеходная зона
+die Einbahnstraße/Einbahnstraßen: улица с односторонним движением
+die Fahrbahn/Fahrbahnen: дорога для автомобилей
+die Einfahrt/Einfahrten: въезд для транспорта (в гараж, во двор, на стоянку)
+die Auffahrt/Auffahrten: съезд (на автобан)
+die Ausfahrt/Ausfahrten: съезд (с автобана)
+die Kurve/Kurven: кривая, изгиб дороги
+die Distanz/Distanzen: дистанция
+der Stau/Staus: пробка (на дороге)
+die Panne/Pannen: авария/поломка, неудача
 #Путешествия
-panne: авария/поломка, неудача
-konsulat: консульство
-tourismus: туризм
-tram: трамвай
-Straßenbahn: трамвай
-visum: виза
-boot: лодка
-hauptbahnhof: центральный вокзал
-eisenbahn: железная дорога
-fähre: паром
-hafen: гавань
-gaststätte: гостевой дом, небольшой отель
-gasthaus: гостевой дом, небольшой отель
-buffet: буфет
-reservierung: резервирование(существительное), бронь 
-denkmal: памятник
-rundfahrt: экскурсия [обычно на автобусе и круговая]
-souvenir: сувенир
-abenteuer: приключение
+das Konsulat/Konsulate: консульство
+der Tourismus/Tourismen: туризм
+die Tram/Trams: трамвай
+die Straßenbahn/Straßenbahnen: трамвай
+das Visum/Visa(Visen): виза
+das Boot/Boote: лодка
+der Hauptbahnhof/Hauptbahnhöfe: центральный вокзал
+die Eisenbahn/Eisenbahnen: железная дорога
+die Fähre/Fähren: паром
+der Hafen/Häfen: гавань
+die Gaststätte/Gaststätten: гостевой дом, небольшой отель
+das Gasthaus/Gasthäuser: гостевой дом, небольшой отель
+das Buffet/Buffets: буфет
+die Reservierung/Reservierungen: резервирование(существительное), бронь 
+das Denkmal/Denkmale(Denkmäler): памятник
+die Rundfahrt/Rundfahrten: экскурсия [обычно на автобусе и круговая]
+das Souvenir/Souvenirs: сувенир
+das Abenteuer/Abenteuer: приключение
 weltweit: по всему миру
-wanderung: путешествие пешком, поход
-landung: приземление
+die Wanderung/Wanderungen: путешествие пешком, поход
+die Landung/Landungen: приземление
 zelten: разбивать палатки, жить в палатках на природе
-rückkehr: возвращение
+die Rückkehr: возвращение
+die Rückfahrt/Rückfahrten: обратная дорога
 #Окружающая среда
-rückfahrt: обратная дорога
-erde: земля, почва
-mond: луна
-stern: звезда
+die Erde/Erden: земля, почва
+der Mond/Monde: луна
+der Stern/Sterne: звезда
 bio: био [приставка]
 biologisch: биологический
-biologie: биология
+die Biologie: биология
 öko: эко [приставка]
 ökologisch: экологичный
-umwelt: окружающая среда
+die Umwelten: окружающая среда
 verschmutzen: загрязнять
-umweltverschmutzung: загрязнение окружающей среды
+die Umweltverschmutzung/Umweltverschmutzungen: загрязнение окружающей среды
 beschützen: защищать
 schützen: защищать
-umweltschutz: защита окружающей среды
-kraftwerk: электростанция
-katastrophe: катастрофа
-saison: сезон
-klima: климат
-gegend: местность, окресности, район
-region: регион
+der Umweltschutze(-n): защита окружающей среды
+das Kraftwerk/Kraftwerke: электростанция
+die Katastrophe/Katastrophen: катастрофа
+die Saison/Saisonen(Saisons): сезон
+das Klima/Klimata(Klimas): климат
+die Gegend/Gegenden: местность, окресности, район
+die Region/Regionen: регион
 regional: региональный
-luft: воздух
-abgase: выхлопные газы
-ozean: океан
-ufer: берег
-küste: побережье, пляж
-sand: песок
-feld: поле
-wiese: луг
-tal: долина
-gras: трава
-rasen: газон, газонная трава
+die Luft/Lüfte: воздух
+die Abgase: выхлопные газы
+der Ozean/Ozeane: океан
+das Ufer/Ufer: берег
+die Küste/Küsten: побережье, пляж
+der Sand/Sande(-n): песок
+das Feld/Felder: поле
+die Wiese/Wiesen: луг
+das Tal/Täler: долина
+das Gras/Gräser(-n): трава
+der Rasen/Rasen: газон, газонная трава
 blühen: цвести
-gebirge: горы
-hügel: холм
-boden: пол, почва, земля
-schlange: змея
+die Gebirge: горы
+der Hügel/Hügel: холм
+der Boden/Böden: пол, почва, земля
+die Schlange/Schlangen: змея
+die Ernte/Ernten: урожай
 #Природа и погода
-ernte: урожай
-wetterbericht: прогноз погоды
-wettervorhersage: прогноз погоды
-temperatur: температура
-hitze: жара
-wärme: тепло
-kälte: мороз, холод
-schatten: тень
+der Wetterbericht/Wetterberichte: прогноз погоды
+die Wettervorhersage/Wettervorhersagen: прогноз погоды
+die Temperatur/Temperaturen: температура
+die Hitze: жара
+die Wärme: тепло
+die Kälte: мороз, холод
+der Schatten/Schatten: тень
 feucht: влажный, промозглый, сырой
-tropfen: капля
-sturm: шторм, штурм
+der Tropfen/Tropfen: капля
+der Sturm/Stürme: шторм, штурм
 blitzen: сверкать [как молния]
-blitz: молния
+der Blitz/Blitze: молния
 donnern: греметь [как гром]
-donner: гром
+der Donner/Donner: гром
 hageln: сыпать градом
-hagel: град
+der Hagel: град
+der Nebel/Nebel: туман
 #Иммиграция
-nebel: туман
 stammen: происходить (откуда-то)
-herkunft: происхождение, прибытие, источник, сырье
+die Herkunft/Herkünfte: происхождение, прибытие, источник, сырье
 ursprünglich: исходный
 national: национальный
-migrant: мигрант
-migration: миграция
-aufenthalt: пребывание/проживание, остановка(в пути), стоянка(поезда)
-asyl: убежище [программа для иностранцев]
-integration: интеграция
+der Migrant/Migranten: мигрант
+die Migration/Migrationen: миграция
+der Aufenthalt/Aufenthalte: пребывание/проживание, остановка(в пути), стоянка(поезда)
+das Asyl/Asyle: убежище [программа для иностранцев]
+die Integration/Integrationen: интеграция
+das Heimweh: тоска по родине
 #Государственные органы
-heimweh: тоска по родине
-amt: государственное учреждение, важный пост [должность]
-behörde: государственный орган, ведомство
-institut: институт [организация]
-botschaft: посольство
-terminkalender: ежедневник, органайзер
-stempel: штемпель
-urkunde: свидетельство
-mappe: папка для документов
-dokument: документ
-kopie: копия
-daten: данные [например, личные]
-personalien: личные данные [ФИО, номер телефона и т. д.]
-geschlecht: пол [человека]
-wohnort: город проживания
-wohnsitz: место жительства [полный адрес]
-rufnummer: телефонный номер
-anspruch: право на что-либо [например, на пособие]
-antrag: заявление, запрос
-bedingung: условие
-bestätigung: подтверждение
-pflicht: обязанность
-erlaubnis: разрешение 
-arbeitserlaubnis: разрешение на работу
-genehmigung: разрешение, одобрение, санкция 
+das Amt/Ämter: государственное учреждение, важный пост [должность]
+die Behörde/Behörden: государственный орган, ведомство
+das Iinstitut/Iinstitute: институт [организация]
+die Botschaft/Botschaften: посольство
+der Terminkalender/Terminkalender: ежедневник, органайзер
+der Stempel/Stempel: штемпель
+die Urkunde/Urkunden: свидетельство(документ), удостоверение
+die Mappe/Mappen: папка для документов
+das Dokument/Dokumente: документ
+die Kopie/Kopien: копия
+die Daten: данные [например, личные]
+die Personalien: личные данные [ФИО, номер телефона и т. д.]
+das Geschlecht/Geschlechter: пол [человека]
+der Wohnort/Wohnorte: город проживания
+der Wohnsitz/Wohnsitze: место жительства [полный адрес]
+die Rufnummer/Rufnummern: телефонный номер
+der Anspruch/Ansprüche: право, притязание на (auf) что-либо [например, на пособие]
+der Antrag: заявление, ходатайство
+die Bedingung/Bedingungen: условие
+die Bestätigung/Bestätigungen: подтверждение
+die Pflicht/Pflichten: обязанность
+die Erlaubnis/Erlaubnisse(-n): разрешение 
+die Arbeitserlaubnis/Arbeitserlaubnisse(-n): разрешение на работу
+die Genehmigung/Genehmigungen: разрешение, одобрение, санкция 
 genehmigen: одобрить, разрешить, санкционировать, удовлетворить
-forderung: требование
+die Forderung/Forderungen: требование
 fordern: требовать, выдвигать требования
-förderung: содействие, финансовая поддержка
+die Förderung/Förderungen: содействие, финансовая поддержка
 fördern: способствовать, содействовать, оказывать финансовую поддержку
-frist: срок, отсрочка 
-mahnung: требование [обычно об оплате просрочки]
-meldung: заявление, объявление
+die Frist/Fristen: срок, отсрочка 
+die Mahnung/Mahnungen: требование [обычно об оплате просрочки]
+die Meldung/Meldungen: заявление, объявление
 melden: заявлять
-mitteilung: сообщение, уведомление
+die Mitteilung/Mitteilungen: сообщение, уведомление
 mitteilen: сообщать, уведомлять
 persönlich: личный
-geehrt: поитаемый, почтенный, уважаемый
+geehrt: почитаемый, почтенный, уважаемый
 #Закон и порядок
 trotz: вопреки
-gesetz: закон
+das Gesetz/Gesetze: закон
 gesetzlich: законный
-gewalt: власть, насилие
-recht: право, правый
+die Gewalt/Gewalten: власть, насилие
+das Recht/Rechte(-n): право, правый
 rechtlich: правовой
 gerecht: честный, справедливый 
 gleichberechtigt: равноправный
-richter: судья
+der Richter/Richter: судья
 illegal: нелегальный, противозаконный
 kriminal: криминальный [приставка]
-kriminalpolizei: криминальная полиция
+die Kriminalpolizei/Kriminalpolizeien: криминальная полиция
 klagen: подавать в суд
-tat: поступок, акт, действие, дело
-urteil: приговор
+die Tat/Taten: поступок, акт, действие, дело
+das Urteil/Urteile: приговор
 verurteilen: выносить приговор, осуждать, судить
-polizist: полицейский
-uniform: униформа
-grenze: граница
-täter: преступник, виновник
-verdacht: подозрение
+der Polizist/Polizisten: полицейский
+die Uniform/Uniformen: униформа
+die Grenze/Grenzen: граница
+der Täter/Täter: преступник, виновник
+der Verdacht/Verdachte: подозрение
 verdächtig: подозрительный
-dieb: вор
+der Dieb/Diebe: вор
 stehlen: красть
-verbrecher: нарушитель, преступник
+der Verbrecher/Verbrecher: нарушитель, преступник
 einbrechen: вламываться [с целью ограбить]
-einbrecher: взломщик
-einbruch: взлом, вторжение
-protest: протест
+der Einbrecher/Einbrecher: взломщик
+der Einbruch/Einbrüche: взлом, вторжение
+der Protest/Proteste: протест
 protestieren: протестовать
-flucht: побег
+die Flucht/Fluchten: побег
 fliehen: сбегать, убегать, спасаться бегством
 verhaften: арестовывать, задерживать [за преступление]
-verwaltung: управляющая компания
-sicherheit: безопасность
-spur: след
-opfer: жертва
-zeuge: свидетель, очевидец, современник, понятой
-schutz: защита
-verbot: запрет
-strafzettel: штрафная квитанция 
-strafe: наказание
+die Verwaltung/Verwaltungen: управляющая компания
+die sicherheit/sicherheiten: безопасность
+die Spur/Spuren: след
+das Opfer/Opfer: жертва
+der Zeuge/Zeugen: свидетель, очевидец, современник, понятой
+der Schutz/Schutze: защита
+das Verbot/Verbote: запрет
+der Strafzettel/Strafzettel: штрафная квитанция 
+die Strafe/Strafen: наказание
 strafbar: наказуемо
-gefängnis: тюрьма
-schuld: вина, виноватый
-schulden: долги
+das Gefängnis/Gefängnisse: тюрьма
+die Schuld/Schulden: вина, виноватый
+die Schulden: долги
 schuldig: виноватый, должный
-regel: правило
-folge: последствие, серия (сериала)
-tatsache: факт
+die Regel/Regeln: правило
+die Folge/Folgen: последствие, серия (сериала)
+die Tatsache/Tatsachen: факт
 tatsächlich: фактически, в действительности
 offiziell: официальный
 merkwürdig: подозрительный
-geheimnis: тайна
-#Война и мир
+das Geheimnis/Geheimnisse: тайна
 geheim: тайный
-krieg: война
-frieden: мир [не вражда]
-kampf: борьба
+#Война и мир
+der Krieg/Kriege: война
+der Frieden/Frieden: мир [не вражда]
+der Kampf/Kämpfe: борьба
 #Политика
-freiheit: свобода
+die Freiheit/Freiheiten: свобода
 kämpfen: бороться
 politisch: политический
-politik: политика
-rede: речь
-kandidat: кандидат
+die Politik/Politiken: политика
+die Rede/Reden: речь
+der Kandidat/Kandidaten: кандидат
 stimmen: голосовать, согласовывать, настраивать(инструмент), быть верным
-wahl: выбор
-reform: реформа
-politiker: политик
-besserung: улучшение
-Änderung: изменение
+die Wahl/Wahlen: выбор
+die Reform/Reformen: реформа
+der Politiker/Politiker: политик
+die Besserung/Besserungen: улучшение
+die Änderung/Änderungen: изменение
 endgültig: окончательный
-streik: забастовка
+der Streik/Streike: забастовка
 realisieren: реализовывать
-#Жизнь, смерть, религия
 regeln: улаживать что-либо, регулировать(упорядочивать), регламентировать
-alltag: быт, повседневность
+#Жизнь, смерть, религия
+der Alltag/Alltage: быт, повседневность
 alltäglich: бытовой, повседневный
 täglich: ежедневно
-tagesablauf: распорядок дня, режим дня
-#geboren werden: рождаться
-kindheit: детство
+der Tagesablauf/Tagesablaufe: распорядок дня, режим дня
+@geboren werden: рождаться
+die Kindheit/Kindheiten: детство
 wachsen: расти, взрослеть
 verändern: изменять(ч-л), с sich - изменяться
-veränderung: изменение
-rente: пенсия
-inrentegehensein: выходить на пенсию (4 слова)
-#pensioniert werden sein: выходить на пенсию [часто для военных] (3 слова)
+die Veränderung/Veränderungen: изменение
+die Rente/Renten: пенсия
+@in rente gehen sein: выходить на пенсию
+@#pensioniert werden sein: выходить на пенсию [часто для военных] 
 pensioniert: вышедший на пенсию
-senioren: пожилые люди [социальная группа]
-altenheim: дом престарелых
-altersheim: дом престарелых
-tod: смерть
-tote: умерший
+der Senior/Senioren: пожилой человек, старшина, председатель 
+das Altenheim/Altenheime: дом престарелых
+das Altersheim/Altersheime: дом престарелых
+der Tod/Tode: смерть
+die Tote/Toten: умерший
 tödlich: смертельный
-wunder: чудо
-gott: бог
+das Wunder/Wunder: чудо
+der Gott/Götter: бог
+die Göttin/Göttinnen: богиня
+die Religion/Religionen: религия
 #Тело и органы
-religion: религия
 atmen: дышать
-atem: дыхание
+der Atem: дыхание
 bluten: кровоточить
-blut: кровь
-muskel: мускул
-knochen: кость
-nerv: нерв
-haut: кожа [человеческая]
-lippe: губа
-nase: нос
-herz: сердце
-finger: палец
-nagel: гвоздь, ноготь
-schulter: плечо
-brust: грудь
-knie: колено
+das Blut: кровь
+der Muskel/Muskeln: мускул
+der Knochen/Knochen: кость
+der Nerv/Nerven: нерв
+die Haut/Häute: кожа [человеческая]
+die Lippe/Lippen: губа
+die Nase/Nasen: нос
+das Herz/Herzen: сердце
+der Finger/Finger: палец
+der Nagel/Nägel: гвоздь, ноготь
+die Schulter/Schultern: плечо
+die Brust/Brüste: грудь
+die Knie/Knie: колено
 körperlich: телесный, физический
 wiegen: весить, взвешивать
+die Stimme/Stimmen: голос
 #Медицина
-stimme: голос
-medizin: медицина, лекарство
-praxis: клиника, (частная) практика(врач), практика(а не теория)
-klinik: клиника
-patient: пациент
-kranke: больной (существительное)
-krankenwagen: машина скорой помощи
+die Medizin/Medizinen: медицина, лекарство
+die Praxis/Praxen: клиника, (частная) практика(врач), практика(а не теория)
+die Klinik/Kliniken: клиника
+der Patient/Patienten: пациент
+der Kranke (auch die)/Kranken: больной (существительное)
+der Krankenwagen/Krankenwagen: машина скорой помощи
 pflegen: ухаживать
-pfleger: сиделка [мужчина], санитар
-krankenpfleger: санитар, сиделка [мужчина]
-krankenschwester: медсестра
-krankenversicherungskarte: карта медицинского страхования
-versichertenkarte: карта застрахованного
-infektion: инфекция
-spritze: шприц, инъекция
-operation: операция
+der Pfleger/Pfleger: сиделка [мужчина], санитар
+der Krankenpfleger/Krankenpfleger: санитар, сиделка [мужчина]
+die Krankenschwester/Krankenschwestern: медсестра
+die Krankenversicherungskarte/Krankenversicherungskarten: карта медицинского страхования
+die Versichertenkarte/Versichertenkarten: карта застрахованного
+die Infektion/Infektionen: инфекция
+die Spritze/Spritzen: шприц, инъекция
+die Operation/Operationen: операция
 operieren: оперировать
-therapie: терапия
-pille: таблетка [часто противозачаточные]
-salbe: мазь
-vitamin: витамин
-schmerzmittel: обезболивающее
-fiebermittel: жаропонижающее
-droge: наркотик
-suchtmittel: вещество, вызывающее зависимость
-sucht: зависимость
+die Therapie/Therapien: терапия
+die Pille/Pillen: таблетка [часто противозачаточные]
+die Salbe/Salben: мазь
+das Vitamin/Vitamine: витамин
+das Schmerzmittel/Schmerzmittel: обезболивающее
+das Fiebermittel/Fiebermittel: жаропонижающее
+die Droge/Drogen: наркотик
+das Suchtmittel/Suchtmittel: вещество, вызывающее зависимость
+die Sucht/Süchte (nach etw): зависимость
 süchtig: зависимый
-schwangerschaft: беременность
-geburt: роды, рождение
-wunde: рана
-schnupfen: насморк
-schlaf: сон
-virus: вирус
-diät: диета
-zahnpasta: зубная паста
+die Schwangerschaft/Schwangerschaften: беременность
+die Geburt/Geburten: роды, рождение
+die Wunde/Wunden: рана
+der Schnupfen/Schnupfen: насморк
+der Schlaf: сон
+das Virus/Viren: вирус
+die Diät/Diäten: диета
+die Zahnpaste/Zahnpasten: зубная паста
+die Zahnbürste/Zahnbürsten: зубная щётка
 #Внешность и характер
-zahnbürste: зубная щётка
 ähnlich: похожий
 besonder: особенный
-bart: борода
+der Bart/Bärte: борода
 blass: бледный
 bleich: бледный, обесцвеченый
 schlank: худой, стройный
@@ -2203,391 +2215,395 @@ fröhlich: радостный
 höflich: вежливый
 aufmerksam: внимательный
 dankbar: благодарный
-#Красота и одежда
 lieb: любимый, родной
-salon: салон [например, красоты]
-friseur: парикмахер
-frisur: причёска
+#Красота и одежда
+der Salon/Salons: салон [например, красоты]
+der Friseur/Friseure(-n): парикмахер
+die Frisur/Frisuren: причёска
 rasieren: брить
 schminken: делать макияж (кому-либо)
-tuch: платок
-taschentuch: носовой платок
-hut: шляпа
-strumpf: чулок
-socke: носок
+das Tuch/Tücher: платок
+das Taschentuch/Taschentücher: носовой платок
+der Hut/Hüte: шляпа
+der Strumpf/Strümpfe: чулок
+die Socke/Socken: носок
+der Schmuck/Schmucke(-n): украшение [ювелирное, для дома и т. п.]
 #Хобби и досуг
-schmuck: украшение [ювелирное, для дома и т. п.]
 amüsieren: развлекать 
-vergnügen: развлечение, удовольствие, с sich - забавляться/развлекаться 
-aktivität: активность
+das Vergnügen/Vergnügen: развлечение, удовольствие, с sich - забавляться/развлекаться 
+die Aktivität/Aktivitäten: активность
 faulenzen: лентяйничать
 genießen: наслаждаться
 interessiert: заинтересованный
-fasching: фашинг, немецкий национальный карнавал
-karneval: карнавал
-kostüm: национальный/карнавальный костюм, женский деловой костюм
-tierpark: зоопарк
-buchhandlung: книжный магазин
-magazin: журнал
-märchen: сказка
-broschüre: брошюра
-leser: читатель
+der Fasching/Faschings: немецкий национальный карнавал, масленица
+der Karneval/Karnevals: карнавал
+das Kostüm/Kostüme: национальный/карнавальный костюм, женский деловой костюм
+der Tierpark/Tierparks,-parken: зоопарк
+die Buchhandlung/Buchhandlungen: книжный магазин
+der Magazin/Magazine: журнал
+das Märchen/Märchen: сказка
+die Broschüre/Broschüren: брошюра
+der Leser: читатель
 abonnieren: подписываться, делать абонемент
-abonnement: абонемент
-mitglied: член [общества, команды]
-#imfreien: под открытым небом, на свежем воздухе
-golfspiel: игра в гольф
-picknick: пикник
-grill: гриль
-disko: диско
-diskothek: дискотека
-zirkus: цирк
-spielplatz: игровая площадка
-spielzeug: игрушка
-werkzeug: инструмент
-zange: клещи, щипцы
+das Abonnement/Abonnements: абонемент
+das Mitglied/Mitglieder: член [общества, команды]
+@im freien: под открытым небом, на свежем воздухе
+das Golfspiel/Golfspielen: игра в гольф
+das Picknick/Picknicks,Picknicke: пикник
+der Grill/Grills: гриль
+die Disko/Diskos: диско
+die Diskothek/Diskotheken: дискотека
+der Zirkus/Zirkusse: цирк
+der Spielplatz/Spielplätze(-n): игровая площадка
+das Spielzeug/Spielzeuge: игрушка
+das Werkzeug/Werkzeuge: инструмент
+die Zange/Zangen: клещи, щипцы
 nähen: шить
 pflanzen: сажать, выращивать растения
 gießen: поливать
-tauchen: нырять
 #Спорт
+tauchen: нырять
 klettern: лезть,карабкаться (на гору, дерево)
-sportart: вид спорта
-gymnastik: гимнастика
-sportler: спортсмен
-spieler: игрок
-trainer: тренер
-stadion: стадион
-rekord: рекорд
+die Sportart/Sportarten: вид спорта
+die Gymnastik: гимнастика
+der Sportler/Sportler: спортсмен
+der Spieler/Spieler: игрок
+der Trainer/Trainer: тренер
+das Stadion/Stadien: стадион
+der Rekord/Rekorde: рекорд
 schwitzen: потеть
 siegen: побеждать
-sieg: победа
-sieger: победитель
+der Sieg/Siege: победа
+der Sieger/Sieger: победитель
 verlieren: терять, проигрывать
-verlierer: проигравший, неудачник
+der Verlierer/Verlierer: проигравший, неудачник
+der Gegner/Gegner: противник
 #Культура
-gegner: противник
 musikalisch: музыкальный
-musiker: музыкант
-orchester: оркестр
-sänger: певец
-flöte: флейта
-oper: опера
-original: оригинал, оригинальный, истинный, не копия
-publikum: публика
-talent: талант
-galerie: галерея
-schauspieler: актёр
-rolle: роль
-serie: сериал
-szene: сцена [в кино]
-bühne: сцена [для выступления]
-literatur: литература
-schriftsteller: писатель
-autor: автор
-held: герой [в т.ч. в книге и т. п.]
-figur: фигура, персонаж
-roman: роман
-gedicht: стихотворение, поэма
-verlag: издательство
+der Musiker/Musiker: музыкант
+das Orchester: оркестр
+der Sänger/Sänger: певец
+die Flöte/Flöten: флейта
+die Oper/Opern: опера
+das Original/Originale: оригинал, оригинальный, истинный, не копия
+das Publikum: публика
+das Talent/Talente: талант
+die Galerie/Galerien: галерея
+der Schauspieler: актёр
+die Rolle/Rollen: роль
+die Serie/Serien: серия, комплект, сериал (во мн.ч.) 
+die Szene/Szenen: сцена [в кино]
+die Bühne/Bühnen: сцена [для выступления]
+die Literatur/Literaturen: литература
+der Schriftsteller/Schriftsteller: писатель
+der Autor/Autoren: автор
+der Held/Helden: герой [в т.ч. в книге и т. п.]
+die Figur/Figuren: фигура, персонаж
+der Roman/Romane: роман
+das Gedicht/Gedichte: стихотворение, поэма
+der Verlag/Verlage: издательство
 veröffentlichen: публиковать
-fortsetzung: продолжение
+die Fortsetzung/Fortsetzungen: продолжение
 fortsetzen: продолжать
-stil: стиль
-tanz: танец
-ballett: балет
-museum: музей
-annonce: анонс
-tradition: традиция
-#interkulturell: межкультурный
+der Stil/Stile(-n): стиль
+der Tanz/Tänze: танец
+das Ballett/Ballette: балет
+das Museum/Museen: музей
+die Annonce/Annoncen: анонс
+die Tradition/Traditionen: традиция
+traditionell: традиционный
+interkulturell: межкультурный
 künstlich: искусственный, ненастоящий
 populär: популярный
 stilistisch: стилистический
 #События
-traditionell: традиционный
-neuigkeit: новинка, новость
-gelegenheit: возможность, момент что-то сделать
-möglichkeit: возможность
-chance: шанс
-ereignis: событие
+die Neuigkeit/Neuigkeiten: новинка, новость
+die Gelegenheit/Gelegenheiten: возможность, момент что-то сделать
+die Möglichkeit/Möglichkeit: возможность
+die Chance/Chancen: шанс
+das Ereignis/Ereignisse: событие
 ereignen: с sich - случаться, происходить
 geschehen: случаться, происходить
 gelingen: удаваться
 #СМИ
-fall: случай
-medien: средства массовой информации [сми] (Pl.)
-presse: пресса, пресс [машина]
-reporter: репортёр
-reportage: репортаж
-reklame: реклама 
-werbung: реклама
+der Fall/Fälle: случай
+die Medien: средства массовой информации [сми] (Pl.)
+die Presse/Pressen: пресса, пресс [машина]
+der Reporter/Reporter: репортёр
+die Reportage/Reportagen: репортаж
+die Reklame/Reklamen: реклама 
+die Werbung/Werbungen: реклама
 #Покупки
-sender: отправитель, радиостанция, телеканал
-drogerie: магазин косметики, парфюмерии и средств для дома
-einkauf: покупка
+der Sender/Sender: отправитель, радиостанция, телеканал
+die Drogerie/Drogerien: магазин косметики, парфюмерии и средств для дома
+der Einkauf/Einkaufen: покупка
 konsumieren: потреблять, употреблять (алкоголь)
-konsum: потребление, употребление(алкоголголяя)
-empfehlung: рекомендация
-ware: товар
-katalog: каталог
-schaufenster: витрина
-lieferung: доставка
-schachtel: коробочка, картонная упаковка [от сигарет]
-kauf: покупка
-garantie: гарантия
+der Konsum/Konsums: потребление, употребление(алкоголголяя)
+die Empfehlung/Empfehlungen: рекомендация
+die Ware/Waren: товар
+der Katalog/Kataloge: каталог
+das Schaufenster/Schaufenster: витрина
+die Lieferung/Lieferungen: доставка
+die Schachtel/Schachteln: коробочка, картонная упаковка [от сигарет]
+der Kauf/Käufe: покупка
+die Garantie/Garantien: гарантия
 garantieren: гарантировать
 sparsam: экономный
-wert: ценность, стоимость, ценный [приставка]
+der Wert/Werte: ценность, стоимость, ценный [приставка]
 wertlos: не имеющий ценности, бессмысленный, бесполезный
 wertvoll: ценный
-sonderangebot: распродажа по сниженным ценам
-rabatt: скидка
-aktion: акция
+das Sonderangebot/Sonderangebote: распродажа по сниженным ценам
+der Rabatt/Rabatte: скидка
+die Aktion/Aktionen: акция
 gratis: бесплатно, в подарок [обычно когда акция в магазине]
 inklusive: включительно
 einschließlich: включительно
 komplett: полностью, полный
 lohnen: окупать/оправдывать(деньги, усилия...), с sich - стоить того, окупаться 
-umtausch: обмен
+der Umtausch/Umtausche(-n): обмен
 tauschen: менять
 zählen: считать, считаться
 zahlen: платить
 bieten: предлагать
+das Inserat/Inserate: объявление [в газете, на сайте]
 #Учёба
-inserat: объявление [в газете, на сайте]
-klassenarbeit: классная работа
-nachhilfe: помощь с учёбой в школе, репетитор
-abitur: выпускной экзамен в школе
-studium: учёба в вузе
-studierende: учащийся в вузе
-professor: профессор
-mensa: столовая [в университете или высшей школе]
-referat: реферат, доклад, презентация, отдел/сектор
-semester: семестр
-seminar: семинар
-praktikant: практикант, интерн
-abschluss: окончание (школы, университета), завершение, контракт/сделка, подписание (договора)
-diplom: диплом
-zertifikat: сертификат
-fortbildung: дополнительное образование
-weiterbildung: дополнительное образование
+die Klassenarbeit/Klassenarbeiten: классная работа
+die Nachhilfe/Nachhilfen: помощь с учёбой в школе, репетитор
+das Abitur/Abiture(-n): выпускной экзамен в школе
+das Studium/Studien: учёба в вузе
+der Studierende/Studierenden: учащийся в вузе
+der Professor/Professoren: профессор
+die Mensa/Mensas: столовая [в университете или высшей школе]
+das Referat/Referatate: реферат, доклад, презентация, отдел/сектор
+das Semester/Semester: семестр
+das Seminar/Seminare: семинар
+der Praktikant/Praktikanten: практикант, интерн
+der Abschluss/Abschlüsse: окончание (школы, университета), завершение, контракт/сделка, подписание (договора)
+das Diplom/Diplome: диплом
+das Zertifikat/Zertifikate: сертификат
+die Fortbildung/Fortbildungen: дополнительное образование
+die Weiterbildung/Weiterbildungen: дополнительное образование
 intensiv: интенсивный
-intensivkurs: интенсивный курс
-kursleiter: преподаватель курса
+deer Intensivkurs/Intensivkurse: интенсивный курс
+der Kursleiter/Kursleiter: преподаватель курса
 unterrichten: вести занятия
-lehrling: ученик
-lehre: обучение, учёба
-lehrstelle: место для обучения практиканта
-zuhörer: слушатель 
-teilnahme: участие
-teilnehmer: участник
+der Lehrling/Lehrlinge: ученик
+die Lehre/Lehren: обучение, учёба
+die Lehrstelle/Lehrstellen: место для обучения практиканта
+der Zuhörer/Zuhörer: слушатель 
+die Teilnahme/Teilnahmen: участие
+der Teilnehmer/Teilnehmer: участник
 abwesend: отсутствующий
 anwesend: присутствующий 
-wiederholung: повторение
+die Wiederholung/Wiederholungen: повторение
 anerkennen: признавать [например, диплом]
-qualifikation: квалификация
-intelligenz: интеллект
+die Qualifikation/Qualifikationen: квалификация
+die Intelligenz/Intelligenzen: интеллект
+der Wissenschaftler/Wissenschaftler: учёный
 #Языки
-wissenschaftler: учёный
-muttersprache: родной язык
-fremdsprache: иностранный язык
-zweitsprache: второй язык
-lerner: изучающий, учащийся 
+die Sprache/Sprachen: язык, речь
+die Muttersprache/Muttersprachen: родной язык
+die Fremdsprache/Fremdsprachen: иностранный язык
+die Zweitsprache/Zweitsprachen: второй язык
+der Lerner/Lerner: изучающий, учащийся 
 mündlich: устно
 fließend: свободный [о языке], текущий
-wörterbuch: словарь
-lexikon: лексикон, энциклопедический словарь
-dialekt: диалект
+das Wörterbuch/Wörterbücher: словарь
+das Lexikon/Lexika(auch Lexiken): лексикон, энциклопедический словарь
+der Dialekt/Dialekte: диалект
+das Alphabet/Alphabete: алфавит
 #Наука
-alphabet: алфавит
-wissenschaft: наука
-bereich: область
-gebiet: область
-fortschritt: прогресс
-forschung: исследование [обычно в лаборатории]
-theorie: теория
-studie: исследование [обычно с людьми]
-zweck: цель
-art: вид, тип
-versuch: попытка
-methode: метод
-vergleich: сравнение
-durchschnitt: среднее значение
+die Wissenschaft/Wissenschaften: наука
+der Bereich/Bereiche: область
+das Gebiet/Gebiete: область
+der Fortschritt/Fortschritte: прогресс
+die Forschung/Forschungen: исследование [обычно в лаборатории]
+die Theorie/Theorien: теория
+die Studie/Studien: исследование [обычно с людьми]
+der Zweck/Zwecke: цель
+die Art/Arten: вид, тип, образ(способ)
+der Versuch/Versuche: попытка
+die Methode/Methoden: метод
+der Vergleich/Vergleichen: сравнение
+der Durchschnitt/Durchschnitte: среднее значение
 durchschnittlich: среднестатистический
-bericht: отчёт, рапорт, донесение
-darstellung: исполнение роли, акрерская игра, изображение(как действие)
-symbol: символ
-nachteil: недостаток
-vorteil: преимущество
-fähigkeit: способность
-flüssigkeit: жидкость
-ursache: причина
-#Исследовательская работа
+der Bericht/Berichte: отчёт, рапорт, донесение
+die Darstellung/Darstellungen: исполнение роли, акрерская игра, изображение(как действие)
+das Symbol/Symbole: символ
+der Nachteil/Nachteile: недостаток
+der Vorteil/Vorteile: преимущество
+die Fähigkeit/Fähigkeiten: способность
+die Flüssigkeit/Flüssigkeiten: жидкость
+die Ursache/Ursachen: причина
 verursachen: вызывать, быть причиной
-wissen: знание, знать
-recherche: следствие, розыск, поиск информации
-inhalt: содержание [книги], содержимое, площадь, объем (численное выражение)
-sinn: смысл
+#Исследовательская работа
+das Wissen: знание, знать
+die Recherche/Recherchen: следствие, розыск, поиск информации
+der Inhalt/Inhalte: содержание [книги], содержимое, площадь, объем (численное выражение)
+der Sinn/Sinne: смысл
 sinnlos: бессмысленный
 sinnvoll: имеющий смысл
-zusammenhang: причинно-следственная связь, зависимость
-schwierigkeit: трудность
-präsentation: презентация
+der Zusammenhang/Zusammenhänge: причинно-следственная связь, зависимость
+die Schwierigkeit/Schwierigkeiten: трудность
+die Präsentation/Präsentationen: презентация
 präsentieren: делать презентацию, презентировать
-thema: тема
-kapitel: глава [книги]
-seite: страница
-abbildung: иллюстрация
-zeichnung: рисунок, чертёж
-bedeutung: значение
-grafik: график
-liste: список
-tabelle: таблица
-zeile: строка
-Übung: упражнение
-kuli: шариковая ручка
+das Thema/Themen: тема
+das Kapitel/Kapitel: глава [книги]
+die Seite/Seiten: страница
+die Abbildung/Abbildungen: иллюстрация
+die Zeichnung/Zeichnungen: рисунок, чертёж
+die Bedeutung/Bedeutungen: значение
+das Diagramm/Diagramme: график, диаграмма
+das Schaubild/Schaubilder: график, диаграмма
+die Liste/Listen: список
+die Tabelle/Tabellen: таблица
+die Zeile/Zeilen: строка
+die Übung/Übungen: упражнение
+der Kuli/Kulis: шариковая ручка
 schreiben: писать, письмо [процесс]
-schrift: надпись, шрифт
+die Schrift: почерк, шрифт, сочинение
 theoretisch: теоретический
 lösen: решать, растворять
 korrekt: корректный
 korrigieren: корректировать, исправлять
-#Работа и офис
 konzentrieren:концентрировать, с sich - концентрироваться 
-karriere: карьера
-tätigkeit: деятельность
+#Работа и офис
+die Karriere/Karrieren: карьера
+die Tätigkeit/Tätigkeiten: деятельность
 berufstätig: работающий [человек]
 beruflich: по профессии
-bewerbung: соискательство, заявка, резюме, подача резюме
-lebenslauf: резюме
-teilzeit: неполный день [работа]
+die Bewerbung/Bewerbungen: соискательство, заявка, резюме, подача резюме
+der Lebenslauf/Lebensläufe: резюме
+die Teilzeit/Teilzeiten: неполный день [работа]
 halbtags: полдня
 flexibel: гибкий, эластичный
-vollzeit: полный день
-auftrag: заказ, поручение
-dienst: служба
+die Vollzeit/Vollzeiten: полный день
+der Auftrag/Aufträge: заказ, поручение
+der Dienst/Dienste: служба
 dienen: служить (кем или чем-либо, в т.ч. в армии)
 leisten: выполнять, совершать, делать, с sich - позволять себе ч-л
-zusammenarbeit: совместная работа
-verantwortung: ответственность
+die Zusammenarbeit/Zusammenarbeiten: совместная работа
+die Verantwortung/Verantwortungen: ответственность
 verantwortlich: ответственный [чаще как качество]
 zuständig: ответственный [за что-либо]
 zuverlässig: надёжный
-kopierer: копировальный аппарат
+der Kopierer/Kopierer: копировальный аппарат
 kopieren: копировать
 streiken: бастовать
+die Kündigung/Kündigungen: увольнение, расторжение контракта
 #Профессии и должности
-kündigung: увольнение, расторжение контракта
-arbeiter: рабочий
-fachmann: специалист в своей области, профи, эксперт
-experte: эксперт
-spezialist: специалист
-profi: профессионал
-meister: мастер
-direktor: директор
+der Arbeiter/Arbeiter: рабочий
+der Fachmann/Fachmänner: специалист в своей области, профи, эксперт
+der Experte/Experten: эксперт
+der Spezialist/Spezialisten: специалист
+der Profi/Profis: профессионал
+der Meister/Meister: мастер
+der Direktor/Direktoren: директор
 leiten: руководить
-sekretär: секретарь
-profisportler: профессиональный спортсмен
-ingenieur: инженер
-architekt: архитектор
-anwalt: адвокат
-journalist: журналист
-#sozialarbeiter: социальный работник
-künstler: деятель искусства
-fotograf: фотограф
-bauer: крестьянин, работник в поле
-metzger: мясник
-maler: маляр
-mechaniker: механик
-wirt: трактирщик, хозяин частного дома
-koch: повар
-kellner: официант
-steward: стюард
+der Sekretär/Sekretären: секретарь
+der Profisportler/Profisportler: профессиональный спортсмен
+der Ingenieur/Ingenieuren: инженер
+der Architekt/Architekten: архитектор
+der Anwalt/Anwälte: адвокат
+der Journalist/Journalisten: журналист
+der Sozialarbeiter/Sozialarbeiter: социальный работник
+der Künstler/Künstler: деятель искусства
+der Fotograf/Fotografen: фотограф
+der Bauer/Bauer: крестьянин, работник в поле
+der Metzger/Metzger: мясник
+der Maler/Maler: маляр
+der Mechaniker/Mechaniker: механик
+der Wirt/Wirte: трактирщик, хозяин частного дома
+der Koch/Köche: повар
+der Kellner/Kellner: официант
+der Steward/Stewards: стюард
+der König/Könige: король
 #Финансы
-könig: король
-lohn: зарплата/получка, заработок, вознаграждение/награда, воздаяние/возмездие 
-einkommen: доход, поступать, прибывать
-steuer: налог
-gebühr: сбор, комиссия за что-либо
-betrag: сумма [к оплате]
-summe: сумма
-zinsen: проценты по кредиту
-zahlung: платёж
+der Lohn/Löhne: зарплата/получка, заработок, вознаграждение/награда, воздаяние/возмездие 
+das Einkommen/Einkommen: доход; поступать, прибывать
+die Steuer/Steuern: налог
+die Gebühr/Gebühren: сбор, комиссия за что-либо
+der Betrag/Beträge: сумма [к оплате]
+die Summe/Summen: сумма
+der Zins/Zinsen: процент по кредиту, доход с капитала, арендная плата
+die Zahlung/Zahlungen: платёж
 fällig: подлежащий уплате, исполнению
 finanziell: финансово, с точки зрения финансов
 finanzieren: финансировать
-pauschal: фиксированная выплата или взнос, одинаковый для всех
-geldautomat: банкомат
-portemonnaie: портмоне
-brieftasche: кошелёк, маленькая сумка [похожая на конверт]
-bargeld: наличные деньги
-schein: купюра, сияние (Sn.)
-münze: монета
-taschengeld: карманные деньги
-trinkgeld: чаевые
-beleg: квитанция, чек
-quittung: квитанция
-konto: счёт [в банке], аккаунт
-girokonto: лицевой(текущий) счёт в банке
-beratung: консультация
+pauschal: в общем, в целом, оптом, целиком
+die Pauschale/Pauschalen: общая сумма, фиксированная плата или взнос
+der Geldautomat/Geldautomaten: банкомат
+das Portemonnaie/Portemonnaies: портмоне
+das Portmonee/Portmonees: портмоне
+die Brieftasche/Brieftaschen: кошелёк, маленькая сумка [похожая на конверт]
+das Bargeld/Bargelder(-n): наличные деньги
+der Schein/Scheine: купюра, сияние
+die Münze/Münzen: монета
+das Taschengeld/Taschengelder(-n): карманные деньги
+das Trinkgeld/Trinkgelder(-n): чаевые
+der Beleg/Belege: квитанция, чек
+die Quittung/Quittungen: квитанция
+das Konto/Kontos(auch Konten, Konti): счёт [в банке], аккаунт
+das Girokonto/Girokontos: лицевой(текущий) счёт в банке
+die Beratung/Beratungen: консультация
 #Экономика
-nachfrage: спрос
-produktion: продукция, производство
-bedarf: потребность
-mangel: недостаток, нехватка
-wirtschaft: экономика, хозяйство
-landwirtschaft: сельское хозяйство
-organisation: организация
-industrie: индустрия
-käufer: покупатель
-handeln: действие, поступок, торговать(ся), поступать (вести себя), говориться(например в книге), обходится(с кем-либо как-то)
-handel: торговля
-händler: торговец
-hersteller: производитель
-import: импорт
-export: экспорт
-forum: форум
-prozess: процесс
-faktor: фактор
-risiko: риск
-mehrwertsteuer: налог на добавленную стоимость [НДС]
-kosten: стоить,стоимость
-krise: кризис
-arbeitslosigkeit: безработица
-statistik: статистика
+die Nachfrage/Nachfragen: спрос
+die Produktion/Produktionen: продукция, производство
+der Bedarf/Bedarfe(-n): потребность
+der Mangel: недостаток, нехватка, дефицит, изъян, дефект
+die Wirtschaft/Wirtschaften: экономика, хозяйство
+die Landwirtschaft/Landwirtschaften: сельское хозяйство
+die Organisation/Organisationen: организация
+die Industrie/Industrien: индустрия
+der Käufer: покупатель
+das Handeln: действие, поступок; торговать(ся), поступать (вести себя), говориться(например в книге), обходится(с кем-либо как-то)
+der Handel/Händel: торговля
+der Händler: торговец
+der Hersteller: производитель
+der Import/Importe(-n): импорт
+der Export/Exporte(-n): экспорт
+das Forum/Foren: форум
+der Prozess/Prozesse: процесс
+der Faktor/Faktoren: фактор, обстоятельство
+das Risiko/Risiken: риск
+die Mehrwertsteuer/Mehrwertsteuern: налог на добавленную стоимость [НДС]
+die Kosten: затраты, издержки, стоимость; пробовать(дегустировать), стоить
+die Krise/Krisen: кризис
+die Arbeitslosigkeit/Arbeitslosigkeiten: безработица
+die Statistik/Statistiken: статистика
 statistisch: статистический
 #Бизнес
 reduzieren: сокращать, снижать
 gründen: основывать
 produzieren: производить
-firma: фирма, компания
-fabrik: фабрика
-betrieb: предприятие, производство
-rat: совет как группа людей
-betriebsrat: производственный совет, совет предприятия
-gewerkschaft: профсоюз
-abteilung: отдел
-arbeitsstelle: место работы, позиция
-angestellte: наёмный сотрудник, «нанятый»
-personal: персонал
-versammlung: собрание
-konferenz: конференция
-planung: планирование
-konkurrenz: конкуренция
-marke: марка [фирма], маркировка, почтовая марка
-visitenkarte: визитная карта
+die Firma/Firmen: фирма, компания
+die Fabrik/Fabriken: фабрика
+der Betrieb/Betriebe(-n): предприятие, производство
+der Rat/Räte: совет как группа людей
+der Betriebsrat/Betriebsräte: производственный совет, совет предприятия
+die Gewerkschaft/Gewerkschaften: профсоюз
+die Abteilung/Abteilungen: отдел
+die Arbeitsstelle/Arbeitsstellen: место работы, позиция
+der Angestellte/Angestellten: наёмный сотрудник, «нанятый»
+das Personal: персонал
+die Versammlung/Versammlungen: собрание
+die Konferenz/Konferenzen: конференция
+die Planung/Planungen: планирование
+die Konkurrenz/Konkurrenzen: конкуренция
+die Marke/Marken: марка [фирма], маркировка, почтовая марка
+die Visitenkarte/Visitenkarten: визитная карта
 fair: честный, справедливый
-gewinn: доход, прибыль, выигрыш
-verlust: потеря, расход [фирмы]
+der Gewinn/Gewinne: доход, прибыль, выигрыш
+der Verlust/Verluste: потеря, расход [фирмы]
+das Studio/Studios: студия, павильон, квартира-студия
 #Время
-studio: студия [офис]
-vergangenheit: прошлое
-zukunft: будущее
+die Vergangenheiten: прошлое
+die Zukunft/Zukünfte(-n): будущее
 zukünftig: в будущем
-zeitpunkt: момент времени, срок, дата/время (заказа)
-augenblick: взгляд, момент
-beginn: начало
-dauer: длительность
+der Zeitpunkt/Zeitpunkte: момент времени, срок, дата/время (заказа)
+der Augenblick/Augenblicke: взгляд, момент
+der Beginn: начало
+die Dauer/Dauern: длительность
 dauernd: длительный, продолжительный
 anfangs: сначала, сперва
 bevor: перед, до этого
@@ -2616,12 +2632,14 @@ innerhalb: в течение (периода времени), в рамках/г
 spätestens: самое позднее
 historisch: исторический
 heutig: сегодняшний
-#Количество
 ewig: вечный
-anzahl: количество, число
+#Количество
+die Anzahl/Anzahlen: количество, число
 insgesamt: всего, вместе
-mehrheit: большинство
-meisten: бóльшая часть
+die Mehrheit/Mehrheiten: большинство
+meist: наибольший
+meisten: преосходная степень от много (больше всего)
+meistens: бóльшей частью, чаще всего
 zahlreich: многочисленный, множественный, в большом количестве
 völlig: полностью
 höchstens: максимально, максимум
@@ -2629,18 +2647,18 @@ soviel: так много, насколько
 doppel: двойной [приставка]
 doppelt: в двойном размере
 halb: половина, пол- (приставка, прилагательное)
-geringer: маленький, небольшой, низкий (о показателях)
-einbisschen: немножко
-minderheit: меньшинство
+gering: маленький, небольшой, низкий (о показателях)
+@ein bisschen: немножко
+die Minderheit/Minderheiten: меньшинство
 minimal: минимальный
 einzeln: единичный, одиночный, в розницу, отдельно, разрозненно
 einzig: единственный
 übrig: лишний, остальной, оставшийся
 etwa: примерно
-#Информация
 zusätzlich: дополнительно
-standpunkt: точка зрения, позиция, положение
-erzählung: рассказ
+#Информация
+der Standpunkt/Standpunkte: точка зрения, позиция, положение
+die Erzählung/Erzählungen: рассказ
 bekanntgeben: объявлять 
 akzeptieren: принимать, соглашаться
 darstellen: изображать, представлять(из себя, собой), играть роль, запечетлевать, выражать
@@ -2650,14 +2668,14 @@ aufschreiben: записывать
 nachschlagen: быть/становиться похожим на к-л, искать (цитату), проверять в словаре/справочнике
 zusammenfassen: резюмировать, подвести итоги, обобщить
 per: при помощи, через
-einzelheit: подробность, мелочь, нюанс
-wahrheit: правда, истина
-wirklichkeit: действительность, реальность
-realität: реальность
+die Einzelheit/Einzelheiten: подробность, мелочь, нюанс
+die Wahrheit/Wahrheiten: правда, истина
+die Wirklichkeit/Wirklichkeiten: действительность, реальность
+die Realität/Realitäten: реальность
 realistisch: реальный, реалистичный
-grund: основание, причина, фундамент, почва, фон
-gegensatz: противоположность кому/чему-либо, противоречие, контраст
-alternative: альтернатива
+der Grund/Gründe: основание, причина, фундамент, почва, фон
+der Gegensatz/Gegensätze: противоположность кому/чему-либо, противоречие, контраст
+die Alternative/Alternativen: альтернатива
 alternativ: альтернативный
 relativ: сравнительно, относительно
 allgemein: общий
@@ -2672,64 +2690,64 @@ ernsthaft: серьёзно, действительно, опасно
 eventuell: возможный, возможно, в зависимости от обстоятельств
 extrem: экстремальный, радикальный, предельный
 maximal: максимально
-#Компьютерная техника
 sogenannt: так называемый
-rechner: вычислительная машина, калькулятор
-monitor: монитор, экран 
-bildschirm: экран, монитор
-lautsprecher: громкоговоритель, колонка
-tastatur: клавиатура
-taste: клавиша [на клавиатуре]
+#Компьютерная техника
+der Rechner/Rechner: вычислительная машина, калькулятор
+der Monitor/Monitore (auch Monitoren): монитор, экран 
+der Bildschirm/Bildschirme: экран, монитор
+der Lautsprecher/Lautsprecher: громкоговоритель, колонка
+die Tastatur/Tastaturen: клавиатура
+die Taste/Tasten: клавиша [на клавиатуре]
 tippen: печатать, набирать текст на клавиатуре
-festplatte: жёсткий диск [ПК]
-laufwerk: заводной механизм, привод, дисковод, жесткий диск
-kabel: кабель
-netz: сеть [физическая]
-netzwerk: сеть [компьютерная, контакты между людьми]
-klick: клик
+die Festplatte/Festplatten: жёсткий диск [ПК]
+das Laufwerk/Laufwerke: заводной механизм, привод, дисковод, жесткий диск
+das Kabel/Kabel: кабель
+das Netz/Netze: сеть [физическая]
+netzwerk: сеть [компьютерная, контакты между людьми, рыболовная], авоська, паутина
+der Klick/Klicks: клик
 klicken: кликать, щёлкать [мышкой]
-knopf: кнопка, пуговица
-video: видео
-kanal: канал
-kassette: кассета
+der Knopf/Knöpfe: кнопка, пуговица
+das Video/Videos: видео
+der Kanal: канал(ТВ, радио, морской, зубной)
+die Kassette/Kassetten: кассета
 digital: цифровойцифровой, электронный
 virtuell: виртуальный
-ordner: папка (также на ПК), распорядитель
+der Ordner/Ordner: папка (также на ПК), распорядитель
 ordnen: упорядочивать
 hochladen: загрузить [в интернет]
 installieren: устанавливать [программу, оборудование]
 integrieren: интегрировать, встраивать
 löschen: удалять
-#Техника
 testen: тестировать
-technik: техника
-technologie: технология
+#Техника
+die Technik/Techniken: техника
+die Technologie/Technologien: технология
 technisch: технический
-system: система
-störung: расстройство, помеха
-gefahr: опасность
-energie: энергия
+das System/Systeme: система
+die Störung/Störungen: расстройство, помеха
+die Gefahr/Gefahren: опасность
+die Energien: энергия
 elektrisch: электрический
 elektronisch: электронный
-modell: модель [машины, системы]
-anleitung: инструкция, руководство
-bedienungsanleitung: инструкция по пользованию ч-л
-anweisung: инструкция
-gebrauchsanweisung: инструкция
-stecker: штекер
-steckdose: розетка
-scheibe: шайба, кусок, ломтик, долька, стекло, мишень, диск
-hörer: телефонная трубка
+das Modell/Modelle: модель [машины, системы], марка, натурщик/ца
+die Anleitung/Anleitungen: инструкция, руководство
+die Bedienungsanleitung/Bedienungsanleitungen: инструкция по пользованию ч-л
+die Anweisung/Anweisungen: инструкция
+die Gebrauchsanweisung/Gebrauchsanweisungen: инструкция
+der Stecker: штекер
+die Steckdose/Steckdosen: розетка
+die Scheibe/Scheiben: шайба, кусок, ломтик, долька, стекло, мишень, диск
+der Hörer/Hörer: телефонная трубка
 batterie: батарейка, аккумулятор
-fernbedienung: пульт дистанционного управления
+die Fernbedienung/Fernbedienungen: пульт дистанционного управления
 schalten: переключать, подключать
 anschalten: включать
 ausschalten:выключать
 funktionieren: функционировать, работать [о механизме]
 kaputtgehen: ломаться
 kaputtmachen: ломать
-teil: часть [отделяемая], деталь
-detail: деталь
+der Teil/Teile: часть [отделяемая], деталь
+das Detail/Details: деталь
 dicht: герметичный, плотный [например, траффик]
 fest: прочный, крепкий, праздник 
 flach: плоский
@@ -2737,28 +2755,28 @@ geeignet: пригодный, подходящий, удобный
 glatt: гладкий, скользкий
 locker: рыхлый, слабый, шаткий, легкомысленный
 los: свободный, незакреплённый, поехали!
-#Размеры и технические термины
 quer: поперечный, вздорный
-form: форма
-länge: длина
-breite: ширина
-höhe: высота
-fläche: площадь, повехность
+#Размеры и технические термины
+die Form/Formen: форма
+die Länge/Längen: длина
+die Breite/Breiten: ширина
+die Höhe/Höhen: высота
+die Fläche/Flächen: площадь, повехность
 messen: измерять
-hälfte: половина
-leistung: мощность, производительность, достижение, успех
-kraft: сила
-druck: давление
+die Hälfte/Hälften: половина
+die Leistung/Leistungen: мощность, производительность, достижение, успех
+die Kraft/Kräfte: сила
+der Druck/Drücke: давление
 #Фигуры и формы
-linie: линия, маршрут
-abschnitt: отрезок, раздел, абзац, глава, корешок/купон/купюра, бревно
-kreuz: крест
-kreis: круг
-runde: круг, раунд [особенно в гонках, забегах и т. п.]
-punkt: точка
-loch: дыра, дырка
-#Местоимения
+die Linie/Linien: линия, маршрут
+der Abschnitt/Abschnitte: отрезок, раздел, абзац, глава, корешок/купон/купюра, бревно
+das Kreuz/Kreuze: крест, крестец, диез, трефы
+der Kreis/Kreise: круг/окружность, округ, круг людей
+die Runde: круг(друзей), раунд, тур, обход патруля
+der Punkt/Punkte: точка
+das Loch/Löcher: дыра, дырка
 eckig: угловой, угловатый
+#Местоимения
 einige: некоторые, несколько, немного, немногие, около (перед числительным)
 manche: некоторые
 mehrere: некоторые, несколько, различные
@@ -2770,10 +2788,10 @@ alle: все
 alles: всё
 derselbe: тот же самый, та же самая, то же самое
 dieser: этот, эта, это
-#solch ein: такой
+@solch ein: такой
 solcher: такой
-#Наречия
 welcher: какой
+#Наречия
 allerdings: впрочем, конечно, разумеется
 andererseits: с другой стороны
 beinahe: почти
@@ -2808,7 +2826,7 @@ worüber: о чём?
 worum: для чего, зачем? вокруг чего? за что?
 zumindest: как минимум
 zunächst: сначала, для начала
-Приставка ab-
+#Приставка ab-
 abhängen: зависеть, "зависать", "тусить"
 abhängig: зависимый, зависящий
 unabhängig: независимый
@@ -2850,10 +2868,10 @@ aufregen: возбуждать, волновать
 auftreten: появляться, ступать, наступать, вести себя(в смысле показывать себя)
 benehmen: поведение, манеры, с sich - вести себя на публике 
 aufwachen: просыпаться
-auftritt: появление, выход [на сцену]
-aufforderung: призыв [к чему-либо]
+der Auftritt/Auftritte: появление, выход [на сцену]
+die Aufforderung/Aufforderungen: призыв [к чему-либо]
+die Aufnahme/Aufnahmen: запись (звука, видео), приемка, набор, опись, восприятие
 #Приставка aus-
-aufnahme: запись (звука, видео), приемка, набор, опись, восприятие
 ausdrucken: распечатывать на принтере
 auseinander: врозь, в разные стороны
 ausfallen: быть отменённым [например, поезд не пойдёт], выпадать
@@ -2867,14 +2885,14 @@ ausschließlich: исключительно
 ausstellen: выставлять [например, товары на витрину]
 aussuchen: выбирать, подыскивать
 auswählen: выбирать [из списка, массы]
-ausdruck: распечатка, выражение
-ausgabe: издание
-aushilfe: временная работа, временный сотрудник, помощник
-ausnahme: исключение
-aussicht: вид, перспектива
-aussprache: произношение
+der Ausdruck/Ausdrücke(-n): печать,распечатка, выражение (речевое, лица), проявление
+die Ausgabe/Ausgaben: издание
+die Aushilfe/Aushilfen: временная работа, временный сотрудник, помощник
+die Ausnahme/Ausnahmen: исключение
+die Aussicht/Aussichten: вид, перспектива
+die Aussprache/Aussprachen: произношение
+die Auswahl/Auswahlen: выбор [большой, скудный и т. п.]
 #Приставка be-
-auswahl: выбор [большой, скудный и т. п.]
 beruhigen: успокаивать 
 beachten: обращать внимание, соблюдать
 beantragen: запрашивать
@@ -2911,23 +2929,23 @@ betreuen: ухаживать [за ребёнком, стариком], опек
 betrügen: изменять [партнёру], обманывать
 betrunken: пьяный
 beweisen: доказывать, подтверждать
-betreuer: опекун, тот, кто ухаживает
-beweis: доказательство, подтверждение
-begründung: обоснование
-beschäftigung: занятие
-beschäftigte: сотрудник
-beschreibung: описание
-besprechung: переговоры
-betreuung: опека, уход
+der Betreuer/Betreuer: опекун, тот, кто ухаживает
+der Beweis/Beweise: доказательство, подтверждение
+die Begründung/Begründungen: обоснование
+die Beschäftigung/Beschäftigungen: занятие
+die Beschäftigte/Beschäftigten: сотрудник
+die Beschreibung/Beschreibungen: описание
+die Besprechung/Besprechungen: переговоры
+die Betreuung/Betreuungen: опека, уход
 bemühen: с sich - стараться, добиваться, хлопотать 
-#Приставка ein-
 beteiligen: задействовать к-л, с sich - принимать участие 
-einfall: внезапная мысль, вторжение, нападение
-einfluss: влияние
-einführung: ввод
-einnahme: приём [лекарств и т. п.], доход, прибыль
-einrichtung: сооружение
-einzahlung: платёж, внесение денег
+#Приставка ein-
+der Einfall/Einfälle: внезапная мысль, вторжение, нападение
+der Einfluss/Einflüsse: влияние
+die Einführung/Einführungen: ввод
+die Einnahme/Einnahmen: приём [лекарств и т. п.], доход, прибыль
+die Einrichtung/Einrichtungen: сооружение
+die Einzahlung/Einzahlungen: платёж, внесение денег
 einfallen: вспоминаться, вторгаться, нападать
 einfügen: вставлять [особенно при работе за пк]
 einführen: вводить
@@ -2939,41 +2957,41 @@ entsetzen: приводить в ужас
 einstellen: нанимать на работу, настраивать/регулировать/налаживать (прибор), включать(радио, тв), приостанавливать
 einstellung: отношение к ч-л, прекращение, прием на работу, регулировка, сцена в кино
 eintreten: входить [в помещение]
-#Приставка ent-
 einzahlen: платить, делать взнос, совершать платёж
+#Приставка ent-
 entwickeln: разрабатывать (программу), развивать, проявлять (какое-то качество)
-entwicklung: развитие
-entfernung: удалённость, расстояние от чего-либо до чего-либо
-entlassung: освобождение, увольнение
-entscheidung: решение
-enttäuschung: разочарование
+die Entwicklung/Entwicklungen: развитие
+die Entfernung/Entfernungen: удалённость, расстояние от чего-либо до чего-либо
+die Entlassung/Entlassungen: освобождение, увольнение
+die Entscheidung/Entscheidungen: решение
+die Enttäuschung/Enttäuschungen: разочарование
 entdecken: открывать что-то новое (для себя)
 entfernen: удалять
 entlassen: отпускать на свободу, увольнять
 entscheiden: решать
 entschlossen: решительный (о человеке)
 entsorgen: утилизировать
-entspannend: расслабляюще
+entspannend: расслабляющий
 entstehen: возникать, появляться
 enttäuschen: разочаровывать
 enttäuschend: разочаровывающе
 entschließen: с sich - решиться на что-либо 
+das Unentschieden/Unentschieden: ничья, не решенный
 #Приставка er-
-unentschieden: ничья, не решенный
 ernähren: кормить, питать, вскармливать, с sich - питаться 
-ergebnis: результат
-erlebnis: переживание, впечатление
-erfolg: успех
-ersatz: замена, суррогат
-erfindung: изобретение
-erhöhung: повышение, рост
-erholung: отдых, оздоровление
-erinnerung: воспоминание
-erkältung: простуда
-erklärung: объяснение
-ernährung: питание
-eröffnung: открытие [например, магазина]
-erziehung: воспитание
+das Ergebnis/Ergebnisse: результат
+das Erlebnis/Erlebnisse: переживание, впечатление
+der Erfolg/Erfolge: успех
+der Ersatz: замена, суррогат
+die Erfindung/Erfindungen: изобретение
+die Erhöhung/Erhöhungen: повышение, рост
+die Erholung/Erholungen: отдых, оздоровление
+die Erinnerung/Erinnerungen: воспоминание
+die Erkältung/Erkältungen: простуда
+die Erklärung/Erklärungen: объяснение
+die Ernährung/Ernährungen: питание
+die Eröffnung/Eröffnungen: открытие [например, магазина]
+die Erziehung/Erziehungen: воспитание
 erfahren: узнавать, познавать на опыте
 erfinden: изобретать
 erforderlich: необходимый, требуемый
@@ -3014,13 +3032,13 @@ notaufnahme: неотложное отделение в больнице
 nötig: необходимый, нужный
 über: о, над, пере-, над- [приставка]
 überzeugen: убеждать, с sich - убеждаться 
-überzeugung: убеждение
-übersetzer: переводчик
-übernachtung: ночёвка
-überraschung: сюрприз
-überschrift: заголовок
-überstunde: сверхурочная работа
-überweisung: перевод [денежный, пациента к другому врачу]
+die Überzeugung/Überzeugungen: убеждение
+der Übersetzer/Übersetzer: переводчик
+die Übernachtung/Übernachtungen: ночёвка
+die Überraschung/Überraschungen: сюрприз
+die Überschrift/Überschriften: заголовок
+die Überstunde/Überstunden: сверхурочная работа
+die Überweisung/Überweisungen: перевод [денежный, пациента к другому врачу]
 überfahren: переехать [кого-то, что-то]
 überhaupt: вообще, совсем
 überholen: обгонять
@@ -3030,32 +3048,33 @@ nötig: необходимый, нужный
 überqueren: пересекать
 überraschen: удивлять
 überreden: уговорить сменить своё мнение
-#Приставка um-
 übertreiben: преувеличивать
+#Приставка um-
 umdrehen: ворошить, поворачивать, переворачивать(на другую сторону), с sich - оборачиваться, разворачиваться 
-umfrage: опрос
-umgebung: окружение
-umleitung: объезд
+die Umfrage/Umfragen: опрос
+die Umgebung/Umgebungen: окружение
+die Umleitung/Umleitungen: объезд
 umziehen: переезжать, с sich - переодеваться 
 umgehen: обходиться
 umgekehrt: наоборот
 umso: тем [например, чем больше — тем лучше]
 umsonst: бесплатно, зазря, тщетно
-#Приставка un-
 umtauschen: обменивать
+#Приставка un-
 un: не- [приставка отрицания]
-unglück: неудача
+das Unglück/Unglücke(-n): неудача
 ungefähr: приблизительно
 ungewöhnlich: непривычный
+unheimlich: зловещий, тревожный
 unglaublich: невероятный
 #Приставка unter-
-unheimlich: зловещий, тревожный
 unter: под, под- [приставка]
-unternehmer: предприниматель
-unterhaltung: разговор
-unterlagen: данные, документация, документы
-unterstützung: поддержка
-untersuchung: медосмотр/обследование, расследование(преступления), изучение/исследование
+der Unternehmer/Unternehmer: предприниматель
+die Unterhaltung/Unterhaltungen: разговор
+die Unterlage/Unterlagen: основание, подставка, подстилка, документ, документация
+die Unterstützung/Unterstützungen: поддержка
+die Untersuchung/Untersuchungen: медосмотр/обследование, расследование(преступления), изучение/исследование
+unterstützen: поддерживать
 unterbrechen: прерывать
 unterlassen: прекращать делать что-либо, «забить»
 untersagt: запрещенный, недозволенный
@@ -3063,21 +3082,20 @@ unterscheiden: различать
 unterschiedlich: различный
 unterstreichen: подчёркивать
 #Приставка ver-
-unterstützen: поддерживать
 verbrennen: сжигать, с sich - обжигаться 
 verletzen: повредить, обидеть, с sich - повредиться, нанести себе травму, получить травму 
 verstecken: прятать, с sich - прятаться 
 verstehen: понимать, с sich - иметь хорошие отношения, не ссориться 
 verhalten: поведение, с sich - вести себя (по отношению к), относиться (к) 
-verhältnis: отношение(позиция), отношения/любовная связь, ситуация/обстановка, соотношение/пропорция
-vertrauen: доверие, доверять
-vertreter: представитель
-verbindung: соединение
-verletzung: повреждение, травма, нарушение
-vermietung: аренда
-vermittlung: посредничество, содействие, передача (как процесс)
-versicherung: страховка, страхование
-vertretung: представительство
+das Verhältnis/Verhältnisse: отношение(позиция), отношения/любовная связь, ситуация/обстановка, соотношение/пропорция
+das Vertrauen: доверие, доверять
+der Vertreter/Vertreter: представитель
+die Verbindung/Verbindungen: соединение
+die Verletzung/Verletzungen: повреждение, травма, нарушение
+die Vermietung/Vermietungen: аренда
+die Vermittlung/Vermittlungen: посредничество, содействие, передача (как процесс)
+die Versicherung/Versicherungen: страховка, страхование
+die Vertretung/Vertretungen: представительство
 verlaufen: проходить/протекать(о процессе), истечь(о сроке годности), с sich - заблудиться пешком 
 verbinden: соединять
 verbrauchen: расходовать, потреблять [например, бензин]
@@ -3088,7 +3106,7 @@ verhindern: препятствовать, предотвращать
 verlangen: требовать
 verlängern: продлевать
 verlassen: покидать, оставлять [уходить]
-verliebt: влюблён
+verliebt: влюблённый
 vermeiden: избегать
 vermissen: скучать
 vermuten: предполагать
@@ -3107,18 +3125,18 @@ versichern: страховать [оформлять страховку], уве
 versprechen: обещать
 verteilen: распределять, делить
 vertreten: представлять (кого-либо, что-либо), замещать
-#Приставка vor-
 verwenden: использовать (для конкретной цел цели), применять
+#Приставка vor-
 vorbereiten: подготавливать/готовить, с sich - готовиться к чему-либо 
-vorstellung: представление [кого-то кому-то]
-vorstellungsgespräch: собеседование
-vortrag: лекция, доклад, реферат
-vorwurf: черновик
-voraussetzung: условие, предпосылка
-vorbereitung: подготовка
-vorfahrt: преимущество проезда [например, на главной дороге]
-vorschrift: предписание
-vorallem: прежде всего
+die Vorstellungen: представление [кого-то кому-то]
+das Vorstellungsgespräch/Vorstellungsgespräche: собеседование
+der Vortrag/Vorträge: лекция, доклад, реферат
+der Vorwurf/Vorwürfe: черновик
+die Voraussetzung/Voraussetzungen: условие, предпосылка
+die Vorbereitung/Vorbereitungen: подготовка
+die Vorfahrt/Vorfahrten: преимущество проезда [например, на главной дороге]
+die Vorschrift/Vorschriften: предписание
+@vor allem: прежде всего
 voraus: заранее, загодя, вперёд (с глаголом движения)
 voraussichtlich: преположительно, вероятно, ожидаемо
 vorder: передний [приставка]
@@ -3127,28 +3145,28 @@ vorhin: только что, давеча
 vorkommen: случаться, происходить
 vorläufig: предварительный, временный, не конечный вариант
 vorlesen: читать вслух
-#Приставка zu-
 vorschlagen: предлагать
-zufall: случайность
-zugang: доступ
-zuschauer: зритель
-zuschlag: надбавка, дополнительная плата
-zustand: состояние
-zustimmung: согласие
+#Приставка zu-
+der Zufall/Zufälle: случайность
+der Zugang/Zugänge: доступ
+der Zuschauer/Zuschauer: зритель
+der Zuschlag/Zuschläge: надбавка, дополнительная плата
+der Zustand/Zustände: состояние
+die Zustimmung/Zustimmungen: согласие
 zufällig: случайный
 zugänglich: доступный
 zugehen: направляться, подходить, приближаться к чему-либо/кому-либо, закрываться
 zunehmen: набрать вес, потолстеть
 zusagen: обещать, соглашаться
-#Da-
 zustimmen: соглашаться
+#Da-
 dafür: для этого, за (в обмен на что-либо)
 dagegen: против этого, против (чего-либо)
 daher: поэтому, оттуда
 dahin: туда
 damit: тем самым, чтобы
-#Hin- und her-
 danach: после
+#Hin- und her-
 her: сюда
 herunter: вниз
 herunterfahren: ехать вниз [например, на лифте]
@@ -3160,8 +3178,8 @@ hinterher: позади
 hin: туда, прочь
 hinunterwerfen: бросить вниз [отсюда, в сторону от говорящего]
 hinweisen: указывать/ссылаться на ч-л
+der Hinweis/Hinweise: указание, намек, замечание, ссылка, индикация
 #Je-
-hinweis: указание, намек, замечание, ссылка, индикация
 je: когда-нибудь [уже], чем
 jede: каждая
 jeder: каждый
@@ -3171,55 +3189,55 @@ jemals: когда-нибудь [в прошлом или будущем]
 jeweils: каждый, каждый раз
 jeweilig: соответствующий, данный, действующий
 jederzeit: в любое время
+@jedes mal: каждый раз
 #Частицы
-jedesmal: каждый раз (2 слова)
 bloß: голый, обнаженный, босой, только, лишь, же, просто
 gar: совершенно, совсем
 mal: раз, частица -ка
 ob: частица «ли»
 #Вводные слова
 ziemlich: довольно, достаточно
-#alsob: как будто, словно (2 cлова)
+@als ob: как будто, словно
 falls: в случае, если
 indem: в то время как, тем временем, меж тем
 obwohl: хотя
 sodass: так что
 #Двойные союзы
 statt: вместо
-#entweder oder: или ... или (2 слова)
-#je desto: чем ... тем (2 слова)
-#sowohl als auch: не только, но и (3 слова)
-#um zu: чтобы (2 слова)
-#weder noch: ни ... ни (2 слова)
+@entweder oder: или ... или
+@je desto: чем ... тем
+@sowohl als auch: не только, но и 
+@um zu: чтобы
+@weder noch: ни ... ни 
 krumm: согнутый, искривленный
 verfassen: сочинять (письмо, рассказ), составлять, beitragen: вносить вклад, содействовать, постить 
-beitrag: взнос, вклад, очерк/статья/пост)
-veröffentlichung: публикация, издание
+der Beitrag/Beiträge: взнос, вклад, очерк/статья/пост)
+die Veröffentlichung/Veröffentlichungen: публикация, издание
 verweisen: ссылаться на, обращать внимание, рекомендовать, направлять к кому-то (an, auf)
-aspekt: точка зрения, сторона явления
+der Aspekt/Aspekte: точка зрения, сторона явления
 etliche: около(с числительным), некоторые, несколько
-#ein paar: пара, несколько (2 слова)
+@ein paar: пара, несколько
 zwar: правда (во фразах правда... но...)
-#und zwar: а именно, и притом, то бишь (2 слова)
+@und zwar: а именно, и притом, то бишь
 sowie: а также, равно как и, как только
 denen: их, них
 entsprechen: соответствовать, удовлетворять 
 beziehungsweise: точнее говоря, вернее, или же
 na: м-да, ну!
-#na und: ну, и! (2 слова)
+@na und: ну, и! 
 erscheinen: появляться, показываться, выходить (из печати)
 dadurch: в следствии/из-за этого, тем самым
 jene: та, оная
-naja: междометие неуверенности (2 слова)
+@na ja: междометие неуверенности
 bilden: создавать, формировать, составлять, образовывать (в т.ч. давать образование)
 vergehen: проступок, преступление, пропадать(проходить - о боли, желании, аппетите, времени)
-betreffen: касаться ч-л, относиться к кому-то/чему-то, [по]страдать (от стихийног бедствия)
+betreffen: касаться ч-л, относиться к кому-то/чему-то, [по]страдать (от стихийного бедствия)
 gewiss: наверное, вероятно, несомненно, определенно
 wesentlich: фундаментально, в сущности 
 ergeben: верный, преданный, покорный
 begriff: понятие, представление
 begreifen: понимать, осознавать, усваивать, постигать
-rahmen: рама, рамка(также в переносном смысле - в рамках, за рамками, рамочное соглашение)
+der Rahmen/Rahmen: рама, рамка(также в переносном смысле - в рамках, за рамками, рамочное соглашение)
 jährig: годовалый
 bezeichnen: обозначать, описывать, называть, помечать, отмечать
 insbesondere: особенно, в особенности
@@ -3231,21 +3249,21 @@ darum: за это, ради этого, для этого, вокруг это�
 zudem: к тому же
 verfügen: обладать, иметь в своем распоряжении (über)
 vorliegen: предъявлять, представлять (доклад, документы)
-einsatz: применение, внедрение, ввод в действие, ставка в игре, заклад, залог, вставка в одежде
-anwendung: применение, использование, употребление
+der Einsatz/Einsätze: применение, внедрение, ввод в действие, ставка в игре, заклад, залог, вставка в одежде
+die Anwendung/Anwendungen: применение, использование, употребление
 beziehen: обивать/обтягивать (стул тканью), с sich - иметь отношение к к-л/ч-л, ссылаться на 
 grundsätzlich: в принципе, в целом, кардинально, базовый, принципиальный
-verfahren: метод, процесс, технология, процедура, способ 
+das Verfahren/Verfahren: метод, процесс, технология, процедура, способ 
 vorhanden: имеющийся в наличии
 künftig: будущий, предстоящий, грядущий, впредь 
 betonen: делать акцент, выделять, подчеркивать, отмечать
 dennoch: тем не менее, все-таки, однако
 zugleich: вместе с тем, в равной мере, одновременно
-maßnahme: мероприятие, мера (например черезвычайная мера)
-maß: размер, мерка, масштаб, граница/предел, мера/степень, литровая кружка
+die Maßnahme/Maßnahmen: мероприятие, мера (например черезвычайная мера)
+das Maß/Maße: размер, мерка, масштаб, граница/предел, мера/степень, литровая кружка
 eignen: с sich - подходить(к чему-либо, для чего-либо), годиться 
 umfassen: охватывать, обхватывать, обнимать, содержать в себе
-ebene: плоскость, равнина, уровень, сфера/область
+die Ebene/Ebenen: плоскость, равнина, уровень, сфера/область
 zuvor: прежде, раньше, до этого времени
 betragen: исчисляться,равняться, составлять какую-то сумму
 ahnen: ощущать, предчуствовать, подозревать
@@ -3262,42 +3280,44 @@ drohen: угрожать
 staatlich: государственный
 lediglich: лишь, только, исключительно
 unmittelbar: непосредственный, немедленный
-#somit als auch: как...так и... (3 слова)
+@somit als auch: как...так и... 
 darunter: ниже, под, среди(кого-то, чего-то), в том числе, меньше/дещевле
-konzept: концепция/программа, конспект/план, набросок/черновик
+das Konzept/Konzepte: концепция/программа, конспект/план, набросок/черновик
 bewusst: осведомленный
 immerhin: все-таки, тем не менее, все-же, как-никак
 klassisch: классический
 betreiben: заниматься ч-л, приводить в действие, промышлять ч-л
 weiterhin: дальше, впредь, еще
-zelle: клетка (биолог.)
-ansatz: насадка, начало, закон, осадок, поготовка, разработка, склонность
-umstand: обстоятельство
+die Zelle/Zellen: клетка (биолог.)
+der Ansatz/Ansätze: насадка, начало, закон, осадок, поготовка, разработка, склонность
+der Umstand/Umstände: обстоятельство
 ermöglichen: позволять, делать возможным, предоставлять возможность
 irgendein: какой-либо
 erneut: снова, вновь, повторный, обновленный
-grundlage: основа, база
-gemeinde: муниципалитет, община, паства
+die Grundlage/Grundlagen: основа, база
+die Gemeinde/Gemeinden: муниципалитет, община, паства
 erwähnen: упоминать
 wiederum: снова/опять, наоборот/напротив/с другой стороны
-position: позиция
+die Position/Positionen: позиция
 soweit: насколько/настолько
 rasch: быстрый, скорый, стремительный
 sicherlich: определенно
 geraten: оказываться, быть похожим (на кого-либо), выходить из себя, впадать(в гнев, в панику)
 sicht: вид, точка зрения
 vielmehr: скорее(в большей степени), вернее, напротив/наоборот
-bewertung:оценка, рейтинг, отзыв
+die Bewertung/Bewertungen:оценка, рейтинг, отзыв
 berücksichtigen: учитывать, принимать во внимание
-verstopfen: закупоривать/закупорка, засорять/засор, затыкать, закладывать/заложенность(об ушах, носе)
+das Verstopfen: закупорка, засор; закупоривать, засорять, затыкать, закладывать(об ушах, носе)
+die Verstopfenheit: заложенность(об ушах, носе)
+die Verstopfung/Verstopfungen: запор (мед. проблема)
 hinfliegen: шмякнуться, лететь к-л
 zerfließen: растекаться
-zeiger: указатель, стрелка прибора
-wirbel: водоворот, вихрь, макушка, барабанная дробь
-#wirbeln: проноситься вихрем, завихрение
-uhrwerk: часовой механизм
+der Zeiger/Zeiger: указатель, стрелка прибора
+der Wirbel/Wirbel: водоворот, вихрь, макушка, барабанная дробь
+das Wirbeln: завихрение; проноситься вихрем
+das Uhrwerk/Uhrwerke: часовой механизм
 rotieren: вращаться
-ekel: омерзение, тошнота, отвращение
+das Ekel/Ekel: омерзение, тошнота, отвращение
 ekeln: с sich - брезговать, испытывать отвращение 
 eklig: омерзительный 
 anhalten: переставать делать ч-л, требовать, останавливать/продолжать/сохранять
@@ -3305,54 +3325,55 @@ dringen: требовать/настаивать.уговаривать, про�
 sanft: кроткий, нежный
 rollen: катить, сворачивать
 verschlingen: поглощать, проглатывать
-serviette: салфетка
-kochfeld:  кухонная плита
-zentner:  50 килограмм 
-schnaphen: выгодная покупка
-eigentumswohnung: кондоминиум 
-wohnfläche: жилая площадь 
-#einfamilienhaus: частный дом
-reihenhaus : таунхаус 
-mehrfamilienhaus: многоквартирный дом
-immobilien: недвижимость 
-neubau: новостройка
-abgemeldetsein: быть зарегистрированым (2 слова)
-spitze: вершина, верхушка, кончик, шпиль, мунштук, кружево, топ!
+die Serviette/Servietten: салфетка
+das Kochfeld/Kochfelder:  кухонная плита
+der Zentner/Zentner:  50 килограмм 
+das Schnäppchen/Schnäppchen: выгодная покупка
+die Eigentumswohnung/Eigentumswohnungen: кондоминиум 
+die Wohnfläche/Wohnflächen: жилая площадь 
+das Einfamilienhaus/Einfamilienhäuser: частный дом
+das Reihenhaus/Reihenhäuser: дом рядовой застройки, таунхаус 
+das Mehrfamilienhaus/Mehrfamilienhäuser: многоквартирный дом
+die Immobilie/Immobilien: недвижимость 
+der Neubau/Neubauten: новостройка
+@abgemeldet sein: быть зарегистрированым
+die Spitze/Spitzen: вершина, верхушка, кончик, шпиль, мунштук, кружево, топ!
 bislang:до сих пор, доныне
 erheblich: значи́тельный,суще́ственный
 vermitteln: передава́ть(ч-л к-л. зна́ния, о́пыт), посре́дничать, посре́дничество, соде́йствие, переда́ча/сообще́ние(telekom)
 herrschen: госпо́дствовать (над к-л/ч-л), пра́вить, ца́рствовать, повелева́ть, стоя́ть(о пого́де)
-angriff: [за]хват, агре́ссия, нападе́ние/ата́ка, ка́чество, ощуща́емое на о́щупь, возде́йствие, зацепле́ние, сочлене́ние(тех.), корро́зия  
+der Angriff/Angriffe: [за]хват, агре́ссия, нападе́ние/ата́ка, ка́чество, ощуща́емое на о́щупь, возде́йствие, зацепле́ние, сочлене́ние(тех.), корро́зия  
 angreifen:  атакова́ть, критиковать, хватать(ся), воздействовать, расходовать, разрушать, ослаблять
 erheben: заяви́ть (о краже)(юр.), взима́ть(налог), возвыша́ть, возводить (в степень), с sich - возвышаться, восставать, вставать  
-anteil: часть, пай, уча́сток, уча́стие (сочу́вствие, долевое), кво́та, компоне́нт, лими́т, составля́ющая, фа́за/фра́кция (хим.)
+der Anteil/Anteile: часть, пай, уча́сток, уча́стие (сочу́вствие, долевое), кво́та, компоне́нт, лими́т, составля́ющая, фа́за/фра́кция (хим.)
 verfolgen: наблюда́ть,просле́живать (ч-л), следи́ть (за к-л/ч-л), пресле́довать/травить, приде́рживаться (к-л ку́рса), проводи́ть(поли́тику)
-behandlung: лече́ние, обраще́ние/обхожде́ние(с к-л/ч-л), разбо́р/рассмотре́ние, подхо́д, отноше́ние, тракто́вка  
-lauf: бег, проце́сс, движе́ние/ход/тече́ние(реки́, вре́мени), рабо́та(механи́зма), ру́сло(реки́)
+die Behandlung/Behandlungen: лече́ние, обраще́ние/обхожде́ние(с к-л/ч-л), разбо́р/рассмотре́ние, подхо́д, отноше́ние, тракто́вка  
+der Lauf/Läufe: бег, проце́сс, движе́ние/ход/тече́ние(реки́, вре́мени), рабо́та(механи́зма), ру́сло(реки́)
 empfinden: чувствовать, ощущать, воспринимать, испытывать чувства 
-erkenntnis: осознание, прозрение, интуиция
+die Erkenntnis/Erkenntnisse(-n): осознание, прозрение, интуиция
 angesichts:в свете ч-л, в связи с ч-л, с учетом ч-л, перед лицом ч-л
-analyse: анализ, исследование, химсостав 
-vorsitzende: председатель
+die Analyse/Analysen: анализ, исследование, химсостав 
+der Vorsitzende/Vorsitzenden: председатель
 vorsitzen: председательствовать, возглавлять (собрание)
 prägen: формировать, чеканить, тиснить, формулировать, образовывать ч-л 
-nicken: кивать, кивок, тангаж
-kassenbeleg: чек в магазине
-kassenbon: чек в магазине
-kassenzettel: чек в магазине
+das Nicken: кивок, тангаж; кивать
+der Kassenbeleg/Kassenbelege: чек в магазине
+der Kassenbon/Kassenbons: чек в магазине
+der Kassenzettel/Kassenzettel: чек в магазине
 verstärken: укреплять, усиливать, обострять(боль, простуду)
-geruch: запах
-duft: аромат
-aroma: аромат
-hauch: слабый запах
-stank: вонь
-objekt: объект
+der Geruch/Gerüche: запах
+der Duft/Düfte: аромат
+das Aroma/Aromen(auch Aromas und Aromata): аромат
+der Hauch: слабый запах, дуновение, дыхание
+hauchen: дыхнуть, дышать на к-л/ч-л (auf/in)
+der Stank: вонь
+das Objekt/Objekte: объект
 vorsehen: планировать, предусматривать, с sich - остерегаться
-bezug: наволочка, пододеяльник, чехол, футляр, набивка, получение(пенсии, пособия)
-regelung: [у]регулирование, налаживание, нормализация
+der Bezug/Bezüge: наволочка, пододеяльник, чехол, футляр, набивка, получение(пенсии, пособия)
+die Regelung/Regelungen: [у]регулирование, налаживание, нормализация
 sozusagen: так сказать
-anlegen: швартовка, разбивка(сада), посев, закладка(камня), прикладывать, накладывать(повязку), приставать, делать вклад, устраивать
-komplex: комплекс, комплексный/нетривиальный
+das Anlegen: швартовка, разбивка(сада), посев, закладка(камня); прикладывать, накладывать(повязку), приставать, делать вклад, устраивать
+der Komplex/Komplexe: комплекс; комплексный/нетривиальный
 fein: мелкий, изящный, утонченный, хрупкий, нежный
 definieren: давать определение, определять
 orientieren: направлять, ориентировать
@@ -3361,9 +3382,10 @@ weitgehend: значительный, широкий, далеко идущий,
 insofern: в этом отношении, в той мере; постольку...als...
 tätig: деятельный, активный, работающий в качестве к-л
 erstmals: впервые
-geografie: география
-geige: скрипка
-hintergrund: фон/задний план, подноготная
+die Geografie: география
+die Geige/Geigen: скрипка
+der Hintergrund/Hintergründe: фон/задний план, подноготная
+der Vordergrund/Vordergründe: передний план
 übertragen: переносить, передавать, поручать, транслировать
 hingegen: зато, наоборот, напротив
 vornehmen: предпринимать, осуществлять
@@ -3371,29 +3393,29 @@ aufweisen: иметь, обнаруживать, предъявлять/пока
 geistig: духовный, ментальный
 anschauen: с sich - просматривать (список, кино, альбом) 
 jährlich: ежегодный
-eigenschaft: качество, свойство, фича
+die Eigenschaft/Eigenschaften: качество, свойство, фича
 hereinkommen: входить внутрь
 derjenige: тот/та/то
-bildung: воспитание, формирование, образование, организация
+die Bildung/Bildungen: воспитание, формирование, образование, организация
 erzielen: достигать, добиваться ч-л
-grauen: ужас, испуг
-horror: ужас
+das Grauen: ужас, испуг
+der Horror: ужас
 befehlen: приказывать
-befehl: приказ
-weltraum: космос
-substantiv: существительное
+der Befehl/Befehle: приказ
+der Weltraum: космос
+das Substantiv/Substantive: существительное
 definitiv: определенный
 kichern: хихикать
 giggeln: хихикать
-gekicher: хихикание
+das Gekicher: хихикание
 bummeln: бездельничать, прогуливать
 überfliegen: пролетать
-hafer: овес
-brei: каша
-grütze: каша
-buchweizen: гречка
-grieß: манка
-hirse: пшено, просо
+der Hafer/Hafer(-n): овес
+der Brei/Breie: каша, пюре или пудинг гомогенная
+die Grütze/Grützen: каша крупитчатая
+der Buchweizen/Buchweizen: гречка
+der Grieß/Grieße(-n): манка
+die Hirse/Hirsen: пшено, просо
 vorhang: занавес
 alptraum: кошмар
 komma: запятая
