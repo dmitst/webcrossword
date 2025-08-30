@@ -1,3 +1,6 @@
+das Einmaleins: таблица умножения
+der Wandel/Wandel:изменение, перемена
+das Treffen/Treffen: встреча, попадание в цель, матч, слет(тур.)
 der Rahm: сливки
 der Tritt/Tritte: походка, ступенька, удар ногой, шаг, пинок, след
 das Kraftwerk/Kraftwerke: электростанция
@@ -55,7 +58,7 @@ die Sekunde/Sekunden: секунда
 das Datum/Daten: дата, число
 der Moment/Momente: момент
 das Jahr/Jahre: год
-das Jahrhundert:Jahrhunderte: столетие
+das Jahrhundert/Jahrhunderte: столетие
 das Jahrzehnt/Jahrzehnte: десятилетие
 der Morgen/Morgen: утро, завтра
 der Monat/Monate: месяц
@@ -996,9 +999,9 @@ organisieren: организовывать
 schaffen: делать, создавать, справляться, успевать, суметь(сделать)
 #Одежда
 die Mode/Moden: мода 
-tragen: носить [одежду] , нести [груз]
-das Tshirt/Tshirts: футболка
-de Bluse/Blusen: блузка
+tragen: носить [одежду], нести [груз]
+das Tshirt/Tshirts: футолка
+die Bluse/Blusen: блузка
 das Hemd/Hemden: рубашка
 das Kleid/Kleider: платье
 der Pullover/Pullover: свитер
@@ -1501,7 +1504,7 @@ nachdenken: обдумывать
 zweifeln: сомневаться
 der Zweifel/Zweifel: сомнение
 die Sorge/Sorgen: забота
-dss Verständnis/Verständnisse: понимание
+das Verständnis/Verständnisse: понимание
 verständlich: понятный, ясный, доступный для понимания
 das Gewissen: совесть
 der Humor/Humore(-n): юмор
@@ -3220,7 +3223,7 @@ etliche: около(с числительным), некоторые, неско
 zwar: правда (во фразах правда... но...)
 @und zwar: а именно, и притом, то бишь
 sowie: а также, равно как и, как только
-denen: их, них
+#denen: их, них
 entsprechen: соответствовать, удовлетворять 
 beziehungsweise: точнее говоря, вернее, или же
 na: м-да, ну!
@@ -3416,287 +3419,290 @@ die Grütze/Grützen: каша крупитчатая
 der Buchweizen/Buchweizen: гречка
 der Grieß/Grieße(-n): манка
 die Hirse/Hirsen: пшено, просо
-vorhang: занавес
-alptraum: кошмар
-komma: запятая
+der Vorhang/Vorhänge: занавес
+der Alptraum/Alpträume: кошмар
+das Komma/Kommas(auch Kommata): запятая
 feststecken: застревать
-notdienst: аварийная служба
+der Notdienst/Notdienste: аварийная служба
 zwangsläufig: неизбежный, принудительный
-waage: весы
+die Waage/Waagen: весы
 beruhen: основываться на ч-л
 berühren: трогать, касаться
-kohl: капуста
-kraut: капуста
+der Kohl/Kohle(-n): капуста
+das Kraut/Kräuter: трава, капуста, ботва, овощи
 steigern: повышать, увеличивать, усиливать, эскалировать
 wichsen: полировать, чистить обувь, вощить, дрочить
 wischen: вытирать, протирать протирать, свайпить
-gehirn: мозг
-klamotten: шмотки
-börse: биржа
+das Gehirn/Gehirne: мозг
+die Klamotte/Klamotten: шмотка, хлам, старье (обычно во мн.ч.)
+die Börse/Börsen: биржа
 wachen: бодрствовать, дежурить
-wüste: пустыня
+die Wüste/Wüsten: пустыня
 verfügbar: наличествующий
-#gründling: пескарь
-wal: кит
-delphin: дельфин
-oktopus: осьминог
-#roche: скат
-muräne: мурена
-barsch: окунь
-cachalot: кашалот
-pottwal: кашалот
-krabbe:	краб
-#rotbarsch: морской окунь
-krebs: рак
-karpfen: карп
-thunfisch: тунец
-#hecht: щука
-tintenfisch: кальмар
-#karausche: карась	
-meduse: медуза
-qualle: медуза
-forelle: форель
-muschel: мидия
-auster: устрица
-#wels: сом
-garnele: креветка
-#brassen: лещ
-languste: лангуст
-lachs: лосось	
-#hummer: омар
-lobster: омар
-stör: осетр	
-sägefisch: рыба-пила
-kabeljau: треска	
-schwertfisch: рыба-меч
-makrele: скумбрия	
-#felchen: сиг 
-#renke: сиг
-haifisch: акула
-heilbutt: палтус
-#plötze: плотва
-#rotauge: плотва
-dorsch: навага
-kapelan: мойва
-#sterlet: стерлядь
-zander: судак
-seezunge: морской язык
-scholle: камбала
-rotzunge: камбала
-katfisch: зубатка
-seewolf: зубатка
-hering: сельдь
-#stint: корюшка
-#meeräsche: лобан
-seenadel: рыба-игла
-aal: угорь	
-#strömling: салака
-#neunauge: минога	
-goldbrasse: дорада
-seepferdchen: морской конек	
-#pollak: минтай
-seestern: морская звезда	
-#schmerle: голец
-#seeteufel: морской черт	
-barrakuda: барракуда
-brett: доска
-strudel: вихрь, водоворот
+#der Gründling/Gründlinge: пескарь
+der Wal/Wale: кит
+der Delphin/Delphine: дельфин
+der Oktopus/Oktopoden: осьминог
+#der Rochen/Rochen: скат
+#die Muräne/Muränen: мурена
+der Barsch/Barsche: окунь
+der Kaschelott/Kaschelotte: кашелот
+@der Cachelot/Cachelote: кашалот
+der Pottwal/Pottwale: кашалот
+die Krabbe/Krabben:	краб
+#der Rotbarsch/Rotbarsche: морской окунь
+der Krebs/Krebse: рак (животное, созвездие, болезнь)
+der Karpfen/Karpfen: карп
+der Thunfisch/Thunfische: тунец
+#der Hecht/Hechte: щука
+der Tintenfisch/Tintenfische: кальмар, каракатица
+#die Karausche/Karauschen: карась	
+die Meduse/Medusen: медуза
+die Qualle/Quallen: медуза
+die Forelle/Forellen: форель
+die Muschel/Muscheln: мидия
+die Auster/Austern: устрица
+#der Wels/Welse: сом
+die Garnele/Garnelen: креветка
+#der Blei/Bleie(-n): лещ
+#die Brachse/Brachsen: лещ
+die Languste/Langusten: лангуст
+der Lachs/Lachse: лосось,семга, красная рыба	
+#der Hummer/Hummer: омар
+#der Stör/Störe: осетр	
+#der Sägefisch/Sägefische: рыба-пила
+der Kabeljau/Kabeljaue(auch -s): треска	
+der Schwertfisch/Schwertfische: рыба-меч
+die Makrele/Makrelen: скумбрия	
+#der Felchen/Felchen: сиг 
+#die Renke/Renken: сиг
+der Haifisch/Haifische: акула
+der Heilbutt/Heilbutte: палтус
+#die Plötze/Plötzen: плотва
+#das Rotauge/Rotaugen: вобла, плотва, тарань
+der Dorsch/Dorsche: треска, навага
+#der Kapelan/Kapelane: мойва
+#der Sterlet/Sterlete: стерлядь
+der Zander/Zander: судак
+#die Seezunge/Seezungen: морской язык
+#die Scholle/Schollen: камбала
+#die Rotzunge/Rotzungen: камбала
+der Seewolf/Seewölfe: зубатка
+der Hering/Heringe: сельдь
+#der Stint/Stinte: корюшка
+#die Meeräsche/Meeräschen: кефаль
+#die Seenadel/Seenadeln: рыба-игла
+der Aal: угорь	
+#der Strömling/Strömlinge: салака
+#das Neunauge/Neunaugen: минога	
+die Goldbrasse/Goldbrassen: дорада
+das Seepferdchen/Seepferdchen: морской конек	
+#der Pollack/Pollacke: минтай
+der Seestern/Seesterne: морская звезда	
+#die Schmerle/Schmerlen: голец
+#der Seeteufel/Seeteufel: морской черт	
+der Barrakuda/Barrakudas: барракуда
+das Brett/Bretter: доска
+der Strudel/Strudel: вихрь, водоворот
 #Duolingo
-abgeordnete: депутат, делегат
+der Abgeordnete/Abgeordnete: депутат, делегат
 abordnen: делeгировать, направлять, слать
 abstürzen: срываться, падать (со склалы, обрыва)
-abiball: выпускной бал
-absatz: абзац, каблук, уступ/выступ, площадка/ступень лестницы
-abtrocknen: высыхание, вытирать, высушивать
-adler: орел
-affe: обезьяна
-afrika: африка
-akku: аккумулятор
-akte: акт, дело, материалы по делу, документы
-aktentasche: портфель
-album: альбом
-allergie: алергия
+der Abiball/Abibälle: выпускной бал
+der Absatz/Absätze: абзац, каблук, уступ/выступ, площадка/ступень лестницы
+das Abtrocknen: высыхание, вытирать, высушивать
+der Adler/Adler: орел
+der Affe/Affen: обезьяна
+das Afrika: африка
+der Akku/Akkus: аккумулятор
+der Akt/Akte: акт(театр, юр., половой, волевой), поступок, церемония, документ
+die Akte/Akten: акт, дело, материалы по делу, документы
+die Aktentasche/Aktentaschen: портфель
+das Album/Alben: альбом
+die Allergie/Allergien: алергия
 altmodisch: старомодный
-ananas: ананас
+die Ananas/Ananasse: ананас
 anfahren: наезжать(совершать наезд на к-л). доставлять, приезжать, запускать двигатель
 anmelden: докладывать, прописывать, регистрировать, сообщать
-anhang: дополнение, приложение (к письму, договору), близкие, последователи, болельщики, аппендикс
+der Anhang/Anhänge: дополнение/приложение(к письму, договору), аппендикс, близкие/последователи/болельщики(только в ед.ч)
 anprobieren: примерять, мерять
 anstatt: вместо
 anziehen: надевать(одежду, обувь), натягивать 
-arbeitgeber: работодатель
-arbeitszimmer: домашний офис
-architektur: архитектура
-armband: браслет
+der Arbeitgeber/Arbeitgeber: работодатель
+das Arbeitszimmer/Arbeitszimmer: домашний офис
+die Architektur/Architekturen: архитектура
+das Armband/Armbänder: браслет
 attraktiv: привлекательный (о человеке)
-aufführung: поведение, возведение(здания), постановка/представление(кино, театр)
+die Aufführung/Aufführungen: поведение, возведение(здания), постановка/представление(кино, театр)
 aufgehen: открываться, раздвигаться(о занавесе) приходить в голову, всходить(о солнце, семенах), распускаться/расцветать
 aufwaschen: мыть поверхность (пол), мыть посуду(юж.нем.)
 auswaschen: вымывать/отмывать (рану, стакан)
-aufsatz: школьное сочинение, статья, блюдо(еда), ваза
-aula: аудитория
-ausländerbehörde: отдел виз и регистрации иностранцев
-ausrede: оправдание
+der Aufsatz/Aufsätze: школьное сочинение, статья, блюдо(еда), ваза
+die Aula/Aulen(auch Aulas): аудитория
+die Ausländerbehörde/Ausländerbehörden: отдел виз и регистрации иностранцев
+die Ausrede/Ausreden: оправдание
 ausschlafen: просыпать. проспать
 ausverkauft: распродано
 ausziehen: снимать (обувь, одежду)
-azubi: ученик техникума
-badeanzug: купальный костюм
-badehose: плавки (для купания)
-kaufmann: коммерсант, торговец
-basilikum: базилик
-baumwolle: хлопок(материал)
-bayern: Бавария
-becher: стаканчик(бум, пласт), чарка
+der Azubi/Azubis: ученик техникума
+der Badeanzug/Badeanzüge: купальный костюм
+die Badehose/Badehosen: плавки (для купания)
+der Kaufmann/Kaufmänner: коммерсант, торговец
+das Basilikum/Basilikus(auch Basiliken): базилик
+die Baumwolle/Baumwollen: хлопок(материал)
+das Bayern: Бавария
+der Becher/Becher: стаканчик(бумажю, пласт.), чарка
 begabt: одаренный
 belegen: занимать место, покрывать/выстилать(mit), подтверждать что-либо чем-либо(durch)
 bellen: лаять
-bergsteigen: восхождение в горы
-berliner: пончик
-bestellung: заказ
-lacken: простынь
-bettlacken: простынь
-bettdecke: покрывало, одеяло
+bergsteigen: заниматься горным туризмом
+der Berliner/Berliner: пончик
+die Bestellung/Bestellungen: заказ
+das Lacken: простынь
+das Bettlacken: простынь
+die Bettdecke/Bettdecken: покрывало, одеяло
 beunruhigen: беспокоить, настораживать, тревожить
 bewaffnen: вооружать
 bewaffnet: вооруженный
-bischof: епископ
-bonus: бонус
-brauerei: пивоварня
+der Bischof/Bischöfe: епископ
+der Bonus/Bonusse(auch Boni): бонус
+die Brauerei/Brauereien: пивоварня
 brav: послушный
-bretzel: б(п)рецель
-brunnen: колодец
+die Bretzel/Bretzeln: брецель
+der Brunnen/Brunnen: колодец
 brüllen: рычать
-buchladen: книжный магазин
-bundeskanzler: глава правительства(герм.)
-bundestag: парламент (герм.)
-bundesland: фед. земля (герм.)
+der Buchladen/Buchladen: книжный магазин
+der Bundeskanzler/Bundeskanzler: глава правительства(герм.)
+der Bundestag/Bundestage: парламент (герм.)
+das Bundesland/Bundesländer: фед. земля (герм.)
 bügeln: гладить(утюгом), глажка 
-bügel: вешалка
-bürgermeister: бургомистр, мэр
-cent: цент
-chemie: химия
-china:китай
+der Bügel/Bügel: вешалка
+der Bürgermeister/Bürgermeister: бургомистр, мэр
+der Cent/Cents: цент
+die Chemie: химия
+das China:Китай
 chinesisch: китайский
-chor: хор
-clown: клоун
-comics: комикс
-croissant: круассан
-curry: карри
-date: свидание
+der Chor/Chöre: хор
+der Clown/Clowns: клоун
+der Comics: комикс
+der Comic/Comics: комикс
+das Croissant/Croissants: круассан
+das Curry: карри
+das Date/Dates: свидание
 decken: накрывать (одеялом, на стол)
 demnächst: скоро
-demokratie: демократия
+die Demokratie/Demokratien: демократия
 deprimiert: подавленый, удрученный
-diebstahl: кража
-dokufilm: документальный фильм `
-dom:кафедральный собор
-drache: дракон 
-drachen: воздушный змей
+der Diebstahl/Diebstähle: кража
+der Dokufilm/Dokufilme: документальный фильм `
+der Dom/Dome:кафедральный собор
+die Drache/Drachen: дракон 
+der Drachen/Drachen: воздушный змей
 dran: быть на проводе, имеющий ход (в игре)
-#drogeriemarkt: 
+der Drogeriemarkt/Drogeriemärkte: магазин косметики, парфюмерии и средств для дома
 durchstellen: переводить звонок (переключать на другой телефон)
-durchwahlnummer: добавочный/внутренний номер телефона
+die Durchwahlnummer/Durchwahlnummer: добавочный/внутренний номер телефона
 duschen: принимать душ
-döner: донер кебаб
-edelstahl: нержавейка
-eidechse: ящерицв
+der Döner/Döner: донер кебаб
+der Dürüm/Dürüm: шаурма
+der Edelstahl/Edelstähle(auch Edelstahle): нержавеющая сталь
+die Eidechse/Eidechsen: ящерица
 eigen: присущий/характерный
 eigener: свой
 einchecken: чекиниться, регистрироваться(в отеле)
 eineinhalb: полтора
 einhalten: соблюдать(сроки, условия) выполнять (обещание), придерживаться(взглядов)
 einheimische: местный
-einkaufszettel: список покупок
+der Einkaufszettel/Einkaufszettel: список покупок
 einloggen: логиниться
 einlösen: получать деньги по чеку/векселю, выкупать залог, выполнять обещание/сдержать слово
 einreichen: предоставлять/подавать заявление, документы
 einschlafen: засыпать
-eintrittskarte: входной билет
-einweihungsparty: вечеринка по поводу въезда в новое жилье
-einzimmerwohnung: квартира-студия
+die Eintrittskarte/Eintrittskarten: входной билет
+die Einweihungsparty/Einweihungspartys: вечеринка по поводу въезда в новое жилье
+die Einzimmerwohnung/Einzimmerwohnungen: квартира-студия
 eiskalt: морозный. студеный, ледяной
 eislaufen: кататься на коньках
 ekelhaft: отвратительный
-elefant: слон
+der Elefant/Elefanten: слон
 empfindlich: чувствительный
-ente: утка
+die Ente/Enten: утка
 entrümpeln: очищать от хлама(подвал, гараж)
 entschädigen: компенсировать, возмещать, восполнять ущерб
 entspannen: ослаблять, расслаблять,снимать напряжение, разряжать(атмосферу, обстановку)
 entwerten:компостировать (билет), гасить(марку), обесценивать/девальвировать
-erdbeere: клубника/земляника
-erdkunde: география
+die Erdbeere/Erdbeeren: клубника/земляника
+die Erdkunde: география
 erlassen: издавать (закон, декрет), освобождать/снимать(наказание, выговор)
 erstklassig: первоклассный
 erwischen: хватать, ловить (на мечте преступления), успевать (на поезд)
-esszimmer: столовая комната
-eule: сова
+das Esszimmer/Esszimmer: столовая комната
+die Eule/Eulen: сова
 exotische: экзотический
-experiment: эксперимент
+das Experiment/Experimente: эксперимент
 fahrradfahren: ездить на велосипеде
-fahrschein: проездной документ
-fahrt: поездка
+der Fahrschein/Fahrscheine: проездной документ
+die Fahrt/Fahrten: поездка
 fallschirmspringen: прыгать с парашютом
-familienfest: семейный праздник
-farbstift: цветной карандаш
+das Familienfest/Familienfeste: семейный праздник
+der Farbstift/Farbstifte: цветной карандаш
 faszinierend: захватывающий, завораживающий
-federball: бадминтон
-feder: перо
-fell: мех, шерсть, шкура
-ferienhaus: дача, загородный дом
-ferkel: поросенок
+der Federball/Federbälle: бадминтон
+die Feder/Federn: перо
+das Fell/Felle: мех, шерсть, шкура
+das Ferienhaus/Ferienhäuser: дача, загородный дом
+das Ferkel/Ferkel: поросенок
 fern: удаленный, далекий, далеко
-fernsehserie: ТВ сериал
-#fertig machen
+die Fernsehserie/Fernsehserien: ТВ сериал
+@fertig machen: готовить, добивать
 fertiggestellt: завершенный, законченный
 fettarm: обезжиренный
-feuerwerk: феерверк
+das Feuerwerk/Feuerwerke: феерверк
 fischen: рыбачить
 fit: в (хорошей физической) форме
-fitnessstudio: спортзал
-#fix und fertig
-flamingo: фламинго
-fliege: муха, галстук-бабочка
-flugbegleiter: стюард (авиа)
-fluggesellschaft: авиакомпания
-folie: слайд, пленка(упаков.), фольга
-frankreich: Франция
+das Fitnessstudio/Fitnessstudios: спортзал
+@fix und fertig sein: выдохнуться, устать
+der Flamingo/Flamingos: фламинго
+die Fliege/Fliegen: муха, галстук-бабочка
+der Flugbegleiter/Flugbegleiter: стюард (авиа)
+die Fluggesellschaft/Fluggesellschaften: авиакомпания
+die Folie/Folien: слайд, пленка(упаков.), фольга
+das Frankreich: Франция
 #französisch
 freuen: радовать, с sich - радоваться/предвкушать
-#freut mich
-frikadelle: тефтель, фрикаделька, котлета, биток
-frosch: лягушка
+@freut mich: очень приятно
+die Frikadelle/Frikadellen: тефтель, фрикаделька, котлета, биток
+der Frosch/Frösche: лягушка
 #frühstücksflocken
-fuchs: лиса
-futter: корм (для животных)
-fühler: антенна (у насекомых)
+der Fuchs/Füchse: лиса
+das Futter/Futter: корм (для животных)
+der Fühler/Fühler: антенна (у насекомых), датчик, зонд
 füllen: наполнять
-füllung: наполнение
-gans: гусь
-gassi: выгул (собаки)
+die Füllung/Füllungen: наполнение
+die Gans/Gänse: гусь
+@Gassi gehen: выгуливать собаку
 gebraucht: использованный
 #geburtstagskarte
 geduldig: терпеливый
-geheimzahl: пин-код
-geldbeutel: кошелек
-geldstrafe: штраф
+die Geheimzahl/Geheimzahlen: пин-код
+der Geldbeutel/Geldbeutel: кошелек
+die Geldstrafe/Geldstrafen: штраф
 gemein: низкий, подлый, вульгарный
-general: генерал (в армии)
-genf: Женева
-genie: гений
-geräusch: шум
-geschichtsbuch: книга.учебник по истории
+der General/Generale: генерал (в армии)
+die Genf: Женева
+das Genie/Genies: гений
+das Geräusch/Geräusche: шум
+das <geschichtsbuch/geschichtsbücher: книга.учебник по истории
 geschäftlich: служебный, по работе
 #geschäftsfrau: 
-geschäftsmann: бизнесмен
-gespenst: призрак, привидение
-gipsverband: гипс (повязка)
-giraffe: жираф
-glücksbringer: талисман
-glühwein: глинтвейн
+der Geschäftsmann/Geschäftsmänner: бизнесмен
+das Gespenst/Gespenster: призрак, привидение
+der Gipsverband/Gipsverbände: гипс (повязка)
+die Giraffe/Giraffen: жираф
+der Glücksbringer/Glücksbringer: талисман
+der Glühwein/Glühweine(-n): глинтвейн
 golden: золотой
-grammatik: грамматика
+die Grammatik/Grammatiken: грамматика
 grauenhaft: ужасный
 #griechisch
 #grillparty
@@ -3704,404 +3710,405 @@ groß: высокий(о человеке)
 großartig: великолепный
 #großbritannien
 großzügig: щедрый
-grundschule: начальная школа
-grüne: зелень
-gurke: огурец
-gurkensalat
-#rutsch
-gutschein: подарочный купон(сертификат, карта)
-gürtel: ремень
-#haarreif
-halbzeit: тайм (в игре) 
-hamster: хомяк
-#handball
-handlung: лавка(магазин), сюжет, действие
-handschuh: перчатка
-handtasche: дамская сумочка
-#handynummer
-hauptfach: основная специальность/главный учебный предмет
-hausarbeit: работа по дому, домашняя работа
-#hausnummer
-#heimtrainer: велотренажер
+die Grundschule/Grundschulen: начальная школа
+das Grüne: зелень
+die Gurke/Gurken: огурец
+#der Rutsch/Rutsche: оползень, сдвиг
+der Gutschein/Gutscheine: подарочный купон(сертификат, карта)
+der Gürtel/Gürtel: ремень
+#der Haarreif/Haarreife: ободок для волос
+die Halbzeit/Halbzeiten: тайм (в игре) 
+der Hamster/Hamster: хомяк
+#der Handball
+die Handlung/Handlungen: лавка(магазин), сюжет, действие
+der Handschuh/Handschuhe: перчатка
+die Handtasche/Handtaschen: дамская сумочка
+#die Handynummer/Handynummer
+das Hauptfach/Hauptfächer: основная специальность/главный учебный предмет
+die Hausarbeit/Hausarbeiten: работа по дому, домашняя работа
+#die Hausnummer/Hausnummer
+#der Heimtrainer/Heimtrainer: велотренажер
 herrlich: великолепный, превосходный
 herum: вокруг, кругом
 hervorragend: выдающийся, незаурядный
-hexe: ведьма
+idie Hexe/Hexen: ведьма
 hilfreich: полезный, готовый помочь
-#Hin- und Rückfahrt
+@Hin- und Rückfahrt: поездка туда и обратно
 hinaus: наружу
 hinausgehen: выходить (из дома, за пределы)
 hochgehen: подниматься (на ч-л), бушевать (о море)
 #hockey
 #holländisch
-horrorfilm: фильм ужасов
-hort: оплот, продленка (в школе, детсаду)
-hosentasche: карман
-hubschrauber: вертолет
-huhn: курицв
+der Horrorfilm/Horrorfilme: фильм ужасов
+der Hort/Horte: оплот, продленка (в школе, детсаду), приют
+die Hosentasche/Hosentaschen: карман
+der Hubschrauber/Hubschrauber: вертолет
+das Huhn/Hühner: курицв
 hurra: ура!
-hörsaal: аудитория, лекционный зал
+der Hörsaal/Hörsäle: аудитория, лекционный зал
 #indien
 #indische
 #indian
-#informatik: информатика
-#internetverbindung
+die Informatik: информатика
+die Internetverbindung/Internetverbindungen: связь с интернет
 #irisch
 #irland
 #island
 #italienisch
 jagen: охотиться
-jahrestag: годовщина
+der Jahrestag/Jahrestage: годовщина
 #japan
 #japanisch
 #jazz
-jobinterview: собеседование
-joghurt: йогурт
+das Jobinterview/Jobinterviews: собеседование
+der Joghurt(auch das)/Joghurts: йогурт
 jugendlich: молодежный 
-jura: юриспруденция
-jäger: охотник
-kaiser: император, кайзер
+die Jura: юриспруденция
+die Jurisprundenz: юриспруденция
+der Jäger/Jäger: охотник
+der Kaiser/Kaiser: император, кайзер
 #kaiserthermen
 #kanada
 #kanadier
-kaninchen: кролик
-kanzler: канцлер
-kappe: капюшон, колпак, шапка, колпачок
+das Kaninchen/Kaninchen: кролик
+der Kanzler/Kanzler: канцлер
+die Kappe/Kappen: капюшон, колпак, шапка, колпачок
 #karibik
 #karnevalsparty
-karnevalsumzug: карнавальный парад
+der Karnevalsumzug/Karnevalsumzüge: карнавальный парад
 #kartoffelsalat
-karton: картонная коробка
-keks: печенье (штука)
+der Karton/Kartons: картонная коробка
+der Keks/Kekse: печенье (штука)
 #kinderbuch
 #kinderstuhl
 #kinderzimmer
 #kinokarte
-klassentreffen: встреча класса (через N лет)
-kleingeld: сдача
-klimawandel: изменение климата
-kloster: монастырь
+das Klassentreffen/Klassentreffen: встреча класса (через N лет)
+das Kleingeld/Kleingelder(-n): сдача
+der Klimawandel/Klimawandel: изменение климата
+der Kloster/Kloster: монастырь
 kneten: лепить, месить/вымешивать(тесто), массировать
-knoblauch: чеснок
-koalition: коалиция
-kochbuch: кулинарная книга
-kochlöffel: поварешка
-kofferausgabe: выдача багажа
-kofferraum: багажник авто
-kommode: комод
-komödie: комедия
-konditorei: кондитерская
+der Knoblauch/Knoblauche(-n): чеснок
+die Koalition/Koalitionen: коалиция
+das Kochbuch/Kochbücher: кулинарная книга
+der Kochlöffel/Kochlöffel: поварешка
+die Kofferausgabe/Kofferausgaben: выдача багажа
+der Kofferraum/Kofferräume: багажник авто
+die Kommode/Kommoden: комод
+die Komödie/Komödien: комедия
+die Konditorei/Konditoreien: кондитерская
 konservativ: консервативный
-konsole: консоль, кронштейн
-kontinent: континент
+die Konsole/Konsolen: консоль, кронштейн
+der Kontinent/Kontinente: континент
 #kontonummer
-kontrolle: контроль, проверка
-kopfhörer: наушники
-kopfkissen: подушка
-kopfschmerzen: головная боль
-krafttraining: силовая тренировка
-krawatte: галстук
+die Kontrolle/Kontrollen: контроль, проверка
+der Kopfhörer/Kopfhörer: наушники
+das Kopfkissen/Kopfkissen: подушка
+der Kopfschmerz/Kopfschmerzen: головная боль
+das Krafttraining/Krafttrainings: силовая тренировка
+die Krawatte/Krawatten: галстук
 kreuzen: перекрешивать, крестить, ставить крестик (в графе)
-kreuzfahrt: круиз
-kreuzung: перекресток, пересечение, гибрид
-krokodil: крокодил
-kugel: шар, ядро, пуля
-kuh: корова
+die Kreuzfahrt/Kreuzfahrten: круиз
+die Kreuzung/Kreuzungen: перекресток, пересечение, гибрид
+der Krokodil/Krokodile: крокодил
+die Kugel/Kugeln: шар, ядро, пуля
+die Kuh/Kühe: корова
 #kunstmuseum
 kuschelig: мягкий, пухлый, уютный
-käfig: клетка
+der Käfig/Käfige: клетка
 kämmen: причесывать
 #käsebrot
 #käsespätzle
 #köln
 #küchensachen
 #küchenwaage
-labor:лаборатория
-ladegerät: зарядное устройство
-landkarte: карта (географическая)
-leberwurst: ливерная колбаса
+das labor/labore(auch Labors):лаборатория
+das Ladegerät/Ladegeräte(-n): зарядное устройство
+die Landkarte/Landkarten: карта (географическая)
+die Leberwurst/Leberwürste: ливерная колбаса
 #lederjacke
-leid: горе
-leine: поводок, канат, веревка, линь
-Leopard: леопард
-leuchtturm: маяк
+das Leid: горе
+die Leine/Leinen: поводок, канат, веревка, линь
+der Leopard/Leoparden: леопард
+der Leuchtturm/Leuchttürme: маяк
 liberal: либеральный
-lieferservice: служба доставки
+der Lieferservice(auch das)/Lieferservices: служба доставки
 lila: лиловый
-lineal: линейка
-linguistik: лингвистика
+das Lineal/Lineale: линейка
+die Linguistik: лингвистика
 #lissabon
 lockig: вьющийся, кучерявый (о волосах)
-luftballon: воздушный шарик
+der Luftballon/Luftballons: воздушный шарик
 #luxemburg
 #luxushotel
-löwe: лев
+der Löwe/Löwen: лев
 #mittagszeit: время ленча
 mittelalter: средние века
 #mittelfeldspieler
 #mittelmeer
-mitternacht: полночь
-mobilbox: голосовая почта
-moped: мопед
-moschee: мечеть
+die Mitternacht/Mitternächte: полночь
+die Mobilbox/Mobilboxen: голосовая почта
+das Moped/Mopeds: мопед
+die Moschee/Moscheen: мечеть
 motiviert: мотивированный
 mähen: косить (траву,газон)
-möbelhaus: мебельный магазин
+das Möbelhaus/Möbelhäuser: мебельный магазин
 #münchen
-nachname: фамилия
-nachrichtensprecher: ведущий новостей
+der Nachname/Nachnamen: фамилия
+der Nachrichtensprecher/Nachrichtensprecher: ведущий новостей
 nachsehen: просматривать, смотреть в справочнике/словаре/..., прощать, относиться снисходительно, смотреть вслед
-nachtisch: десерт
-nacken: шея (затылок)
+der Nachtisch/Nachtische: десерт
+der Nacken/Nacken: шея (затылок)
 #namibia
-nebenfach: боковой ящик, вторая специальность, второстепенный предмет(в университете)
+das Nebenfach/Nebenfächer: боковой ящик, вторая специальность, второстепенный предмет(в университете)
 nerven: нервировать, раздражать
 nervig: жилистый, энергичный, действующий на нервы
-nest: гнездо
+das Nest/Nester: гнездо
 #neuseeland
-nickerchen: дрема, короткий сон
+das Nickerchen/Nickerchen: дрема, короткий сон
 #nordamerika
-notizbuch: записная книжка
-nudelholz: скалка
-null: ноль
+das Notizbuch/Notizbücher: записная книжка
+das Nudelholz/Nudelhölzer: скалка
+die Null: ноль
 #nussallergie
 obdachlos: бездомный
-obstsalat: фруктовый салат
-ofen: духовка
-ohrring: серьга
+der Obstsalat/Obstsalate: фруктовый салат
+der Ofen/Öfen: духовка
+der Ohrring/Ohrringe: серьга
 #oktoberfest
-omelett: омлет
-ostern: пасха
+das Omelett/Omelette: омлет
+das Ostern/Ostern: пасха
 #ostsee: балтика
-packung: упаковка
-panda: панда
-panik: паника
-papa: папа
-papagei: попугай
-parkplatz: парковка
-partei: партия (политическая)
-#pass auf
+die Packung/Packungen: упаковка
+der Panda/Pandas: панда
+die Panik/Paniken: паника
+der Papa/Papas: папа
+der Papagei/Papageien: попугай
+der Parkplatz/Parkplätze(-n): парковка
+die Partei/Parteien: партия (политическая)
+@pass auf:Внимание! Осторожно!
 #passfoto
-pastete: паштет, слоеный пирожок с начинкой
-pausenbrot: школьный ланч, перекус
-philosophie: философия
-physik: физика
-pinguin: пингвин
-pirat: пират
+die Pastete/Pasteten: паштет, слоеный пирожок с начинкой
+das Pausenbrot/Pausenbrote: школьный ланч, перекус
+die Philosophie: философия
+die Physik: физика
+der Pinguin/Pinguine: пингвин
+der Pirat/Piraten: пират
 #pizza
-platzanweiser: капельдинер, распорядитель (в зале), билетер
+der Platzanweiser/Platzanweiser: капельдинер, распорядитель (в зале), билетер
 plaudern: болтать
-plus: плюс
+das Plus/Plus: плюс, излишек, профицит
+das Minus/Minus: минус, недостаток, дефицит
 #podcast
 #polen
-politikwissenschaft: политология
+die Politikwissenschaft: политология
 #polnisch
-pommes: картофель фри
+die Pommes: картофель фри
 #popcorn
-popmusik: попса
+die Popmusik/Popmusiken: попса
 #prag
-prinz: принц
-prinzessin: принцесса
+der Prinz/Prinzen: принц
+die Prinzessin/Prinzessinen: принцесса
 #proseminar
-psychologie: психология
-pudel: пудель
-puppenspieler: кукловод
-puppentheater: кукольный театр
+die Psychologie: психология
+der Pudel/Pudel: пудель
+der Puppenspieler/Puppenspieler: кукловод
+das Puppentheater/Puppentheater: кукольный театр
 #puzzle
-quatsch: чушь
-quell: ручей, причина
-quelle: [перво]источник, родник (die), ручей, причина (der)
-radiergummi: ластик
+der Quatsch: чушь
+der Quell/Quelle: ручей, причина
+die Quelle/Quellen: [перво]источник, родник (die), ручей, причина (der)
+der Radiergummi(auch das)/Radiergummis: ластик
 #radtour
-rastplatz: площадка для отдыха (на автобане)
-ratte: крыса
+der Rastplatz/Rastplätze: площадка для отдыха (на автобане)
+die Ratte/Ratten: крыса
 recherchieren: расследовать, вести поиск
-rechtschreibung: орфография, правописание
+die Rechtschreibung/Rechtschreibungen: орфография, правописание
 recyceln: перерабатывать
-regenmantel: дождевик(плащ)
-regenschirm: зонтик
+der Regenmantel/Regenmäntel: дождевик(плащ)
+der Regenschirm/Regenschirme: зонтик
 regieren: управлять
-regierung: правительство
-reifenpanne: сдутая шина
+die Regierung/Regierungen: правительство
+die Reifenpanne/Reifenpannen: сдутая шина
 reinkommen: входить
 #reiseadapter
-reisetasche: баул, саквояж, дорожная сумка
+die Reisetasche/Reisetaschen: баул, саквояж, дорожная сумка
 #reisezentrum
-#rhein
-riesenrad: колесо обозрения
+#Rhein
+das Riesenrad/Riesenräder: колесо обозрения
 #rinderbraten
 riskant: рискованный
-ritter: рыцарь
-roboter: робот
+der Ritter/Ritter: рыцарь
+der Roboter/Roboter: робот
 #rockkonzert
-rollschuhe: роликовые коньки
-rolltreppe: эскалатор
+die Rollschuhe: роликовые коньки
+die Rolltreppe/Rolltreppen: эскалатор
 rosa: розовый
-rotkäppchen: Красная Шапочка
-rotwein: красное вино
+Rotkäppchen: Красная Шапочка
+der Rotwein/Rotweine(-n): красное вино
 #router
-ruf: возглас, восклицание, вызов, крик, звонок
+der Ruf/Rufe: возглас, восклицание, вызов, крик, звонок
 #rugby
 ruhen: покоиться(на ч-л), основываться, бездействовать, отдыхать
 runterfallen: падать
 #russland
 räumen: освобождать, убирать, опустошать
 #römisch
-röntgenbild: рентгеновский снимок
+das Röntgenbild/Röntgenbilder: рентгеновский снимок
 #rügen
-sakko: пиджак
+der Sakko(auch das)/Sakkos: пиджак
 #salami
-sandale: сандалия, босоножка
+die Sandale/Sandalen: сандалия, босоножка
 #sandwich: сэндвич
-sauerkraut: квашеная капуста
-#sauna
-schach: шахматы
-schaf: овца 
-schal: шарф
-schatz: сокровище, дорогая/ой!
-scheck: чек(банк.), платежное поручение
+das Sauerkraut: квашеная капуста
+die Sauna/Saunas(auch Saunen)
+das Schach/Schachs: шахматы
+das Schaf/Schafe: овца 
+der Schal/Schals: шарф
+der Schatz/Schätze: сокровище, дорогая/ой!
+der Scheck/Schecks: чек(банк.), платежное поручение
 scheußlich: ужасный
-schiedsrichter: рефери, судья (в игре)
-schildkröte: черепаха
-schlafanzug: пижама
-schlagzeug: барабанная установка
-schlosser: слесарь
+der Schiedsrichter/Schiedsrichter: рефери, судья (в игре)
+die Schildkröte/Schildkröten: черепаха
+der Schlafanzug/Schlafanzüge: пижама
+das Schlagzeug/Schlagzeuge: барабанная установка
+der Schlosser: слесарь
 schmerzen: болеть, ныть, саднить
 schnarchen: храп, храпеть
-schnecke: улитка
-schneemann: снеговик
-schneidebrett: разделочная доска 
-schneider: портной
-#schottland
-schrebergarten: городской садовый участок/огород
-schreibblock: блокнот
-schreibtisch: письменный стол
-schublade: выдвижной ящик
-schulranzen: школьный ранец
-schuppe: чешуя, чешуйка
-schwager: шурин, деверь
+die Schnecke/Schnecken: улитка
+der Schneemann/Schneemänner: снеговик
+das Schneidebrett/Schneidebretter: разделочная доска 
+der Schneider/Schneider: портной
+#Schottland
+der Schrebergarten/Schrebergärten: городской садовый участок/огород
+der Schreibblock/Sschreibblöcke: блокнот
+der Schreibtisch/Schreibtische: письменный стол
+die Schublade/Schubladen: выдвижной ящик
+der Schulranzen/Schulranzen: школьный ранец
+die Schuppe/Schuppen: чешуя, чешуйка
+der Schwager/Schwager: шурин, деверь
 schwarzfahren: ездить зайцем
-#schwarzwald
-#schweden
-#schweiz
-schwert: меч
-schwiegereltern: тесть, теща, свекр и сверовь, собирательно
-schwimmbecken: бассейн(непосредственно)
-#schwimmsachen
+#Schwarzwald
+#Schweden
+#Schweiz
+das Schwert/Schwerter: меч
+die Schwiegereltern: тесть, теща, свекр и сверовь, собирательно
+das Schwimmbecken/Schwimmbecken: бассейн(непосредственно)
+#die Schwimmsachen
 schwindelig: головокружительный, подверженный головокружению, (mir wurde ...) у меня кружится голова
-Schwägerin:невестка, сноха, своячница
+die Schwägerin/Schwägerinen:невестка, сноха, своячница
 schwänzen: отлынивать, прогуливать
-#schäferhund
+#der Schäferhund
 schüchtern: застенчивый
-schürze: фартук 
+die Schürze/Schürzen: фартук 
 segeln: плавать под парусом
-seide: шелк 
-sekt: шампанское
+die Seide/Seiden: шелк 
+der Sekt/Sekte(-n): шампанское
 #semesterbeginn
 #semesterende: конец семестра
-senf: горчица
-#shampoo
-shorts: шорты
-silber: серебро
+der Senf/Senfe: горчица
+das Shampoo/Shampoos:шампунь
+die Shorts: шорты
+das Silber: серебро
 silbern: серебряный
-silvester: новый год
-sitzplatz: сидячее место
+das Silvester/Silvester: новый год
+der Sitzplatz/Sitzplätze(-n): сидячее место
 #skateboard
 #software
-sommerjob: подработка на каникулах
+der Sommerjob/Sommerjobs: подработка на каникулах
 sondern: но скорее
-sonnenbrand: солнечный ожог
-sonnenbrille: солнечные очки
-sonnencreme: крем от солнца 
+der Sonnenbrand/Sonnenbrände: солнечный ожог
+die Sonnenbrille/Sonnenbrillen: солнечные очки
+die Sonnencreme/Sonnencremes: крем от солнца 
 sonntags: по воскресеньям
 #spa: спа
-spaghetti: спагетти
-spargel: спаржа
+die Spaghetti: спагетти
+der Spargel/Spargel: спаржа
 spazieren: прогуливаться
-speck: бекон
-spende: пожертвование
+der Speck/Specke(-n): бекон
+die Spende/Spenden: пожертвование
 spenden: жертвовать (донатить)
-spinat: шпинат
-spinne: паук
+der Spinat/Spinate(-n): шпинат
+die Spinne/Spinnen: паук
 spinnen: прясть, плести, ткать, выдумывать/чудить/сходить с ума
-sporthalle: спортзал
+die Sporthalle/Sporthallen: спортзал
 #sportverein: спортклуб
-spülbecken: кухонная раковина/мойка
-spülmaschine: посудомоечная машина
-staatsangehörigkeit: гражданство
+das Spülbecken/Spülbecken: кухонная раковина/мойка
+die Spülmaschine/Spülmaschinen: посудомоечная машина
+die Staatsangehörigkeit/Staatsangehörigkeiten: гражданство
 stabil: стабильный, устойчивый, крепкий
-stadtführung: экскурсия по городу
-#stadtmuseum
-stadtrundgang: пешая экскурсия по городу
-stadtviertel: городской квартал
-stadtzentrum: центр города
-staffel: сезон (сериала), ступень, уступ, эстафета, эшелон(авиа), ярус
-stall:конюшня,стойло,хлев,птичник
+die Stadtführung/Stadtführungen: экскурсия по городу
+#das Stadtmuseum
+der Stadtrundgang/Stadtrundgänge: пешая экскурсия по городу
+das Stadtviertel/Stadtviertel: городской квартал
+das Stadtzentrum/Stadtzentrum: центр города
+die Staffel/Staffeln: сезон (сериала), ступень, уступ, эстафета, эшелон(авиа), ярус
+der Stall/Ställe:конюшня,стойло,хлев,птичник
 steigend: возрастающий, восходящий
-Stiefmutter: мачеха
-stiefvater: отчим
-stollen: рождественский фруктовый кекс
-stoppschild: знак остановки
+die Stiefmutter/Stiefmutter: мачеха
+der Stiefvater/Stiefvater: отчим
+der Stollen/Stollen: рождественский фруктовый кекс
+das Stoppschild/Stoppschilder: знак остановки
 stornieren: отменять, расторгать/аннулировать(контракт)
 stricken: вязать(на спицах)
-studentenausweis: студенческий билет
-studentenwohnheim: студенческое общежитие
-studienplatz: место в вузе (поступать)
-stundenplan: расписание
+der Studentenausweis/Studentenausweise: студенческий билет
+das Studentenwohnheim/Studentenwohnheime: студенческое общежитие
+der Studienplatz/Studienplätze(-n): место в вузе (поступать)
+der Stundenplan/Stundenpläne: расписание
 stur: упрямый, упертый
-surfbrett: доска для серфинга
-#syrien
+das Surfbrett/Surfbretter: доска для серфинга
+#Syrien
 #Südafrika
-#südamerika
-tagebuch: дневник
-tank: бак, танк, цистерна
-taschenrechner: калькулятор
-taube: голубь
-taxifahrt: поездка на такси
-taxistand: стоянка такси
-technoparty: рейв
-teekanne: чайник
-teig: тесто
-telefonnummer: телефонный номер
-tierarzt: ветеринар
-tiergarten: зоопарк
-tierheim: приют для животных
-# tierpfleger: 
-# toast: тост(хлеб)
-# toaster: тостер
-tofu: тофу
-tonne: тонна, бочка, контенер
-torwart: вратарь
-trampolin: трамплин
-trauben: виноград
-traumberuf: работа мечты
-#trier
-trikot: майка, футболка, трико, трикотаж
+#Südamerika
+das Tagebuch/Tagebücher: дневник
+der Tank/Tanks(auch Tanke): бак, танк, цистерна
+der Taschenrechner/Taschenrechner: калькулятор
+die Taube/Tauben: голубь
+die Taxifahrt/Taxifahrten: поездка на такси
+der Taxistand/Taxistände: стоянка такси
+die Technoparty/Technopartys: рейв
+die Teekanne/Teekannen: чайник
+der Teig/Teige: тесто
+die Telefonnummer/Telefonnummer: телефонный номер
+der Tierarzt/Tierärzte: ветеринар
+der Tiergarten/Tiergarten: зоопарк
+das Tierheim/Tierheime: приют для животных
+# Tierpfleger: 
+# Toast: тост(хлеб)
+# Toaster: тостер
+der Tofu: тофу
+die Tonne/Tonnen: тонна, бочка, контенер
+der Torwart/Torwarte: вратарь
+das Trampolin/Trampoline: трамплин
+die Traube/Trauben: кисть/гроздь винограда, смородины
+der Traumberuf/Traumberufe: работа мечты
+#Trier
+das Trikot/Trikots: майка, футболка, трико, трикотаж
 trimmen: подгонять, приучать, дрессировать
-trockner: сушилка
+der Trockner/Trockner: сушилка
 trösten: утешать
-turnschuhe: спортивная обувь
-tänzer: танцор
-#türkei
-#ufo
-umkleidekabinen: кабины для переодевания, примерочныe
+die Turnschuhe: спортивная обувь
+der Tänzer/Tänzer: танцор
+#Türkei
+#Ufo
+die Umkleidekabine/Umkleidekabinen: кабина для переодевания, примерочная
 umweltfreundlich: благоприятный для окружающей среды
 unertragbar: невыносимый
-#ungarn
-ungeheuer: монстр, чудовище
+#Ungarn
+das Ungeheuer/Ungeheuer: монстр, чудовище
 unglücklich: несчастливый, неудачный
 unhöflich: невежливый, неучтивый
-uni: университет
-#uniabschluss
+die Uni: университет
+#Uniabschluss
 unordentlich: неряшливый, беспорядочный
 #unser
-unsinn: чушь
-unterwäsche: нижнее белье
+der Unsinn: чушь
+die Unterwäsche/Unterwäschen: нижнее белье
 unvorbereitet: без подготовки, врасплох
-#vatertag
-vegan: веган
-#venedig
-ventilator: вентилятор
+#Vatertag
+der Vegan/Veganen: веган
+#Venedig
+der Ventilator/Ventilatoren: вентилятор
 verkleiden: переодевать, с sich - наряжаться/переодеваться
 verloben: обручаться
 vermischen: смешивать, перемешивать
@@ -4109,91 +4116,92 @@ verschenken: раздаривать, передаривать, отдаю дар
 versichert: застрахованный
 verspannt:натужный
 verspäten: с sich - опаздывать
-verteidiger: защитник(в том числе в спорте)
+der Verteidiger/Verteidiger: защитник(в том числе в спорте)
 verwandeln: превращать, преображать
 verwählen: ошибаться в наборе тел. номера
 verwöhnen: баловать
 verärgert: разозленный, раздосадованный
-videospiel: видеоигра
-vielfalt: многообразие, разнообразие, дайверсити
-viereck: четырехугольник
+das Videospiel/Videospiele: видеоигра
+die Vielfalt: многообразие, разнообразие, дайверсити
+das Viereck/Vierecke: четырехугольник
 viereckig: четырехугольный
-#villa
-vokabel: слово
+#Villa
+die Vokabel/Vokabeln: слово
 vorbeikommen:заезжать, заходить, заглядывать к к-л
-vorlesung: лекция
+die Vorlesung/Vorlesungen: лекция
 vorstellen: представлять
-vorsatz: замысел, намерение, проект, план, форзац
+der Vorsatz/Vorsätze: замысел, намерение, проект, план, форзац
 vorzeigen: предъявлять (паспорт, проездной)
 wachsend: растущий
 wandern: бродить, ходить в поход, странствовать, гулять
-#warschau
-wartezimmer: комната ожидания
-waschbär: енот
+#Warschau
+das Wartezimmer/Wartezimmer: комната ожидания
+der Waschbär/Waschbären: енот
 waschen: мыть, стирать, умывать, стирка, умывание
-waschmaschine: стиральная машина
-#wasserflasche
-wasserkocher: электрический чайник
-wassermelone: арбуз
-wegbeschreibung: маршрут
-weh: боль, скорбь, печаль
-weihnachten: рождество
+die Waschmaschine/Waschmaschinen: стиральная машина
+#die Wasserflasche
+der Wasserkocher/Wasserkocher: электрический чайник
+die Wassermelone/Wassermelonen: арбуз
+die Wegbeschreibung/Wegbeschreibungen: маршрут
+das Weh: боль, скорбь, печаль
+das Weihnachten/Weihnachten: рождество
 weiterlesen: продолжать чтение
-weißbier: пшеничное пиво
-weißwein: белое вино
-weltreise: кругосветное путешествие
+das Weißbier/Weißbiere(-n): пшеничное пиво
+der Weißwein/Weißweine(-n): белое вино
+die Weltreise/Weltreisen: кругосветное путешествие
 wessen: чей
 wiederherstellen: восстанавливать, реставрировать
 wiederkommen: возвращаться
 #wiederzusehen
-#wien
-#wiesn-herz
-#winterstiefel
-wlan:WiFi
-wochenmarkt: рынок выходного дня
+#Wien
+#Wiesn-herz
+#Winterstiefel
+das Wlan/Wlans: Wi-Fi
+der Wochenmarkt/Wochenmärkte: рынок выходного дня
 wofür: ради чего?
-wolf: волк
+der Wolf/Wölfe: волк
 wonach: после чего?
 woran: в чем? к чему? на чем?
 woraus: откуда? 
 wovon: из чего?, от чего?, о чем?
-wurm: червь
+der Wurm/Würmer: червь
 wöchentlich: еженедельно
-würstchen: сосискв
+das Würstchen/Würstchen: сосискв
 würzig: пряный
 #yoga
 #yogamatte
-zahnarzt: дантист
+der Zahnarzt/Zahnärzte: дантист
 #zahnschmerzen
-Zahnspange: брекеты (на зубах)
-zauberer: волшебник
-zebra: зебра
-zeh: палец на ноге
-zeichentrickfilm: мультфильм
+die Zahnspange/Zahnspangen: брекеты (на зубах)
+der Zauberer/Zauberer: волшебник
+das Zebra/Zebras: зебра
+der Zeh/Zehen: палец на ноге
+der Zeichentrickfilm/Zeichentrickfilme: мультфильм
 zellten: ставить палатку/жить в палатке
 zerbrochen: сломанный
 zerknittert: смятый
 zerstört: разрушенный
 zeugen:свидетельствовать, служить подтверждением
-ziege: коза 
+die Ziege/Ziegen: коза 
 zig: тысячи (неопределенное большое число)
 zudecken: прикрывать, укрывать, накрывать, застилать
 #zugtür
-zunge: язык(орган), язычок(обуви)
+die Zunge/Zungen: язык(орган), язычок(обуви)
 zurückbekommen: получать ч-л назад
 zurückzahlen: отдавать долг, платить/выплачивать
 zusammenarbeiten: работать совместно
 #zweimal
 #zweiten
-#zypern
-#zürich
-#ägypten
+#Zypern
+#Zürich
+#Ägypten
 öffnungszeiten: часы работы 
-#österreich
-überfallen: нападать, атаковатьzunächst
+#Österreich
+überfallen: нападать, атаковать
+zunächst:сначала, пока
 übergeben: перепоручать, с sich - блевать, капитулировать
 #überglücklich
 überschwemmen: затапливать
-überschwemmung: затопление
-überstunden: переработка, сверхурочные
-übung: упражнение
+die Überschwemmung/Überschwemmungen: затопление
+die Überstunden: переработка, сверхурочные
+die Übung/Übungen: упражнение
