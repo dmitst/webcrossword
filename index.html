@@ -21,20 +21,14 @@
     </header>
     <main>
         <div class="menu">
-            <div><label><input type="radio" name="games" value="cross" checked="checked">Crossword</label></div>
-            <div><label><input type="radio" name="games" value="cards">Flashcards</label></div>
-            <div>
-                <label><input id="bupload" type="file"><img class="btn" src="upload.svg"></label>
-                <a id="savelink" href="" download="thesaurus.txt"><img id="bdownload" class="btn" src="download.svg"></a>
-            </div>
-            <div>
-                <input id="bclean" type="image" class="btn" src="clean.svg">
-                <input id="brecycle" type="image" class="btn" src="recycle.svg">
-            </div> 
-            <div><label>Upload from site</label></div>
-            <div>
+            <div class="button" id="games">⇵</div>
+            <div class="button" id="bupload"><!--<label><input id="bupload" type="file"><img class="btn" src="upload.svg"></label>-->⬆Upload</div>
+            <div class="button"><a id="savelink" href="" download="thesaurus.txt">⬇Download<!-- <img id="bdownload" class="btn" src="download.svg">--></a></div>
+            <div class="button" id="bclean"><!--<input id="bclean" type="image" class="btn" src="clean.svg">-->❌Clean</div>
+            <div class="button" id="brecycle"><!--<input id="brecycle" type="image" class="btn" src="recycle.svg">-->♻Recycle</div> 
+            <div><label>Upload from site</label>
                 <select id="selectdict">
-                <option></option>
+                <option value=""></option>
                 <option value="telc_aef_a11.txt">Telc "Auf Jeden Fall" A1.1</option>
                 <option value="telc_aef_a12.txt">Telc "Auf Jeden Fall" A1.2</option>
                 <option value="telc_aef_a21.txt">Telc "Auf Jeden Fall" A2.1</option>
@@ -47,14 +41,12 @@
                 </select>
             </div>
 
-            <div><label>Dictionary size</label></div>
-            <div><label id="sizecol">0/0</label></div>
+            <div>Dictionary:&nbsp;<label id="sizecol">0/0</label></div>
 
-            <div class="cardsonly"><label><input type="radio" name="cardside" value="face">face</label></div>
-            <div class="cardsonly"><label><input type="radio" name="cardside" value="back" checked="checked">back</label></div>
+            <div class="cardsonly"><label><input type="radio" name="cardside" value="face">face</label>
+            <label><input type="radio" name="cardside" value="back" checked="checked">back</label></div>
 
-            <div class="crossonly"><label>Crossword size</label></div>
-            <div class="crossonly"><input type="range" id="gridSize" min="10" max="20" value="13" step="1"></div>
+            <div class="crossonly">Field:<input type="range" id="gridSize" min="10" max="20" value="13" step="1"></div>
 
             <div class="crossonly"><label>Reuse words</label></div>
             <div class="crossonly">
@@ -64,8 +56,12 @@
             </div>
                
             <div style="grid-column: span 2; text-align: left;">
+                <span id="bcross" class="button crossonly">↩Back to crosswrord</span>
+                <span id="bcards" class="button cardsonly">↩Back to flashcards</span>
+<!--
                 <input id="bcross" type="image" class="btn crossonly" src="crossword.svg">
                 <input id="bcards" type="image" class="btn cardsonly" src="card.svg">
+-->
             </div>
         </div>
         <div class="cardstile">
@@ -121,7 +117,7 @@
                     </ul>
                 </div>
             </div>
-            <div id="backclue"><img src="generate.svg"></div>
+            <div id="backclue" class="button">Back to crossword<!--<img src="generate.svg">--></div>
         </div>
     </main>
 </div>

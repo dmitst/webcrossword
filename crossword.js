@@ -450,9 +450,9 @@ class Crossword {
         popup.className = 'keyboard-popup';
 
         const layout = [
-            ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o'],
+            ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
             ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
-            ['z', 'x', 'c', 'v', 'b', 'n', 'm', 'p'],
+            ['z', 'x', 'c', 'v', 'b', 'n', 'm'],
             [ 'è', 'ö', 'ü', 'ä', 'ß']
         ];
 
@@ -474,14 +474,19 @@ class Crossword {
           lastRow.className = 'row';
 
           const buttonMenu = document.createElement('button');
-          buttonMenu.textContent = '≡';
+          buttonMenu.textContent = '⋮';//≡
           buttonMenu.onclick = () => showMenu();
           lastRow.appendChild(buttonMenu);
 
           const buttonNew = document.createElement('button');
-          buttonNew.textContent = '▦';// ⊞
+          buttonNew.textContent = '⟲';// ▦⊞
           buttonNew.onclick = () => generateCrossword();
           lastRow.appendChild(buttonNew);
+
+          const buttonClue = document.createElement('button');
+          buttonClue.textContent = '…';
+          buttonClue.onclick = () => crossword.switchClues(true);
+          lastRow.appendChild(buttonClue);
 
           const buttonHint = document.createElement('button');
           buttonHint.textContent = '?';
@@ -492,11 +497,6 @@ class Crossword {
           buttonSolve.textContent = '✓';
           buttonSolve.onclick = () => crossword.solveCrossword();
           lastRow.appendChild(buttonSolve);
-
-          const buttonClue = document.createElement('button');
-          buttonClue.textContent = '…';
-          buttonClue.onclick = () => crossword.switchClues(true);
-          lastRow.appendChild(buttonClue);
 
           const buttonBS = document.createElement('button');
           buttonBS.textContent = '←';

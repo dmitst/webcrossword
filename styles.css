@@ -23,12 +23,12 @@
 .keyboard-popup .row {
     display: flex;
     justify-content: center;
-    margin-bottom: 5px;
+    margin-bottom: 1px;
 }
 
 .keyboard-popup button {
-    margin: 2px;
-    padding: 10px 15px;
+    margin: 1px;
+    padding: 14px 14px;
     font-size: 14px;
     border: 1px solid #ccc;
     border-radius: 3px;
@@ -42,7 +42,7 @@
 
 body {
     font-family: Tahoma, sans-serif;
-    display: flex;
+/*    display: flex;*/
     justify-content: center;
     align-items: flex-start;
     background-color: #f9f9f9;
@@ -79,11 +79,21 @@ header {
     font-size: 14px;
 }
 
-main {
-    flex: 1;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+@media (min-width: 992px) {
+    main {
+        flex: 1;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
 }
+
+@media (max-width: 992px) {
+    main {
+        flex: 1;
+        display: grid;
+    }
+}
+
 
 @media (min-width: 992px) {
     .container {
@@ -156,8 +166,8 @@ main {
 
 @media (max-width: 992px) {
     .cell {
-        width: 30px;
-        height: 30px;
+        width: 28px;
+        height: 28px;
         font-size: 14px;
     }
 
@@ -248,16 +258,54 @@ main {
 
 .menu {
     display: grid; 
-    grid-template-columns: 1fr, 1fr; 
-    gap: 4px; 
     margin-top: 4px; 
+/*    display: flex;*/
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .3rem;
 }
-
+/*
 .menu > div { 
     background: #fff; 
     padding: 4px; 
     border: none 
 }
+*/
+@media (min-width: 992px) {
+    #backclue {
+        display:none
+    }
+}
+@media (max-width: 992px) {
+    #backclue {
+        display:inline
+    }
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #1f2937;
+    background-color: #f0f8ff; /* aliceblue */
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    transition-property: transform;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    cursor: pointer;
+    border: none;
+    text-align: left;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.button:active {
+    transform: scale(0.95);
+}
+
 
 .clues {
     background-color: #f9f9f9;

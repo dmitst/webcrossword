@@ -2,6 +2,7 @@ let flashcards;
 let deck;
 let thesaurus;
 let dict;
+let game;
 
 function generateCrossword() {
     const size = parseInt(document.getElementById('gridSize').value);
@@ -61,7 +62,7 @@ function showCards() {
 }
 
 function isGameFlashcards() {
-    return ("cards" == document.querySelector('input[name="games"]:checked').value); 
+    return ("Flashcards" == game); 
 }
 
 function showSize() {
@@ -177,11 +178,14 @@ function httpGet(url) {
  
 function loadSuppliedDictionary() {
     d = document.getElementById("selectdict").value;
+    document.getElementById("selectdict").value = "";
     let str = httpGet(`https://dmitst.github.io/webcrossword/${d}`);
     parseDictionary(str);
 }
 
 function switchGame() {
+    game = game == "Crossword" ? "Flashcards" : "Crossword";
+    document.getElementById("games").innerHTML = "⇵" + game;
     showSize();
     const b = isGameFlashcards();
     const s1 =  b ? '.cardsonly' : '.crossonly';
@@ -239,7 +243,7 @@ function showCard(reverse) {
 window.onload = function() {
     document.getElementById('selectdict').addEventListener("change", loadSuppliedDictionary);
     document.getElementById('bupload').addEventListener("change", loadDictionary);
-    document.getElementById('bdownload').addEventListener("click", saveDictionary);
+    document.getElementById('savelink').addEventListener("click", saveDictionary);
     document.getElementById('bclean').addEventListener("click", clearDictionary);
     document.getElementById('brecycle').addEventListener("click", recycleDictionary);
     document.getElementById('bcross').addEventListener("click", showCrossword);
@@ -251,8 +255,7 @@ window.onload = function() {
     document.getElementById('hard').addEventListener("click", setHard);
     document.getElementById('forget').addEventListener("click", forget);
     document.getElementById('reverse').addEventListener("click", reverse);
-
-    document.getElementsByName("games").forEach((r) => r.addEventListener("change", switchGame))
+    document.getElementById("games").addEventListener("click", switchGame);
     readDictionary();
     new Crossword(parseInt(document.getElementById('gridSize').value), [], "all"); //TODO: support for failed
     switchGame();
