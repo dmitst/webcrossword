@@ -480,7 +480,7 @@ das Bett/Betten: кровать
 der Schrank/Schränke: шкаф
 das Sofa/Sofas: диван
 der Kühlschrank/Kühlschränke: холодильник
-de Tisch/Tische: стол
+der Tisch/Tische: стол
 der Herd/Herde: кухонная плита
 das Bild/Bilder: картина
 das Licht/Lichter(-n): свет
@@ -2061,8 +2061,7 @@ der Strafzettel/Strafzettel: штрафная квитанция
 die Strafe/Strafen: наказание
 strafbar: наказуемо
 das Gefängnis/Gefängnisse: тюрьма
-die Schuld/Schulden: вина, виноватый
-die Schulden: долги
+die Schuld/Schulden: вина, виноватый,долг(денежный)
 schuldig: виноватый, должный
 die Regel/Regeln: правило
 die Folge/Folgen: последствие, серия (сериала)
@@ -2387,7 +2386,7 @@ das Zertifikat/Zertifikate: сертификат
 die Fortbildung/Fortbildungen: дополнительное образование
 die Weiterbildung/Weiterbildungen: дополнительное образование
 intensiv: интенсивный
-deer Intensivkurs/Intensivkurse: интенсивный курс
+der Intensivkurs/Intensivkurse: интенсивный курс
 der Kursleiter/Kursleiter: преподаватель курса
 unterrichten: вести занятия
 der Lehrling/Lehrlinge: ученик
@@ -3731,7 +3730,7 @@ die Hausarbeit/Hausarbeiten: работа по дому, домашняя раб
 herrlich: великолепный, превосходный
 herum: вокруг, кругом
 hervorragend: выдающийся, незаурядный
-idie Hexe/Hexen: ведьма
+die Hexe/Hexen: ведьма
 hilfreich: полезный, готовый помочь
 @Hin- und Rückfahrt: поездка туда и обратно
 hinaus: наружу

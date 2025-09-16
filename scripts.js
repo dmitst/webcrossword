@@ -1,14 +1,15 @@
-let flashcards;
-let deck;
-let thesaurus;
-let dict;
+const HARD_SKIP = 20;
+let flashcards = new Map();
+let deck = [];
+let thesaurus = new Map();
+let dict = [];
 let game;
 
 function generateCrossword() {
     const size = parseInt(document.getElementById('gridSize').value);
     const reuse = document.querySelector('input[name="reuse"]:checked').value;
-    crossword = new Crossword(size, dict, thesaurus.size, reuse); //TODO: support for failed
-    storeDictionary(); //TODO
+    crossword = new Crossword(size, dict, thesaurus, reuse); 
+    storeDictionary(); 
 }
 
 function serialize(map) {
@@ -35,11 +36,19 @@ function clearDictionary() {
     showSize();
 }
 
+function copyDeck() {
+    deck = CrosswordGenerator.shuffle(Array.from(flashcards));
+}
+
+function copyDict() {
+    dict = CrosswordGenerator.shuffle(Array.from(thesaurus.keys()));
+}
+
 function recycleDictionary() {
     if(isGameFlashcards()) {
-        deck = CrosswordGenerator.shuffle(Array.from(flashcards, ([face, back]) => ([face, back, false])));
+        copyDeck(); 
     } else {
-        dict = CrosswordGenerator.shuffle(Array.from(thesaurus.keys()));
+        copyDict();
     }
     storeDictionary();
     showSize();
@@ -112,8 +121,8 @@ function parseDictionary(text) {
             console.log(`error parsing line "${key}"`);
         }
     }
-    dict = CrosswordGenerator.shuffle(dict);
-    deck = CrosswordGenerator.shuffle(deck);
+    copyDict();
+    copyDeck();
     storeDictionary();
     showSize();
 }
@@ -121,9 +130,6 @@ function parseDictionary(text) {
 function addFlashcard(key, val) {
     if(key.startsWith('@')) {
         key = key.substring(1);
-    }
-    if(!flashcards.has(key)) {
-        deck.push([key, val, false]);
     }
     flashcards.set(key, val); // we prefer to override value from the new dictionary
 }
@@ -135,9 +141,6 @@ function addThesaurus(key, val) {
     } else {
         const k = key.toLowerCase().match(pattern);
         if(k) {
-            if(!thesaurus.has(k[1])) {
-                dict.push(k[1])
-            }
             thesaurus.set(k[1], val); // we prefer to override value from the new dictionary
         } else {
             console.log(`skipping broken expression <${key}>`);
@@ -150,15 +153,19 @@ function readDictionary() {
     thesaurus = new Map(JSON.parse(localStorage.getItem("crossword.thesaurus")));
     deck = JSON.parse(localStorage.getItem("flashcards.deck"));
     dict = JSON.parse(localStorage.getItem("crossword.dict"));
+    if(!flashcards) {
+        flashcards = new Map();
+        deck = [];
+    } 
     if(!thesaurus) {
         thesaurus = new Map();
         dict = [];
     } 
     if(!dict) {
-        dict = CrosswordGenerator.shuffle(Array.from(thesaurus.keys()));
+        copyDict();
     }
     if(!deck) {
-        deck = CrosswordGenerator.shuffle(Array.from(flashcards, ([face, back]) => ([face, back, false])));
+        copyDeck();
     }
 }
 
@@ -195,29 +202,28 @@ function switchGame() {
 }
 
 function setEasy() {
-    if(deck) {
-        deck[0][2] = true;
-        nextCard(true);
+    if(deck.length) {
+        deck.push(deck.shift());
+        showCard();
     }
 }
 
 function setHard() {
-    if(deck) {
-        deck[0][2] = false;
-        nextCard(true);
+    if(deck.length > HARD_SKIP + 1) {
+        let c = deck[HARD_SKIP];
+        deck[HARD_SKIP] = deck[0];
+        deck[0] = c;
+        showCard();
+    } else {
+        setEasy();
     }
 }
 
 function forget() {
-    nextCard(false);
-}
-
-function nextCard(cycle) {
-    let card = deck.shift();
-    if(cycle) {
-        deck.push(card);
+    if(deck.length) {
+        deck.shift();
+        showCard();
     }
-    showCard();
 }
 
 function reverse() {
@@ -227,9 +233,9 @@ function reverse() {
     back.style.display= back.style.display == 'none' ? 'block':'none';
 }
 
-function showCard(reverse) {
+function showCard() {
     document.getElementById("cardnum").innerHTML = `cards ${deck.length}/${flashcards.size}`; 
-    if(deck) {
+    if(deck.length) {
         const isFace = "face" == document.querySelector('input[name="cardside"]:checked').value; 
         const face = document.getElementById("cardface");
         const back = document.getElementById("cardback");
@@ -257,6 +263,6 @@ window.onload = function() {
     document.getElementById('reverse').addEventListener("click", reverse);
     document.getElementById("games").addEventListener("click", switchGame);
     readDictionary();
-    new Crossword(parseInt(document.getElementById('gridSize').value), [], "all"); //TODO: support for failed
+    generateCrossword();
     switchGame();
 }

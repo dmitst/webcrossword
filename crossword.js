@@ -1,19 +1,21 @@
 class Crossword {
-    constructor(size, dict, getback) {
+    constructor(size, dict, thesaurus, reuse) {        
         this.size = size;
+        this.dict = dict;
+        this.thesaurus = thesaurus;
+        this.reuse = reuse;
         this.currentPosition = -1;
         this.currentHorizontal = true;
         this.lettersToGo = 0;
         this.clues = new Map(); // clueId : word
         this.clues = new Map(); // clueId : word
         this.boxes = [];
-        this.getback = getback;
         this.generateGrid();
         const words = CrosswordGenerator.generateCrossword(size, dict);
         this.generateClues(words);
-
         // push the used words back to the end of the dictionary
-        if(getback == 'all') {
+        if(reuse != 'none') {
+            this.dictFrom = dict.length;
             for (let i = 0; i != words.length; ++i) {
                 dict.push(words[i].text);
             }
@@ -283,14 +285,26 @@ class Crossword {
             }
         }
 
+        let hinted = false; 
         for(let i = 0; i != word.text.length; ++i) {
             const pos = this.advance(word.position, i, word.isHorizontal);
             const box = this.boxes[pos];
             if(!box.isGuessed && !box.isHinted) {
                 this.reduceGuessed();
             }
+            hinted = hinted || box.isHinted;
             box.isGuessed = !box.isHinted;
             this.drawBox(pos);
+        }
+        // remove word from dict if it's not failed
+        if(!hinted && reuse == 'failed') {
+            for (let i = dictFrom; i != dict.length; ++i) {
+                if(dict[i] == word.text) {
+                    dict[i] = dict[dict.length - 1];
+                    dict.pop();
+                    break;
+                }
+            }
         }
     }
 
