@@ -1,3 +1,9 @@
+#der Abtrag/: вред, ущерб, возмещение
+#der Austrag/арбитраж, решение
+#der Ertrag – доход, урожай, выручка
+#der Nachtrag – добавление, дополнение
+#der Rücktrag – carryback (e.g., in accounting/tax)
+#der Eintrag – запись (в списке)
 das Einmaleins: таблица умножения
 der Wandel/Wandel:изменение, перемена
 das Treffen/Treffen: встреча, попадание в цель, матч, слет(тур.)
@@ -8,7 +14,7 @@ die Kost: еда, питание, пища
 die Grafik/Grafiken: графика
 der Schnitt/Schnitte: сечение, крой, стрижка
 der Schritt/Schritte: шаг
-der Lauf/Läufe:тi,бег, процесс, ход (событий), течение, русло реки
+der Lauf/Läufe:бег, процесс, ход (событий), течение, русло реки
 der Ablauf/Abläufe:течение,ход (событий), отправление
 die Abfuhr/Abfuhren: отгрузка,вывоз, отповедь
 der Beutel/Beutel:кошелек, пакет, хозяйственная сумка
