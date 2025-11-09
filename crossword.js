@@ -297,7 +297,7 @@ class Crossword {
             this.drawBox(pos);
         }
         // remove word from dict if it's not failed
-        if(!hinted && reuse == 'failed') {
+        if(!hinted && this.reuse == 'failed') {
             for (let i = dictFrom; i != dict.length; ++i) {
                 if(dict[i] == word.text) {
                     dict[i] = dict[dict.length - 1];
