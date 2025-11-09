@@ -298,7 +298,7 @@ class Crossword {
         }
         // remove word from dict if it's not failed
         if(!hinted && this.reuse == 'failed') {
-            for (let i = dictFrom; i != dict.length; ++i) {
+            for (let i = this,dictFrom; i != dict.length; ++i) {
                 if(dict[i] == word.text) {
                     dict[i] = dict[dict.length - 1];
                     dict.pop();
