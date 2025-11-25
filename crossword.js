@@ -297,10 +297,12 @@ class Crossword {
         }
         // remove word from dict if it's not failed
         if(!hinted && this.reuse == 'failed') {
+            console.log(`removing guessed word ${word.text}`);
             for (let i = this.dictFrom; i != dict.length; ++i) {
                 if(dict[i] == word.text) {
                     dict[i] = dict[dict.length - 1];
                     dict.pop();
+                    console.log(`removed from pos ${i}`);
                     break;
                 }
             }
