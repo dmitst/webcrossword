@@ -200,8 +200,7 @@ class Crossword {
         const box = this.boxes[pos];
         if (box == undefined) {
             console.log(`No box at pos ${pos}`);//FIXME
-        }
-        if(!box.isBlank) {
+        } else if(!box.isBlank) {
             const hadFocus = this.currentPosition == pos;
             this.focus(false);
             this.selectWord(false);
